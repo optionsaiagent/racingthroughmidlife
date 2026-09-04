@@ -7,14 +7,31 @@ event: "The Oahu Pentathlon"
 location: "Oahu"
 distance: "Five events"
 discipline: "multi"
+athletes: "Both"
+result: "15:22 (6:00 a.m. to 9:22 p.m.), both of us"
+results:
+  jay:
+    time: "15:22"
+    splits:
+      "Start": "6:00 a.m."
+      "Finish": "9:22 p.m."
+  michelle:
+    time: "15:22"
+    splits:
+      "Start": "6:00 a.m."
+      "Finish": "9:22 p.m."
 video: "6WBPUqWlsA0"
 tags: ["multi-sport", "community"]
 ---
 
 A pentathlon is five events in one day. The Oahu Pentathlon is the local version, and in 2025 it was a day we filmed instead of writing down.
 
-So the video is the report. We didn't keep notes that day, and we're not going to rebuild five events from memory and put them on a page like we did. Watch it. It's one of the most-watched things on the channel, which tells us people would rather see a multi-event day with a camera on it than read about one.
+## The one number we have
 
-As for why it's on the calendar at all: after a full-distance season, a day with five different events in it is a reminder that the sport doesn't have to be one long thing. It can be several short things, with other people, in a place you already live. The years that aren't full-distance years need days like this, or the 5 a.m. alarm stops making sense.
+Fifteen hours and twenty-two minutes. We started at 6 in the morning and finished at 9:22 at night, together. That's longer than either of our full Ironmans, and it's the longest day with a bib on that either of us has had. The timing company's results for this race live on a live-tracking map that doesn't publish a finish list, so the time on the card is ours, from our own clock, not from a timing sheet. It's the only number on this site that isn't.
 
-When we have official results, they'll go here. When we've written the day down properly, that'll go here too.
+## The rest
+
+The video is the report. We didn't keep notes that day, and we're not going to rebuild five events from memory and put them on a page like we did. Watch it. It's one of the most-watched things on the channel, which tells us people would rather see a multi-event day with a camera on it than read about one.
+
+As for why it's on the calendar at all: after a full-distance season, a day with five different events in it is a reminder that the sport doesn't have to be one long thing. It can be several short things, with other people, in a place you already live. Fifteen hours of short things, it turns out.

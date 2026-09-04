@@ -18,7 +18,7 @@ Fix by editing the Markdown file named. Delete a line here when it is settled.
 
 6. ~~The Waikiki 2.4-mile swim~~ **Checked.** Neither of you is in the 2023 Waikiki Roughwater Swim results, so the page now says it was the distance, not the race. If you did have bibs, tell me where the results live.
 
-7. **Oahu Pentathlon 2025.** Still no date or events. PSE's results for it are on dot.vision, which only shows a live map, not a results list.
+7. **Oahu Pentathlon 2025.** Time is on the page from your own clock (15:22, 6:00 a.m. to 9:22 p.m.), and the page says it's the one number on the site that isn't from a timing sheet. Still missing: the date and what the five events were.
 
 8. ~~Kaena Point~~ **Settled.** It was the HURT Kaena Point Firecracker, July 6, 2024, both of you, one second apart. Page renamed.
 
