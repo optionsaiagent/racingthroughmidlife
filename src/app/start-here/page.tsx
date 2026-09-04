@@ -8,17 +8,17 @@ import { MiniList } from "@/components/Cards";
 
 export const metadata: Metadata = {
   title: "Start here, if you are 45 and up",
-  description: "How two people past fifty went from an 8-mile fun run to the full Ironman distance without a coach, in order, with the dates. Not a plan. A ladder you can look at.",
+  description: "How two people in their fifties went from an 8-mile fun run to a full Ironman without a coach, in order, with dates. Not a plan. A ladder you can look at.",
 };
 
 const RUNGS = [
-  { rung: "8.15 miles", what: "Great Aloha Run", note: "For years, the longest thing either of us had run. A fine place to be for a long time.", href: "/races/great-aloha-run-2023" },
-  { rung: "13.1 miles", what: "Hibiscus Half, May 2022", note: "The first half. The bridge. The marathon became real the day this did.", href: "/races/hibiscus-half-2022" },
-  { rung: "26.2 miles", what: "Honolulu Marathon, December 2022", note: "For Jay's 50th. He had never wanted one. Michelle put it on a birthday.", href: "/races/honolulu-marathon-for-fifty" },
-  { rung: "Olympic tri", what: "Honolulu Triathlon, May 2023", note: "Same race as 2014, this time with training. Where you find out if you like the sport or the idea of it.", href: "/races/honolulu-triathlon-2014-and-again" },
-  { rung: "70.3", what: "IRONMAN 70.3 Hawaii, June 2023", note: "A hard course on purpose. If the half was going to be survivable anywhere, it should be survivable in the lava.", href: "/races/honu-70-3-2023" },
-  { rung: "112 miles", what: "Dick Evans, August 2023", note: "The Ironman bike distance, alone, before it was attached to a swim and a marathon.", href: "/races/dick-evans-112-2023" },
-  { rung: "140.6", what: "The full distance", note: "Only after every rung above was not theoretical. A season you have to fund with sleep.", href: "/races/going-the-full-distance" },
+  { rung: "8.15 miles", what: "Great Aloha Run", note: "For years this was the longest either of us had run. Nothing wrong with staying here a while.", href: "/races/great-aloha-run-2023" },
+  { rung: "13.1 miles", what: "Hibiscus Half, May 2022", note: "Our first half. The day this happened, the marathon stopped being hypothetical.", href: "/races/hibiscus-half-2022" },
+  { rung: "26.2 miles", what: "Honolulu Marathon, December 2022", note: "For Jay's 50th. He'd never wanted one. Michelle put it on a birthday and that was that.", href: "/races/honolulu-marathon-for-fifty" },
+  { rung: "Olympic tri", what: "Honolulu Triathlon, May 2023", note: "Same race we'd done in 2014, this time with training. Where you find out if you like the sport or just the idea of it.", href: "/races/honolulu-triathlon-2014-and-again" },
+  { rung: "70.3", what: "IRONMAN 70.3 Hawaii, June 2023", note: "A hard course on purpose. If Jay could get through a half in the lava, he could get through one anywhere.", href: "/races/honu-70-3-2023" },
+  { rung: "112 miles", what: "Dick Evans, August 2023", note: "The Ironman bike distance on its own, before we stuck a swim and a marathon on either side of it.", href: "/races/dick-evans-112-2023" },
+  { rung: "140.6", what: "The full distance", note: "Only after every rung above was done. A season you pay for in sleep.", href: "/races/going-the-full-distance" },
 ];
 
 export default function StartHere() {
@@ -45,7 +45,7 @@ export default function StartHere() {
                 </li>
               ))}
             </ol>
-            <p className="mt-4 mono text-xs text-mute">Nine years between rung one and rung seven, most of it spent on rung one. That is allowed.</p>
+            <p className="mt-4 mono text-xs text-mute">Nine years from rung one to rung seven, most of them spent on rung one.</p>
           </section>
           <Prose>{page.body}</Prose>
           <Disclaimer className="mt-12 max-w-[66ch]" />
@@ -56,7 +56,7 @@ export default function StartHere() {
           <div className="bg-swash p-5">
             <p className="eyebrow">What this is not</p>
             <p className="mt-2 text-sm leading-snug">
-              Not a plan. Not a clinic. Not medical advice. Two people writing down what they did, in a place that is hotter than where you probably live.
+              Not a plan, not a clinic, not medical advice. Two people writing down what they did, in a place that&apos;s hotter than wherever you live.
             </p>
           </div>
         </aside>

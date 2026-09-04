@@ -12,7 +12,7 @@ video: "0og5ArClELQ"
 tags: ["marathon", "milestone", "readiness series", "heat", "pacing"]
 ---
 
-A year earlier this race was a [birthday](/races/honolulu-marathon-for-fifty). This time it was the end of a season that had been built toward it since August, one readiness race at a time.
+A year earlier this race was a [birthday](/races/honolulu-marathon-for-fifty). This time it was the end of a season that had been pointed at it since August, one readiness race at a time.
 
 ## The build, in bibs
 
@@ -20,16 +20,16 @@ A year earlier this race was a [birthday](/races/honolulu-marathon-for-fifty). T
 
 ## The race
 
-The Honolulu Marathon starts at 5 a.m. at Ala Moana Beach Park, in the dark, with fireworks over the water. Through Waikiki, up and over Diamond Head, then the long, flat, exposed stretch along Kalanianaole Highway to Hawaii Kai and back, and over Diamond Head a second time to finish at Kapiolani Park. There is no cutoff. You finish when you finish.
+The Honolulu Marathon starts at 5 a.m. at Ala Moana Beach Park, in the dark, with fireworks over the water. Through Waikiki, up and over Diamond Head, then the long flat exposed stretch along Kalanianaole to Hawaii Kai and back, and over Diamond Head a second time to finish at Kapiolani Park. There's no cutoff. You finish when you finish.
 
-The 5 a.m. start exists because of the heat, and it only helps the front of the field. For everyone else, the sun is up by the first Diamond Head and fully at work by the turnaround in Hawaii Kai. The flat part is the hot part. The second Diamond Head, around mile 24, is where the training gets audited.
+The 5 a.m. start is there because of the heat and it only really helps the front of the field. For everybody else, the sun's up by the first Diamond Head and fully on the job by the turnaround in Hawaii Kai. The flat part's the hot part. The second Diamond Head, around mile 24, is where your training gets audited.
 
 ## What was different
 
 The pacing. The first year, the marathon was about finishing. This year it was about running the first ten miles bored on purpose and having something left for the second climb. The 30K in October had rehearsed exactly that, and the rehearsal held.
 
-The camera. This was the most-watched video the channel has ever posted, and it is not close. People want to see the race, not the training. We noticed. It is part of why this site exists: the day should not live only inside a thumbnail.
+The camera. This is the most-watched video the channel has ever posted, and it's not close. People want to see the race, not the training. We noticed. It's part of why this site exists: the day shouldn't only live inside a thumbnail.
 
 ## The result
 
-We do not have the official times in front of us as we write this, and we do not invent gun times. When they are in hand, they go here. What we can say is that both of us finished, that the [week after](/notes/the-week-after-the-marathon) was a rest week on purpose, and that the conversation in the car on the way home was already about the full distance.
+We don't have the official times in front of us as we write this, and we don't make up gun times. When they're in hand they go here. What we can say is that both of us finished, that the [week after](/notes/the-week-after-the-marathon) was a rest week on purpose, and that the conversation in the car on the way home was already about the full distance.

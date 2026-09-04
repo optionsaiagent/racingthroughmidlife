@@ -9,10 +9,10 @@ import { VIDEOS } from "@/lib/videos";
 import { SITE } from "@/lib/site";
 
 const LADDER = [
-  { year: "2014", what: "Honolulu Triathlon, Tin Man", note: "Not training. The bug had not landed." },
-  { year: "2022", what: "First half marathon. First marathon, for Jay's 50th", note: "The long run became real, so the race did." },
-  { year: "2023", what: "Olympic, Honu 70.3, 112 miles around Oahu, Honolulu Marathon", note: "The season we filmed every week." },
-  { year: "2025", what: "The full distance", note: "A season you have to fund with sleep." },
+  { year: "2014", what: "Honolulu Triathlon, Tin Man", note: "We weren't training. It didn't take." },
+  { year: "2022", what: "First half marathon. First marathon, for Jay's 50th", note: "Once the long run existed, so did the race." },
+  { year: "2023", what: "Olympic, Honu 70.3, 112 miles around Oahu, Honolulu Marathon", note: "The year we filmed every single week." },
+  { year: "2025", what: "The full distance", note: "A season you pay for in sleep." },
 ];
 
 export default function Home() {
@@ -69,9 +69,9 @@ export default function Home() {
       <section className="border-b border-line bg-foam">
         <div className="mx-auto max-w-6xl px-5 sm:px-8 grid sm:grid-cols-3 divide-y sm:divide-y-0 sm:divide-x divide-line">
           {[
-            { href: "/races", k: "Race reports", v: "One page per race. Written so the day does not live only inside a thumbnail." },
-            { href: "/notes", k: "Field notes", v: "The week between races. Heat, salt, dawn, the trainer, and whose day it is." },
-            { href: "/lessons", k: "Do's and don'ts", v: "What we would tell a friend at dinner. Not a protocol. Argue with it." },
+            { href: "/races", k: "Race reports", v: "One page per race, so the day doesn't only live inside a YouTube thumbnail." },
+            { href: "/notes", k: "Field notes", v: "The weeks between races. Heat, salt, 4:30 alarms, the trainer, and whose day it is." },
+            { href: "/lessons", k: "Do's and don'ts", v: "What we'd tell you over dinner. Argue with it." },
           ].map((c) => (
             <Link key={c.href} href={c.href} className="group py-6 sm:px-6 first:pl-0 last:pr-0">
               <span className="display text-2xl text-ink group-hover:text-brand transition-colors">{c.k} →</span>
@@ -89,7 +89,7 @@ export default function Home() {
             <h2 className="display text-4xl sm:text-5xl mt-2">Recent races</h2>
           </div>
           <p className="mono text-xs text-mute max-w-xs">
-            Official results only. A blank is a blank, not a guess.
+            Official results only. A blank means we don't have it, not that we guessed.
           </p>
         </div>
         <div className="mt-8">
@@ -139,7 +139,7 @@ export default function Home() {
               <YouTube id={latestVideo.id} title={latestVideo.title} />
             </div>
             <p className="mt-4 text-sm text-ink-soft max-w-xl">
-              The channel is the camera. The site is the written log. Weekly videos, race recaps, and the occasional blooper reel at{" "}
+              The channel's the camera, the site's the log. Weekly videos, race recaps, and the occasional blooper reel at{" "}
               <a href={SITE.youtube} className="text-brand underline" target="_blank" rel="noopener noreferrer">
                 youtube.com/@racingthroughmidlife
               </a>
@@ -172,7 +172,7 @@ export default function Home() {
       {/* Ladder */}
       <section className="mx-auto max-w-6xl px-5 sm:px-8 pt-20">
         <p className="eyebrow">How we got here</p>
-        <h2 className="display text-4xl sm:text-5xl mt-2 max-w-2xl">Nobody skipped a rung. That is the whole point.</h2>
+        <h2 className="display text-4xl sm:text-5xl mt-2 max-w-2xl">We didn't skip any rungs. Took a while.</h2>
         <ol className="mt-10 grid gap-8 md:grid-cols-4">
           {LADDER.map((l) => (
             <li key={l.year} className="border-t-2 border-ink pt-4">
@@ -184,7 +184,7 @@ export default function Home() {
         </ol>
         <div className="mt-8 flex flex-wrap gap-6">
           <Link href="/about" className="mono text-xs text-brand hover:text-buoy underline underline-offset-4">The longer version →</Link>
-          <Link href="/calendar" className="mono text-xs text-brand hover:text-buoy underline underline-offset-4">The Oahu race calendar we build a year around →</Link>
+          <Link href="/calendar" className="mono text-xs text-brand hover:text-buoy underline underline-offset-4">The Oahu race calendar we plan a year around →</Link>
         </div>
         <Disclaimer className="mt-16" />
       </section>

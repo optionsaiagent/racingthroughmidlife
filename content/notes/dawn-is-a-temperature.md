@@ -7,28 +7,28 @@ tags: ["dawn", "heat", "consistency", "logistics"]
 image: "/images/long-run.jpg"
 ---
 
-People see the dawn photos and think it is about the view. The buoys at first light, the empty road, the bikes on the rack before the sun. It is a nice view. It is not why we are there.
+People see the dawn photos and think it's about the view. The buoys at first light, the empty road, the bikes on the rack before the sun's up. It's a nice view. It's not why we're out there.
 
-We are there because dawn is the only temperature that lets the work happen.
+We're out there because dawn is the only hour cool enough to get the work done.
 
 ## The window
 
-In Honolulu the coolest hour is the one before sunrise. By the time the sun is up the humidity is already working, and by mid-morning a long run is a different sport. So the window for a long session is roughly 5 a.m. to 7:30 a.m. If it does not start in that window, it either gets shorter or it gets ugly.
+In Honolulu the coolest hour is the one before sunrise. By the time the sun's up the humidity's already working, and by mid-morning a long run is a different sport. So the window for a long session is roughly 5 to 7:30 a.m. If it doesn't start in that window it either gets shorter or it gets ugly.
 
-That means the long ride starts at 5. The long run starts at 5:30. The ocean swim starts when there is enough light to see the buoys. The weekend does not begin at a reasonable hour, ever, from February to November.
+Which means the long ride starts at 5. The long run starts at 5:30. The ocean swim starts when there's enough light to see the buoys. The weekend does not begin at a reasonable hour, ever, February through November.
 
 ## What the alarm requires
 
-A 4:30 alarm is not a morning decision. It is an evening one. The bottles are filled and in the fridge the night before. The kit is laid out. The bikes are on the rack. Breakfast is decided. The bedtime is early enough that the alarm is survivable, which at fifty means earlier than it did at thirty.
+A 4:30 alarm isn't a morning decision. It's an evening one. Bottles filled and in the fridge the night before. Kit laid out. Bikes on the rack. Breakfast decided. Bedtime early enough that the alarm's survivable, which at fifty means earlier than it did at thirty.
 
-None of that is discipline. It is logistics. The morning version of us cannot be trusted to find a sock. The evening version of us can be trusted to put the sock where the morning version will trip over it.
+None of that is discipline. It's logistics. The morning version of us can't be trusted to find a sock. The evening version of us can be trusted to put the sock where the morning version will trip over it. We both did enough 4 a.m. formations in the Army to know the difference.
 
 ## The weekday version
 
-During the week the window is smaller, because the day job starts. So the weekday sessions are short and early, usually done before most people's first coffee. The long stuff waits for the weekend, when the window can stretch to two or three hours before the heat closes it.
+During the week the window's smaller because the day job starts. So weekday sessions are short and early, usually done before most people's first coffee. The long stuff waits for the weekend, when the window can stretch to two or three hours before the heat shuts it.
 
-## What it gives back
+## What you get for it
 
-An empty road. A flat ocean. The city before it wakes up. A workout done before anything else in the day can cancel it. That last one is the real reason. A 5 a.m. session cannot be preempted by a meeting, a phone call, or a visiting nephew. It is already finished.
+An empty road. A flat ocean. The city before it's awake. A workout finished before anything else in the day can cancel it. That last one's the real reason. A 5 a.m. session can't get bumped by a meeting, a phone call, or a visiting nephew. It's already done.
 
-Dawn is a temperature. It is also the only appointment nobody else wants.
+Dawn's a temperature. It's also the only appointment nobody else wants.

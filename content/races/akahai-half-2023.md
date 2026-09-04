@@ -1,6 +1,6 @@
 ---
 title: "Akahai Half: a January half, three weeks after a marathon"
-deck: "Not a goal race. A reason to keep the long run alive through the holidays, with a Kuliouou hike in the same week."
+deck: "We didn't race it. It was on the calendar so the long run would survive the holidays, and the same week had a Kuliouou hike in it."
 date: "2023-01-21"
 datePrecision: "month"
 event: "Akahai Half Marathon"
@@ -11,22 +11,12 @@ video: "bqkC-5CtZrE"
 tags: ["half marathon", "consistency", "recovery"]
 ---
 
-Three weeks after the Honolulu Marathon, a half marathon is either a bad idea or a very specific good one. For us it was the second.
+Three weeks after a marathon, a half marathon is either a dumb idea or a very specific good one. We'd like to think ours was the second.
 
-## Why a half in January
+The Honolulu Marathon was December 11. Then the holidays did what the holidays do. The [first week of January](/notes/january-the-five-pounds-and-the-groove) was about getting the routine back, not about fitness, and the Akahai half was on the calendar mostly so the long run would have a reason to keep existing while everything else recovered.
 
-The marathon was December 11. The holidays happened. The [first week of January](/notes/january-the-five-pounds-and-the-groove) was about getting the routine back, not about fitness. The Akahai half was on the calendar as a reason for the long run to keep existing while everything else was recovering.
+So we didn't race it. We ran it. No time goal, every aid station, and the idea was to finish feeling like there was more in the tank, which is exactly how you want to feel three weeks after a marathon. The marathon fitness was still there, but the recovery wasn't, and racing on the first without the second is how you spend the spring on the couch.
 
-It was not raced. It was run. There is a difference, and at fifty the difference is the whole spring.
+The same week had a Kuliouou hike in it. That's a ridge trail on the east side that goes up and then keeps going up, and the way down is a leg workout runners underestimate every single time. Hikes count as training here in a way they don't on the mainland. The climbs are real and so is the heat.
 
-## The week
-
-The same week had a Kuliouou hike in it, which is a ridge trail on the east side of the island that goes up and keeps going up. Hikes are training here in the way that they are not on the mainland: the climbs are real, the heat is real, and the descent is a leg workout that runners underestimate every time.
-
-Both are in the video. It was week three of the vlog year.
-
-## What we would tell a friend
-
-A half marathon shortly after a marathon works only if you treat it as a long run with a bib. Go in with no time goal. Take the aid stations. Finish feeling like you could have done more. That is the point: the long run survived the holidays, the routine is back, and the year has started without a hole in it.
-
-If you are tempted to race it because the marathon fitness is still there, do not. The fitness is there. The recovery is not.
+Both are in the video. Week three of the vlog year, routine back, no hole in the calendar.

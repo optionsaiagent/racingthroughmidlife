@@ -11,7 +11,7 @@ export interface CalendarEvent {
   series?: string;
 }
 
-/** The Oahu calendar as we have actually raced it. Dates drift year to year; confirm with the organizer before you plan a season around one. */
+/** The Oahu calendar the way we've actually raced it. Dates move year to year; check with the organizer before you plan a season around one. */
 export const CALENDAR: CalendarEvent[] = [
   {
     name: "Bosetti Sunrise 10K",
@@ -20,7 +20,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Hawaii Kai",
     distance: "10K",
     discipline: "run",
-    take: "The first bib of the year, before the resolutions have had time to fail. Flat enough to be honest about where December left you.",
+    take: "First bib of the year, before the resolutions have had a chance to fall apart. Flat enough to tell you exactly what December did to you.",
     races: ["bosetti-sunrise-10k-2024"],
   },
   {
@@ -30,7 +30,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Oahu",
     distance: "13.1 mi",
     discipline: "run",
-    take: "A January half is a strange thing to sign up for three weeks after a marathon. We did it anyway in 2023. It kept the long run alive through the holidays.",
+    take: "A January half is a weird thing to sign up for three weeks after a marathon. We did it anyway in 2023, mostly to keep the long run from disappearing over the holidays.",
     races: ["akahai-half-2023"],
   },
   {
@@ -40,7 +40,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Aloha Tower to Aloha Stadium",
     distance: "8.15 mi",
     discipline: "run",
-    take: "For years this was the longest thing either of us had run. Huge field, a real start line feeling, and a distance that lets a beginner finish upright.",
+    take: "For years this was the longest either of us had ever run. Huge crowd, real start-line energy, and a distance a beginner can finish without walking. It's where we'd tell anybody to start.",
     races: ["great-aloha-run-2023"],
   },
   {
@@ -50,7 +50,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Kailua",
     distance: "10 mi",
     discipline: "run",
-    take: "Windward side, which means the trade winds are either your friend or a wall depending on the direction of the leg you are on.",
+    take: "Windward side, so the trades are either helping you or in your face depending on which way the course is pointed. You don't get to pick which half gets which.",
     races: ["kailua-10-miler-2023"],
   },
   {
@@ -60,7 +60,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Honolulu",
     distance: "10K",
     discipline: "run",
-    take: "A fast, flat town 10K. Good for finding out what your legs are actually worth after a winter of long slow miles.",
+    take: "Fast, flat, in town. Good for finding out what your legs are actually worth after a winter of slow miles.",
     races: ["kings-runner-10k-2023"],
   },
   {
@@ -70,7 +70,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Oahu",
     distance: "10K",
     discipline: "run",
-    take: "The race where Michelle won her age group in 2023. We mention this a lot. We will keep mentioning it.",
+    take: "Michelle won her age group here in 2023. We bring this up a lot. We're going to keep bringing it up.",
     races: ["kuikahi-10k-2023"],
   },
   {
@@ -80,7 +80,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Windward Oahu",
     distance: "13.1 mi",
     discipline: "run",
-    take: "The pretty one. Also the humid one. Every half on this island is a heat race by mile nine.",
+    take: "The pretty one. Also the humid one. Every half on this island turns into a heat race around mile nine, and this one has better scenery to distract you from that.",
     races: ["windward-half-2023"],
   },
   {
@@ -90,7 +90,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Waikiki and Diamond Head",
     distance: "13.1 mi",
     discipline: "run",
-    take: "Hawaii's half. Big, well-run, and by April it is warm enough at the start to tell you what summer will feel like.",
+    take: "Hawaii's half. Big, well run, and by April the start line's already warm enough to give you a preview of summer.",
     races: ["hapalua-half-2023"],
   },
   {
@@ -100,7 +100,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "North Shore",
     distance: "100 km",
     discipline: "bike",
-    take: "A long day on the North Shore with a bike club that has been doing this for decades. Our first organized ride that felt long.",
+    take: "A long day on the North Shore with a bike club that's been at this for decades. Our first organized ride that felt long.",
     races: ["haleiwa-metric-century-2023"],
   },
   {
@@ -110,7 +110,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Ala Moana Beach Park",
     distance: "Olympic, plus shorter options",
     discipline: "tri",
-    take: "The race we did in 2014 without training and again in 2023 with it. Same course. Different people. The only local Olympic-distance tri, so it anchors the spring.",
+    take: "We did this in 2014 without training and again in 2023 with it. Same course, different people. It's the only local Olympic-distance tri, so the whole spring points at it.",
     races: ["honolulu-triathlon-2014-and-again"],
   },
   {
@@ -120,7 +120,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Kapiolani Park and Diamond Head",
     distance: "13.1 mi",
     discipline: "run",
-    take: "Our first half ever, in 2022. Michelle's PR, in 2023. Early start, Diamond Head loop, and a chicken at the top if you are lucky.",
+    take: "Our first half ever, in 2022. Michelle's PR, in 2023. Early start, Diamond Head loop, and if you're lucky a chicken at the top.",
     races: ["hibiscus-half-2022", "hibiscus-half-2023"],
   },
   {
@@ -130,7 +130,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Waikoloa and Hawi, Big Island",
     distance: "1.2 / 56 / 13.1",
     discipline: "tri",
-    take: "Not Oahu, but the one we fly for. Lava, wind on the road to Hawi, and a run with no shade. Jay's first 70.3 and the race that made the distance the point.",
+    take: "Not Oahu, but it's the one we fly for. Lava, wind on the road to Hawi, a run with zero shade. Jay's first 70.3, and the race where the distance itself became the point.",
     races: ["honu-70-3-2023"],
     offIsland: true,
   },
@@ -141,7 +141,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Lanikai and Kailua",
     distance: "8K",
     discipline: "run",
-    take: "A short loop in the most photographed neighborhood on the island. Short does not mean easy in July.",
+    take: "Short loop through the most photographed neighborhood on the island. Short doesn't mean easy in July.",
     races: ["lanikai-8k-2023"],
   },
   {
@@ -151,7 +151,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Oahu",
     distance: "Sprint",
     discipline: "tri",
-    take: "A sprint is where you learn transitions without the day being ruined by them. We raced it the summer Jay's new bike arrived.",
+    take: "A sprint is where you learn transitions without them wrecking your whole day. We raced this one the summer Jay's new bike showed up.",
     races: ["na-wahine-kane-sprint-2023"],
   },
   {
@@ -161,7 +161,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Honolulu",
     distance: "15K",
     discipline: "run",
-    take: "First race of the Marathon Readiness Series. If you are doing the Honolulu Marathon, this is where the build gets a bib.",
+    take: "First race in the Marathon Readiness Series. If you're running the Honolulu Marathon, this is where the build starts having a bib on it.",
     races: ["norman-tamanaha-15k-2023"],
     series: "Marathon Readiness Series 1 of 5",
   },
@@ -172,7 +172,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Around Oahu",
     distance: "112 mi",
     discipline: "bike",
-    take: "A full lap of the island. The same distance as an Ironman bike leg, in August, with real traffic. It taught us what 112 miles of fueling looks like.",
+    take: "A full lap of the island. Same distance as an Ironman bike leg, in August, with real traffic. It taught us what 112 miles of eating looks like.",
     races: ["dick-evans-112-2023"],
   },
   {
@@ -182,7 +182,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Honolulu",
     distance: "20K",
     discipline: "run",
-    take: "Second in the series. The distance steps up and so does the heat, because September is the hottest stretch of the year here.",
+    take: "Second in the series. The distance steps up and so does the heat, because September's the hottest stretch of the year here.",
     races: ["runners-hi-20k-2023"],
     series: "Marathon Readiness Series 2 of 5",
   },
@@ -193,7 +193,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Waikiki",
     distance: "2.4 mi",
     discipline: "swim",
-    take: "The full Ironman swim distance, in the ocean, with no bike waiting. A good way to find out if the swim is the thing you should be worried about.",
+    take: "The full Ironman swim distance, in the ocean, with no bike waiting for you. A good way to find out whether the swim's the thing you should be worried about.",
     races: ["waikiki-2-4-mile-swim-2023"],
   },
   {
@@ -203,7 +203,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Kapiolani Park up the windward coast",
     distance: "25 to 100 mi",
     discipline: "bike",
-    take: "Out and back along the windward side with distance options, so it fits any point in a season. The 100 is a long, hot, beautiful day.",
+    take: "Out and back along the windward coast with distance options, so it fits wherever you are in a season. The 100 is a long, hot, gorgeous day.",
     races: ["honolulu-century-ride-2023"],
   },
   {
@@ -213,7 +213,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Honolulu",
     distance: "25K",
     discipline: "run",
-    take: "Third in the series. Past the half-marathon distance now, which is the point.",
+    take: "Third in the series. Past half-marathon distance now, which is the whole idea.",
     races: ["hybrid-design-25k-2023"],
     series: "Marathon Readiness Series 3 of 5",
   },
@@ -224,7 +224,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Tantalus and Round Top",
     distance: "10 mi",
     discipline: "run",
-    take: "Up the mountain road above the city and back down. Not a PR course. A legs-and-honesty course.",
+    take: "Up the mountain road above town and back down. Not a PR course. A legs-and-honesty course.",
     races: ["tantalus-10-mile-2023"],
   },
   {
@@ -234,7 +234,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Honolulu",
     distance: "30K",
     discipline: "run",
-    take: "Fourth in the series and the longest. 30K in October is the closest thing to a marathon dress rehearsal you will get with a bib on.",
+    take: "Fourth in the series and the longest one. A 30K in October is as close as you'll get to a marathon dress rehearsal with a bib on.",
     races: ["boca-hawaii-30k-2023"],
     series: "Marathon Readiness Series 4 of 5",
   },
@@ -245,7 +245,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Honolulu",
     distance: "13.1 mi",
     discipline: "run",
-    take: "The last race in the series, a month out from the marathon. Run it as a check, not a race, if December is the goal.",
+    take: "Last race in the series, a month out from the marathon. Run it as a check, not a race, if December's the goal.",
     races: ["val-nolasco-half-2023"],
     series: "Marathon Readiness Series 5 of 5",
   },
@@ -256,7 +256,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Kaiwi coast, east Oahu",
     distance: "Short",
     discipline: "run",
-    take: "The coastline between Sandy Beach and Makapuu. Fun run is the right name. Go for the view and the company.",
+    take: "The coast road between Sandy Beach and Makapuu. Fun run is the right name for it. Go for the view and the people.",
     races: ["kaiwi-coast-fun-run-2023"],
   },
   {
@@ -266,7 +266,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Turtle Bay, North Shore",
     distance: "Short course",
     discipline: "tri",
-    take: "A late-season tri on the North Shore when the surf is already coming up. A good one to end a triathlon year on.",
+    take: "Late-season tri up on the North Shore, when the winter surf's already starting to show up. A good one to close out a tri year.",
     races: ["turtle-bay-triathlon-2023"],
   },
   {
@@ -276,7 +276,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Ala Moana to Kapiolani Park",
     distance: "26.2 mi",
     discipline: "run",
-    take: "A 5 a.m. start, fireworks, Diamond Head twice, and no cutoff time. The reason the whole Oahu running calendar is shaped the way it is. Jay's 50th birthday race.",
+    take: "5 a.m. start, fireworks, Diamond Head twice, and no cutoff. The reason the whole Oahu running calendar is shaped the way it is. Jay's 50th birthday race.",
     races: ["honolulu-marathon-for-fifty", "honolulu-marathon-2023"],
   },
 ];

@@ -7,7 +7,7 @@ import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Watch",
-  description: "Every Racing Through Midlife video by season: the 2023 weekly vlog, race recaps, and year-in-review films. The channel is the camera. The site is the written log.",
+  description: "Every Racing Through Midlife video by season: the 2023 weekly vlog, race recaps, and year-in-review films. The channel's the camera. The site's the log.",
 };
 
 function Row({ v }: { v: Video }) {
@@ -44,7 +44,7 @@ export default function WatchPage() {
       <PageHeader
         eyebrow={`Watch · ${VIDEOS.length} videos`}
         title="The channel is the camera"
-        deck="The site is for the sentences that should still be here in three years. The videos are for the rest: the bike rack at 4:45 a.m., the finish chute, the blooper reel. Every video, by season."
+        deck="The site's for the sentences that should still be here in three years. The videos are for everything else: the bike rack at 4:45 a.m., the finish chute, the blooper reel. All of them, by season."
       >
         <p className="mt-6">
           <a href={SITE.youtube} target="_blank" rel="noopener noreferrer" className="mono text-xs text-brand underline underline-offset-4 hover:text-buoy">

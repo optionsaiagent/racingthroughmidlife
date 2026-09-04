@@ -9,21 +9,21 @@ import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Jay and Michelle",
-  description: "Two U.S. Army veterans in Honolulu who started racing seriously after fifty. Who we are, how we got here, and the rules this site keeps.",
+  description: "Two Army vets in Honolulu who didn't start racing seriously until their fifties. Who we are, how we got here, and the rules this site keeps.",
 };
 
 const TIMELINE = [
-  { when: "2005 – 2006", what: "Jay does a few triathlons. Does not like them." },
-  { when: "2014", what: "Jay talks Michelle into the Honolulu Triathlon, then the Tin Man two months later. Not really training." },
-  { when: "Dec 2021", what: "Michelle watches the Honolulu Marathon and says they should run it for Jay's 50th. Longest run in the house: 8.2 miles." },
+  { when: "2005 – 2006", what: "Jay does a few triathlons. Doesn't like them." },
+  { when: "2014", what: "Jay talks Michelle into the Honolulu Triathlon, then the Tin Man two months later. Not really training for either." },
+  { when: "Dec 2021", what: "Michelle watches the Honolulu Marathon and says we should run it for Jay's 50th. Longest run in the house at the time: 8.2 miles." },
   { when: "May 2022", what: "Hibiscus Half. First half marathon for both." },
   { when: "Dec 2022", what: "Honolulu Marathon. The 50th birthday race.", href: "/races/honolulu-marathon-for-fifty" },
-  { when: "Jan 2023", what: "The weekly vlog starts. One episode every week for a year." , href: "/watch"},
+  { when: "Jan 2023", what: "The weekly vlog starts. One episode a week, all year." , href: "/watch"},
   { when: "Mar 2023", what: "Michelle wins her age group at the Ku'ikahi 10K.", href: "/races/kuikahi-10k-2023" },
   { when: "May 2023", what: "Honolulu Triathlon, raced seriously. Hibiscus Half: Michelle 2:12, a PR, Jay pacing.", href: "/races/hibiscus-half-2023" },
   { when: "Jun 2023", what: "IRONMAN 70.3 Hawaii. Jay's first 70.3.", href: "/races/honu-70-3-2023" },
   { when: "Aug 2023", what: "Dick Evans Memorial: 112 miles around Oahu.", href: "/races/dick-evans-112-2023" },
-  { when: "Oct 2023", what: "First ride over the Pali. First ride on Zwift. The garage becomes a training venue." , href: "/notes/the-trainer-in-the-garage"},
+  { when: "Oct 2023", what: "First ride over the Pali. First ride on Zwift. The garage becomes a gym." , href: "/notes/the-trainer-in-the-garage"},
   { when: "Dec 2023", what: "Honolulu Marathon, again.", href: "/races/honolulu-marathon-2023" },
   { when: "2024", what: "Bosetti Sunrise 10K on New Year's Day, Kaena Point trail, and the decision to go the full distance.", href: "/races/going-the-full-distance" },
   { when: "2025", what: "The Oahu Pentathlon. Ironman Texas.", href: "/races/ironman-texas-2025" },
@@ -67,7 +67,7 @@ export default function About() {
                 <br />
                 <a href={SITE.youtube} className="text-brand underline" target="_blank" rel="noopener noreferrer">youtube.com/@racingthroughmidlife</a>
               </p>
-              <p className="mt-3 text-sm text-ink-soft">Race photos, official times, and “we did this too” notes are welcome. Coaching requests and medical questions will get a polite no.</p>
+              <p className="mt-3 text-sm text-ink-soft">Race photos, official times, and “we did this too” notes are welcome. Coaching requests and medical questions get a polite no.</p>
             </section>
           </aside>
         </div>

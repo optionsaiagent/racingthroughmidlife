@@ -8,7 +8,7 @@ import { MONTH_NAMES } from "@/lib/videos";
 
 export const metadata: Metadata = {
   title: "The Oahu race calendar",
-  description: "The Honolulu and Oahu race calendar as two age-groupers have actually raced it: month by month, with the Marathon Readiness Series, the local triathlons, the century rides, and our take on each.",
+  description: "The Oahu race calendar the way two age-groupers have actually raced it: month by month, with the Marathon Readiness Series, the local tris, the century rides, and our two cents on each.",
 };
 
 const DISC: Record<string, string> = { run: "Run", tri: "Tri", bike: "Bike", swim: "Swim", trail: "Trail" };
@@ -22,7 +22,7 @@ export default function CalendarPage() {
       <PageHeader
         eyebrow="The backbone"
         title="A year on Oahu, with bibs on"
-        deck="This is the local calendar as we have actually raced it. The Honolulu Marathon sits at the end of the year and the whole running calendar leans toward it. The triathlons cluster in late spring and fall. Dates drift, so confirm with the organizer before you plan a season around one."
+        deck="This is the local calendar the way we've actually raced it. The Honolulu Marathon sits at the end of the year and the whole running calendar leans toward it. The tris bunch up in late spring and fall. Dates move around, so check with the organizer before you build a season around one."
       >
         <div className="mt-8 flex flex-wrap gap-x-5 gap-y-2 mono text-xs text-mute">
           <span><span className="text-brand">■</span> Marathon Readiness Series, five races Aug to Nov</span>
@@ -37,7 +37,7 @@ export default function CalendarPage() {
               <div>
                 <span className="mono text-xs text-mute">{String(i + 1).padStart(2, "0")}</span>
                 <h2 className="display text-4xl leading-none">{m.name}</h2>
-                {i === 8 ? <p className="mt-2 text-sm text-ink-soft">Hottest stretch of the year. Everything below is a heat race.</p> : null}
+                {i === 8 ? <p className="mt-2 text-sm text-ink-soft">Hottest stretch of the year. Everything below is a heat race whether it says so or not.</p> : null}
               </div>
               <ul className="grid gap-6 sm:grid-cols-2">
                 {m.events.map((e) => {
@@ -67,7 +67,7 @@ export default function CalendarPage() {
           ))}
         </ol>
         <p className="mt-8 mono text-xs text-mute max-w-2xl">
-          We have not raced everything on this island. This is the part we have. If we did not do it, it is not here. Missing your favorite? <Link href="/contact" className="text-brand underline">Tell us</Link> and we will consider it, which is different from promising to race it.
+          We haven&apos;t raced everything on this island, just this part of it. If we didn&apos;t do it, it&apos;s not here. Missing your favorite? <Link href="/contact" className="text-brand underline">Tell us</Link>. We&apos;ll think about it, which isn&apos;t the same as promising to show up.
         </p>
         <Disclaimer className="mt-10" />
       </div>

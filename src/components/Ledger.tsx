@@ -15,7 +15,7 @@ export function ResultCell({ race, short = false }: { race: Race; short?: boolea
     return <span className="mono text-sm text-ink">{race.result}</span>;
   }
   return (
-    <span className="mono text-xs text-mute" title="We only publish official results. None on file for this one yet.">
+    <span className="mono text-xs text-mute" title="We only post official results. Don’t have one for this yet.">
       {short ? "no time on file" : "no official time on file"}
     </span>
   );

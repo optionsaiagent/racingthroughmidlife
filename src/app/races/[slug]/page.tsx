@@ -75,8 +75,8 @@ export default async function RacePage({ params }: { params: Promise<{ slug: str
 
           {!race.result && !race.essay ? (
             <p className="mt-10 mono text-xs text-mute border border-dashed border-line p-4 max-w-[66ch]">
-              No official time is on this page because we do not have one in front of us. We will not invent a gun time.
-              If you have the official result, <Link href="/contact" className="text-brand underline">send it</Link> and it goes here.
+              There&apos;s no official time on this page because we don&apos;t have one in front of us, and we&apos;re not going to make one up.
+              If you&apos;ve got the official result, <Link href="/contact" className="text-brand underline">send it</Link> and it goes here.
             </p>
           ) : null}
 
@@ -136,7 +136,7 @@ export default async function RacePage({ params }: { params: Promise<{ slug: str
           ) : null}
 
           <MiniList items={notes} base="/notes" title="The week around it" />
-          <MiniList items={lessons} base="/lessons" title="What we would tell a friend" />
+          <MiniList items={lessons} base="/lessons" title="What we'd tell a friend" />
         </aside>
       </div>
     </article>

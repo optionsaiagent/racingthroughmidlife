@@ -5,7 +5,7 @@ import { getLessons } from "@/lib/content";
 
 export const metadata: Metadata = {
   title: "Do's and don'ts",
-  description: "The pile of things we would tell a friend at dinner about starting endurance sport after 45. Not a protocol. Steal it, argue with it.",
+  description: "The stuff we'd tell a friend over dinner about starting endurance sport after 45. Steal it, argue with it.",
 };
 
 export default function LessonsPage() {
@@ -15,7 +15,7 @@ export default function LessonsPage() {
       <PageHeader
         eyebrow={`Lessons · ${lessons.length} entries`}
         title="Steal this, argue with it"
-        deck="The pile of things we would tell a friend at dinner. Each one comes from a specific week, a specific race, or a specific mistake. None of it is a protocol."
+        deck="The stuff we'd tell a friend over dinner. Every one of these came out of a specific week, a specific race, or a specific mistake. None of it's a protocol."
       />
       <div className="mx-auto max-w-6xl px-5 sm:px-8">
         <EntryList items={lessons} base="/lessons" kind="Lesson" />

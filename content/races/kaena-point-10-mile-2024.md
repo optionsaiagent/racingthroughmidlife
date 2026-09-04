@@ -1,6 +1,6 @@
 ---
 title: "Kaena Point 10 Mile Trail Run: no shade, no pavement"
-deck: "Out and back on the dirt road to the westernmost tip of Oahu. Exposed the whole way, with the ocean on one side and nothing on the other."
+deck: "Out and back on the dirt road to the western tip of Oahu. Exposed the whole way, ocean on one side and not much on the other."
 date: "2024-02-01"
 datePrecision: "year"
 event: "Kaena Point 10 Mile Trail Run"
@@ -11,20 +11,20 @@ video: "QRfqONvQbJ4"
 tags: ["trail", "heat", "strength"]
 ---
 
-Kaena Point is the far western tip of Oahu, where the road ends and a dirt track continues out to a nature reserve at the point. There is no shade on it. There is no pavement on it. There is the ocean on one side and a dry mountainside on the other, and a trail that is mostly rocks with sand in between.
+Kaena Point is the far western tip of Oahu, where the paved road quits and a dirt track keeps going out to a nature reserve at the point. There's no shade on it and no pavement. There's ocean on one side, dry mountainside on the other, and a trail that's mostly rocks with sand in between.
 
 ## The run
 
-Ten miles, out and back on that track. It is not technical in the way a mountain trail is technical, but it is uneven, it is exposed, and the sun comes off the water in a way that makes a 10-mile run feel longer than a 10-mile run.
+Ten miles out and back on that track. It's not technical the way a mountain trail is technical, but it's uneven, it's exposed, and the sun comes off the water in a way that makes ten miles feel like more than ten miles.
 
-It is also stunning. The point itself is a place where the island simply stops, with seabirds and, in winter, whales offshore. A race that turns around there is a race worth doing once for the turnaround alone.
+It's also stunning. The point is where the island just stops, with seabirds and, in winter, whales offshore. A race that turns around there is worth doing once for the turnaround alone.
 
-## Why trail
+## Why dirt
 
-After a year of road racing that ended with a marathon, a trail run is a reset for the legs. Different surfaces, different muscles, no pace to chase because the surface makes pace meaningless. It is strength work disguised as a morning out.
+After a year of road racing that ended in a marathon, a trail run is a reset for the legs. Different surface, different muscles, and no pace to chase because the surface makes pace meaningless. Strength work dressed up as a morning out.
 
-It was also the first race of 2024 that was not a road 10K, in a year that was mostly about the [decision to go the full distance](/races/going-the-full-distance) and the training that followed.
+It was also the first race of 2024 that wasn't a road 10K, in a year that was mostly about the [decision to go the full distance](/races/going-the-full-distance) and the training that came with it.
 
-## What we would tell a friend
+## What we'd tell a friend
 
-Bring more water than you think a 10-miler needs. Wear shoes with some grip and do not expect them to come home clean. And run the first five miles like the sun is going to be a problem on the way back, because it is.
+Bring more water than a 10-miler seems to need. Wear shoes with some grip and don't expect them to come home clean. And run the first five miles like the sun's going to be a problem on the way back, because it is.

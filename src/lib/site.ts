@@ -2,13 +2,13 @@ export const SITE = {
   name: "Racing Through Midlife",
   url: "https://www.racingthroughmidlife.com",
   description:
-    "Jay and Michelle Miller, two Honolulu age-groupers, write down what they actually learn racing marathons, Olympic triathlons, 70.3s, and the full distance in Hawaii. Not a coaching plan. Not a clinic.",
+    "Jay and Michelle Miller didn't start racing until their fifties. This is the log they've kept since: marathons, Olympic tris, a 70.3, and a full Ironman, all trained for in Honolulu heat. Not a coaching plan, not a clinic.",
   tagline: "Two Honolulu age-groupers. Swim, bike, run, and the week around it.",
   email: "hello@racingthroughmidlife.com",
   youtube: "https://www.youtube.com/@racingthroughmidlife",
   youtubeChannelId: "UC8dW-Yf2ZCLUxY8cDBCu5fw",
   disclaimer:
-    "Age-group racing in Honolulu. Not a coaching business, not a clinic, not medical advice. We write what we actually did.",
+    "Age-group racing in Honolulu. Not a coaching business, not a clinic, not medical advice. We write down what we actually did.",
 };
 
 export const NAV = [

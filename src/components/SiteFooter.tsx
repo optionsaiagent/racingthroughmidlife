@@ -37,7 +37,7 @@ export default function SiteFooter() {
           <p className="display text-3xl leading-none text-foam">{SITE.tagline}</p>
           <p className="mt-5 text-sm leading-relaxed text-salt/70">{SITE.disclaimer}</p>
           <p className="mt-4 mono text-xs text-salt/60">
-            Official times only. If a result is missing, we did not have it. Send it and we will put it on the page.
+            Official times only. If a result’s missing, we didn’t have it. Send it and we’ll put it up.
           </p>
         </div>
         {COLS.map((c) => (
@@ -64,7 +64,7 @@ export default function SiteFooter() {
       <div className="border-t border-salt/15">
         <div className="mx-auto max-w-6xl px-5 sm:px-8 py-5 flex flex-wrap gap-x-6 gap-y-2 justify-between mono text-xs text-salt/55">
           <span>© {new Date().getFullYear()} Jay and Michelle Miller. Racing Through Midlife.</span>
-          <span>Honolulu, Hawaii. Written at dawn, mostly.</span>
+          <span>Honolulu, Hawaii. Written before sunrise, mostly.</span>
         </div>
       </div>
     </footer>

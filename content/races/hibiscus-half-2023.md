@@ -1,6 +1,6 @@
 ---
 title: "Hibiscus Half: sit on the easy pace"
-deck: "Michelle ran 2:12. Jay sat on an easy pace for him and pushed her to a PR. A chicken joined at the top of Diamond Head."
+deck: "Michelle ran 2:12. Jay sat on a pace that was easy for him and pushed her to a PR. A chicken joined us at the top of Diamond Head."
 date: "2023-05-28"
 event: "Hibiscus Half Marathon"
 location: "Kapiolani Park and Diamond Head, Honolulu"
@@ -14,28 +14,28 @@ tags: ["half marathon", "couples", "pacing", "michelle", "milestone"]
 image: "/images/honolulu-run.jpg"
 ---
 
-This was Michelle's day. Everything about the race followed from that sentence.
+This was Michelle's day. Everything about the race followed from that.
 
 ## The setup
 
-A year earlier, this was our [first half marathon](/races/hibiscus-half-2022). Since then: a marathon, a January half, two 10Ks, a windward half, the Hapalua, and the Honolulu Triathlon seven days before this. Michelle had a PR in her legs. Jay had a 70.3 six days later and no business racing a half marathon.
+A year earlier this was our [first half marathon](/races/hibiscus-half-2022). Since then: a marathon, a January half, two 10Ks, a windward half, the Hapalua, and the Honolulu Triathlon seven days before this one. Michelle had a PR in her legs. Jay had a 70.3 six days later and no business racing a half.
 
-So the roles were set before the alarm. Michelle was the engine. Jay was the governor. He would take a pace that was easy for him, hold it exactly, and keep her on it. Our friend Ed ran with us too, which made it three people and one pace.
+So the roles were set before the alarm went off. Michelle was the engine. Jay was the governor. He'd pick a pace that was easy for him, hold it exactly, and keep her on it. Our friend Ed ran with us too, so it was three people and one pace.
 
 ## The race
 
-Hibiscus starts early out of Kapiolani Park, and it needs to, because Memorial Day weekend in Honolulu is already summer. The course takes you up and around Diamond Head and back through the flat, exposed miles that decide every half on this island.
+Hibiscus starts early out of Kapiolani Park and it needs to, because Memorial Day weekend in Honolulu is already summer. The course takes you up and around Diamond Head and back through the flat, exposed miles that decide every half on this island.
 
-At the top of Diamond Head a chicken joined the race for a while. This is Oahu. There are chickens. It is in the video.
+At the top of Diamond Head a chicken joined the race for a while. This is Oahu. There are chickens. It's in the video.
 
-Michelle held the pace through the climb and through the heat after it. Jay felt good taking a pace that was easy for him and holding it so she could stay on it. That is the whole job of the governor: be boring, be steady, and do not chase anything.
+Michelle held the pace through the climb and through the heat after it. Jay felt good taking a pace that was easy for him and holding it so she could stay on it. That's the whole job of the governor: be boring, be steady, don't chase anything.
 
 ## The result
 
-2:12. A personal record. The one number on this site that we will repeat as often as we like.
+2:12. A PR. The one number on this site we'll repeat as often as we feel like.
 
 ## What it taught us
 
-[Couples training is not matching watts. It is knowing whose day it is.](/lessons/whose-day-is-it) When the day belongs to one person, the other person's race is to disappear into the pace and make it feel inevitable. Jay finished fresh, which was correct, because six days later in the lava at [Honu](/races/honu-70-3-2023) it was his day and nobody was pacing him.
+[Couples training isn't matching watts. It's knowing whose day it is.](/lessons/whose-day-is-it) When the day belongs to one person, the other person's race is to disappear into the pace and make it feel inevitable. Jay finished fresh, which was correct, because six days later in the lava at [Honu](/races/honu-70-3-2023) it was his day and nobody was pacing him.
 
 Shoes, since people ask: Jay raced in New Balance Fresh Foam X 1080 v12s, which had already done the long runs. [Nothing new on race morning.](/notes/the-shoe-you-trained-in)

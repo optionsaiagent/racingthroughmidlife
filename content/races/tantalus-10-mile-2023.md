@@ -1,6 +1,6 @@
 ---
 title: "Tantalus 10-Mile Challenge: not a PR course"
-deck: "Up the mountain road above the city and back down. A legs-and-honesty course, in the middle of a marathon build."
+deck: "Up the mountain road above the city and back down. A course for legs and honesty, in the middle of a marathon build."
 date: "2023-10-07"
 datePrecision: "month"
 event: "Tantalus 10-Mile Challenge"
@@ -11,18 +11,18 @@ video: "4Fi3QK_6cTo"
 tags: ["hills", "trail", "strength"]
 ---
 
-Tantalus is the mountain road that switchbacks up behind Honolulu, through the forest, to a lookout over the whole city. It is beautiful and it goes up for a long time. A 10-mile race on it is not a race about pace. It is a race about legs.
+Tantalus is the mountain road that switchbacks up behind Honolulu, through the forest, to a lookout over the whole city. It's beautiful and it goes up for a long time. A 10-mile race on it isn't about pace. It's about legs.
 
-## The course
+Up, then eventually down. The road's shaded, which in October is a mercy, and it's steep enough in places that running form becomes a decision instead of a habit.
 
-Up. Then, eventually, down. The road is shaded, which in October is a mercy, and it is steep enough in places that running form becomes a choice rather than a habit. The descent is its own problem: quads that have been climbing for miles do not enjoy being asked to brake.
+## Coming down
 
-## Why it was there
+The descent is its own problem. Quads that have been climbing for miles don't enjoy being asked to brake, and there's no polite way to ask them.
 
-October 2023 was the middle of the marathon build, with the [BOCA 30K](/races/boca-hawaii-30k-2023) two weeks later. A hilly 10-miler in between was strength work with a bib. Hills build the legs that the flat, exposed stretch of the marathon will need at mile 20, and they do it at a heart rate that is honest and a pace that does not matter.
+## Why we bothered
 
-It was also the week Jay was first trying [indoor cycling on the trainer](/notes/the-trainer-in-the-garage). The road up Tantalus and the garage in the dark have more in common than they look: both are places where the effort is the only number that counts.
+October 2023 was the middle of the marathon build, with the [BOCA 30K](/races/boca-hawaii-30k-2023) two weeks later. A hilly 10-miler in between was strength work with a bib on it. Hills build the legs the flat, exposed stretch of the marathon is going to ask for at mile 20, and they do it at a heart rate that's honest and a pace that doesn't matter.
 
-## What we would tell a friend
+Later that same month [the trainer showed up in the garage](/notes/the-trainer-in-the-garage). The road up Tantalus and a garage in the dark have more in common than you'd think. In both places the effort is the only number anybody's counting.
 
-Do one hilly race a season and do not look at the pace. The Tantalus 10-miler is the one here. Run it for the climb, respect the descent, and remember that the view from the top is the actual finish line. The other finish line is just where they hand you water.
+Do one hilly race a season and don't look at the pace. On this island, this is the one. Run it for the climb, respect the descent, and know that the lookout is the actual finish. The other one at the bottom is just where they hand you water.
