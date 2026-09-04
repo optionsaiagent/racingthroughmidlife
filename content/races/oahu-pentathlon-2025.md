@@ -1,8 +1,7 @@
 ---
 title: "The Oahu Pentathlon 2025"
 deck: "Five events in one day on Oahu, on camera. One of the most-watched videos on the channel."
-date: "2025-06-01"
-datePrecision: "year"
+date: "2025-08-09"
 event: "The Oahu Pentathlon"
 location: "Oahu"
 distance: "Five events"
