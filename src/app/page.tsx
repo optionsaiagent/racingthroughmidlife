@@ -89,7 +89,7 @@ export default function Home() {
             <h2 className="display text-4xl sm:text-5xl mt-2">Recent races</h2>
           </div>
           <p className="mono text-xs text-mute max-w-xs">
-            Official results only. A blank means we don't have it, not that we guessed.
+            Official results only. A blank means we don&apos;t have it, not that we guessed.
           </p>
         </div>
         <div className="mt-8">
@@ -139,7 +139,7 @@ export default function Home() {
               <YouTube id={latestVideo.id} title={latestVideo.title} />
             </div>
             <p className="mt-4 text-sm text-ink-soft max-w-xl">
-              The channel's the camera, the site's the log. Weekly videos, race recaps, and the occasional blooper reel at{" "}
+              The channel&apos;s the camera, the site&apos;s the log. Weekly videos, race recaps, and the occasional blooper reel at{" "}
               <a href={SITE.youtube} className="text-brand underline" target="_blank" rel="noopener noreferrer">
                 youtube.com/@racingthroughmidlife
               </a>
@@ -172,7 +172,7 @@ export default function Home() {
       {/* Ladder */}
       <section className="mx-auto max-w-6xl px-5 sm:px-8 pt-20">
         <p className="eyebrow">How we got here</p>
-        <h2 className="display text-4xl sm:text-5xl mt-2 max-w-2xl">We didn't skip any rungs. Took a while.</h2>
+        <h2 className="display text-4xl sm:text-5xl mt-2 max-w-2xl">We didn&apos;t skip any rungs. Took a while.</h2>
         <ol className="mt-10 grid gap-8 md:grid-cols-4">
           {LADDER.map((l) => (
             <li key={l.year} className="border-t-2 border-ink pt-4">
