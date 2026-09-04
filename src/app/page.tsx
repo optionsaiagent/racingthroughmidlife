@@ -41,11 +41,12 @@ export default function Home() {
         <div className="relative mx-auto max-w-6xl px-5 sm:px-8 pt-28 sm:pt-44 pb-12 sm:pb-16">
           <p className="eyebrow !text-dawn">Honolulu · age-group racing · the written log</p>
           <h1 className="display text-[3.6rem] leading-[0.92] sm:text-8xl mt-4 max-w-4xl text-foam">
-            Midlife is the starting line with a body that bills interest.
+            We didn&apos;t start racing until our fifties.
           </h1>
           <p className="mt-7 max-w-xl text-lg sm:text-xl leading-snug text-salt/85">
-            We started late and wrote it down. Two Honolulu age-groupers went from an 8-mile fun run to the full distance
-            after fifty, in order, and kept the log: what worked, what we would not do again, and the week around every race.
+            Two Honolulu age-groupers, an 8-mile fun run, and eventually a full Ironman. This is the log we kept along the way
+            &mdash; the training that actually stuck, the mistakes we won&apos;t repeat, and what race week really looks like when
+            you&apos;re doing this with a midlife body.
           </p>
           <div className="mt-9 flex flex-wrap gap-3">
             <Link
