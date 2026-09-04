@@ -37,4 +37,4 @@ resultSource: 'https://runsignup.com/Race/Results/164857#resultSetId-459040'
 ---
 Same course as [2014 and 2023](/races/honolulu-triathlon-2014-and-again). Jay took 26 minutes off his 2023 time, Michelle took 25 off hers, and most of it came on the bike. That's what a tri bike, a bike fit, and a winter on the trainer do when you put them on the same course a year later.
 
-The swim splits (23 and 26 minutes) suggest the swim was shorter than the year before. We're not going to guess why. Two weeks later was [Honu](/races/honu-70-3-2024), and this was the rehearsal again.
+The swim splits (23 and 26 minutes) are quicker than the year before, and we're not going to guess why. Two weeks later was [Honu](/races/honu-70-3-2024), and this was the rehearsal again.

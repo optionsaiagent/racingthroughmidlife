@@ -32,7 +32,7 @@ Fix by editing the Markdown file named. Delete a line here when it is settled.
 
 11b. **Old Pali Road 5K 2022 and Hybrid Design 25K 2022** only have Michelle on the sheet. The pages say so. If Jay ran and wasn't timed, add a line.
 
-11c. **Honu 2024 swim.** Both swim splits are about 16 minutes, so the swim was clearly shortened. The page says that and nothing more. Add the reason if you want it on the record.
+11c. ~~Honu 2024 swim~~ **Settled.** Shortened to 750 m because high winds were moving the marker buoys. It's on the page.
 
 12. **Ed.** The Hibiscus 2023 page mentions your friend Ed by first name, as the v1 site did. Confirm he is fine with that.
 
