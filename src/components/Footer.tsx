@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { site } from "@/lib/site";
 
@@ -6,7 +7,15 @@ export function Footer() {
     <footer className="mt-auto bg-asphalt text-foam">
       <div className="mx-auto grid max-w-6xl gap-10 px-5 py-14 sm:grid-cols-2 lg:grid-cols-3">
         <div>
-          <p className="display text-2xl">{site.name}</p>
+          <Link href="/" className="inline-block rounded-sm bg-foam px-3 py-2" aria-label={site.name}>
+            <Image
+              src="/images/logo.png"
+              alt=""
+              width={2960}
+              height={672}
+              className="h-10 w-auto max-w-[260px] object-contain object-left"
+            />
+          </Link>
           <p className="mt-3 max-w-sm text-sm leading-relaxed text-foam/70">{site.tagline}</p>
         </div>
         <nav aria-label="Footer">
