@@ -25,6 +25,10 @@ export const metadata: Metadata = {
   },
   description: site.description,
   authors: [{ name: site.authors }],
+  icons: {
+    icon: "/favicon.png",
+    apple: "/apple-touch-icon.png",
+  },
   openGraph: {
     images: [{ url: "/images/hero.jpg", alt: "Dawn swim start, Honolulu" }],
   },
