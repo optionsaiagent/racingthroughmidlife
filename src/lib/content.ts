@@ -50,7 +50,7 @@ export const posts: Post[] = [
     title: "Honolulu Triathlon, twice: 2014 and the year we meant it",
     date: "2023-05-21",
     dek: "Same island, same three sports, two completely different athletes. The 2014 version of us was not training. The later version was.",
-    image: "/images/hero.jpg",
+    image: "/images/honolulu-tri.jpg",
     youtube: "WAFS28Qakuc",
     body: [
       "The Honolulu Triathlon is the local Olympic-distance day: ocean, bike, run, Ala Moana, the city watching. We did it in 2014. We were not really training. We had not decided this was a life, just a weekend.",
@@ -65,7 +65,7 @@ export const posts: Post[] = [
     title: "The marathon Jay never wanted, for a 50th he did",
     date: "2022-12-11",
     dek: "Michelle watched the 2021 Honolulu Marathon and said they should go do it for his birthday. He had never liked running. They trained anyway.",
-    image: "/images/honolulu-run.jpg",
+    image: "/images/honolulu-marathon.jpg",
     body: [
       "Jay had never wanted to run a marathon. He did not really like running. Maybe he did not know if he could finish. The longest run in the house was the Great Aloha Run, 8.2 miles. Twenty-six miles was a number that belonged to other people.",
       "Michelle watched the 2021 Honolulu Marathon and made it a 50th-birthday problem. That is the whole origin story of this site, if you strip it down. One person in the marriage was willing to say the distance out loud. The other person was willing to train once it was on the calendar.",
@@ -93,7 +93,7 @@ export const posts: Post[] = [
     title: "Field note: two paces, one house",
     date: "2023-05-29",
     dek: "How we actually train together when the engines do not match.",
-    image: "/images/bikes-rack.jpg",
+    image: "/images/two-paces.jpg",
     body: [
       "Most couples-training advice is a lie told with a smile. You will not hold the same wattage. You will not want the same long-run pace. One of you will be ready to talk at mile eight and the other will be conducting a private argument with a hamstring.",
       "What works in this house: the person whose race it is sets the pace. The other person sits on it, even if it feels easy, especially if it feels easy. Hibiscus 2023 was Michelle’s day. Jay’s job was not a Strava segment.",
@@ -121,7 +121,7 @@ export const posts: Post[] = [
     title: "Field note: the shoe you trained in",
     date: "2023-05-20",
     dek: "Nimbus 24s for a few weeks. 1080 v12s for the half and for Honu. Nothing from an endcap we had not run in.",
-    image: "/images/bikes-rack.jpg",
+    image: "/images/trained-shoes.jpg",
     body: [
       "Jay spent May in Asics Gel Nimbus 24s, then lined up New Balance Fresh Foam X 1080 v12s for Hibiscus and for Honu. That is the whole gear review: what had miles on it, and what was going to the start line.",
       "We use affiliate links on the channel when we actually used the thing. We are not a shoe account. If a later note says a pair failed, it failed. If this note is silent on carbon plates, it is because we were not racing in a science experiment that week.",
@@ -134,7 +134,7 @@ export const posts: Post[] = [
     title: "Don’t sign up before the long run exists",
     date: "2023-01-15",
     dek: "Jay did not want a marathon until Michelle put it on a birthday. The work still had to be real.",
-    image: "/images/honolulu-run.jpg",
+    image: "/images/long-run.jpg",
     body: [
       "The internet will tell you to sign up first so you cannot back out. Sometimes that works. Sometimes it puts a person who has never run 13 miles into a 26.2 they will remember as a medical event.",
       "Our version: the marathon became real when the long run became real. Hibiscus as a first half was the bridge. Honu was the next bridge. The full distance only made sense after those were not theoretical.",
@@ -147,7 +147,7 @@ export const posts: Post[] = [
     title: "Whose day is it",
     date: "2023-05-30",
     dek: "The only couples-training rule we would defend in public.",
-    image: "/images/bikes-rack.jpg",
+    image: "/images/whose-day.jpg",
     body: [
       "If you train with a spouse, you will want this to be fair. Fair will wreck both races. One of you is the engine that day. The other is the governor.",
       "Michelle’s 2:12 at Hibiscus was not a compromise pace. It was her day. Jay sitting on easy was the work.",
@@ -160,7 +160,7 @@ export const posts: Post[] = [
     title: "Honolulu is not a recovery week",
     date: "2023-06-12",
     dek: "Heat, salt, and a course that looks pretty in photos.",
-    image: "/images/hero.jpg",
+    image: "/images/heat-exposed.jpg",
     body: [
       "People fly here and treat the island like a taper with pineapple. The ocean is real. The bike can be wind. The run is exposed. Local races — Honolulu Triathlon, Hibiscus, Great Aloha, Honolulu Marathon, Honu on the Big Island — are not participation stickers. They are the calendar we actually use.",
       "Do: arrive early enough to sleep in this humidity. Don’t: test a new breakfast on race morning because it looked tropical. We eat food we have already suffered with. We write that down so you can steal it and argue with it.",
