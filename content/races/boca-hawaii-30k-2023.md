@@ -1,15 +1,36 @@
 ---
-title: "BOCA Hawaii 30K: the marathon dress rehearsal"
-deck: "Fourth of five and the longest. Thirty kilometers in October is as close to a marathon as you can get with a bib on and still have a marathon left in you."
-date: "2023-10-21"
-datePrecision: "month"
-event: "BOCA Hawaii 30K"
-location: "Honolulu"
-distance: "30K"
-discipline: "run"
-series: "Marathon Readiness Series 4 of 5"
-video: "B-LsDPvUXwQ"
-tags: ["marathon", "readiness series", "long run", "pacing"]
+title: 'BOCA Hawaii 30K: the marathon dress rehearsal'
+deck: >-
+  Fourth of five and the longest. Thirty kilometers in October is as close to a
+  marathon as you can get with a bib on and still have a marathon left in you.
+date: '2023-10-22'
+event: BOCA Hawaii 30K
+location: Honolulu
+distance: 30K
+discipline: run
+series: Marathon Readiness Series 4 of 5
+video: B-LsDPvUXwQ
+tags:
+  - marathon
+  - readiness series
+  - long run
+  - pacing
+result: 'Jay 2:42:08.4 · Michelle 3:27:55.4'
+athletes: Both
+results:
+  jay:
+    time: '2:42:08.4'
+    agegroup: M50-54
+    agrank: 8
+    place: '73'
+    pace: '8:42/M'
+  michelle:
+    time: '3:27:55.4'
+    agegroup: F40-44
+    agrank: 15
+    place: '190'
+    pace: '11:09/M'
+resultSource: 'https://timelinehawaii.com/2023/10/22/2023-boca-hawaii-30k/'
 ---
 
 About 18.6 miles, seven weeks before the marathon. Of the five races in the series, this is the one that matters most and the one that's easiest to get wrong.

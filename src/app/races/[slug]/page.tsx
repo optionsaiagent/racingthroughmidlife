@@ -6,6 +6,7 @@ import YouTube from "@/components/YouTube";
 import Disclaimer from "@/components/Disclaimer";
 import { MiniList } from "@/components/Cards";
 import { ResultCell } from "@/components/Ledger";
+import ResultsCard from "@/components/ResultsCard";
 import { getRace, getRaces, getNotes, getLessons, fmtDate, related, readingTime } from "@/lib/content";
 import { CALENDAR } from "@/lib/calendar";
 import { SITE } from "@/lib/site";
@@ -122,6 +123,8 @@ export default async function RacePage({ params }: { params: Promise<{ slug: str
               </dd>
             </div>
           </dl>
+
+          {race.results ? <ResultsCard results={race.results} source={race.resultSource} /> : null}
 
           <p className="mono text-[0.7rem] text-mute">{readingTime(race.body)} min read</p>
 

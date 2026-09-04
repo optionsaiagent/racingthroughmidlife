@@ -11,6 +11,8 @@ video: "u1QJ_H0pDQg"
 tags: ["swim", "full distance", "ocean", "progression"]
 ---
 
+A note on the record first: neither of us shows up in the official Waikiki Roughwater Swim results for 2023. So this was the distance, not the race. We swam it, we didn't get a bib for it, and the page is here because the swim mattered to the season.
+
 A full-distance triathlon opens with a 2.4-mile swim. Before we put that in front of a 112-mile ride and a marathon, we wanted to know what 2.4 miles of ocean felt like on its own.
 
 ## The leg you can't walk

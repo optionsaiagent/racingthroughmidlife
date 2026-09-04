@@ -1,14 +1,32 @@
 ---
-title: "Kaena Point 10 Mile Trail Run: no shade, no pavement"
-deck: "Out and back on the dirt road to the western tip of Oahu. Exposed the whole way, ocean on one side and not much on the other."
-date: "2024-02-01"
-datePrecision: "year"
-event: "Kaena Point 10 Mile Trail Run"
-location: "Kaena Point, west Oahu"
-distance: "10 mi"
-discipline: "trail"
-video: "QRfqONvQbJ4"
-tags: ["trail", "heat", "strength"]
+title: 'Kaena Point Firecracker: no shade, no pavement'
+deck: >-
+  Out and back on the dirt road to the western tip of Oahu. Exposed the whole
+  way, ocean on one side and not much on the other.
+date: '2024-07-06'
+event: HURT Kaena Point Firecracker 10-Mile Trail Run
+location: 'Kaena Point, west Oahu'
+distance: 10 mi
+discipline: trail
+video: QRfqONvQbJ4
+tags:
+  - trail
+  - heat
+  - strength
+result: 'Jay 1:58:36.4 · Michelle 1:58:37.4'
+athletes: Both
+results:
+  jay:
+    time: '1:58:36.4'
+    agegroup: 50-59 M
+    place: 80
+    bib: 941
+  michelle:
+    time: '1:58:37.4'
+    agegroup: 40-49 F
+    place: 81
+    bib: 942
+resultSource: 'https://www.webscorer.com/race?raceid=357968'
 ---
 
 Kaena Point is the far western tip of Oahu, where the paved road quits and a dirt track keeps going out to a nature reserve at the point. There's no shade on it and no pavement. There's ocean on one side, dry mountainside on the other, and a trail that's mostly rocks with sand in between.
@@ -23,7 +41,7 @@ It's also stunning. The point is where the island just stops, with seabirds and,
 
 After a year of road racing that ended in a marathon, a trail run is a reset for the legs. Different surface, different muscles, and no pace to chase because the surface makes pace meaningless. Strength work dressed up as a morning out.
 
-It was also the first race of 2024 that wasn't a road 10K, in a year that was mostly about the [decision to go the full distance](/races/going-the-full-distance) and the training that came with it.
+We ran it together, one second apart at the finish, a month after [Honu](/races/honu-70-3-2024), in a year that was mostly about the [decision to go the full distance](/races/going-the-full-distance) and the training that came with it. It's a HURT Hawaii event, held around the Fourth of July, which is why it's called the Firecracker.
 
 ## What we'd tell a friend
 

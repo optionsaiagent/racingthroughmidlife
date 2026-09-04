@@ -24,9 +24,13 @@ const TIMELINE = [
   { when: "Jun 2023", what: "IRONMAN 70.3 Hawaii. Jay's first 70.3.", href: "/races/honu-70-3-2023" },
   { when: "Aug 2023", what: "Dick Evans Memorial: 112 miles around Oahu.", href: "/races/dick-evans-112-2023" },
   { when: "Oct 2023", what: "First ride over the Pali. First ride on Zwift. The garage becomes a gym." , href: "/notes/the-trainer-in-the-garage"},
-  { when: "Dec 2023", what: "Honolulu Marathon, again.", href: "/races/honolulu-marathon-2023" },
-  { when: "2024", what: "Bosetti Sunrise 10K on New Year's Day, Kaena Point trail, and the decision to go the full distance.", href: "/races/going-the-full-distance" },
-  { when: "2025", what: "The Oahu Pentathlon. Ironman Texas.", href: "/races/ironman-texas-2025" },
+  { when: "Dec 2023", what: "Honolulu Marathon, again. 4:00 and 5:37.", href: "/races/honolulu-marathon-2023" },
+  { when: "Jun 2024", what: "Michelle's first 70.3 at Honu. Jay 81 minutes faster than the year before.", href: "/races/honu-70-3-2024" },
+  { when: "Dec 2024", what: "Honolulu Marathon: Jay 3:41, Michelle 4:39. The PR year.", href: "/races/honolulu-marathon-2024" },
+  { when: "Apr 2025", what: "IRONMAN Texas. Both of us, the full distance.", href: "/races/ironman-texas-2025" },
+  { when: "Oct 2025", what: "IRONMAN California. The second full in one year.", href: "/races/ironman-california-2025" },
+  { when: "Dec 2025", what: "Honolulu Marathon, run together, 5:25:08 each.", href: "/races/honolulu-marathon-2025" },
+  { when: "2026", what: "Honu for the fourth time. 70.3 Northern California in August.", href: "/races/honu-70-3-2026" },
 ];
 
 export default function About() {

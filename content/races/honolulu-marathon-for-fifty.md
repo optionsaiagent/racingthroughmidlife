@@ -1,15 +1,34 @@
 ---
-title: "The marathon Jay never wanted, for a 50th he did"
-deck: "Michelle watched the 2021 Honolulu Marathon and said we should go do it for his birthday. He'd never liked running. We trained anyway."
-date: "2022-12-11"
-event: "Honolulu Marathon"
-location: "Ala Moana to Kapiolani Park, Honolulu"
-distance: "26.2 mi"
-discipline: "run"
-athletes: "Both"
+title: 'The marathon Jay never wanted, for a 50th he did'
+deck: >-
+  Michelle watched the 2021 Honolulu Marathon and said we should go do it for
+  his birthday. He'd never liked running. We trained anyway.
+date: '2022-12-11'
+event: Honolulu Marathon
+location: 'Ala Moana to Kapiolani Park, Honolulu'
+distance: 26.2 mi
+discipline: run
+athletes: Both
 featured: true
-tags: ["marathon", "beginners", "progression", "milestone"]
-image: "/images/finish.jpg"
+tags:
+  - marathon
+  - beginners
+  - progression
+  - milestone
+image: /images/finish.jpg
+result: 'Jay 4:22:02 · Michelle 5:42:20'
+results:
+  jay:
+    time: '4:22:02'
+    agegroup: M50-54
+    place: 1649
+    bib: 5838
+  michelle:
+    time: '5:42:20'
+    agegroup: F40-44
+    place: 5813
+    bib: 5843
+resultSource: 'https://sportstats.one/results/140524'
 ---
 
 Jay didn't want a marathon. Not in the way people say they don't want one and then sign up anyway. He didn't like running, he'd never run past eight miles, and he'd built a pretty comfortable identity around not being a marathon guy.
@@ -28,7 +47,7 @@ The Honolulu Marathon starts at 5 a.m. at Ala Moana, in the dark, with fireworks
 
 The second Diamond Head, around mile 24, is where the race tells you the truth about your training. The flat part before it, in the sun, is where it tells you the truth about your eating.
 
-We finished. We're not putting a time on this page we don't have in front of us, and this race was before the log. When the official result's in hand it goes here.
+We finished. Jay in 4:22:02, Michelle in 5:42:20. Those are the official chip times, and they're the first two numbers in the log.
 
 ## What it changed
 

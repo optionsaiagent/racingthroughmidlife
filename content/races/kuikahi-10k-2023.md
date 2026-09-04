@@ -14,7 +14,7 @@ featured: true
 tags: ["10k", "michelle", "milestone", "injury"]
 ---
 
-We're two age-groupers and we have exactly one age-group win in the house. This is it.
+This was the first age-group win in the house, and it was Michelle's.
 
 ## What was going on
 
@@ -24,7 +24,7 @@ She raced anyway, at a distance short enough not to be dumb about it, on a day t
 
 ## The result
 
-First in her age group. It's the one result on this site we can state as fact from memory without a timing page in front of us, because you don't forget the first time your wife wins something with a number on it. When we've got the official time it goes right next to it.
+First in her age group. This race wasn't timed by Timeline Hawaii, so we don't have the official time in front of us yet, but you don't forget the first time your wife wins something with a number on it. When the official time turns up it goes right next to it.
 
 ## What it says about training
 

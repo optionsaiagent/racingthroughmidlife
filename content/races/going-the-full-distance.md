@@ -10,7 +10,7 @@ essay: true
 tags: ["full distance", "progression", "sleep", "heat", "couples"]
 ---
 
-Training for a full Ironman in Honolulu is a heat problem, a marriage problem, and a calendar problem. This is the page about the decision, not the race. The race gets its own page, with the official result on it once we've got it in front of us.
+Training for a full Ironman in Honolulu is a heat problem, a marriage problem, and a calendar problem. This is the page about the decision, not the race. The races have their own pages: [IRONMAN Texas](/races/ironman-texas-2025) in April 2025 and [IRONMAN California](/races/ironman-california-2025) that October, both with the official results on them.
 
 ## The order
 

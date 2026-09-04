@@ -1,14 +1,34 @@
 ---
-title: "Kaiwi Coast Fun Run: go for the view and the company"
-deck: "The coast road between Sandy Beach and Makapuu in November, three weeks out from the marathon. Fun run is the correct name."
-date: "2023-11-19"
-datePrecision: "month"
-event: "Kaiwi Coast Fun Run"
-location: "Kaiwi coast, east Oahu"
-distance: "Short course"
-discipline: "run"
-video: "6Z4_N09nBy0"
-tags: ["taper", "community", "consistency"]
+title: 'Kaiwi Coast Fun Run: go for the view and the company'
+deck: >-
+  The coast road between Sandy Beach and Makapuu in November, three weeks out
+  from the marathon. Fun run is the correct name.
+date: '2023-11-19'
+event: Kaiwi Coast Fun Run
+location: 'Kaiwi coast, east Oahu'
+distance: Short course
+discipline: run
+video: 6Z4_N09nBy0
+tags:
+  - taper
+  - community
+  - consistency
+result: 'Jay 40:20.3 · Michelle 40:20.9'
+athletes: Both
+results:
+  jay:
+    time: '40:20.3'
+    agegroup: M50-54
+    agrank: 11
+    place: '236'
+    pace: '10:05/M'
+  michelle:
+    time: '40:20.9'
+    agegroup: F40-44
+    agrank: 16
+    place: '237'
+    pace: '10:05/M'
+resultSource: 'https://timelinehawaii.com/2023/11/19/2023-kaiwi-coast-run-and-walk/'
 ---
 
 The Kaiwi coast is the stretch of southeast shore between Sandy Beach and Makapuu, ocean on one side and lava cliffs on the other. It's one of the prettiest pieces of road on the island, and most days it's full of cars. A fun run on it in November is exactly what it sounds like.

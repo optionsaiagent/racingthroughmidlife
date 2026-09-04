@@ -12,7 +12,7 @@ const LADDER = [
   { year: "2014", what: "Honolulu Triathlon, Tin Man", note: "We weren't training. It didn't take." },
   { year: "2022", what: "First half marathon. First marathon, for Jay's 50th", note: "Once the long run existed, so did the race." },
   { year: "2023", what: "Olympic, Honu 70.3, 112 miles around Oahu, Honolulu Marathon", note: "The year we filmed every single week." },
-  { year: "2025", what: "The full distance", note: "A season you pay for in sleep." },
+  { year: "2025", what: "Two full Ironmans: Texas and California", note: "A season you pay for in sleep. We paid twice." },
 ];
 
 export default function Home() {

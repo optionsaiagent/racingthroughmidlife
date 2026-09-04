@@ -1,15 +1,36 @@
 ---
-title: "Val Nolasco Half: the last check before December"
-deck: "Fifth of five, a month out from the marathon. If the marathon's the goal, this one's for information, not a time."
-date: "2023-11-12"
-datePrecision: "month"
-event: "Val Nolasco Half Marathon"
-location: "Honolulu"
-distance: "13.1 mi"
-discipline: "run"
-series: "Marathon Readiness Series 5 of 5"
-video: "RSCGzHp4CtI"
-tags: ["half marathon", "marathon", "readiness series", "taper"]
+title: 'Val Nolasco Half: the last check before December'
+deck: >-
+  Fifth of five, a month out from the marathon. If the marathon's the goal, this
+  one's for information, not a time.
+date: '2023-11-12'
+event: Val Nolasco Half Marathon
+location: Honolulu
+distance: 13.1 mi
+discipline: run
+series: Marathon Readiness Series 5 of 5
+video: RSCGzHp4CtI
+tags:
+  - half marathon
+  - marathon
+  - readiness series
+  - taper
+result: 'Jay 1:45:08.5 · Michelle 2:17:01.5'
+athletes: Both
+results:
+  jay:
+    time: '1:45:08.5'
+    agegroup: M50-54
+    agrank: 5
+    place: '77'
+    pace: '8:01/M'
+  michelle:
+    time: '2:17:01.5'
+    agegroup: F40-44
+    agrank: 18
+    place: '331'
+    pace: '10:27/M'
+resultSource: 'https://timelinehawaii.com/2023/11/12/2023-val-nolasco-half-marathon/'
 ---
 
 Race five of five. A half marathon four weeks before the Honolulu Marathon, which is a distance and a date that practically beg you to make a mistake.

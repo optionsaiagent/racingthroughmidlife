@@ -1,14 +1,28 @@
 ---
-title: "King's Runner 10K: a town 10K to find out what the legs are worth"
-deck: "Flat, early, and honest about what the legs are worth. First race of March in a spring that had two halves and an Olympic triathlon in it."
-date: "2023-03-04"
-datePrecision: "month"
-event: "King's Runner 10K"
-location: "Honolulu"
-distance: "10K"
-discipline: "run"
-video: "dZHAsWdDgrw"
-tags: ["10k", "speed", "consistency"]
+title: 'King''s Runner 10K: a town 10K to find out what the legs are worth'
+deck: >-
+  Flat, early, and honest about what the legs are worth. First race of March in
+  a spring that had two halves and an Olympic triathlon in it.
+date: '2023-03-05'
+event: King's Runner 10K
+location: Honolulu
+distance: 10K
+discipline: run
+video: dZHAsWdDgrw
+tags:
+  - 10k
+  - speed
+  - consistency
+result: 'Jay 46:48'
+athletes: Jay
+results:
+  jay:
+    time: '46:48'
+    agegroup: M50-54
+    agrank: 11/111
+    place: 171
+    genderRank: 144/1460
+    pace: '7:33'
 ---
 
 A 10K is the shortest thing we race and the one that tells the most uncomfortable truth. There's nowhere to hide in six miles. The pace you can hold is the pace you've got.

@@ -1,17 +1,45 @@
 ---
-title: "Hibiscus Half: sit on the easy pace"
-deck: "Michelle ran 2:12. Jay sat on a pace that was easy for him and pushed her to a PR. A chicken joined us at the top of Diamond Head."
-date: "2023-05-28"
-event: "Hibiscus Half Marathon"
-location: "Kapiolani Park and Diamond Head, Honolulu"
-distance: "13.1 mi"
-discipline: "run"
-athletes: "Both"
-result: "Michelle: 2:12 (PR)"
+title: 'Hibiscus Half: sit on the easy pace'
+deck: >-
+  Michelle ran 2:12. Jay sat on a pace that was easy for him and pushed her to a
+  PR. A chicken joined us at the top of Diamond Head.
+date: '2023-05-28'
+event: Hibiscus Half Marathon
+location: 'Kapiolani Park and Diamond Head, Honolulu'
+distance: 13.1 mi
+discipline: run
+athletes: Both
+result: 'Jay 2:12:24 · Michelle 2:12:23'
 featured: true
-video: "WAFS28Qakuc"
-tags: ["half marathon", "couples", "pacing", "michelle", "milestone"]
-image: "/images/honolulu-run.jpg"
+video: WAFS28Qakuc
+tags:
+  - half marathon
+  - couples
+  - pacing
+  - michelle
+  - milestone
+image: /images/honolulu-run.jpg
+results:
+  jay:
+    time: '2:12:24'
+    agegroup: M50-54
+    agrank: 10
+    place: 203
+    genderRank: 128
+    pace: '10:07'
+    splits:
+      6.55mi: '1:09:03'
+    bib: 730
+  michelle:
+    time: '2:12:23'
+    agegroup: F40-44
+    agrank: 13
+    place: 202
+    genderRank: 75
+    pace: '10:07'
+    splits:
+      6.55mi: '1:09:03'
+    bib: 729
 ---
 
 This was Michelle's day. Everything about the race followed from that.
@@ -32,7 +60,7 @@ Michelle held the pace through the climb and through the heat after it. Jay felt
 
 ## The result
 
-2:12. A PR. The one number on this site we'll repeat as often as we feel like.
+2:12:23. A PR. Jay crossed one second later at 2:12:24, which is what pacing somebody looks like on a timing sheet. The one number on this site we'll repeat as often as we feel like.
 
 ## What it taught us
 

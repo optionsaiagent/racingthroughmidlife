@@ -6,31 +6,41 @@ Fix by editing the Markdown file named. Delete a line here when it is settled.
 
 ## Facts to confirm
 
-1. **Two Honolulu Marathons, not one.** The v1 page "The marathon Jay never wanted" is dated 2022-12-11, which is the date of the 2022 Honolulu Marathon. The 2023 vlog opens with "lose the holiday five" in January and ends with "Dec Week 2 - The 2023 Honolulu Marathon." The site now treats those as two separate marathons: `content/races/honolulu-marathon-for-fifty.md` (Dec 2022, the 50th) and `content/races/honolulu-marathon-2023.md` (Dec 2023). If you only ran one, delete one file and fix the About timeline in `src/app/about/page.tsx`.
+1. ~~Two Honolulu Marathons~~ **Settled by the timing data.** Sportstats has both of you in 2022, 2023, 2024 and 2025. All four have pages now.
 
-2. **Who raced Ironman Texas 2025, and the official times.** `content/races/ironman-texas-2025.md` deliberately never says who was on the course. Add `athletes:` and `result:` to the frontmatter when you have them.
+2. ~~Who raced Ironman Texas~~ **Settled.** Both of you, with splits, from IRONMAN's results system. Same for Honu 2023 through 2026, 70.3 Augusta 2025, IRONMAN California 2025, and 70.3 Northern California 2026.
 
-3. **Did a full happen in 2024?** The v1 "Going the full distance" post (Oct 2024) implied 140.6 was done. It is now an essay about the decision (`content/races/going-the-full-distance.md`, marked `essay: true` so it does not appear in the ledger as a race). If there was a 2024 full, it needs its own race file.
+3. ~~Did a full happen in 2024?~~ **No.** IRONMAN's athlete records show no full in 2024; the two fulls are Texas (Apr 2025) and California (Oct 2025). The "Going the full distance" essay now says so.
 
 4. **Hibiscus 2022 date.** Set to May 2022, month precision. If you have the day, set `date:` and remove `datePrecision`.
 
 5. **Honu 2023 swim location.** The page says Waikoloa, per the brief. If it was Hapuna Beach that year, change `content/races/honu-70-3-2023.md`.
 
-6. **The Waikiki 2.4-mile swim.** If it was the Waikiki Roughwater Swim, say so in `content/races/waikiki-2-4-mile-swim-2023.md` and in `src/lib/calendar.ts`.
+6. ~~The Waikiki 2.4-mile swim~~ **Checked.** Neither of you is in the 2023 Waikiki Roughwater Swim results, so the page now says it was the distance, not the race. If you did have bibs, tell me where the results live.
 
-7. **Oahu Pentathlon.** The page has no event details because none were available. Add what the five events were and the date.
+7. **Oahu Pentathlon 2025.** Still no date or events. PSE's results for it are on dot.vision, which only shows a live map, not a results list.
 
-8. **Kaena Point 10 Mile.** Year precision only. Set the date.
+8. ~~Kaena Point~~ **Settled.** It was the HURT Kaena Point Firecracker, July 6, 2024, both of you, one second apart. Page renamed.
 
-9. **Who raced what.** Only these have `athletes:` set: Hibiscus 2022 and 2023, both marathons, Honolulu Tri (Both), Honu (Jay), Ku'ikahi 10K (Michelle). Every other 2023 race leaves it out. Add `athletes:` where you know it.
+9. **Still unknown after checking every timing site.** Great Aloha Run 2023 (results are on Athlinks, which blocks automated reading), Dick Evans 2023 (not on Webscorer, where 2022, 2024 and 2025 are), Ku'ikahi 2023 and Akahai 2023 (Aloha Racing / Race Roster, no public results page found), Haleiwa Metric Century and Honolulu Century (rides, not timed), Oahu Pentathlon 2025, Honolulu Triathlon 2014.
 
-10. **Michelle's Ku'ikahi 10K result** is listed as "1st, age group" from the video title. Add the official time next to it if you have it.
+10. **Michelle's Ku'ikahi 10K time.** Still missing (see 9). The age-group win stays, from the video title.
 
-11. **Month-precision dates.** Most 2023 race dates are inferred from the "Month Week N" video titles and display as "March 2023 (approx.)". Replace with exact dates when you can. The page stops saying "approx." the moment `datePrecision` is removed.
+11. **Dates.** Every race with a timing record now has its exact date from the results page. Only the races in item 9, plus Hibiscus 2022 and Tin Man 2014, still show a month or year.
+
+11a. **Cholo's Waimea Bay 2024** is on Timeline Hawaii with no distance listed. The page calls it an ocean swim. If it was something else, fix `content/races/cholos-waimea-bay-2024.md`.
+
+11b. **Old Pali Road 5K 2022 and Hybrid Design 25K 2022** only have Michelle on the sheet. The pages say so. If Jay ran and wasn't timed, add a line.
+
+11c. **Honu 2024 swim.** Both swim splits are about 16 minutes, so the swim was clearly shortened. The page says that and nothing more. Add the reason if you want it on the record.
 
 12. **Ed.** The Hibiscus 2023 page mentions your friend Ed by first name, as the v1 site did. Confirm he is fine with that.
 
 13. **House number in a photo.** `public/images/bikes-rack.jpg` (used on the About page and the Dick Evans report) shows a street number on the house behind the bikes. It was on the v1 site too. Crop it or swap the photo if you would rather not have it public.
+
+## Where every number came from
+
+`content/results.json` holds every official result found, with its source URL. Sources: Timeline Hawaii (result tables on each event page), Pacific Sport Events via the acho.io results app, RunSignup's results API, RaceResult's data API, Webscorer, Sportstats, and IRONMAN's competitor results service. Nothing was typed from memory. `scripts/apply-results.mjs` and `scripts/new-race-pages.mjs` wrote the frontmatter, if you ever need to rerun them.
 
 ## Copy to read with a red pen
 

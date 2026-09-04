@@ -1,15 +1,35 @@
 ---
-title: "Hybrid Design 25K: past the half now"
-deck: "Third of five in the Marathon Readiness Series. The first time since last December either of us ran farther than a half with a number on."
-date: "2023-09-30"
-datePrecision: "month"
-event: "Hybrid Design 25K"
-location: "Honolulu"
-distance: "25K"
-discipline: "run"
-series: "Marathon Readiness Series 3 of 5"
-video: "VrUi8ZI852w"
-tags: ["marathon", "readiness series", "long run"]
+title: 'Hybrid Design 25K: past the half now'
+deck: >-
+  Third of five in the Marathon Readiness Series. The first time since last
+  December either of us ran farther than a half with a number on.
+date: '2023-10-01'
+event: Hybrid Design 25K
+location: Honolulu
+distance: 25K
+discipline: run
+series: Marathon Readiness Series 3 of 5
+video: VrUi8ZI852w
+tags:
+  - marathon
+  - readiness series
+  - long run
+result: 'Jay 2:11:25.0 · Michelle 2:53:44.7'
+athletes: Both
+results:
+  jay:
+    time: '2:11:25.0'
+    agegroup: M50-54
+    agrank: 9
+    place: '65'
+    pace: '8:46/M'
+  michelle:
+    time: '2:53:44.7'
+    agegroup: F40-44
+    agrank: 11
+    place: '169'
+    pace: '11:35/M'
+resultSource: 'https://timelinehawaii.com/2023/10/01/2023-hybrid-design-25k/'
 ---
 
 Race three of five. About 15.5 miles, and the first time since the previous December's marathon that either of us had run past the half-marathon distance with a bib on.

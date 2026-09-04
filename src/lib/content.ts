@@ -7,6 +7,24 @@ const ROOT = path.join(process.cwd(), "content");
 export type Athletes = "Jay" | "Michelle" | "Both";
 export type Discipline = "run" | "tri" | "bike" | "swim" | "trail" | "multi";
 
+export interface AthleteResult {
+  time: string;
+  agegroup?: string;
+  agrank?: string | number;
+  place?: string | number;
+  genderRank?: string | number;
+  pace?: string;
+  swim?: string;
+  t1?: string;
+  bike?: string;
+  t2?: string;
+  run?: string;
+  run1?: string;
+  run2?: string;
+  splits?: Record<string, string>;
+  bib?: string | number;
+}
+
 export interface Base {
   slug: string;
   title: string;
@@ -26,7 +44,9 @@ export interface Race extends Base {
   distance: string;
   discipline: Discipline;
   athletes?: Athletes;
-  result?: string; // official only; never estimated
+  result?: string; // official only; never estimated. Short form for the ledger.
+  results?: Partial<Record<"jay" | "michelle", AthleteResult>>; // structured official results
+  resultSource?: string; // where the official result lives
   featured?: boolean;
   calendar?: string; // key into calendar entries
   series?: string;

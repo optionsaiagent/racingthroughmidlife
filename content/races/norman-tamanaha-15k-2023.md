@@ -1,15 +1,36 @@
 ---
-title: "Norman Tamanaha 15K: the marathon build gets a bib"
-deck: "First race of the Honolulu Marathon Readiness Series. From here the calendar walks you to December one race at a time, and we let it."
-date: "2023-08-13"
-datePrecision: "month"
-event: "Norman Tamanaha 15K"
-location: "Honolulu"
-distance: "15K"
-discipline: "run"
-series: "Marathon Readiness Series 1 of 5"
-video: "DSF3ywQQ3k0"
-tags: ["marathon", "readiness series", "calendar", "heat"]
+title: 'Norman Tamanaha 15K: the marathon build gets a bib'
+deck: >-
+  First race of the Honolulu Marathon Readiness Series. From here the calendar
+  walks you to December one race at a time, and we let it.
+date: '2023-08-13'
+event: Norman Tamanaha 15K
+location: Honolulu
+distance: 15K
+discipline: run
+series: Marathon Readiness Series 1 of 5
+video: DSF3ywQQ3k0
+tags:
+  - marathon
+  - readiness series
+  - calendar
+  - heat
+result: 'Jay 1:14:16.6 · Michelle 1:33:19.3'
+athletes: Both
+results:
+  jay:
+    time: '1:14:16.6'
+    agegroup: M50-54
+    agrank: 7
+    place: '64'
+    pace: '7:58/M'
+  michelle:
+    time: '1:33:19.3'
+    agegroup: F40-44
+    agrank: 7
+    place: '178'
+    pace: '10:01/M'
+resultSource: 'https://timelinehawaii.com/2023/08/13/2023-tamanaha-15k/'
 ---
 
 If you're running the Honolulu Marathon in December, this is where the build starts wearing a bib.

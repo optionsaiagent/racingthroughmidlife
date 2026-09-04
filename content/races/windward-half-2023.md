@@ -1,14 +1,34 @@
 ---
-title: "Windward Half Marathon: the pretty one, the humid one"
-deck: "Every half on this island is a heat race by mile nine. This one's green enough to make you forget that for the first eight."
-date: "2023-03-25"
-datePrecision: "month"
-event: "Windward Half Marathon"
-location: "Windward Oahu"
-distance: "13.1 mi"
-discipline: "run"
-video: "cSGrbCtEza4"
-tags: ["half marathon", "heat", "windward"]
+title: 'Windward Half Marathon: the pretty one, the humid one'
+deck: >-
+  Every half on this island is a heat race by mile nine. This one's green enough
+  to make you forget that for the first eight.
+date: '2023-03-26'
+event: Windward Half Marathon
+location: Windward Oahu
+distance: 13.1 mi
+discipline: run
+video: cSGrbCtEza4
+tags:
+  - half marathon
+  - heat
+  - windward
+result: 'Jay 1:52:17.2 · Michelle 2:19:46.6'
+athletes: Both
+results:
+  jay:
+    time: '1:52:17.2'
+    agegroup: M50-54
+    agrank: 2
+    place: '38'
+    pace: '8:34/M'
+  michelle:
+    time: '2:19:46.6'
+    agegroup: F40-44
+    agrank: 5
+    place: '93'
+    pace: '10:40/M'
+resultSource: 'https://timelinehawaii.com/2023/03/26/2023-windward-half-marathon-and-5k/'
 ---
 
 Third race of March and the longest one. A half marathon on the windward side, which is the side of the island that looks the way people picture Hawaii before they get here.

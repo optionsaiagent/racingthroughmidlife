@@ -1,17 +1,48 @@
 ---
-title: "Turtle Bay Triathlon: closing the tri year on the North Shore"
-deck: "A late-season short-course triathlon at Turtle Bay, with the winter surf already showing up. A good one to end a triathlon year on."
-date: "2023-11-26"
-datePrecision: "month"
-event: "Turtle Bay North Shore Triathlon and Adventure Race"
-location: "Turtle Bay, North Shore, Oahu"
-distance: "Short course"
-discipline: "tri"
-video: "m9hMKRFkuYc"
-tags: ["triathlon", "north shore", "taper"]
+title: 'Turtle Bay Triathlon: closing the tri year on the North Shore'
+deck: >-
+  A late-season short-course triathlon at Turtle Bay, with the winter surf
+  already showing up. A good one to end a triathlon year on.
+date: '2023-11-25'
+event: Turtle Bay North Shore Triathlon and Adventure Race
+location: 'Turtle Bay, North Shore, Oahu'
+distance: Short course
+discipline: tri
+video: m9hMKRFkuYc
+tags:
+  - triathlon
+  - north shore
+  - taper
+result: 'Jay 2:29:09 · Michelle 3:05:35'
+athletes: Both
+results:
+  jay:
+    time: '2:29:09'
+    agegroup: M50-54
+    agrank: 2/5
+    place: 22
+    genderRank: 19/48
+    t1: '1:39'
+    bike: '1:17:53'
+    t2: '1:50'
+    run1: '11:51'
+    run2: '55:58'
+    bib: 1083
+  michelle:
+    time: '3:05:35'
+    agegroup: F40-44
+    agrank: 4/7
+    place: 57
+    genderRank: 16/23
+    t1: '1:56'
+    bike: '1:33:17'
+    t2: '1:52'
+    run1: '13:29'
+    run2: '1:15:03'
+    bib: 1082
 ---
 
-The last triathlon of 2023, two weeks before the marathon, up at Turtle Bay on the North Shore. By late November the winter swells have started arriving on that side of the island, which makes a swim leg there a different animal from a swim inside the reef at Ala Moana in May.
+The last triathlon of 2023, two weeks before the marathon, up at Turtle Bay on the North Shore. By late November the winter swells have started arriving on that side of the island, which is probably why the official results for this one show a run, a bike, and another run, and no swim. Our first duathlon, by accident.
 
 ## Two weeks out
 
@@ -21,6 +52,6 @@ We did it easy. Taper rules applied. The [Val Nolasco half](/races/val-nolasco-h
 
 ## The race itself
 
-Short course, with an adventure-race option, on the resort grounds and the North Shore roads around them. The video shows the day better than a paragraph would, so we'll let it.
+Run, bike, run, on the resort grounds and the North Shore roads around them. Jay was second in his age group, Michelle fourth in hers. The video shows the day better than a paragraph would, so we'll let it.
 
 If you race triathlon on Oahu, the year has a shape: Honolulu Tri in May, sprints through the summer, and something on the North Shore late in the year once the water's changed. Turtle Bay is a nice way to remember the sport's supposed to be fun, right before a marathon reminds you it's also supposed to hurt. Two weeks later was the marathon.

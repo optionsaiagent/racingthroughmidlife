@@ -1,14 +1,45 @@
 ---
-title: "Hapalua Half: Hawaii's half, and what it taught us"
-deck: "Waikiki to Diamond Head in April, warm enough at the start to tell you what summer's going to be. Mile repeats the week before, a brutal hill brick the week after."
-date: "2023-04-16"
-datePrecision: "month"
-event: "Hapalua Half Marathon"
-location: "Waikiki and Diamond Head, Honolulu"
-distance: "13.1 mi"
-discipline: "run"
-video: "k4Ur00y2KpE"
-tags: ["half marathon", "heat", "speed", "brick"]
+title: 'Hapalua Half: Hawaii''s half, and what it taught us'
+deck: >-
+  Waikiki to Diamond Head in April, warm enough at the start to tell you what
+  summer's going to be. Mile repeats the week before, a brutal hill brick the
+  week after.
+date: '2023-04-16'
+event: Hapalua Half Marathon
+location: 'Waikiki and Diamond Head, Honolulu'
+distance: 13.1 mi
+discipline: run
+video: k4Ur00y2KpE
+tags:
+  - half marathon
+  - heat
+  - speed
+  - brick
+result: 'Jay 1:51:51 · Michelle 2:33:22'
+athletes: Both
+results:
+  jay:
+    time: '1:51:51'
+    agegroup: M50-54
+    agrank: 30/252
+    place: 527
+    genderRank: 408/2894
+    pace: '8:33'
+    splits:
+      5k: '27:06'
+      10k: '54:09'
+      15k: '1:21:13'
+  michelle:
+    time: '2:33:22'
+    agegroup: F40-44
+    agrank: 141/370
+    place: 2829
+    genderRank: 1153/3139
+    pace: '11:43'
+    splits:
+      5k: '32:25'
+      10k: '1:06:03'
+      15k: '1:45:51'
 ---
 
 The Hapalua calls itself Hawaii's half marathon and it earns the name. Big field, Waikiki start, Diamond Head in the middle, and by April the temperature at the start line tells you what June is going to feel like.

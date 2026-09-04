@@ -1,15 +1,35 @@
 ---
-title: "Honolulu Marathon 2023: the sixth race in a five-race series"
-deck: "Same 5 a.m. start, same fireworks, same two trips over Diamond Head. This time with a whole readiness series behind it and a camera in front of it."
-date: "2023-12-10"
-event: "Honolulu Marathon"
-location: "Ala Moana to Kapiolani Park, Honolulu"
-distance: "26.2 mi"
-discipline: "run"
-athletes: "Both"
+title: 'Honolulu Marathon 2023: the sixth race in a five-race series'
+deck: >-
+  Same 5 a.m. start, same fireworks, same two trips over Diamond Head. This time
+  with a whole readiness series behind it and a camera in front of it.
+date: '2023-12-10'
+event: Honolulu Marathon
+location: 'Ala Moana to Kapiolani Park, Honolulu'
+distance: 26.2 mi
+discipline: run
+athletes: Both
 featured: true
-video: "0og5ArClELQ"
-tags: ["marathon", "milestone", "readiness series", "heat", "pacing"]
+video: 0og5ArClELQ
+tags:
+  - marathon
+  - milestone
+  - readiness series
+  - heat
+  - pacing
+result: 'Jay 4:00:34 · Michelle 5:37:40'
+results:
+  jay:
+    time: '4:00:34'
+    agegroup: M50-54
+    place: 937
+    bib: 5261
+  michelle:
+    time: '5:37:40'
+    agegroup: F40-44
+    place: 5862
+    bib: 5262
+resultSource: 'https://sportstats.one/results/130133'
 ---
 
 A year earlier this race was a [birthday](/races/honolulu-marathon-for-fifty). This time it was the end of a season that had been pointed at it since August, one readiness race at a time.
@@ -32,4 +52,4 @@ The camera. This is the most-watched video the channel has ever posted, and it's
 
 ## The result
 
-We don't have the official times in front of us as we write this, and we don't make up gun times. When they're in hand they go here. What we can say is that both of us finished, that the [week after](/notes/the-week-after-the-marathon) was a rest week on purpose, and that the conversation in the car on the way home was already about the full distance.
+Jay 4:00:34, Michelle 5:37:40. Twenty-one minutes off Jay's time from the year before, five off Michelle's, and both of those came from the series, not from anything clever on the day. The [week after](/notes/the-week-after-the-marathon) was a rest week on purpose, and the conversation in the car on the way home was already about the full distance. A year later, at [the 2024 marathon](/races/honolulu-marathon-2024), both of those times fell apart in the good direction.

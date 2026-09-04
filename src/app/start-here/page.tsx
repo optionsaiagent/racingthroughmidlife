@@ -18,7 +18,7 @@ const RUNGS = [
   { rung: "Olympic tri", what: "Honolulu Triathlon, May 2023", note: "Same race we'd done in 2014, this time with training. Where you find out if you like the sport or just the idea of it.", href: "/races/honolulu-triathlon-2014-and-again" },
   { rung: "70.3", what: "IRONMAN 70.3 Hawaii, June 2023", note: "A hard course on purpose. If Jay could get through a half in the lava, he could get through one anywhere.", href: "/races/honu-70-3-2023" },
   { rung: "112 miles", what: "Dick Evans, August 2023", note: "The Ironman bike distance on its own, before we stuck a swim and a marathon on either side of it.", href: "/races/dick-evans-112-2023" },
-  { rung: "140.6", what: "The full distance", note: "Only after every rung above was done. A season you pay for in sleep.", href: "/races/going-the-full-distance" },
+  { rung: "140.6", what: "IRONMAN Texas, April 2025", note: "Only after every rung above was done. A season you pay for in sleep. Then we did it again in October.", href: "/races/ironman-texas-2025" },
 ];
 
 export default function StartHere() {

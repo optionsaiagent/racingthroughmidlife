@@ -1,14 +1,34 @@
 ---
-title: "Kailua 10-Miler: the windward side, with wind"
-deck: "Ten miles on the side of the island where the trades decide whether your second half is fast or a wall."
-date: "2023-02-25"
-datePrecision: "month"
-event: "Kailua 10-Miler"
-location: "Kailua, windward Oahu"
-distance: "10 mi"
-discipline: "run"
-video: "nT2z9MOYQ5c"
-tags: ["consistency", "heat", "windward"]
+title: 'Kailua 10-Miler: the windward side, with wind'
+deck: >-
+  Ten miles on the side of the island where the trades decide whether your
+  second half is fast or a wall.
+date: '2023-02-26'
+event: Kailua 10-Miler
+location: 'Kailua, windward Oahu'
+distance: 10 mi
+discipline: run
+video: nT2z9MOYQ5c
+tags:
+  - consistency
+  - heat
+  - windward
+result: 'Jay 1:21:54.9 · Michelle 1:44:52.9'
+athletes: Both
+results:
+  jay:
+    time: '1:21:54.9'
+    agegroup: M50-54
+    agrank: 2
+    place: '33'
+    pace: '8:11/M'
+  michelle:
+    time: '1:44:52.9'
+    agegroup: F40-44
+    agrank: 11
+    place: '109'
+    pace: '10:29/M'
+resultSource: 'https://timelinehawaii.com/2023/02/26/2023-kailua-ten-miler/'
 ---
 
 The windward side is the wet, green side, the one that looks like the postcards. It's also where the trade winds come ashore, so any out-and-back over there has a leg with the wind and a leg into it, and nobody asks which one you'd like for the second half.
@@ -21,4 +41,4 @@ If you race over there, look at the wind before the gun and figure out which dir
 
 Ten miles around Kailua. The distance sits right between the Great Aloha Run and a half marathon, which is why it fits a spring build. It was also the same week as the [Great Aloha Run](/races/great-aloha-run-2023), which put two races in one February week. That was more than the plan needed. It was fine because neither one was a goal race and we ran both at an effort that left something in the tank. It wouldn't have been fine if we'd raced them.
 
-Two weeks before this, Michelle hurt a rib. That month [the plan was in pencil](/lessons/the-plan-is-written-in-pencil). Some of it happened. This did.
+Jay was second in his age group here, a month before Michelle's win at Ku'ikahi. Two weeks before this, Michelle hurt a rib. That month [the plan was in pencil](/lessons/the-plan-is-written-in-pencil). Some of it happened. This did.

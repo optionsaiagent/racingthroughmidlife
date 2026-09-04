@@ -1,15 +1,49 @@
 ---
-title: "Ironman Texas 2025: the full distance"
-deck: "2.4 miles of swim, 112 of bike, 26.2 of run, in The Woodlands in April. The race every rung of the ladder was built toward."
-date: "2025-04-26"
-datePrecision: "month"
-event: "IRONMAN Texas"
-location: "The Woodlands, Texas"
-distance: "2.4 mi swim / 112 mi bike / 26.2 mi run"
-discipline: "tri"
+title: 'Ironman Texas 2025: the full distance'
+deck: >-
+  2.4 miles of swim, 112 of bike, 26.2 of run, in The Woodlands in April. The
+  race every rung of the ladder was built toward.
+date: '2025-04-26'
+event: IRONMAN Texas
+location: 'The Woodlands, Texas'
+distance: 2.4 mi swim / 112 mi bike / 26.2 mi run
+discipline: tri
 featured: true
-video: "7NPLwOVrljg"
-tags: ["full distance", "milestone", "travel", "race week", "sleep"]
+video: 7NPLwOVrljg
+tags:
+  - full distance
+  - milestone
+  - travel
+  - race week
+  - sleep
+result: 'Jay 11:52:41 · Michelle 14:37:09'
+athletes: Both
+results:
+  jay:
+    time: '11:52:41'
+    agegroup: M50-54
+    agrank: 22
+    place: 407
+    genderRank: 287
+    swim: '1:31:16'
+    t1: '0:10:29'
+    bike: '5:50:43'
+    t2: '0:12:59'
+    run: '4:07:14'
+    bib: 747
+  michelle:
+    time: '14:37:09'
+    agegroup: F45-49
+    agrank: 50
+    place: 1240
+    genderRank: 365
+    swim: '1:30:13'
+    t1: '0:07:59'
+    bike: '6:44:20'
+    t2: '0:11:53'
+    run: '6:02:44'
+    bib: 746
+resultSource: 'https://labs-v2.competitor.com/results/event/d998aa20-f278-e111-b16a-005056956277'
 ---
 
 This is the race the whole site is about, in the sense that every page before it is a rung on the ladder that ends here.
@@ -30,6 +64,6 @@ The one thing Texas had in common with home was the heat. April in The Woodlands
 
 The video is the account of the day. It's the second most-watched thing the channel's posted, behind only the Honolulu Marathon, and it should be, because it's the day every other video was building toward.
 
-We're not putting a finish time on this page we don't have in front of us, and we're not going to summarize the day from memory when the video exists. What we'll say is that the week around 140.6 is the part nobody puts on the highlight reel, and it was every bit the heat problem, marriage problem, and calendar problem we said it'd be in [Going the full distance](/races/going-the-full-distance).
+Both of us raced it, and both of us finished. Jay in 11:52:41, Michelle in 14:37:09, with the splits on the card. The swim was an hour and a half for each of us, the bike was most of the afternoon, and then there was a marathon. The week around 140.6 is the part nobody puts on the highlight reel, and it was every bit the heat problem, marriage problem, and calendar problem we said it'd be in [Going the full distance](/races/going-the-full-distance).
 
-When the official result's in hand it goes here, in the ledger, where it belongs.
+Six months later we did it again at [IRONMAN California](/races/ironman-california-2025).

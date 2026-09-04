@@ -1,15 +1,35 @@
 ---
-title: "Runner's HI 20K: the distance steps up, and so does the heat"
-deck: "Second race in the Marathon Readiness Series, in September, which is the hottest stretch of the year here."
-date: "2023-09-03"
-datePrecision: "month"
-event: "Runner's HI 20K"
-location: "Honolulu"
-distance: "20K"
-discipline: "run"
-series: "Marathon Readiness Series 2 of 5"
-video: "O28DC-yVqj8"
-tags: ["marathon", "readiness series", "heat"]
+title: 'Runner''s HI 20K: the distance steps up, and so does the heat'
+deck: >-
+  Second race in the Marathon Readiness Series, in September, which is the
+  hottest stretch of the year here.
+date: '2023-09-03'
+event: Runner's HI 20K
+location: Honolulu
+distance: 20K
+discipline: run
+series: Marathon Readiness Series 2 of 5
+video: O28DC-yVqj8
+tags:
+  - marathon
+  - readiness series
+  - heat
+result: 'Jay 1:36:52.6 · Michelle 2:10:21.0'
+athletes: Both
+results:
+  jay:
+    time: '1:36:52.6'
+    agegroup: M50-54
+    agrank: 7
+    place: '50'
+    pace: '8:13/M'
+  michelle:
+    time: '2:10:21.0'
+    agegroup: F40-44
+    agrank: 10
+    place: '140'
+    pace: '11:03/M'
+resultSource: 'https://timelinehawaii.com/2023/09/03/2023-runners-hi-20k/'
 ---
 
 Race two of five. A 20K is about 12.4 miles, which is nearly a half marathon, in the month when the whole island turns into a sauna.
