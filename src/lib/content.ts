@@ -35,6 +35,7 @@ export interface Base {
   video?: string; // YouTube ID
   image?: string;
   imageAlt?: string;
+  author?: "Jay" | "Michelle" | "Both";
   body: string;
 }
 

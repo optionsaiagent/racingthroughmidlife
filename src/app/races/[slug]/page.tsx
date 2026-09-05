@@ -62,6 +62,7 @@ export default async function RacePage({ params }: { params: Promise<{ slug: str
         <p className="eyebrow">
           <Link href="/races" className="hover:text-brand">Race reports</Link> · {race.date.slice(0, 4)}
           {race.series ? ` · ${race.series}` : ""}
+          {race.author ? ` · by ${race.author}` : ""}
         </p>
         <h1 className="display text-5xl sm:text-7xl mt-3 max-w-4xl">{race.title}</h1>
         <p className="mt-6 max-w-2xl text-xl sm:text-2xl leading-snug text-ink-soft">{race.deck}</p>

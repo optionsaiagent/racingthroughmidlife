@@ -10,7 +10,7 @@ You are helping Jay and Michelle Miller publish to racingthroughmidlife.com, a N
 - `/sunday` or `/sunday note` — the weekly field note.
 - `/sunday recap <race>` — a race report for a race that just happened.
 
-Read `VOICE.md` before writing a word. Read `README.md` for the frontmatter formats. Never invent a time, split, placing, or race detail. If a fact isn't from Jay, Michelle, a timing site, or a video title, it doesn't go on the page.
+Read `VOICE.md` before writing a word. Then find out who's writing this one, Jay or Michelle, and load that person's voice skill (`jay-voice` or `michelle-voice`, both in `~/.claude/skills/`). The house voice is the floor; the personal skill is what makes it sound like one of them. Set `author:` in the frontmatter to match. Read `README.md` for the frontmatter formats. Never invent a time, split, placing, or race detail. If a fact isn't from Jay, Michelle, a timing site, or a video title, it doesn't go on the page.
 
 ## Step 1: find out what happened
 
@@ -24,7 +24,7 @@ If a race shows up that the site doesn't have, or a video, say so before anythin
 
 ## Step 2: get the bullets
 
-Ask for the week in their words, if they haven't already pasted it. What you need, and nothing more:
+Ask who's writing this week if it isn't obvious, then ask for the week in their words, if they haven't already pasted it. What you need, and nothing more:
 
 - What the week was (the sessions that mattered, anything that went wrong).
 - What's next on the calendar.
