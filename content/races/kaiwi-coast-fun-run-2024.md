@@ -9,6 +9,7 @@ location: 'Kaiwi coast, east Oahu'
 distance: 4 mi
 discipline: run
 athletes: Both
+author: Michelle
 result: 'Jay 36:28.0 · Michelle 36:28.9'
 tags:
   - taper
@@ -29,4 +30,6 @@ results:
     pace: '9:07/M'
 resultSource: 'https://timelinehawaii.com/2024/11/24/2024-kaiwi-coast-run-walk/'
 ---
-Four minutes faster than [the year before](/races/kaiwi-coast-fun-run-2023) and still less than a second apart. That's the whole report. The view was the same.
+Four minutes faster than [the year before](/races/kaiwi-coast-fun-run-2023) and still less than a second apart. That's the whole report.
+
+Okay, almost. Third year on the coast road, two weeks before the marathon, and this has turned into the race I don't have to think about. For someone who thinks about everything, that's worth more than the four minutes. Same road, same person next to me, 36:28 and 36:28.9, and the view was the same.

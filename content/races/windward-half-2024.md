@@ -9,6 +9,7 @@ location: Windward Oahu
 distance: 13.1 mi
 discipline: run
 athletes: Both
+author: Jay
 result: 'Jay 1:43:49.6 · Michelle 2:14:46.1'
 tags:
   - half marathon
@@ -29,6 +30,6 @@ results:
     pace: '10:17/M'
 resultSource: 'https://timelinehawaii.com/2024/03/24/2024-windward-half-marathon-and-5k/'
 ---
-Eight and a half minutes faster than [the year before](/races/windward-half-2023) for Jay, five for Michelle. The course didn't get shorter and the humidity didn't get lower. That's a year of long runs showing up.
+The second year on the pretty half, and the numbers moved. For me, 1:43:49 at 7:56 a mile, eight and a half minutes faster than [the year before](/races/windward-half-2023). Michelle ran 2:14:46, five minutes faster than hers. The course didn't get any shorter and the humidity on the windward side didn't get any lower, so the only thing that changed was a year of long runs, which usually turns out to be the thing.
 
-Both of us fourth in our age groups, which is the placing that teaches you the most about the people who beat you.
+Both of us were fourth in our age groups, twentieth and seventy-first overall. Fourth is the placing that teaches you the most about the people who beat you, because there are exactly three of them and they're all on the same sheet.

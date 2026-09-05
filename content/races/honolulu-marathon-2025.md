@@ -9,6 +9,7 @@ location: 'Ala Moana to Kapiolani Park, Honolulu'
 distance: 26.2 mi
 discipline: run
 athletes: Both
+author: Michelle
 result: 'Jay 5:25:08 · Michelle 5:25:08'
 featured: true
 tags:
@@ -31,6 +32,8 @@ resultSource: 'https://sportstats.one/event/honolulu-marathon/leaderboard/145511
 ---
 The fourth Honolulu Marathon in a row, and the first one we ran as one race instead of two.
 
-5:25:08 and 5:25:08. Places 7802 and 7803. Six weeks after a full Ironman, there was no PR to chase and no reason to pretend otherwise, so the plan was the simplest one we've ever written: start together, finish together, take every aid station, enjoy the fireworks. [Whose day is it?](/lessons/whose-day-is-it) Both, and the pace was whatever kept it that way.
+Six weeks after a full Ironman, was there a PR to chase? No, and neither of us pretended there was. The plan was the simplest one we've ever written: start together, finish together, take every aid station, enjoy the fireworks. [Whose day is it?](/lessons/whose-day-is-it) Both, and the pace was whatever kept it that way.
 
-If you only look at the times on this site you'll see this as the slow one. It was the best one.
+5:25:08 and 5:25:08. Places 7802 and 7803. He's one place ahead of me on the sheet, and I'm choosing not to have feelings about that. (I have a few.)
+
+If you only look at the times on this site you'll see this as the slow one. It was the best one. Twenty-six miles next to Jay, every aid station, the fireworks.

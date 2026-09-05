@@ -38,6 +38,10 @@ Fix by editing the Markdown file named. Delete a line here when it is settled.
 
 13. **House number in a photo.** `public/images/bikes-rack.jpg` (used on the About page and the Dick Evans report) shows a street number on the house behind the bikes. It was on the v1 site too. Crop it or swap the photo if you would rather not have it public.
 
+## Who wrote what
+
+Every race report and field note now has an `author:` byline, split roughly in half. The split was my call, page by page, on whose story it is: Michelle got Hibiscus, Ku'ikahi, her first Honu, IRONMAN California, the 2025 marathon you ran together, and so on; Jay got the 2014 Tin Man, his first Honu, Texas, the 2024 marathon, and the rides. Swap any of them by changing the `author:` line and asking for a rewrite. The lessons, Start here, and About stay in the shared "we" voice on purpose.
+
 ## Where every number came from
 
 `content/results.json` holds every official result found, with its source URL. Sources: Timeline Hawaii (result tables on each event page), Pacific Sport Events via the acho.io results app, RunSignup's results API, RaceResult's data API, Webscorer, Sportstats, and IRONMAN's competitor results service. Nothing was typed from memory. `scripts/apply-results.mjs` and `scripts/new-race-pages.mjs` wrote the frontmatter, if you ever need to rerun them.

@@ -9,6 +9,7 @@ location: 'Kaiwi coast, east Oahu'
 distance: 4 mi
 discipline: run
 athletes: Both
+author: Jay
 result: 'Jay 36:55.6 · Michelle 36:57.2'
 tags:
   - taper
@@ -29,4 +30,6 @@ results:
     pace: '9:14/M'
 resultSource: 'https://timelinehawaii.com/2025/11/23/2025-kaiwi-coast-run-and-walk/'
 ---
-Four Novembers on the same road: [2022](/races/kaiwi-coast-fun-run-2022), [2023](/races/kaiwi-coast-fun-run-2023), [2024](/races/kaiwi-coast-fun-run-2024), and this one, two seconds apart, a few weeks out from a marathon we'd already decided to run together. Michelle's first race in the 45-49 age group. It went fine.
+Four Novembers on the same road: [2022](/races/kaiwi-coast-fun-run-2022), [2023](/races/kaiwi-coast-fun-run-2023), [2024](/races/kaiwi-coast-fun-run-2024), and this one. Five weeks after IRONMAN California, a few weeks out from a marathon we'd already decided to run together, and the coast road didn't care about either of those things, which is most of why we keep coming back to it.
+
+Four miles at 9:14 a mile, 36:55 and 36:57, two seconds and one place apart. Michelle's first race in the 45-49 age group, where she was ninth. I was sixth in mine. It went fine, which after the October we'd had was the whole plan.

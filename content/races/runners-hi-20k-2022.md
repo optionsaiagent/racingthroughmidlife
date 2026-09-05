@@ -1,14 +1,15 @@
 ---
 title: 'Runner''s HI 20K 2022: twelve miles in September'
 deck: >-
-  Second race of the 2022 readiness series. The longest either of us had run
-  since the Hibiscus Half in May.
+  Second race of the 2022 readiness series, and the longest either of us had
+  run since the Hibiscus Half in May. No video, no notes. Just the sheet.
 date: '2022-09-04'
 event: Runner's HI 20K
 location: Honolulu
 distance: 20K
 discipline: run
 athletes: Both
+author: Michelle
 result: 'Jay 1:48:15.9 · Michelle 2:23:17.5'
 series: Marathon Readiness Series 2 of 5
 tags:
@@ -30,6 +31,8 @@ results:
     pace: '12:02/M'
 resultSource: 'https://timelinehawaii.com/2022/09/04/2022-runners-hi-20k/'
 ---
-No video, no notes, just the sheet. Jay 1:48, Michelle 2:23, in September heat, three months before the [marathon](/races/honolulu-marathon-for-fifty).
+No video, no notes, just the sheet. Jay 1:48, me 2:23, in September heat, three months before the [marathon](/races/honolulu-marathon-for-fifty).
 
-The 20K is where the readiness series stops being a fun run and starts being the long run. We didn't know that yet in 2022. We found out at mile ten.
+The 20K is where the readiness series stops being a fun run and starts being the long run. Nobody told us that in 2022. We found out at mile ten.
+
+I'd like to say more, but I don't trust what I'd remember and I'm not going to make it up. Twelve miles, 12:02 a mile, fifteenth in my age group. That's what's on the card, and that's what I've got.

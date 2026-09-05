@@ -17,6 +17,7 @@ tags:
   - heat
 result: 'Jay 1:14:16.6 · Michelle 1:33:19.3'
 athletes: Both
+author: Michelle
 results:
   jay:
     time: '1:14:16.6'
@@ -33,14 +34,14 @@ results:
 resultSource: 'https://timelinehawaii.com/2023/08/13/2023-tamanaha-15k/'
 ---
 
-If you're running the Honolulu Marathon in December, this is where the build starts wearing a bib.
+If you're running the Honolulu Marathon in December, this is where the build starts wearing a bib. For me it's also where the year starts feeling like a plan again, and I like a plan.
 
 ## How the series works
 
-The Marathon Readiness Series is five races between August and November, each one longer than the last: 15K, 20K, 25K, 30K, then a half marathon a month out from the marathon. That's the long-run progression from every marathon plan on the internet, except with aid stations and other people. In 2023 we [let the calendar be the plan](/lessons/let-the-calendar-be-the-plan) and it held up.
+The Marathon Readiness Series is five races between August and November, each one longer than the last: 15K, 20K, 25K, 30K, then a half marathon a month out from the marathon. That's the long-run progression from every marathon plan on the internet, except with aid stations and other people. In 2023 we [let the calendar be the plan](/lessons/let-the-calendar-be-the-plan) and it held up. For a routine person, that's the dream. Somebody else wrote the schedule, and all I had to do was show up to it.
 
 The 15K is race one. About 9.3 miles, in August, so it's hot from the first mile and doesn't pretend otherwise.
 
-We ran it as a long run with a bib, which is what we'd tell anybody to do. The marathon's four months away and the series has four more races in it, so there's nothing to win here. The information you want is simple: how do nine miles feel in the heat with a number on, and what did you eat that worked. Save the racing for December.
+We ran it as a long run with a bib. The marathon's four months away and the series has four more races in it, so what's there to win in August? Nothing. The information I wanted was simple: how do nine miles feel in the heat with a number on, and what did I eat that worked. The racing gets saved for December. 1:33:19, 10:01 a mile, seventh in my age group, and Jay was seventh in his too, at 1:14:16.
 
-It sat in the middle of August, a week after a training week with hill sprints, a ridge ride, and a Koko Head hike in it. That's what a fall looks like here. The running series carries the marathon build, and the long rides carry a full-distance question that was starting to get asked out loud. Two weeks after this one, that meant [112 miles around the island](/races/dick-evans-112-2023).
+It sat in the middle of August, a week after a training week with hill sprints, a ridge ride, and a Koko Head hike in it. That's what a fall looks like here. The running series carries the marathon build, and the long rides carry a full-distance question that was starting to get asked out loud in our house. (I heard it. I wasn't ready to answer it yet.) Two weeks after this one, that meant [112 miles around the island](/races/dick-evans-112-2023).

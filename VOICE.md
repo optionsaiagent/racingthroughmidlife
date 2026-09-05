@@ -1,6 +1,8 @@
 # How this site talks
 
-Two people in their fifties in Honolulu, both Army vets, writing the log they wish they'd found. Not a brand. Not a coach. Not a bot.
+Two people in Honolulu, both Army vets, writing the log they wish they'd found. Not a brand. Not a coach. Not a bot.
+
+This file is the floor. On top of it sit two personal voices, each with real writing samples: `~/.claude/skills/jay-voice/SKILL.md` and `~/.claude/skills/michelle-voice/SKILL.md`. Every note and race report carries an `author:` byline and is written in that person's voice. Jay writes as "we" with "For me" when he splits off; Michelle writes as "I." The lessons and the long pages (Start here, About) stay in the shared voice below.
 
 ## Sounds like
 

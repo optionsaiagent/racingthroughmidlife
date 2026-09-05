@@ -9,6 +9,7 @@ location: Kailua Beach
 distance: 4.4 mi
 discipline: run
 athletes: Both
+author: Michelle
 result: 'Jay 55:36.9 · Michelle 55:38.7'
 tags:
   - beach
@@ -29,6 +30,6 @@ results:
     pace: '12:39/M'
 resultSource: 'https://timelinehawaii.com/2024/07/14/2024-kailua-beach-4-4-mile-shark-chase/'
 ---
-55:36 and 55:38. A week after the [Kaena Point Firecracker](/races/kaena-point-10-mile-2024), six weeks after Honu, in the summer stretch where the calendar is mostly short, fun, and on sand.
+55:36 and 55:38. Eight minutes slower than the year before and two seconds apart, and I'm not sorry about either number.
 
-Nobody raced this. Both fourth in our age groups anyway, because July.
+A week after the [Kaena Point Firecracker](/races/kaena-point-10-mile-2024), six weeks after Honu, in the part of the summer where the calendar is short, fun, and on sand. Neither of us raced it. Should we have? No. Both of us came fourth in our age groups anyway, because July, and because sand doesn't care what you did in June.

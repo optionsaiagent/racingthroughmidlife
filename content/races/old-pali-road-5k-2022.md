@@ -1,14 +1,15 @@
 ---
-title: 'Old Pali Road 5K 2022: Michelle, on her own'
+title: 'Old Pali Road 5K 2022: on my own'
 deck: >-
-  A 5K on the old Pali road in September 2022. Michelle's race. Jay's name isn't
-  on the sheet.
+  A 5K on the old Pali road in September 2022. My race. Jay's name isn't on
+  the sheet.
 date: '2022-09-10'
 event: Old Pali Road 5K
 location: 'Old Pali Road, Nuuanu'
 distance: 5K
 discipline: run
 athletes: Michelle
+author: Michelle
 result: 'Michelle 44:35.0'
 tags:
   - 5k
@@ -22,6 +23,8 @@ results:
     pace: '14:17/M'
 resultSource: 'https://timelinehawaii.com/2022/09/10/2022-old-pali-road-5k/'
 ---
-This one's Michelle's alone. The Old Pali Road is the closed-off, overgrown stretch of the original highway over the mountains, and it goes up. A 5K on it isn't a 5K in the flat, fast sense.
+This one was mine. Jay's name isn't on the sheet, so there was nobody to pace, nobody to chase, and nobody to blame.
 
-44:35 on the card. Not a PR course, not a PR. A morning on a road you can't normally run on.
+The Old Pali Road is the closed-off, overgrown stretch of the original highway over the mountains, and it goes up. A 5K on it isn't a 5K in the flat, fast sense. It's a 5K in the sense that somebody measured it. Did I know that going in? Sort of. Knowing a road goes up and running up it are two different kinds of knowing.
+
+44:35 on the card, 14:17 a mile, seventh in my age group. Not a PR course, not a PR. A morning on a road you're not normally allowed to run on.
