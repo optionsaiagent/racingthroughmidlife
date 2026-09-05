@@ -16,12 +16,12 @@ A metric century is 100 kilometers, call it 62 miles. In April of 2023 that was 
 
 ## Riding with other people
 
-North Shore, out of Haleiwa. The Hawaii Bicycling League has been putting on rides here for a long time and it shows: a marked course, rest stops, and people at every one of them who know what they're doing. Every long ride before this had been solo at dawn, so riding in a group with support felt like a different sport. It's a nicer one.
+The ride starts out of Haleiwa on the North Shore. The Hawaii Bicycling League has been putting on rides here for a long time and it shows: a marked course, rest stops, and people at every one of them who know what they're doing. Every long ride before this had been solo at dawn, so riding in a group with support felt like a different sport, and a nicer one.
 
 ## Fifty-six miles stopped being theoretical
 
-The Honu bike leg is 56 miles through lava with wind. Before this ride that number was an idea. After it, it was a number we'd already gone past, which is the whole reason a [bridge race](/lessons/dont-sign-up-before-the-long-run) exists. You do the scary distance somewhere friendly first.
+The Honu bike leg is 56 miles through lava with wind. Before this ride that number was an idea, and after it, it was a number we'd already gone past, which is the whole reason a [bridge race](/lessons/dont-sign-up-before-the-long-run) exists, you do the scary distance somewhere friendly first.
 
 Sixty-two miles is also long enough for the other lessons to show up: you run out of food, you find out where the bike fit's wrong, and you learn that the last fifteen miles of a long ride are a different ride than the first forty-seven. Better to learn all of that in April with a rest stop every twenty miles than in June in the lava. If you're building toward a long-course tri, do one organized ride longer than the race's bike leg. The fitness helps, but the fueling and the hours in the saddle are what you're really there for, and you usually don't know which of those is your weak spot until the ride is long enough to show you.
 
-I rode this on the bike I had, not a triathlon bike. [The tri bike showed up in July](/lessons/the-bike-came-after-the-race), after the race it would've been bought for was already done.
+I rode this on the bike I had, not a triathlon bike, and [the tri bike showed up in July](/lessons/the-bike-came-after-the-race), after the race it would've been bought for was already done.

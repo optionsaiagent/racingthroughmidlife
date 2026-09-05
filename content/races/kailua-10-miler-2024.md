@@ -32,4 +32,4 @@ resultSource: 'https://timelinehawaii.com/2024/02/25/2024-kailua-10-miler/'
 ---
 We didn't film 2024 week by week, so this one lives on the timing sheet and in the year-in-review video, and the sheet turns out to be enough.
 
-For me, it was the first age-group win, 1:19:47 at 7:59 a mile, a year after being second on the same course and about two minutes faster. Michelle ran 1:45:11 and was fifth in hers. The wind in Kailua was what it usually is in February, which is to say it was there in both directions, and we've mostly stopped expecting otherwise.
+The wind in Kailua was what it usually is in February, there in both directions, and by now we plan on it instead of hoping for a calm morning. For me, it was the first age-group win, 1:19:47 at 7:59 a mile, a year after being second on the same course and about two minutes faster. Michelle ran 1:45:11 and was fifth in hers.

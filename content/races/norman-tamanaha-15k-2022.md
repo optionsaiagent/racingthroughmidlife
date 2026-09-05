@@ -32,8 +32,8 @@ results:
     pace: '14:38/M'
 resultSource: 'https://timelinehawaii.com/2022/08/14/2022-norman-tamanaha-15k/'
 ---
-This one was before the camera and before the log, so there's no video and there are no notes. There's a timing sheet, and it's on the card, and that's about all we have from the day.
+This one was before the camera and before the log, so there's no video and there are no notes. There's a timing sheet, it's on the card, and that's about all we have from the day.
 
-What I remember is the math more than the race. The marathon was four months away, the long run was still short, and neither of us had ever run a 15K with a number on, so a 15K in August felt like a lot. It was. I came in at 1:22:33, ninth in my age group, and Michelle came in at 2:16:23. We thought both of those were decent for where we were, and they were, but both numbers came down a long way over the next two years, which is easier to see now than it was standing in the heat that morning.
+What I remember is the math more than the race. The marathon was four months away, the long run was still short, and neither of us had ever run a 15K with a number on, so a 15K in August felt like a lot, and it was. I came in at 1:22:33, ninth in my age group, and Michelle came in at 2:16:23. We thought both of those were decent for where we were, and they were, but both numbers came down a long way over the next two years, which is easier to see now than it was standing in the heat that morning.
 
-The Marathon Readiness Series is five races, and this was the first one. In 2023 the series [became the plan](/lessons/let-the-calendar-be-the-plan), and we built the whole fall around it. In 2022 we weren't that organized. We were just doing what the calendar said and signing up for the next one when it came around, which turns out to be the same thing. This was the first rung, and the timing sheet is all that's left of it.
+The Marathon Readiness Series is five races, and this was the first one. In 2023 the series [became the plan](/lessons/let-the-calendar-be-the-plan) and we built the whole fall around it. In 2022 we weren't that organized, we were just doing what the calendar said and signing up for the next one when it came around, which turns out to be the same thing. This was the first rung, and the timing sheet is all that's left of it.

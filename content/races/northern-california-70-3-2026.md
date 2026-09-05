@@ -42,6 +42,6 @@ results:
     bib: 611
 resultSource: 'https://labs-v2.competitor.com/results/event/'
 ---
-The most recent race in the log, three weeks before we rebuilt this site, which is why the official result is on the card and the write-up isn't here yet. It's coming, along with the video, once we've slept.
+This is the most recent race in the log, three weeks before we rebuilt this site, which is why the official result is on the card and the write-up isn't here yet. It's coming, along with the video, once we've slept.
 
-What the card says in the meantime: fifty-minute swims for both of us, which means no river current this time, and a run where I went 1:46:18, my fastest 70.3 run anywhere on this site. Michelle went 2:32 on the run after 3:28 on the bike and finished in 7:03:02. Ninth and tenth in the age groups, and a mainland August that was, for once, cooler than home. The video's next.
+What the card says in the meantime: fifty-minute swims for both of us, which means no river current this time, and a run where I went 1:46:18, my fastest 70.3 run anywhere on this site. Michelle went 2:32 on the run after 3:28 on the bike and finished in 7:03:02. We were ninth and tenth in the age groups, in a mainland August that was, for once, cooler than home, and the video will fill in the rest.

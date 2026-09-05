@@ -29,8 +29,8 @@ results:
     place: '155'
 resultSource: 'https://timelinehawaii.com/2024/08/11/2024-boca-norman-tamanaha-15k/'
 ---
-Three Augusts in a row on the same course, and the series opener is starting to feel like a checkup we didn't schedule. For me it went [1:22 in 2022](/races/norman-tamanaha-15k-2022), [1:14:16 in 2023](/races/norman-tamanaha-15k-2023), and 1:14:14 this year, which is two seconds in twelve months and a pretty clear message about where the ceiling is for a 15K in that heat. The ceiling, it turns out, is third in the 50-54s.
+Three Augusts in a row on the same course, and the series opener is starting to feel like a checkup we didn't schedule. For me it went [1:22 in 2022](/races/norman-tamanaha-15k-2022), [1:14:16 in 2023](/races/norman-tamanaha-15k-2023), and 1:14:14 this year, which is two seconds in twelve months and a pretty clear message about where my ceiling is for a 15K in that heat. This year that was good for third in the 50-54s.
 
-Michelle's numbers went the other direction: 2:16, then 1:33, then 1:31:33, her fastest 15K, eleventh in her age group. Mine flattened out. Hers didn't.
+Michelle's numbers went the other direction: 2:16, then 1:33, then 1:31:33, her fastest 15K, eleventh in her age group. Mine flattened out in the heat and hers kept coming down.
 
 Two weeks later I rode [around the island again](/races/dick-evans-112-2024).

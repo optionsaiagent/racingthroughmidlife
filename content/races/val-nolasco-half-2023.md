@@ -34,12 +34,12 @@ results:
 resultSource: 'https://timelinehawaii.com/2023/11/12/2023-val-nolasco-half-marathon/'
 ---
 
-Race five of five, a half marathon four weeks before the Honolulu Marathon, which is a distance and a date that practically beg you to make a mistake.
+This was race five of five, a half marathon four weeks before the Honolulu Marathon, which is a distance and a date that practically beg you to make a mistake.
 
-The mistake is racing it. By November the legs are about as fit as they're going to be all year, the half is a distance where a PR is genuinely on the table, and the urge to find out what's there is enormous. We felt it. But a raced half a month before a marathon is a withdrawal from an account that needs to be full in December, and we'd spent the whole fall making deposits.
+The mistake is racing it. By November the legs are about as fit as they're going to be all year, the half is a distance where a PR is genuinely on the table, and the urge to find out what's there is enormous, and we felt it. But a raced half a month before a marathon is a withdrawal from an account that needs to be full in December, and we'd spent the whole fall making deposits.
 
-So we treated it as a check, and we were mostly disciplined about it. The last long run with a bib, at marathon effort, with the marathon breakfast and the marathon shoes: everything the [30K](/races/boca-hawaii-30k-2023) had checked, checked once more, closer to the day. For me, that came out to 1:45:08, fifth in the 50-54s at 8:01 a mile. Michelle ran 2:17:01, eighteenth in hers, and kept her effort where it belonged.
+So we treated it as a check, and we were mostly disciplined about it. It was the last long run with a bib, at marathon effort, with the marathon breakfast and the marathon shoes, everything the [30K](/races/boca-hawaii-30k-2023) had checked, checked once more, closer to the day. For me, that came out to 1:45:08, fifth in the 50-54s at 8:01 a mile. Michelle ran 2:17:01, eighteenth in hers, and kept her effort where it belonged.
 
-Four weeks out is where the taper starts, and this race is the door into it. Get the information, then let the volume come down. Nothing you do in the last four weeks will make you fitter, and plenty of what you could do would make you more tired… which we usually have to remind each other of about twice a week in November.
+Four weeks out is where the taper starts, and this race is the door into it. You get the information and then let the volume come down, because nothing you do in the last four weeks will make you fitter and plenty of what you could do would make you more tired… which we usually have to remind each other of about twice a week in November.
 
 Zwift Academy was running in the garage that same month, so by the middle of November the fall had a shape: the running series carried the marathon build, the [trainer](/notes/the-trainer-in-the-garage) carried the weekday bike, and the weekends went to whatever was longest. The next bib was the [Kaiwi Coast Fun Run](/races/kaiwi-coast-fun-run-2023) the following week, and that one wasn't allowed to count for anything.

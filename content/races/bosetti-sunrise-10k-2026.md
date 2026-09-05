@@ -32,6 +32,6 @@ resultSource: 'https://timelinehawaii.com/2026/01/01/2026-bosetti-1st-sunrise-10
 ---
 Four years now, and the routine hasn't changed much: marathon in December, sunrise 10K in Hawaii Kai on the first, and then [January](/notes/january-the-five-pounds-and-the-groove), with everything that month usually brings. Two weeks after the marathon neither of us expected the legs to have much to say, and they didn't.
 
-For me, 50:06 at 8:04 a mile, third in the 50-54s. Michelle ran 1:01:32 at 9:55, fifth in the 45-49s. Both of us were a few minutes slower than 2025, which is about what two full Ironmans and a marathon in one calendar year leaves in the legs, and honestly we'd have been suspicious of anything faster.
+For me, it was 50:06 at 8:04 a mile, third in the 50-54s. Michelle ran 1:01:32 at 9:55, fifth in the 45-49s. Both of us were a few minutes slower than 2025, which is about what two full Ironmans and a marathon in one calendar year leaves in the legs, and neither of us expected anything faster.
 
-Third and fifth in the age groups anyway. Hawaii Kai on New Year's morning doesn't attract a fast crowd. It attracts the right one, and we were in it by sunrise.
+Hawaii Kai on New Year's morning doesn't draw a fast crowd so much as the people who show up every year, and we were among them by sunrise, and this year that put us third and fifth in the age groups.

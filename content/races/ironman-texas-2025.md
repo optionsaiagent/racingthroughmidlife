@@ -51,13 +51,13 @@ This is the race the whole site is about, in the sense that every page before it
 
 ## How the ladder got here
 
-The Honolulu Triathlon, [raced for real](/races/honolulu-triathlon-2014-and-again), in May 2023. A 70.3 [in the lava](/races/honu-70-3-2023) that June. [112 miles around Oahu](/races/dick-evans-112-2023) in August. [2.4 miles off Waikiki](/races/waikiki-2-4-mile-swim-2023) in September. A [marathon](/races/honolulu-marathon-2023) with a whole readiness series behind it in December. Then a year and change of the kind of training a full distance takes, [paid for in sleep](/lessons/sleep-funds-the-season), most of it starting at 5 a.m. in the garage or on a road before the sun came up.
+We raced the Honolulu Triathlon [for real](/races/honolulu-triathlon-2014-and-again) in May 2023, then came a 70.3 [in the lava](/races/honu-70-3-2023) that June, [112 miles around Oahu](/races/dick-evans-112-2023) in August, [2.4 miles off Waikiki](/races/waikiki-2-4-mile-swim-2023) in September, and a [marathon](/races/honolulu-marathon-2023) with a whole readiness series behind it in December. After that came a year and change of the kind of training a full distance takes, [paid for in sleep](/lessons/sleep-funds-the-season), most of it starting at 5 a.m. in the garage or on a road before the sun came up.
 
 ## The race
 
 IRONMAN Texas is in The Woodlands, north of Houston, in late April. The swim is 2.4 miles in a lake, the bike is 112 miles on closed roads that are flat and fast and windy, and the run is a marathon that loops through town past the same spectators several times, which is either encouraging or humbling depending on which loop you're on. It's a long way from Honolulu, which meant a bike box, a long flight, and every lesson in [Race week is a logistics problem](/lessons/race-week-is-a-logistics-problem).
 
-The one thing Texas had in common with home was the heat. April in The Woodlands can be warm and humid, and the run starts in the afternoon, so the [fourth sport](/notes/heat-is-the-fourth-sport) came along for the trip whether we'd packed it or not.
+The one thing Texas had in common with home was the heat. April in The Woodlands can be warm and humid, and the run starts in the afternoon, so the [fourth sport](/notes/heat-is-the-fourth-sport) was part of the race there the same as it is at home.
 
 ## The day
 
