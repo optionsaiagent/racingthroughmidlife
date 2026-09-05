@@ -17,7 +17,8 @@ const RUNGS = [
   { rung: "26.2 miles", what: "Honolulu Marathon, December 2022", note: "For Jay's 50th. He'd never wanted one. Michelle put it on a birthday and that was that.", href: "/races/honolulu-marathon-for-fifty" },
   { rung: "Olympic tri", what: "Honolulu Triathlon, May 2023", note: "Same race we'd done in 2014, this time with training. Where you find out if you like the sport or just the idea of it.", href: "/races/honolulu-triathlon-2014-and-again" },
   { rung: "70.3", what: "IRONMAN 70.3 Hawaii, June 2023", note: "A hard course on purpose. If Jay could get through a half in the lava, he could get through one anywhere.", href: "/races/honu-70-3-2023" },
-  { rung: "112 miles", what: "Dick Evans, August 2023", note: "The Ironman bike distance on its own, before we stuck a swim and a marathon on either side of it.", href: "/races/dick-evans-112-2023" },
+  { rung: "112 miles", what: "Dick Evans, August 2023", note: "A lap of Oahu, the same ride the first Ironman used in 1978. The bike leg on its own, before a swim and a marathon got attached to it.", href: "/races/dick-evans-112-2023" },
+  { rung: "2.4 miles", what: "Waikiki Roughwater Swim, September 2023", note: "The 1978 Ironman swim, on its own. Jay 1:50, Michelle 2:01, and no bike waiting.", href: "/races/waikiki-2-4-mile-swim-2023" },
   { rung: "140.6", what: "IRONMAN Texas, April 2025", note: "Only after every rung above was done. A season you pay for in sleep. Then we did it again in October.", href: "/races/ironman-texas-2025" },
 ];
 

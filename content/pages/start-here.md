@@ -24,6 +24,10 @@ So we built the next rung: a half marathon, Hibiscus, in May 2022. Then the mara
 
 We didn't skip a rung. Every one of them was within shouting distance of something we'd already suffered through.
 
+## The original Ironman, one leg at a time
+
+Here's something we only figured out after the fact. The first Ironman, in February 1978, wasn't a purpose-built course. It was three races that already existed on Oahu, run back to back: the Waikiki Roughwater Swim, a 112-mile lap of the island on the bike, and the Honolulu Marathon. In 2023 we did all three of those as separate races, months apart: the [Dick Evans](/races/dick-evans-112-2023) around the island in August, the [Roughwater](/races/waikiki-2-4-mile-swim-2023) in September, and the [marathon](/races/honolulu-marathon-2023) in December. That's the whole full distance, done in pieces, on the roads and water it was invented on. If you live here, the same three races are on the calendar every year, and doing them one at a time is a pretty honest way to find out whether you want to do them on the same day.
+
 ## The three things that actually mattered
 
 **Getting up early, most days.** Not a heroic block of training. A boring one. In Honolulu the only hour cool enough to get real work done is the one before sunrise, so the alarm's early and the workout is whatever fits before the day starts. Showing up at 5 a.m. beat every ambitious Saturday we ever planned. If you live somewhere cooler, your version might be lunch or after work. Same rule: pick the hour you'll actually keep.

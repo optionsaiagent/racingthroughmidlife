@@ -20,7 +20,7 @@ The Dick Evans is a bike race that goes all the way around Oahu, 112 miles. If t
 
 By August of 2023 the full distance had gone from something we didn't talk about to something we talked about in the car. I had a 70.3 done, the marathon was on the calendar for December, and the one leg of a 140.6 neither of us had done on its own was the bike, and here was the island offering exactly that distance, with a start line, on a Sunday. It would've been strange not to.
 
-So it was a race, and it was also the longest [bridge](/lessons/dont-sign-up-before-the-long-run) we'd built. If 112 miles was survivable alone, in August, it was at least imaginable with a swim in front of it and a marathon after. That's the theory anyway, and we've been wrong about theories before.
+So it was a race, and it was also the longest [bridge](/lessons/dont-sign-up-before-the-long-run) we'd built. If 112 miles was survivable alone, in August, it was at least imaginable with a swim in front of it and a marathon after. That's the theory anyway, and we've been wrong about theories before. There was one more reason we found out about later: this lap of the island is the same ride the very first Ironman used in February 1978, before the race moved to the Big Island, which means that between this, the [Roughwater swim](/races/waikiki-2-4-mile-swim-2023) in September, and the [marathon](/races/honolulu-marathon-2023) in December, we'd covered the original Ironman course that year without ever doing it in one day.
 
 ## The ride
 

@@ -43,7 +43,7 @@ The readiness series went the way it's laid out on the calendar: the [15K](/race
 
 The Honolulu Marathon starts at 5 a.m. at Ala Moana Beach Park, in the dark, with fireworks over the water. From there it goes through Waikiki, up and over Diamond Head, out the long flat exposed stretch along Kalanianaole to Hawaii Kai and back, and over Diamond Head a second time to finish at Kapiolani Park. There's no cutoff, so you finish when you finish.
 
-The 5 a.m. start is there because of the heat, and it only really helps the front of the field. For everybody else the sun is up by the first Diamond Head and it's full daylight on an open road by the turnaround in Hawaii Kai, so the flat part is the hot part. The second Diamond Head comes somewhere around mile 24, and that's where you find out whether the training was enough.
+The 5 a.m. start is there because of the heat, and it only really helps the front of the field. For everybody else the sun is up by the first Diamond Head and it's full daylight on an open road by the turnaround in Hawaii Kai, so the flat part is the hot part. The second Diamond Head comes somewhere around mile 24, and that's where you find out whether the training was enough. It's also the run leg of the original Ironman from February 1978, which put the [Roughwater swim](/races/waikiki-2-4-mile-swim-2023) and a [lap of the island on the bike](/races/dick-evans-112-2023) in front of it. We'd done both of those earlier in the year on their own, so this marathon closed out the whole 1978 course, spread across four months instead of one day.
 
 ## What was different
 

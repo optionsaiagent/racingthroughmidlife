@@ -503,6 +503,20 @@
   }
  },
  {
+  "event": "Waikiki Roughwater Swim 2023",
+  "date": "2023-09-04",
+  "source": "self-reported (Jay, 2026-09-04); not found on the timing site",
+  "url": null,
+  "athletes": {
+   "jay": {
+    "time": "1:50"
+   },
+   "michelle": {
+    "time": "2:01"
+   }
+  }
+ },
+ {
   "event": "2023 Hybrid Design 25K",
   "date": "2023-10-01",
   "source": "timelinehawaii",

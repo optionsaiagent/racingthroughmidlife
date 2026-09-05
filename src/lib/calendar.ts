@@ -202,7 +202,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Around Oahu",
     distance: "112 mi",
     discipline: "bike",
-    take: "A full lap of the island. Same distance as an Ironman bike leg, in August, with real traffic. It taught us what 112 miles of eating looks like.",
+    take: "A full lap of the island, the same ride the first Ironman used in February 1978. Same distance as an Ironman bike leg, in August, with real traffic. It taught us what 112 miles of eating looks like.",
     races: ["dick-evans-112-2023", "dick-evans-112-2024", "dick-evans-112-2025"],
   },
   {
@@ -217,13 +217,13 @@ export const CALENDAR: CalendarEvent[] = [
     series: "Marathon Readiness Series 2 of 5",
   },
   {
-    name: "Waikiki 2.4-mile swim",
+    name: "Waikiki Roughwater Swim",
     month: 9,
-    when: "September",
+    when: "Labor Day weekend",
     where: "Waikiki",
     distance: "2.4 mi",
     discipline: "swim",
-    take: "The full Ironman swim distance, in the ocean, with no bike waiting for you. A good way to find out whether the swim's the thing you should be worried about.",
+    take: "The swim the first Ironman used in 1978, still run every September. The full 2.4 miles in the ocean with no bike waiting for you, which is a good way to find out whether the swim's the thing you should be worried about.",
     races: ["waikiki-2-4-mile-swim-2023"],
   },
   {
@@ -306,7 +306,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Ala Moana to Kapiolani Park",
     distance: "26.2 mi",
     discipline: "run",
-    take: "5 a.m. start, fireworks, Diamond Head twice, and no cutoff. The reason the whole Oahu running calendar is shaped the way it is. Jay's 50th birthday race.",
+    take: "5 a.m. start, fireworks, Diamond Head twice, and no cutoff. The run leg of the first Ironman in 1978, and the reason the whole Oahu running calendar is shaped the way it is. Jay's 50th birthday race.",
     races: ["honolulu-marathon-for-fifty", "honolulu-marathon-2023", "honolulu-marathon-2024", "honolulu-marathon-2025"],
   },
 ];
