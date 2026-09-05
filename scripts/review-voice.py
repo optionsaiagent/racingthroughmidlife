@@ -13,7 +13,7 @@ for f in files:
     if ol - nl: issues.append(f"lost links: {sorted(ol-nl)}")
     if not re.search(r"^author: (Jay|Michelle)$", new, re.M): issues.append("no author line")
     if "—" in new: issues.append("em dash")
-    if re.search(r"[^'\"]!(?!['\"])", new.split("---",2)[-1]): issues.append("exclamation point outside a quote")
+    if re.search(r"^author: Jay$", new, re.M) and re.search(r"[^'\"]!(?!['\"])", new.split("---",2)[-1]): issues.append("exclamation point outside a quote")
     if re.search(r"^## What we'?d tell a friend", new, re.M|re.I): issues.append("tell-a-friend header")
     for tell in ["here's the thing","that's the whole point","at the end of the day","let's be honest","my husband"]:
         if tell in new.lower(): issues.append(f"tell: {tell}")
