@@ -36,7 +36,7 @@ In 2023 we ran all five. In between we did the long rides, the Waikiki swim, the
 
 A long run on your own calendar can move. To Sunday, then to next week, then to the week after because family's in town. A long run with a bib on it doesn't move. You paid for it, other people are going, and the alarm's set.
 
-At fifty, discipline isn't the hard part. Scheduling is. The series takes the scheduling off your plate.
+At this age, discipline isn't the hard part. Scheduling is. The series takes the scheduling off your plate.
 
 ## The one adjustment
 

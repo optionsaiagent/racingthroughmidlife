@@ -41,7 +41,7 @@ export default function Home() {
         <div className="relative mx-auto max-w-6xl px-5 sm:px-8 pt-28 sm:pt-44 pb-12 sm:pb-16">
           <p className="eyebrow !text-dawn">Honolulu · age-group racing · the written log</p>
           <h1 className="display text-[3.6rem] leading-[0.92] sm:text-8xl mt-4 max-w-4xl text-foam">
-            We didn&apos;t start racing until our fifties.
+            We didn&apos;t start racing until midlife.
           </h1>
           <p className="mt-7 max-w-xl text-lg sm:text-xl leading-snug text-salt/85">
             Two Honolulu age-groupers, an 8-mile fun run, and eventually a full Ironman. This is the log we kept along the way
@@ -53,7 +53,7 @@ export default function Home() {
               href="/start-here"
               className="inline-flex items-center gap-2 bg-buoy text-foam px-5 py-3 mono text-xs uppercase tracking-widest hover:bg-dawn hover:text-ink transition-colors"
             >
-              Start here if you are 45 and up
+              Start here if you are 40 and up
             </Link>
             <Link
               href="/races"

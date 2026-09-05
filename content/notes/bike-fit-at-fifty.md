@@ -1,5 +1,5 @@
 ---
-title: "Bike fit at fifty"
+title: "Bike fit in your forties"
 deck: "August 2023, I get a proper bike fit. The most useful money we spent that year, and it should've come before the bike."
 date: "2023-08-20"
 week: "2023 · August, week 3"

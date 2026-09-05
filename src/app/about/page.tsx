@@ -9,7 +9,7 @@ import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Jay and Michelle",
-  description: "Two Army vets in Honolulu who didn't start racing seriously until their fifties. Who we are, how we got here, and the rules this site keeps.",
+  description: "Two Army vets in Honolulu who didn't start racing seriously until midlife, at 42 and 49. Who we are, how we got here, and the rules this site keeps.",
 };
 
 const TIMELINE = [

@@ -19,7 +19,7 @@ export default function SiteHeader() {
         Skip to content
       </a>
       <div className="mx-auto max-w-6xl px-5 sm:px-8">
-        <div className="flex items-center justify-between h-16 sm:h-[4.5rem]">
+        <div className="flex items-center justify-between h-24 sm:h-28">
           <Link href="/" className="flex items-center gap-3" aria-label="Racing Through Midlife, home">
             <Image
               src="/images/logo.png"
@@ -27,7 +27,7 @@ export default function SiteHeader() {
               width={2960}
               height={672}
               priority
-              className="h-9 sm:h-11 w-auto max-w-[min(300px,62vw)] object-contain object-left"
+              className="h-[4.5rem] sm:h-[5.5rem] w-auto max-w-[min(520px,66vw)] object-contain object-left"
             />
           </Link>
           <nav aria-label="Primary" className="hidden md:flex items-center gap-7">

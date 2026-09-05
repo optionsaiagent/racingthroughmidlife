@@ -1,6 +1,6 @@
 ---
 title: "Sleep funds the season"
-deck: "The full distance isn't a personality. It's a season you pay for in sleep. At fifty, recovery isn't the reward for training. It's the account the training draws on."
+deck: "The full distance isn't a personality. It's a season you pay for in sleep. At this age, recovery isn't the reward for training. It's the account the training draws on."
 date: "2024-11-03"
 tags: ["recovery", "sleep", "full distance", "midlife"]
 dos:
@@ -22,7 +22,7 @@ The full distance isn't a personality. It's a season you pay for in sleep.
 
 We said that when we were deciding whether to go 140.6 and we haven't found a better way to put it. Every long-course season since has been paid for the same way: earlier bedtimes, dropped evenings, a social calendar that got thin for a while. Not forever. For a season.
 
-## What changed after fifty
+## What changed after forty
 
 At thirty a hard week and a bad night could coexist. Now they can't. A long ride on five hours of sleep isn't a long ride. It's a long ride plus two days of feeling wrong, and those two days are where the next workout was supposed to go.
 

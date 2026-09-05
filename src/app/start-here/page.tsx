@@ -7,8 +7,8 @@ import { getPage, getRaces, getLessons } from "@/lib/content";
 import { MiniList } from "@/components/Cards";
 
 export const metadata: Metadata = {
-  title: "Start here, if you are 45 and up",
-  description: "How two people in their fifties went from an 8-mile fun run to a full Ironman without a coach, in order, with dates. Not a plan. A ladder you can look at.",
+  title: "Start here, if you are 40 and up",
+  description: "How a 42-year-old and a 49-year-old went from an 8-mile fun run to a full Ironman without a coach, in order, with dates. Not a plan. A ladder you can look at.",
 };
 
 const RUNGS = [

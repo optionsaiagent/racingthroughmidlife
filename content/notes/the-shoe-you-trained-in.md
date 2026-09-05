@@ -13,4 +13,4 @@ Two pairs were in my rotation that month: the Asics Gel Nimbus 24 for the traini
 
 The rule we run by is simple: put the race shoe on a long run before the race, at least one, and the longest one in the block if you can. A new shoe has a drop, a stack, and a fit that your calf hasn't met yet, and the long run is where that introduction should happen, not race day. If the long run goes fine, the shoe gets the bib, and if it doesn't, you found out on a Saturday with nothing on the line.
 
-We write this down because the internet is full of people buying a race shoe the week of the race, and at fifty a calf that disagrees with a shoe at mile ten isn't a nuisance, it's the next three weeks of the season. That's how May went for me: two pairs, one trained and one raced, and nothing new in the box on race morning.
+We write this down because the internet is full of people buying a race shoe the week of the race, and at our age a calf that disagrees with a shoe at mile ten isn't a nuisance, it's the next three weeks of the season. That's how May went for me: two pairs, one trained and one raced, and nothing new in the box on race morning.

@@ -52,6 +52,6 @@ We finished! Jay in 4:22:02, me in 5:42:20. Those are the official chip times, a
 
 ## What it changed
 
-Everything on this site exists because of this day. Not because the marathon was the goal, but because it proved a long day was survivable at fifty, with the right shoes, the right food, and a plan written in pencil. I did enjoy that medal.
+Everything on this site exists because of this day. Not because the marathon was the goal, but because it proved a long day was survivable at 49 for him and 42 for me, with the right shoes, the right food, and a plan written in pencil. I did enjoy that medal.
 
 A year later we ran it [again](/races/honolulu-marathon-2023), with a camera.

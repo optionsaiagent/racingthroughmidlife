@@ -34,6 +34,6 @@ A bridge is a race you can already picture finishing. It tells you the truth abo
 
 ## Why this matters more after 45
 
-At 30 you can bluff a distance. You'll be sore and you'll finish. At 50 the bluff has consequences that last weeks. A body that hasn't done the long run doesn't have the tendons, the eating habits, or the pacing sense to survive a bad day at a long distance. The bib doesn't give you any of that. Only the long run does.
+At 30 you can bluff a distance. You'll be sore and you'll finish. In your forties and fifties the bluff has consequences that last weeks. A body that hasn't done the long run doesn't have the tendons, the eating habits, or the pacing sense to survive a bad day at a long distance. The bib doesn't give you any of that. Only the long run does.
 
 So: build it, then buy it.

@@ -18,7 +18,7 @@ Which means the long ride starts at 5, the long run starts at 5:30, and the ocea
 
 ## What the alarm requires
 
-A 4:30 alarm isn't a morning decision, it's an evening one: bottles filled and in the fridge the night before, kit laid out, bikes on the rack, breakfast decided, and a bedtime early enough that the alarm's survivable, which at fifty means earlier than it did at thirty.
+A 4:30 alarm isn't a morning decision, it's an evening one: bottles filled and in the fridge the night before, kit laid out, bikes on the rack, breakfast decided, and a bedtime early enough that the alarm's survivable, which past fifty means earlier than it did at thirty.
 
 None of that is discipline so much as logistics. The morning version of us can't be trusted to find a sock, so the evening version of us puts the sock where the morning version will trip over it. We both did enough 4 a.m. formations in the Army to know the difference.
 

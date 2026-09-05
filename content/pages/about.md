@@ -1,6 +1,6 @@
 ---
 title: "Jay and Michelle"
-deck: "Two Army vets in Honolulu who didn't start racing seriously until their fifties, and a website that's deliberately not a business."
+deck: "Two Army vets in Honolulu who didn't start racing seriously until midlife, she at 42 and he at 49, and a website that's deliberately not a business."
 date: "2026-09-03"
 ---
 

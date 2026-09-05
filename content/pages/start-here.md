@@ -1,16 +1,16 @@
 ---
-title: "If you're 45 and up and want to start"
-deck: "How two people in their fifties went from an 8-mile fun run to a full Ironman without a coach, in order, with the dates. Not a plan. A ladder you can look at while you figure out what to do with your own Saturday."
+title: "If you're 40 and up and want to start"
+deck: "How a 42-year-old and a 49-year-old went from an 8-mile fun run to a full Ironman without a coach, in order, with the dates. Not a plan. A ladder you can look at while you figure out what to do with your own Saturday."
 date: "2026-09-03"
 ---
 
 ## Who this is for
 
-You're somewhere between 45 and 65. Maybe you used to be active, maybe you never were, and lately you've noticed that stairs have become a data point. You've seen the finisher photos and thought, quietly, that some of those people look like you.
+You're somewhere between 40 and 65. Maybe you used to be active, maybe you never were, and lately you've noticed that stairs have become a data point. You've seen the finisher photos and thought, quietly, that some of those people look like you.
 
 You don't want a coach. You don't want a plan with twelve tabs. You want to know what two regular people actually did, in what order, and what it cost them.
 
-That's this page. We're not trainers and we're not doctors. We're two Army vets in Honolulu who started late and kept going. Everything here is what we did, not what you should do. Talk to your own doctor first. Then keep reading.
+That's this page. We're not trainers and we're not doctors. We're two Army vets in Honolulu who started late, at 42 and 49, and kept going. Everything here is what we did, not what you should do. Talk to your own doctor first. Then keep reading.
 
 ## What we did first, and would do again
 
@@ -40,7 +40,7 @@ We didn't skip a rung. Every one of them was within shouting distance of somethi
 - Your first triathlon should be a sprint or an Olympic, close to home, where a bad transition ruins an hour and not a trip.
 - The bike can wait. Jay did his first 70.3 on the bike he had. The tri bike showed up a month later, after the race proved he'd keep doing this.
 - Write the plan in pencil. A rib, a work trip, a week with family in the house. All of that happened to us in one year. The plan bent. The season didn't break.
-- Pay for the season in sleep. At fifty, recovery isn't a luxury line item. It's the budget.
+- Pay for the season in sleep. At this age, recovery isn't a luxury line item. It's the budget.
 
 ## The body that bills interest
 

@@ -14,7 +14,7 @@ It's a strange thing to explain to somebody on the mainland: we live in Honolulu
 
 The first was the dark. The riding window is dawn, and dawn is dark, and riding in traffic in the dark on an island where the roads weren't built with a shoulder in mind is a risk we take on the weekend, when there's time to pick the route, and not on a Tuesday at 5 a.m.
 
-The second was the clock. A weekday ride outside is the ride plus getting to a road worth riding plus getting home, while on the trainer an hour is an hour. At fifty with a day job, that's the difference between the ride happening and not happening.
+The second was the clock. A weekday ride outside is the ride plus getting to a road worth riding plus getting home, while on the trainer an hour is an hour. Past fifty with a day job, that's the difference between the ride happening and not happening.
 
 The third was the heat. The trainer's got a fan, and with the fan running a hard interval session in the garage is a hard interval session, not a hard interval session plus a heat problem. The [zone 2 note](/notes/zone-2-in-a-sauna) gets into why that matters more than it sounds like it should.
 

@@ -14,7 +14,7 @@ donts:
   - "Don't confuse a gear purchase with a training week. The bike doesn't do the ride."
 ---
 
-There's a version of starting triathlon in your fifties that begins with a shopping cart. We know because we've watched people do it. The bike's beautiful. The wetsuit's beautiful. The first race is still a first race.
+There's a version of starting triathlon in your forties or fifties that begins with a shopping cart. We know because we've watched people do it. The bike's beautiful. The wetsuit's beautiful. The first race is still a first race.
 
 We did it backwards, mostly by accident, and it turned out to be the right way.
 
@@ -32,7 +32,7 @@ By then the purchase made sense. There was a sprint tri at the end of July, a 11
 
 A month after that Michelle had a proper bike fit, which is the [other half of this lesson](/notes/bike-fit-at-fifty): the fit mattered more than the frame, and it should've come first for both of us.
 
-## Why the order matters at fifty
+## Why the order matters at this age
 
 At this age we've got the money to buy the thing before we've earned it. That's exactly the trap. The gear makes the decision feel made. Then the first race is hard, the way first races are, and the bike moves to the garage to be a reminder.
 
