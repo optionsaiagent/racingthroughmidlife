@@ -36,12 +36,12 @@ results:
     bib: 121
 resultSource: 'https://runsignup.com/Race/Results/164857#resultSetId-459040'
 ---
-Same course as [2014 and 2023](/races/honolulu-triathlon-2014-and-again). Third time at Ala Moana, and the first time I came off it without wanting to apologize for something.
+Same course as [2014 and 2023](/races/honolulu-triathlon-2014-and-again). This was my third time at Ala Moana, and I'll admit it was the first time I came off that course without feeling like I needed to apologize to somebody for something.
 
-I took 25 minutes off my 2023 time. Jay took 26 off his. Was it the swim? A little. The run? Some. Mostly it was the bike. 1:15:48 for me on the 40K, 1:05:31 for Jay, and the difference between this year and last year was a tri bike, a bike fit, and a winter of rides on the trainer. Put the same two people on the same course twelve months later with those three things behind them and this is what you get. Not magic. Homework.
+I took 25 minutes off my 2023 time and Jay took 26 off his. Was it the swim? A little. The run? Some. Mostly it was the bike. 1:15:48 for me on the 40K and 1:05:31 for Jay, and the difference between this year and last year was a tri bike, a bike fit, and a winter of rides on the trainer. Put the same two people on the same course twelve months later with those three things behind them and this is what you get. It wasn't magic, it was homework, and homework is the part I'm actually good at.
 
-The swims were 26 minutes for me and 23 for Jay, both quicker than the year before. Why? I honestly don't know, and I'm not going to make something up so the page has an explanation.
+The swims were 26 minutes for me and 23 for Jay, both quicker than the year before. Why? I honestly don't know. I'd like to have a reason for it but I don't, so I'll leave it at quicker.
 
-Race mornings at Ala Moana are a lot of people in a small space at an early hour, and I am not a lot-of-people person. I get through it by doing everything in the same order I always do and not talking much until the swim is over. Then the swim is over, and it's a bike ride.
+Race mornings at Ala Moana are a lot of people in a small space at an early hour, and I am not a lot-of-people person. I get through it by doing everything in the same order I always do and not talking much until the swim is over. Then the swim is over and it's a bike ride, and a bike ride I can handle.
 
-Two weeks later was [Honu](/races/honu-70-3-2024), my first 70.3. This was the rehearsal, same as it had been for Jay the year before. My transitions were 5:15 and 3:47. I had fourteen days to get faster at putting on shoes.
+Two weeks later was [Honu](/races/honu-70-3-2024), my first 70.3, so this was the rehearsal, the same as it had been for Jay the year before. My transitions were 5:15 and 3:47, which is a long time to spend putting on shoes. I had fourteen days to get better at it.

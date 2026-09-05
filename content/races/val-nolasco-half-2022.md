@@ -33,8 +33,8 @@ resultSource: 'https://timelinehawaii.com/2022/11/13/2022-val-nolasco-half-marat
 ---
 Four weeks before the [marathon for a fiftieth](/races/honolulu-marathon-for-fifty), and the last race in the series.
 
-Jay ran 1:57:03, his first half under two hours. I'm going to let him have that one.
+Jay ran 1:57:03, his first half under two hours. I'm going to let him have that one, and he knows I'm letting him.
 
-I ran 2:28:47. That's sixteen minutes faster than my Hibiscus time six months earlier, same distance, same me. Sixteen minutes. I looked at the card twice. Was that really six months of showing up? Apparently. (Not fast. Faster. There's a difference, and at this age I'll take it.)
+I ran 2:28:47. I don't have my Hibiscus time from that May in front of me, so I can't tell you exactly how much six months of just showing up was worth, but it felt like a lot. (Not fast, but faster, and at this age I'll take faster.)
 
 Then the taper, then December, then everything else on this site.

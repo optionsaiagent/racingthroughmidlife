@@ -38,10 +38,10 @@ After the 70.3, June was family in the house and hikes and a slow drift back to 
 
 Lanikai is a small residential loop on the windward side, the neighborhood with the beach that ends up on postcards. An 8K there is fast and flat and done before the heat fully arrives, which in July means humid instead of punishing. It's worth the drive over the Pali just for the loop.
 
-We ran it because six weeks of long-course training and a race in the lava had left my legs with no memory of what fast felt like. Did I still have gears? I honestly didn't know. The same week had sprints in it, actual short hard efforts, for the first time since spring, and I didn't love them. An 8K with a bib was somewhere to put that, and five miles is short enough to race without wrecking the week after.
+We ran it because six weeks of long-course training and a race in the lava had left my legs with no memory of what fast felt like. Did I still have gears? I honestly didn't know, and I wasn't sure I wanted to find out. The same week had sprints in it, actual short hard efforts, for the first time since spring, and I didn't love them. An 8K with a bib was somewhere to put that, and five miles is short enough to race without wrecking the week after.
 
-What I learned about myself: after something long, I need a few weeks of short before the long stuff feels like mine again. The legs forget. Then they remember, and they're a little annoyed about it.
+What I learned about myself is that after something long, I need a few weeks of short before the long stuff feels like mine again. The legs forget, and then they remember, and they're a little annoyed about it.
 
-Both of us were second in our age groups. Jay 37:17, me 47:17, and I'm choosing to enjoy that the seconds match. For an 8K in July, after a summer of long stuff, second was a nice surprise to find on a timing sheet. I don't get a lot of nice surprises at start lines. My anxiety usually gets there first.
+Second in my age group! Jay was second in his too, 37:17 for him and 47:17 for me, and I'm choosing to enjoy that the seconds match. For an 8K in July, after a summer of long stuff, second was a nice surprise to find on a timing sheet. I don't get a lot of nice surprises at start lines, as my anxiety usually gets there first.
 
-The week after mattered, too. The [Na Wahine & Kane sprint triathlon](/races/na-wahine-kane-sprint-2023) was the next weekend, and the new triathlon bike had just shown up.
+The week after mattered too. The [Na Wahine & Kane sprint triathlon](/races/na-wahine-kane-sprint-2023) was the next weekend, and the new triathlon bike had just shown up.

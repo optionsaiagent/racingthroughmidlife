@@ -46,12 +46,12 @@ results:
     bib: 755
 resultSource: 'https://labs-v2.competitor.com/results/event/'
 ---
-I want to be honest about this one before the numbers: the marathon at the end of it was the hardest thing I've done in a race. 6:45:54 for 26.2 miles. By the card it's the hardest leg I've had in any race on this site, and the card isn't wrong.
+I want to be honest about this one before the numbers: the marathon at the end of it was the hardest thing I've done in a race. 6:45:54 for 26.2 miles. By the card it's the hardest leg I've had in any race on this site, and the card isn't wrong about that.
 
-We'd said the full distance was [a season you pay for in sleep](/lessons/sleep-funds-the-season). In 2025 we paid for two. [Texas in April](/races/ironman-texas-2025) was the first. This was the second, six months later, in Sacramento, with a river swim, a flat bike through the delta, and a marathon along the American River. My swim was 1:07:36 and my bike was 7:04:51, and then the run happened.
+We'd said the full distance was [a season you pay for in sleep](/lessons/sleep-funds-the-season), and in 2025 we paid for two. [Texas in April](/races/ironman-texas-2025) was the first. This was the second, six months later, in Sacramento, with a river swim, a flat bike through the delta, and a marathon along the American River. My swim was 1:07:36 and my bike was 7:04:51, and then the run happened, and it kept happening for almost seven hours.
 
-I finished it. 15:26:59. That's the whole sentence, and I'm going to let it be the whole sentence.
+I finished it. 15:26:59. I'm not going to say much more about the run than that, as I'm still not sure I have the words for it, but I finished and I'm proud of that.
 
 And Jay? 11:16:13, thirty-six minutes faster than Texas, with a 3:59 marathon at the end of a full Ironman. I've stopped asking how.
 
-Three weeks before this we'd raced [70.3 Augusta](/races/augusta-70-3-2025). Two months before that, [112 miles around Oahu](/races/dick-evans-112-2025). Six weeks after it, we ran the [Honolulu Marathon](/races/honolulu-marathon-2025) together, slowly, as a victory lap. That's what a full-distance year looks like when you write it down. Two of them in one year looks like this page.
+Three weeks before this we'd raced [70.3 Augusta](/races/augusta-70-3-2025), and two months before that, [112 miles around Oahu](/races/dick-evans-112-2025). Six weeks after it, we ran the [Honolulu Marathon](/races/honolulu-marathon-2025) together, slowly, as a victory lap. That's what a full-distance year looks like when you write it down, and two of them in one year looks like this page.

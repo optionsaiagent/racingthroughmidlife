@@ -33,8 +33,8 @@ results:
     pace: '9:05/M'
 resultSource: 'https://timelinehawaii.com/2025/03/23/2025-windward-half-marathon-and-5k/'
 ---
-I'll be honest: I didn't think this was the day. Five weeks before [IRONMAN Texas](/races/ironman-texas-2025), on the humid side of the island, in March, with a full Ironman build sitting in my legs. A half marathon under two hours was not on the plan. It was the last real running race before Texas and I was treating it like one more long run with a bib on.
+I'll be honest: I didn't think this was the day. It was five weeks before [IRONMAN Texas](/races/ironman-texas-2025), on the humid side of the island, in March, with a full Ironman build sitting in my legs. A half marathon under two hours was not on the plan, as this was the last real running race before Texas and I was treating it like one more long run with a bib on.
 
-1:58:53. The first time a half marathon on this site starts with a one for me. Two years earlier, on this same course, I ran [2:19](/races/windward-half-2023). Twenty minutes, same road, same weather. What changed? Nothing dramatic. Two years of boring mornings, one at a time, and then one morning where they all showed up together.
+1:58:53! The first time a half marathon on this site starts with a one for me. Two years earlier, on this same course, I ran [2:19](/races/windward-half-2023). Twenty minutes off on the same road in the same weather. What changed? Nothing dramatic, as much as I'd like to say it was. Two years of boring mornings, one at a time, and then one morning where they all showed up together. I was surprised and I did enjoy it.
 
-Jay won the 50-54s at 1:41:31. Whose day was it? Both, for once. Five weeks later, Texas.
+Jay won the 50-54s at 1:41:31. Whose day was it? Both of ours, for once, which doesn't happen often in this house. Five weeks later, Texas.

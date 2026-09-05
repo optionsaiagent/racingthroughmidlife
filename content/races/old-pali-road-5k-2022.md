@@ -23,8 +23,8 @@ results:
     pace: '14:17/M'
 resultSource: 'https://timelinehawaii.com/2022/09/10/2022-old-pali-road-5k/'
 ---
-This one was mine. Jay's name isn't on the sheet, so there was nobody to pace, nobody to chase, and nobody to blame.
+This one was mine. Jay's name isn't on the sheet, so there was nobody to pace, nobody to chase, and nobody to blame but me.
 
-The Old Pali Road is the closed-off, overgrown stretch of the original highway over the mountains, and it goes up. A 5K on it isn't a 5K in the flat, fast sense. It's a 5K in the sense that somebody measured it. Did I know that going in? Sort of. Knowing a road goes up and running up it are two different kinds of knowing.
+The Old Pali Road is the closed-off, overgrown stretch of the original highway over the mountains, and it goes up. A 5K on it isn't a 5K in the flat, fast sense, it's a 5K in the sense that somebody measured it. Did I know that going in? Sort of, as I knew the road went up, but knowing a road goes up and running up it are two different kinds of knowing and I only had the first one.
 
-44:35 on the card, 14:17 a mile, seventh in my age group. Not a PR course, not a PR. A morning on a road you're not normally allowed to run on.
+44:35 on the card, 14:17 a mile, seventh in my age group. Not a PR course and not a PR, but I did enjoy the morning, and it was a road you're not normally allowed to run on.

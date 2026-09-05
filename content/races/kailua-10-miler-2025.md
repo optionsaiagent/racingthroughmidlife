@@ -30,6 +30,6 @@ results:
     pace: '9:08/M'
 resultSource: 'https://timelinehawaii.com/2025/02/23/2025-kailua-10-miler-and-5k/'
 ---
-Three Februarys on the windward side for Jay: [1:21](/races/kailua-10-miler-2023), [1:19](/races/kailua-10-miler-2024), 1:13. He was two months out from a full Ironman and running 7:19 miles into that wind, which is a strange thing for the guy who didn't like running to do. I've quit being surprised. Mostly.
+Three Februarys on the windward side for Jay: [1:21](/races/kailua-10-miler-2023), [1:19](/races/kailua-10-miler-2024), 1:13. He was two months out from a full Ironman and running 7:19 miles into that wind, which is a strange thing for the guy who didn't like running to do. I've quit being surprised by him. Mostly.
 
-Me, 1:31:23 and third in the 40-44s. 9:08 a mile. Same wind as every February out here; it doesn't take the year off. The legs were faster than the ones I brought last time, and that's all I wanted from a 10-miler two months before a full Ironman. Not a race. A reading.
+Me, 1:31:23 and third in the 40-44s! That's 9:08 a mile. Same wind as every February out here, and it doesn't take the year off just because we've got an Ironman coming. The legs were faster than the ones I brought last time, and honestly that's all I wanted from a 10-miler two months before a full Ironman. I wasn't racing it so much as reading it, and I liked what it said.

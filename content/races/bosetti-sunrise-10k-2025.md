@@ -32,8 +32,8 @@ resultSource: 'https://timelinehawaii.com/2025/01/01/2025-bosetti-10k/'
 ---
 New Year's Day, sunrise, Hawaii Kai, third year in a row. I'm a routine person, and this is one of the routines I'd keep even if the race went away.
 
-59:37. Under an hour for a 10K, first time on this site, and third in the 40-44s. Did I plan to break an hour? No. I planned to run a 10K on a holiday morning and not think about it too hard. Then I saw the 59 and thought about it plenty.
+59:37! Under an hour for a 10K for the first time on this site, and third in the 40-44s. Did I plan to break an hour? No. I planned to run a 10K on a holiday morning and not think about it too hard, and then I saw the 59 and thought about it plenty. I'm still thinking about it.
 
-And Jay? 45:48, first in the 50-54s. His three New Year's mornings here go [47:39](/races/bosetti-sunrise-10k-2023), [50:36](/races/bosetti-sunrise-10k-2024), 45:48. The middle one was three weeks after a marathon. This one was three weeks after a 3:41 marathon and it didn't seem to matter. I've stopped trying to explain him.
+And Jay? 45:48, first in the 50-54s. His three New Year's mornings here go [47:39](/races/bosetti-sunrise-10k-2023), [50:36](/races/bosetti-sunrise-10k-2024), 45:48. The middle one was three weeks after a marathon, and this one was three weeks after a 3:41 marathon and it didn't seem to matter to him at all. I've stopped trying to explain him. I just ride along.
 
-The year that followed had two full Ironmans in it. It started here, at sunrise, with a podium each.
+The year that followed had two full Ironmans in it, and it started here, at sunrise, with a podium each.

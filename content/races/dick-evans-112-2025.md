@@ -31,10 +31,10 @@ results:
     bib: 108
 resultSource: 'https://www.webscorer.com/race?raceid=402757'
 ---
-Two months before [IRONMAN California](/races/ironman-california-2025), and the longest ride of that build for both of us. For me it was more than that. It was my first time around the island with a number on.
+Two months before [IRONMAN California](/races/ironman-california-2025), and the longest ride of that build for both of us. For me it was more than that, as it was my first time around the island with a number on.
 
-I was nervous about this one, and not the useful kind of nervous. 112 miles around Oahu, in August, with real traffic and real wind, and a lot of hours to spend inside my own head. I'm an introvert with anxiety. Eight hours alone on a bike is either the best possible thing for that or the worst, and I wasn't sure which until I was in it.
+I was nervous about this one, and not the useful kind of nervous. 112 miles around Oahu, in August, with real traffic and real wind, and a lot of hours to spend inside my own head. I'm an introvert with anxiety (that's me in a nutshell), and eight hours alone on a bike is either the best possible thing for that or the worst, and I honestly wasn't sure which until I was in it. It turned out to be some of both.
 
-7:57:33. A full day. Jay's third lap was 5:55:53, fourteen minutes faster than [2024](/races/dick-evans-112-2024) and his first time under six hours, so he was done a couple of hours before I was. I'd expected that. It was still a long two hours.
+7:57:33. A full day on the bike, and I mean a full day. Jay's third lap was 5:55:53, fourteen minutes faster than [2024](/races/dick-evans-112-2024) and his first time under six hours, so he was done a couple of hours before I was. I'd expected that. It was still a long two hours.
 
-Here's what the ride was for. The full-distance bike leg, done on its own, eight weeks before it had to be done with a swim in front of it and a marathon behind it. That's the [bridge](/lessons/dont-sign-up-before-the-long-run). I built it in August, in traffic, one lap.
+The ride was for one thing. The full-distance bike leg, done on its own, eight weeks before it had to be done with a swim in front of it and a marathon behind it. That's the [bridge](/lessons/dont-sign-up-before-the-long-run), and I built mine in August, in traffic, one lap around the island!

@@ -33,6 +33,6 @@ resultSource: 'https://timelinehawaii.com/2022/09/04/2022-runners-hi-20k/'
 ---
 No video, no notes, just the sheet. Jay 1:48, me 2:23, in September heat, three months before the [marathon](/races/honolulu-marathon-for-fifty).
 
-The 20K is where the readiness series stops being a fun run and starts being the long run. Nobody told us that in 2022. We found out at mile ten.
+The 20K is where the readiness series stops being a fun run and starts being the long run, and nobody told us that in 2022. We found out at mile ten.
 
-I'd like to say more, but I don't trust what I'd remember and I'm not going to make it up. Twelve miles, 12:02 a mile, fifteenth in my age group. That's what's on the card, and that's what I've got.
+I'd like to say more about the day, but I can't remember it well enough to trust myself, and I'd rather leave a short page than a made-up one. Twelve miles at 12:02 a mile, fifteenth in my age group, and Jay fourth in his. That's what's on the card, and that's what I've got.

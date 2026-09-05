@@ -32,8 +32,8 @@ resultSource: 'https://sportstats.one/event/honolulu-marathon/leaderboard/145511
 ---
 The fourth Honolulu Marathon in a row, and the first one we ran as one race instead of two.
 
-Six weeks after a full Ironman, was there a PR to chase? No, and neither of us pretended there was. The plan was the simplest one we've ever written: start together, finish together, take every aid station, enjoy the fireworks. [Whose day is it?](/lessons/whose-day-is-it) Both, and the pace was whatever kept it that way.
+Six weeks after a full Ironman, was there a PR to chase? No, and neither of us pretended there was. The plan was the simplest one we've ever written: start together, finish together, take every aid station, and enjoy the fireworks. [Whose day is it?](/lessons/whose-day-is-it) Both of ours, and the pace was whatever kept it that way.
 
-5:25:08 and 5:25:08. Places 7802 and 7803. He's one place ahead of me on the sheet, and I'm choosing not to have feelings about that. (I have a few.)
+5:25:08 and 5:25:08. Places 7802 and 7803. He's one place ahead of me on the sheet, and I'm choosing not to have feelings about that. (I have a few, and Jay knows about all of them.)
 
-If you only look at the times on this site you'll see this as the slow one. It was the best one. Twenty-six miles next to Jay, every aid station, the fireworks.
+If you only look at the times on this site you'll see this as the slow one. It was the best one! Twenty-six miles next to Jay, every aid station, and the fireworks.
