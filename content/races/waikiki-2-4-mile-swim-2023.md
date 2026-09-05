@@ -1,24 +1,35 @@
 ---
 title: "Waikiki Roughwater Swim 2023: the original Ironman swim"
-deck: "2.4 miles off Waikiki in September, the swim the first Ironman used in 1978. Jay 1:50, me 2:01, and no bike waiting for either of us."
+deck: "2.4 miles off Waikiki in September, the swim the first Ironman used in 1978. Jay 1:50:49, me 2:02:27, and no bike waiting for either of us."
 date: "2023-09-04"
 event: "Waikiki Roughwater Swim"
 location: "Waikiki, Honolulu"
 distance: "2.4 mi"
 discipline: "swim"
 athletes: "Both"
-result: "Jay 1:50 · Michelle 2:01 (our own clocks)"
+result: "Jay 1:50:49 · Michelle 2:02:27"
 results:
   jay:
-    time: "1:50"
+    time: "1:50:49"
+    agegroup: "M50-54"
+    agrank: "44/47"
+    genderRank: "355/391"
+    place: 642
+    bib: 468
   michelle:
-    time: "2:01"
+    time: "2:02:27"
+    agegroup: "F40-44"
+    agrank: "23/23"
+    genderRank: "237/247"
+    place: 680
+    bib: 469
+resultSource: "https://www.pseresults.com/post/waikiki-roughwater-swim-2023"
 author: Michelle
 video: "u1QJ_H0pDQg"
 tags: ["swim", "full distance", "ocean", "progression"]
 ---
 
-I want to be upfront about the numbers on this one. The timing company's results page for the 2023 Roughwater doesn't show either of us when you search it, so the times on the card are ours: Jay in 1 hour 50 minutes, me in 2 hours and 1 minute. If the official sheet ever turns up, it goes on the card and this paragraph goes away.
+The official sheet has us both on it: Jay in 1:50:49, me in 2:02:27, last of the 23 women in my age group and not sorry about it. Two hours and two minutes is a long time to be in the ocean.
 
 ## Why this swim
 

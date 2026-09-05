@@ -505,14 +505,24 @@
  {
   "event": "Waikiki Roughwater Swim 2023",
   "date": "2023-09-04",
-  "source": "self-reported (Jay, 2026-09-04); not found on the timing site",
-  "url": null,
+  "source": "pse/acho",
+  "url": "https://www.pseresults.com/post/waikiki-roughwater-swim-2023",
   "athletes": {
    "jay": {
-    "time": "1:50"
+    "time": "1:50:49",
+    "agegroup": "M50-54",
+    "agrank": "44/47",
+    "gender_rank": "355/391",
+    "place": 642,
+    "bib": 468
    },
    "michelle": {
-    "time": "2:01"
+    "time": "2:02:27",
+    "agegroup": "F40-44",
+    "agrank": "23/23",
+    "gender_rank": "237/247",
+    "place": 680,
+    "bib": 469
    }
   }
  },

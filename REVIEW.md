@@ -16,7 +16,7 @@ Fix by editing the Markdown file named. Delete a line here when it is settled.
 
 5. **Honu 2023 swim location.** The page says Waikoloa, per the brief. If it was Hapuna Beach that year, change `content/races/honu-70-3-2023.md`.
 
-6. **Waikiki Roughwater Swim 2023.** You raced it (Jay 1:50, Michelle 2:01, per Jay). The timing site's search doesn't show either of you, so the page says the times are your own. If you have the official listing, send it and the card gets a source.
+6. ~~Waikiki Roughwater Swim 2023~~ **Settled.** Official from PSE: Jay 1:50:49, Michelle 2:02:27. My first search of that results app had missed you both.
 
 7. **Oahu Pentathlon 2025.** Time is on the page from your own clock (15:22, 6:00 a.m. to 9:22 p.m.), and the page says it's the one number on the site that isn't from a timing sheet. Date settled (Aug 9, 2025). Still missing: what the five events were.
 
