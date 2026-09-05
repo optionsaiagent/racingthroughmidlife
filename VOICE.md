@@ -9,6 +9,7 @@ This file is the floor. On top of it sit two personal voices, each with real wri
 - People talking. Contractions every time: we didn't, it's, you'll, that's. If you wouldn't say it out loud to a friend over a beer, don't write it.
 - Plain and a little wry. Dry humor comes from being specific, not from being clever. "A chicken joined us at the top of Diamond Head" is funny. "Poultry-assisted pacing" is not.
 - Willing to be blunt about our own bodies, mistakes, and age. Self-deprecating, not self-pitying.
+- Complete sentences over fragments. One dry line per section, max. No metaphors for weather; say what the wind and the heat did. (Jay's rules, and they hold for the whole site.)
 - Gen X. We remember dial-up and 4 a.m. formations. We don't need a pep talk and we don't give one.
 - Ends on something concrete (a race, a shoe, a bedtime), not a moral.
 
