@@ -38,6 +38,7 @@ You can also do it by hand:
 
 1. Log in to strava.com as either of you and go to Settings, then My API Application (strava.com/settings/api). Create one application. Name it anything, category "Other", website `https://www.racingthroughmidlife.com`, Authorization Callback Domain `localhost`. Strava shows you a Client ID and a Client Secret.
 2. In this folder, copy `.env.example` to `.env.local` and paste the Client ID and Client Secret into it. That file is gitignored and never leaves your machine.
+   Strava only lets a brand-new app connect its own owner ("Limit of connected athletes exceeded" is the error), so Michelle needs her own application too: log in as Michelle, create one the same way, and paste its values into `STRAVA_CLIENT_ID_MICHELLE` and `STRAVA_CLIENT_SECRET_MICHELLE`. Or ask Strava for a quota increase on the first app and wait a few days.
 3. Run this, once per person, logged in to Strava as that person in your browser:
 
 ```bash

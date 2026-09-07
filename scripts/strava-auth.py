@@ -9,15 +9,13 @@ localhost page that won't load (that's expected). Copy the whole URL from the ad
 back here. The script swaps the code for a refresh token and stores it in .env.local (gitignored).
 """
 import sys, urllib.parse
-from strava_common import load_env, save_env_value, post
+from strava_common import load_env, save_env_value, post, client_for
 
 who = (sys.argv[1] if len(sys.argv) > 1 else "").upper()
 if who not in ("JAY", "MICHELLE"):
     raise SystemExit("Usage: python3 scripts/strava-auth.py jay|michelle")
 env = load_env()
-cid, secret = env.get("STRAVA_CLIENT_ID"), env.get("STRAVA_CLIENT_SECRET")
-if not (cid and secret):
-    raise SystemExit("First put STRAVA_CLIENT_ID and STRAVA_CLIENT_SECRET in .env.local (copy .env.example). See README, 'Strava setup'.")
+cid, secret = client_for(env, who)
 
 params = {"client_id": cid, "response_type": "code", "redirect_uri": "http://localhost/exchange_token",
           "approval_prompt": "force", "scope": "read,activity:read_all"}

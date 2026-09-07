@@ -42,12 +42,18 @@ def get(url, token, params=None):
     with urllib.request.urlopen(req, timeout=60) as r:
         return json.loads(r.read().decode())
 
+def client_for(env, who):
+    """Per-athlete app credentials if present (Strava limits a new app to its owner), else the shared ones."""
+    cid = env.get(f"STRAVA_CLIENT_ID_{who}") or env.get("STRAVA_CLIENT_ID")
+    secret = env.get(f"STRAVA_CLIENT_SECRET_{who}") or env.get("STRAVA_CLIENT_SECRET")
+    if not (cid and secret):
+        raise SystemExit(f"Missing Strava client id/secret for {who.title()} in .env.local. See README, 'Strava setup'.")
+    return cid, secret
+
 def access_token_for(env, who):
     """Exchange the stored refresh token for a short-lived access token. Stores the rotated refresh token."""
-    cid, secret = env.get("STRAVA_CLIENT_ID"), env.get("STRAVA_CLIENT_SECRET")
+    cid, secret = client_for(env, who)
     refresh = env.get(f"STRAVA_REFRESH_TOKEN_{who}")
-    if not (cid and secret):
-        raise SystemExit("Missing STRAVA_CLIENT_ID / STRAVA_CLIENT_SECRET in .env.local. See README, 'Strava setup'.")
     if not refresh:
         raise SystemExit(f"No STRAVA_REFRESH_TOKEN_{who} in .env.local yet. Run: python3 scripts/strava-auth.py {who.lower()}")
     tok = post("https://www.strava.com/oauth/token", {"client_id": cid, "client_secret": secret, "grant_type": "refresh_token", "refresh_token": refresh})
