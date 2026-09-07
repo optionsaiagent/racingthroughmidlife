@@ -59,6 +59,8 @@ If they give you one line, write from one line. Don't pad.
 
 Add every official result to `content/results.json` too, in the same shape as the existing entries, so the record stays in one place.
 
+Before showing the draft, run it through the `humanizer` skill (`~/.claude/skills/humanizer/SKILL.md`) as a final pass: it catches the structural AI tells (not-X-but-Y contrasts, one-line closers, forced triads, staged openers) that the voice skills don't list. Keep the author's voice and every fact; only remove the tells.
+
 Then show them the draft in full and stop. Say what you couldn't verify.
 
 ## Step 4: publish, only when they say go

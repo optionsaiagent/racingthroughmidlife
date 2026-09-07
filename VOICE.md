@@ -21,6 +21,10 @@ This file is the floor. On top of it sit two personal voices, each with real wri
 - The same page fifty times. Race reports don't all need "The race / The week / What we'd tell a friend." Some are a story. Some are six sentences and a video. Headers, if any, should be something a person would actually say.
 - Wikipedia. Course descriptions in our own words, from the seat, not from the organizer's site.
 
+## Last pass
+
+Every draft goes through the `humanizer` skill before anyone reads it. It's a checklist of AI writing tells, strongest first. Fix what it flags without changing the facts or the author's voice.
+
 ## Still true
 
 - No invented times, splits, or results. If we don't have it, the page says so.
