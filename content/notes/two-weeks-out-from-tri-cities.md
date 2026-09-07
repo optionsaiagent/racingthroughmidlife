@@ -1,6 +1,6 @@
 ---
 title: "Two weeks out from Tri-Cities"
-deck: "The week after the Roughwater: four rides on the trainer, four runs, one long one each on Sunday, and IRONMAN 70.3 Washington on the calendar for September 20."
+deck: "The week after the Roughwater: four rides on the trainer, four runs, a long one each this morning, and IRONMAN 70.3 Washington on the calendar for September 20."
 date: "2026-09-06"
 week: "2026 · September, week 1"
 tags: ["70.3", "training", "trainer", "swim", "race week"]
@@ -75,18 +75,18 @@ training:
         time: "1:01:02"
 ---
 
-This week started in the ocean and ended on the road, with most of the middle spent in the garage. We're two weeks out from IRONMAN 70.3 Washington in the Tri-Cities on September 20, so this was the last full week before the volume has to come down, and it looked about like a last full week should.
+We're two weeks out from IRONMAN 70.3 Washington in the Tri-Cities on September 20, so this was the last full week before the volume comes down. It started in the ocean and most of the rest of it happened in the garage.
 
 ## Sunday's swim, then the rest of the week
 
-The week opened with the [Roughwater](/races/waikiki-roughwater-swim-2026), which took both of us about two and a half hours into a current that pulled roughly 80 people out of the race. That's on its own page. What matters for this note is that Monday came anyway, and by Tuesday we were back on the trainer.
+The week opened with the [Roughwater](/races/waikiki-roughwater-swim-2026), which took both of us about two and a half hours into a current that pulled roughly 80 people out of the race. That's on its own page. Monday came anyway, and by Tuesday we were back on the trainer.
 
-For me, the bike week was four Zwift sessions: a HumanGO Power Up interval set on Tuesday, a 60:30 VO2max interval workout on Thursday, and then the usual Saturday double of the ZZRC Rollers ride followed by the Weekend Roll Call with Team Giant, which came to 35 miles and an hour and a half. The runs were short during the week, 3.4 and 3.3 miles on Tuesday and Thursday and a 2.7-mile shakeout Saturday, and then 7.7 miles this morning for the long one. One HIIT session on Wednesday. Michelle's week had more in it: five rides on the trainer, including a HumanGO VO2max set, a Classics Endurance Builder, and a Zone 2 group ride on Friday, four runs of her own, a gym session, three evening yoga sessions, and a walk. Her long run this morning was 6 miles with about 400 feet of climb in it, which is more climb than mine had, so she picked the harder road.
+For me, the bike week was four Zwift sessions: a HumanGO Power Up interval set on Tuesday, a 60:30 VO2max interval workout on Thursday, and the usual Saturday pair of the ZZRC Rollers ride followed by the Weekend Roll Call with Team Giant, which came to 35 miles and an hour and a half. The runs were short during the week, 3.4 and 3.3 miles on Tuesday and Thursday and a 2.7-mile shakeout on Saturday, and then 7.7 miles this morning for the long one. I did one HIIT session on Wednesday. Michelle's week had more in it: five rides on the trainer, including a HumanGO VO2max set, a Classics Endurance Builder, and a Zone 2 group ride on Friday, four runs, a gym session, three evening yoga sessions, and a walk. Her long run this morning was 6 miles with about 400 feet of climb in it, which is more climb than mine had.
 
 ## Where the training is
 
-The Tri-Cities race is a 70.3, and everything we did this week was pointed at it: the intervals on the trainer are the HumanGO plan for the last hard block, the Saturday group rides are where the long bike lives now that the Oahu roads are mostly a weekend thing, and the Sunday runs are the last long ones before the taper. Two weeks out, the work is mostly done. What's left is arriving at the start line rested, which sounds simple and usually isn't.
+The Tri-Cities race is a 70.3, and this week was the last hard block of the HumanGO plan for it. The intervals on the trainer were the hard part, the Saturday group rides were the long bike, and this morning's runs were the last long ones before the taper. Two weeks out, the work is mostly done, and the next two weeks are for getting to the start line rested.
 
 ## Next week
 
-The volume comes down and the [logistics](/lessons/race-week-is-a-logistics-problem) go up. The bikes get packed, the food we've already tested gets packed, and we fly to Washington for a race that, for once, should be cooler than home. The Roughwater gave us a swim we didn't want and a fact we did: two and a half hours in the water without stopping. A 1.2-mile swim in a river should feel short after that.
+The volume comes down and the packing starts. The bikes go in their boxes, the food we've already tested goes in the bags, and we fly to Washington for a race that, for once, should be cooler than home. After two and a half hours in the ocean last Sunday without stopping, a 1.2-mile swim should feel short.
