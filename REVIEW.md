@@ -46,6 +46,10 @@ Every race report and field note now has an `author:` byline, split roughly in h
 
 `content/results.json` holds every official result found, with its source URL. Sources: Timeline Hawaii (result tables on each event page), Pacific Sport Events via the acho.io results app, RunSignup's results API, RaceResult's data API, Webscorer, Sportstats, and IRONMAN's competitor results service. Nothing was typed from memory. `scripts/apply-results.mjs` and `scripts/new-race-pages.mjs` wrote the frontmatter, if you ever need to rerun them.
 
+12. **Waikiki Roughwater 2025.** Page added from Jay's account (about 1:30, together). Date assumed to be Labor Day weekend 2025 (Aug 31); the official results should be on PSE's 2025 events page, which I couldn't read. Confirm the date and the official times when you can.
+
+13. **Waikiki Roughwater 2026.** Times on the page are from your watches via Strava. PSE hadn't posted the official results as of Sept 6, 2026; the Sunday checker will keep looking.
+
 ## Copy to read with a red pen
 
 These pages describe courses from public knowledge and your titles, not from your notes. Read them for anything that is wrong about the course or the day:

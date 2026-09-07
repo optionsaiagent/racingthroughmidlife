@@ -1174,6 +1174,20 @@
   }
  },
  {
+  "event": "Waikiki Roughwater Swim 2025",
+  "date": "2025-08-31",
+  "source": "self-reported (Jay, 2026-09-06); official not yet found",
+  "url": null,
+  "athletes": {
+   "jay": {
+    "time": "1:30"
+   },
+   "michelle": {
+    "time": "1:30"
+   }
+  }
+ },
+ {
   "event": "2025 IRONMAN 70.3 Augusta",
   "date": "2025-09-28",
   "source": "ironman",
@@ -1392,6 +1406,20 @@
     "t2": "0:06:03",
     "run": "2:32:22",
     "bib": 611
+   }
+  }
+ },
+ {
+  "event": "Waikiki Roughwater Swim 2026",
+  "date": "2026-08-30",
+  "source": "self-reported via Strava (own watches); official PSE results not posted as of 2026-09-06",
+  "url": null,
+  "athletes": {
+   "jay": {
+    "time": "2:27:09"
+   },
+   "michelle": {
+    "time": "2:27:07"
    }
   }
  }

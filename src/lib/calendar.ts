@@ -224,7 +224,7 @@ export const CALENDAR: CalendarEvent[] = [
     distance: "2.4 mi",
     discipline: "swim",
     take: "The swim the first Ironman used in 1978, still run every September. The full 2.4 miles in the ocean with no bike waiting for you, which is a good way to find out whether the swim's the thing you should be worried about.",
-    races: ["waikiki-2-4-mile-swim-2023"],
+    races: ["waikiki-2-4-mile-swim-2023", "waikiki-roughwater-swim-2025", "waikiki-roughwater-swim-2026"],
   },
   {
     name: "Honolulu Century Ride",
