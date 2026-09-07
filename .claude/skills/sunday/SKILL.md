@@ -26,7 +26,17 @@ Then pull the week's training from Strava, if it's set up (README, "Strava setup
 python3 scripts/strava-week.py
 ```
 
-That gives you both athletes' sessions for the last seven days with their own activity titles, which are usually the best raw material for a note. If it says tokens are missing, say so once and carry on without it. Strava data is for the note's texture (what the week was, how much, which days were long); it is not a results source and never goes on a race card.
+That gives you both athletes' sessions for the last seven days with their own activity titles, which are usually the best raw material for a note. Every Sunday note carries the week on Strava, two ways:
+
+1. A `training:` block in the note's frontmatter, rendered as a card on the page. Generate it and paste it in as is:
+
+```bash
+python3 scripts/strava-week.py --yaml
+```
+
+2. A short paragraph in the body, in the author's voice, that says what the week was in plain terms: how many sessions, the long ones, what was on the trainer, what got skipped. Use the Strava titles (they carry the Humango workout names) and don't recite the table.
+
+If the script says tokens are missing, say so once and write the note without the card. Strava data is training, not results; it never goes on a race card.
 
 If a race shows up that the site doesn't have, or a video, say so before anything else. For races timed by other companies (Pacific Sport Events, Sportstats, RunSignup, RaceResult, Webscorer), `results-sources.md` in this folder explains how to read each one. Do the lookup yourself; don't ask Jay for a time you can get.
 

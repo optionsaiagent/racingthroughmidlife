@@ -4,6 +4,7 @@
     python3 scripts/strava-week.py            # last 7 days
     python3 scripts/strava-week.py --days 14
     python3 scripts/strava-week.py --json     # machine-readable
+    python3 scripts/strava-week.py --yaml     # a `training:` block to paste into a Sunday note's frontmatter
 
 Prints each activity (day, sport, title, distance, time, climb, avg HR if shared) and per-sport totals.
 Read-only. Never writes to Strava or the site.
@@ -13,6 +14,7 @@ from strava_common import load_env, access_token_for, get, ATHLETES
 
 DAYS = int(sys.argv[sys.argv.index("--days") + 1]) if "--days" in sys.argv else 7
 AS_JSON = "--json" in sys.argv
+AS_YAML = "--yaml" in sys.argv
 after = int(time.time()) - DAYS * 86400
 
 def mi(m): return m / 1609.344
@@ -48,6 +50,36 @@ for who in ATHLETES:
 
 if AS_JSON:
     print(json.dumps(report, indent=1)); sys.exit()
+
+SPORT_LABEL = {"VirtualRide": "Trainer", "Ride": "Ride", "Run": "Run", "Swim": "Swim", "Walk": "Walk", "Yoga": "Yoga",
+               "HighIntensityIntervalTraining": "HIIT", "WeightTraining": "Gym", "Workout": "Workout", "Hike": "Hike", "TrailRun": "Trail run"}
+if AS_YAML:
+    def q(x): return '"' + str(x).replace('"', "'") + '"'
+    start = (datetime.date.today() - datetime.timedelta(days=DAYS)).isoformat(); end = datetime.date.today().isoformat()
+    print("training:")
+    print(f"  from: {q(start)}")
+    print(f"  to: {q(end)}")
+    for who, r in report.items():
+        print(f"  {who.lower()}:")
+        print("    totals:")
+        for k, v in r["totals"].items():
+            print(f"      - sport: {q(SPORT_LABEL.get(k, k))}")
+            print(f"        count: {v['count']}")
+            if v["miles"]: print(f"        miles: {v['miles']}")
+            print(f"        time: {q(v['time'])}")
+        longest = sorted(r["activities"], key=lambda a: a["moving"], reverse=False)
+        # pick the three longest by moving time (parse h:mm:ss)
+        def secs(t):
+            parts = [int(x) for x in t.split(":")]; return parts[0]*3600+parts[1]*60+parts[2] if len(parts)==3 else parts[0]*60+parts[1]
+        longest = sorted(r["activities"], key=lambda a: secs(a["moving"]), reverse=True)[:3]
+        print("    longest:")
+        for a in longest:
+            print(f"      - date: {q(a['date'])}")
+            print(f"        sport: {q(SPORT_LABEL.get(a['sport'], a['sport']))}")
+            print(f"        name: {q(a['name'])}")
+            if a["miles"]: print(f"        miles: {a['miles']}")
+            print(f"        time: {q(a['moving'])}")
+    sys.exit()
 
 since = (datetime.date.today() - datetime.timedelta(days=DAYS)).isoformat()
 print(f"Strava, last {DAYS} days (since {since})\n")

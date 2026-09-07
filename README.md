@@ -57,7 +57,7 @@ python3 scripts/strava-auth.py michelle
 python3 scripts/strava-week.py
 ```
 
-That prints the last seven days for both of you: sport, distance, time, climb, average heart rate if you share it, and your activity titles. `/sunday` runs it automatically. The scripts only ever read; nothing gets written to Strava.
+That prints the last seven days for both of you: sport, distance, time, climb, average heart rate if you share it, and your activity titles. `python3 scripts/strava-week.py --yaml` prints a `training:` block that goes in a Sunday note's frontmatter and renders as "The week on Strava" card on the page. `/sunday` does both automatically. The scripts only ever read; nothing gets written to Strava.
 
 
 

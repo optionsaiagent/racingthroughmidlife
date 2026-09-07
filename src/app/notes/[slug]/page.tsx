@@ -5,6 +5,7 @@ import Prose from "@/components/Prose";
 import YouTube from "@/components/YouTube";
 import Disclaimer from "@/components/Disclaimer";
 import { MiniList } from "@/components/Cards";
+import TrainingCard from "@/components/TrainingCard";
 import { getNote, getNotes, getLessons, getRaces, fmtDate, related, readingTime } from "@/lib/content";
 import { VIDEOS } from "@/lib/videos";
 
@@ -60,6 +61,7 @@ export default async function NotePage({ params }: { params: Promise<{ slug: str
           <Disclaimer className="mt-12 max-w-[66ch]" />
         </div>
         <aside className="lg:sticky lg:top-6 self-start space-y-8">
+          {note.training ? <TrainingCard training={note.training} /> : null}
           {note.tags?.length ? (
             <p className="mono text-[0.7rem] uppercase tracking-wider text-mute">{note.tags.join(" · ")}</p>
           ) : null}

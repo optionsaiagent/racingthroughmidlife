@@ -54,8 +54,14 @@ export interface Race extends Base {
   essay?: boolean; // not a race day; a piece that lives under /races for URL continuity
 }
 
+export interface TrainingTotal { sport: string; count: number; miles?: number; time: string }
+export interface TrainingSession { date: string; sport: string; name: string; miles?: number; time: string }
+export interface AthleteWeek { totals: TrainingTotal[]; longest?: TrainingSession[] }
+export interface WeekTraining { from: string; to: string; jay?: AthleteWeek; michelle?: AthleteWeek }
+
 export interface Note extends Base {
   week?: string; // e.g. "2023 · Feb, week 3"
+  training?: WeekTraining; // the week on Strava, pasted from scripts/strava-week.py --yaml
 }
 
 export interface Lesson extends Base {
