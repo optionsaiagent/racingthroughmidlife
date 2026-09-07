@@ -70,8 +70,8 @@ export default function Home() {
         <div className="mx-auto max-w-6xl px-5 sm:px-8 grid sm:grid-cols-3 divide-y sm:divide-y-0 sm:divide-x divide-line">
           {[
             { href: "/races", k: "Race reports", v: "One page per race, so the day doesn't only live inside a YouTube thumbnail." },
-            { href: "/notes", k: "Field notes", v: "The weeks between races. Heat, salt, 4:30 alarms, the trainer, and whose day it is." },
-            { href: "/lessons", k: "Do's and don'ts", v: "What we'd tell you over dinner. Argue with it." },
+            { href: "/notes", k: "Field notes", v: "The weeks between races. Heat, salt, 4:30 alarms, the trainers, and the all-important nutrition and recovery." },
+            { href: "/lessons", k: "Do's and don'ts", v: "What we'd tell you over dinner." },
           ].map((c) => (
             <Link key={c.href} href={c.href} className="group py-6 sm:px-6 first:pl-0 last:pr-0">
               <span className="display text-2xl text-ink group-hover:text-brand transition-colors">{c.k} →</span>
