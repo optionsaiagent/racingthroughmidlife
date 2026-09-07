@@ -20,6 +20,14 @@ Run the checker first. It sweeps Timeline Hawaii for the past nine days, asks IR
 python3 scripts/check-week.py
 ```
 
+Then pull the week's training from Strava, if it's set up (README, "Strava setup"):
+
+```bash
+python3 scripts/strava-week.py
+```
+
+That gives you both athletes' sessions for the last seven days with their own activity titles, which are usually the best raw material for a note. If it says tokens are missing, say so once and carry on without it. Strava data is for the note's texture (what the week was, how much, which days were long); it is not a results source and never goes on a race card.
+
 If a race shows up that the site doesn't have, or a video, say so before anything else. For races timed by other companies (Pacific Sport Events, Sportstats, RunSignup, RaceResult, Webscorer), `results-sources.md` in this folder explains how to read each one. Do the lookup yourself; don't ask Jay for a time you can get.
 
 ## Step 2: get the bullets
