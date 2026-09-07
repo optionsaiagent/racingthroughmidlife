@@ -34,7 +34,7 @@ That gives you both athletes' sessions for the last seven days with their own ac
 python3 scripts/strava-week.py --yaml
 ```
 
-2. A short paragraph in the body, in the author's voice, that says what the week was in plain terms: how many sessions, the long ones, what was on the trainer, what got skipped. Use the Strava titles (they carry the Humango workout names) and don't recite the table.
+2. Commentary in the body, in the author's voice, that talks about how the sessions felt and what they cost, not what they were. The card has the what. Use the Strava titles (they carry the Humango workout names) for context, and don't recite the table.
 
 If the script says tokens are missing, say so once and write the note without the card. Strava data is training, not results; it never goes on a race card.
 
@@ -53,7 +53,22 @@ If they give you one line, write from one line. Don't pad.
 
 ## Step 3: draft
 
-**Field note** → `content/notes/<slug>.md`. Slug is short and specific (`the-rib-came-back`, not `weekly-update-37`). Frontmatter per README: `title`, `deck`, `date` (the Sunday), `week` like `2026 · September, week 2`, `tags` from the existing tag set (run `grep -h "^tags" content/notes/*.md | sort | uniq -c` to see it), `video` if there is one. Body 250 to 500 words. Link to the race pages it touches with relative paths.
+**Field note** → `content/notes/<slug>.md`. Slug is short and specific (`the-rib-came-back`, not `weekly-update-37`). Frontmatter per README: `title`, `deck`, `date` (the Sunday), `week` like `2026 · September, week 2`, `tags` from the existing tag set (run `grep -h "^tags" content/notes/*.md | sort | uniq -c` to see it), `video` if there is one, `author`, and the `training:` block. Body 250 to 500 words. Link to the race pages it touches with relative paths.
+
+The shape of a field note, which Jay set on 2026-09-07:
+
+1. **Opener.** One paragraph: where the week sits (what's next on the calendar, how far out) and the one thing that defined it.
+2. **The week, but not a rehash.** The day-by-day card on the right already lists every session, so the body does not recite them. It explains the shape (which days were bricks, which was the long one, why the short runs are short) only where the shape needs explaining, and then spends its words on the personal part: how a session felt, the effort it took, what went wrong, what surprised them. Ask for that in step 2 if they didn't give it; do not invent it.
+3. **Sidebars.** Small, specific observations that don't fit the narrative: a gel that tasted fine but couldn't be opened with sweaty hands mid-run, a bottle cage that rattled, a sock that didn't survive the swim. Write them as a blockquote whose first line starts with `Sidebar:`; the site renders that as a boxed aside. Zero to three per note. Only real ones.
+4. **Next week.** Short.
+
+Generate the training block with `--end` set to the Sunday so it runs Monday to Sunday:
+
+```bash
+python3 scripts/strava-week.py --yaml --end YYYY-MM-DD
+```
+
+The card marks a run straight off the bike as a brick automatically.
 
 **Race recap** → `content/races/<race-slug-year>.md`. Frontmatter per README, including `results:` with whatever the timing site gave (time, age group, AG place, overall, splits) and `resultSource:` with the URL. Set `athletes:` to who actually raced. Exact `date` from the results page. If the race is on the Oahu calendar, add the slug to its entry in `src/lib/calendar.ts`. If there's a video, add it to the top of `content/videos.json` with `race` pointing at the slug.
 

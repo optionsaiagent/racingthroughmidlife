@@ -57,7 +57,7 @@ python3 scripts/strava-auth.py michelle
 python3 scripts/strava-week.py
 ```
 
-That prints the last seven days for both of you: sport, distance, time, climb, average heart rate if you share it, and your activity titles. `python3 scripts/strava-week.py --yaml` prints a `training:` block that goes in a Sunday note's frontmatter and renders as "The week on Strava" card on the page. `/sunday` does both automatically. The scripts only ever read; nothing gets written to Strava.
+That prints the last seven days for both of you: sport, distance, time, climb, average heart rate if you share it, and your activity titles. `python3 scripts/strava-week.py --yaml --end <sunday>` prints a Monday-to-Sunday `training:` block that goes in a Sunday note's frontmatter and renders as "The week on Strava" card on the page. `/sunday` does both automatically. The scripts only ever read; nothing gets written to Strava.
 
 
 
@@ -78,6 +78,14 @@ Body in Markdown. Use ## for sections. Link to other pages with relative paths, 
 ```
 
 Push it. Vercel rebuilds. It is on the home page as the latest note.
+
+### Sidebars in a note
+
+A blockquote whose first line starts with `Sidebar:` renders as a boxed aside, for the small specific things that don't fit the story:
+
+```markdown
+> Sidebar: Tried a new gel on Thursday's brick. Tasted fine, clean ingredients, and I couldn't get the packet open with sweaty hands, so it's useless to me in a race.
+```
 
 ## Add a race report
 

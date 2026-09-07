@@ -51,7 +51,7 @@ This is the race the whole site is about, in the sense that every page before it
 
 ## How the ladder got here
 
-We raced the Honolulu Triathlon [for real](/races/honolulu-triathlon-2014-and-again) in May 2023, then came a 70.3 [in the lava](/races/honu-70-3-2023) that June, [112 miles around Oahu](/races/dick-evans-112-2023) in August, [2.4 miles off Waikiki](/races/waikiki-2-4-mile-swim-2023) in September, and a [marathon](/races/honolulu-marathon-2023) with a whole readiness series behind it in December. After that came a year and change of the kind of training a full distance takes, [paid for in sleep](/lessons/sleep-funds-the-season), most of it starting at 5 a.m. in the garage or on a road before the sun came up.
+We raced the Honolulu Triathlon [for real](/races/honolulu-triathlon-2014-and-again) in May 2023, then came a 70.3 [in the lava](/races/honu-70-3-2023) that June, [112 miles around Oahu](/races/dick-evans-112-2023) in August, [2.4 miles off Waikiki](/races/waikiki-2-4-mile-swim-2023) in September, and a [marathon](/races/honolulu-marathon-2023) with a whole readiness series behind it in December. After that came a year and change of the kind of training a full distance takes, [paid for in sleep](/lessons/sleep-funds-the-season), most of it starting at 5 a.m. on the trainer or on a road before the sun came up.
 
 ## The race
 

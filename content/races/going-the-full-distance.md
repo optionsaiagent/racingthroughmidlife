@@ -27,7 +27,7 @@ Only after every one of those was done, and done for real rather than in theory,
 
 ## What it costs at fifty
 
-The full distance isn't a personality, it's a season you pay for in sleep, and every long-course season since has been paid for the same way: earlier bedtimes, fewer evenings out, and a social calendar that got thin for a few months and stayed that way. The long rides start at 5 a.m. because of the heat and usually eat most of a Saturday. The long runs eat most of a Sunday. The trainer in the garage takes the weekday hours that used to belong to something else, and we've mostly stopped remembering what that was.
+The full distance isn't a personality, it's a season you pay for in sleep, and every long-course season since has been paid for the same way: earlier bedtimes, fewer evenings out, and a social calendar that got thin for a few months and stayed that way. The long rides start at 5 a.m. because of the heat and usually eat most of a Saturday. The long runs eat most of a Sunday. The trainers in the room off the bedroom take the weekday hours that used to belong to something else, and we've mostly stopped remembering what that was.
 
 It's a heat problem because the training has to happen in Honolulu, where every long session is a heat session and the recovery takes longer than the pace suggests. It's a marriage problem because two people in one house can't both be in a full-distance build unless [whose day is it](/lessons/whose-day-is-it) is doing real work every single weekend. It's a calendar problem because the season is long, the rest of life doesn't slow down for it, and [the plan's in pencil](/lessons/the-plan-is-written-in-pencil) whether we like it or not.
 

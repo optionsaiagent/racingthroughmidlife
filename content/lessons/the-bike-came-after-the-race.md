@@ -34,6 +34,6 @@ A month after that Michelle had a proper bike fit, which is the [other half of t
 
 ## Why the order matters at this age
 
-At this age we've got the money to buy the thing before we've earned it. That's exactly the trap. The gear makes the decision feel made. Then the first race is hard, the way first races are, and the bike moves to the garage to be a reminder.
+At this age we've got the money to buy the thing before we've earned it. That's exactly the trap. The gear makes the decision feel made. Then the first race is hard, the way first races are, and the bike ends up in a corner to be a reminder.
 
 Race the first one on what you've got. Let the race decide whether there's a second one. Then buy the bike, and ride it a lot, alone, in the heat, before it ever sees a transition area.

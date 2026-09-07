@@ -18,6 +18,19 @@ export default function Prose({ children, className = "" }: { children: string; 
               </a>
             );
           },
+          blockquote: ({ children, node }) => {
+            // A blockquote whose first text starts with "Sidebar:" renders as a boxed aside.
+            const first = (node?.children?.[0] as { children?: { value?: string }[] } | undefined)?.children?.[0]?.value ?? "";
+            if (/^\s*Sidebar:/i.test(first)) {
+              return (
+                <aside className="sidebar my-8 border border-line bg-foam px-5 py-4 text-[1.02rem] leading-snug">
+                  <p className="eyebrow !text-buoy mb-2">Sidebar</p>
+                  <div className="sidebar-body">{children}</div>
+                </aside>
+              );
+            }
+            return <blockquote>{children}</blockquote>;
+          },
           table: ({ children }) => (
             <div className="table-wrap">
               <table>{children}</table>

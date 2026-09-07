@@ -23,7 +23,7 @@ const TIMELINE = [
   { when: "May 2023", what: "Honolulu Triathlon, raced seriously. Hibiscus Half: Michelle 2:12, a PR, Jay pacing.", href: "/races/hibiscus-half-2023" },
   { when: "Jun 2023", what: "IRONMAN 70.3 Hawaii. Jay's first 70.3.", href: "/races/honu-70-3-2023" },
   { when: "Aug 2023", what: "Dick Evans Memorial: 112 miles around Oahu.", href: "/races/dick-evans-112-2023" },
-  { when: "Oct 2023", what: "First ride over the Pali. First ride on Zwift. The garage becomes a gym." , href: "/notes/the-trainer-in-the-garage"},
+  { when: "Oct 2023", what: "First ride over the Pali. First ride on Zwift. The room off the bedroom becomes a gym." , href: "/notes/the-trainers-off-the-bedroom"},
   { when: "Dec 2023", what: "Honolulu Marathon, again. 4:00 and 5:37.", href: "/races/honolulu-marathon-2023" },
   { when: "Jun 2024", what: "Michelle's first 70.3 at Honu. Jay 81 minutes faster than the year before.", href: "/races/honu-70-3-2024" },
   { when: "Dec 2024", what: "Honolulu Marathon: Jay 3:41, Michelle 4:39. The PR year.", href: "/races/honolulu-marathon-2024" },

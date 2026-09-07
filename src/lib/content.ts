@@ -55,8 +55,9 @@ export interface Race extends Base {
 }
 
 export interface TrainingTotal { sport: string; count: number; miles?: number; time: string }
-export interface TrainingSession { date: string; sport: string; name: string; miles?: number; time: string }
-export interface AthleteWeek { totals: TrainingTotal[]; longest?: TrainingSession[] }
+export interface TrainingSession { date?: string; sport: string; name: string; miles?: number; time: string; brick?: boolean }
+export interface TrainingDay { date: string; sessions: TrainingSession[] }
+export interface AthleteWeek { totals: TrainingTotal[]; days?: TrainingDay[]; longest?: TrainingSession[] }
 export interface WeekTraining { from: string; to: string; jay?: AthleteWeek; michelle?: AthleteWeek }
 
 export interface Note extends Base {

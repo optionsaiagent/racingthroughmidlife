@@ -30,4 +30,4 @@ At this age the easy work is where the volume lives. The hard sessions cost more
 
 Once we started treating the easy days as actually easy, the heat quit winning every session. It still won some.
 
-The [trainer in the garage](/notes/the-trainer-in-the-garage) helped with this more than I expected, because on the trainer there's no drift from the sun. Only from the fan not being big enough.
+The [trainer in the room off the bedroom](/notes/the-trainers-off-the-bedroom) helped with this more than I expected, because on the trainer there's no drift from the sun. Only from the fan not being big enough.
