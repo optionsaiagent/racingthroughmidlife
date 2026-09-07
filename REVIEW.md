@@ -50,6 +50,10 @@ Every race report and field note now has an `author:` byline, split roughly in h
 
 13. **Waikiki Roughwater 2026.** Times on the page are from your watches via Strava. PSE hadn't posted the official results as of Sept 6, 2026; the Sunday checker will keep looking.
 
+## Coming up
+
+- **IRONMAN 70.3 Washington (Tri-Cities), Sept 20, 2026**, both of you. After the race, `/sunday recap` pulls the result from IRONMAN's results service by name; the event id will be on ironman.com's Washington results page.
+
 ## Copy to read with a red pen
 
 These pages describe courses from public knowledge and your titles, not from your notes. Read them for anything that is wrong about the course or the day:
