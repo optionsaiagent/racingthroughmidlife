@@ -11,7 +11,7 @@ tags: ["full distance", "progression", "sleep", "heat", "couples"]
 author: Jay
 ---
 
-A friend of ours put it better than we ever have: an Ironman is a bike race with a swim warmup and a run cooldown. After two of them, that's still the most accurate sentence we know about the distance, because the bike is where the day is decided and the other two legs are where you find out what the bike cost you.
+Our friend John put it better than we ever have: an Ironman is a bike race with a swim warmup and a run cooldown. After two of them, that's still the most accurate sentence we know about the distance, because the bike is where the day is decided and the other two legs are where you find out what the bike cost you.
 
 Training for a full Ironman in Honolulu is a heat problem, a marriage problem, and a calendar problem, usually in that order and occasionally all three before breakfast. This is the page about the decision, not the race. The races have their own pages, [IRONMAN Texas](/races/ironman-texas-2025) in April 2025 and [IRONMAN California](/races/ironman-california-2025) that October, both with the official results on them.
 
