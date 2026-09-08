@@ -6,7 +6,7 @@ import { getRaces, racesByYear } from "@/lib/content";
 
 export const metadata: Metadata = {
   title: "Race reports",
-  description: "One page per race, 2014 to now. Local Honolulu races and the ones we flew for. Official times only. We don't make up splits.",
+  description: "One page per race from 2014 to now, the local Honolulu races and the ones we flew for, with official times only because we don't make up splits.",
 };
 
 export default function RacesPage() {
@@ -20,7 +20,7 @@ export default function RacesPage() {
       <PageHeader
         eyebrow={`Race reports · ${total} entries`}
         title="The days that count"
-        deck="Local Honolulu races and the ones we got on a plane for, one page each. We don't make up splits. If a result's blank, we don't have the official one yet."
+        deck="Local Honolulu races and the ones we got on a plane for, one page each. We don't make up splits, so if a result is blank we don't have the official one yet."
       >
         <nav aria-label="Jump to year" className="mt-8 flex flex-wrap gap-2">
           {years.map((y) => (

@@ -5,7 +5,7 @@ import { getNotes } from "@/lib/content";
 
 export const metadata: Metadata = {
   title: "Field notes",
-  description: "Not a training plan. What the week actually looked like, written down on Sundays when we did the work. Heat, 4:30 alarms, the trainer, and whose day it is.",
+  description: "The weeks between races, written down on Sundays when we did the work and never as a training plan: heat, 4:30 alarms, the trainer, and whose day it is.",
 };
 
 export default function NotesPage() {
@@ -16,7 +16,7 @@ export default function NotesPage() {
       <PageHeader
         eyebrow={`Field notes · ${notes.length} entries`}
         title="What the week actually looked like"
-        deck="Not a training plan. The weeks between races, written down on Sundays when we did the work. If one of these reads like advice, it's the kind you'd get from a friend, not a coach."
+        deck="The weeks between races, written down on Sundays when we did the work, with no training plan behind any of it. If one of these reads like advice, it's the kind you'd get from a friend over dinner, and we aren't coaches."
       >
         <p className="mt-6 mono text-xs text-mute">Themes: {tags.join(" · ")}</p>
       </PageHeader>

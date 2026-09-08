@@ -15,7 +15,7 @@ export default function LessonsPage() {
       <PageHeader
         eyebrow={`Lessons · ${lessons.length} entries`}
         title="What we'd tell you over dinner"
-        deck="Every one of these came out of a specific week, a specific race, or a specific mistake. None of it's a protocol."
+        deck="Every one of these came out of a specific week, race, or mistake, and none of it is a protocol."
       />
       <div className="mx-auto max-w-6xl px-5 sm:px-8">
         <EntryList items={lessons} base="/lessons" kind="Lesson" />

@@ -1,6 +1,6 @@
 ---
 title: "If you're 40 and up and want to start"
-deck: "How a 42-year-old and a 49-year-old went from an 8-mile fun run to a full Ironman without a coach, in order, with the dates. Not a plan. A ladder you can look at while you figure out what to do with your own Saturday."
+deck: "How a 42-year-old and a 49-year-old went from an 8-mile fun run to a full Ironman without a coach, in order, with the dates, written down so you can look at the ladder we climbed while you figure out what to do with your own Saturday."
 date: "2026-09-03"
 ---
 
@@ -8,60 +8,50 @@ date: "2026-09-03"
 
 You're somewhere between 40 and 65. Maybe you used to be active, maybe you never were, and lately you've noticed that stairs have become a data point. You've seen the finisher photos and thought, quietly, that some of those people look like you.
 
-You don't want a coach. You don't want a plan with twelve tabs. You want to know what two regular people actually did, in what order, and what it cost them.
-
-That's this page. We're not trainers and we're not doctors. We're two Army vets in Honolulu who started late, at 42 and 49, and kept going. Everything here is what we did, not what you should do. Talk to your own doctor first. Then keep reading.
+You probably don't want a coach or a plan with twelve tabs, you want to know what two regular people actually did, in what order, and what it cost them. That's what this page is. We aren't trainers and we aren't doctors, we're two Army vets in Honolulu who started late, at 42 and 49, and kept going. Everything here is what we did, not what you should do, so talk to your own doctor first and then keep reading.
 
 ## What we did first, and would do again
 
-We didn't start with a triathlon. We started with a run we could already finish.
+We didn't start with a triathlon, we started with a run we could already finish. For years the longest either of us ran was the Great Aloha Run, 8.15 miles from Aloha Tower to the stadium on Presidents' Day. It has a huge field, a real start-line atmosphere, and a distance a beginner can usually finish without walking. We did that race, and not much else, for a long time, and staying on that one rung for years wasn't a failure, it was just the rung we were on.
 
-For years the longest either of us ran was the Great Aloha Run, 8.15 miles from Aloha Tower to the stadium on Presidents' Day. Huge field, real start-line energy, and a distance a beginner can finish without walking. We did that, and not much else, for a long time. That was fine. Staying on one rung isn't failing. It's a rung.
+The thing that finally changed was a date. In December 2021 Michelle watched the Honolulu Marathon and said we should run it the next year for Jay's fiftieth. Jay had never wanted a marathon and didn't like running, but now there was a date, a person he didn't want to let down, and twelve months to get ready.
 
-What changed wasn't motivation. It was a date. In December 2021 Michelle watched the Honolulu Marathon and said we should run it the next year for Jay's fiftieth. Jay had never wanted a marathon. He didn't like running. But now there was a date, and a person he didn't want to let down, and twelve months.
-
-So we built the next rung: a half marathon, Hibiscus, in May 2022. Then the marathon that December. Then, because the marathon made a long day feel survivable, an Olympic-distance tri we'd done badly back in 2014. Then a 70.3 on a hard course. Then a 112-mile ride around the island. Then the full distance.
-
-We didn't skip a rung. Every one of them was within shouting distance of something we'd already suffered through.
+So we built the next rung: a half marathon, Hibiscus, in May 2022, and then the marathon that December. After that, because the marathon made a long day feel survivable, we went back to an Olympic-distance tri we'd done badly in 2014, then a 70.3 on a hard course, then a 112-mile ride around the island, and then the full distance. We didn't skip a rung, and every one of them was within shouting distance of something we'd already suffered through.
 
 ## The original Ironman, one leg at a time
 
-Here's something we only figured out after the fact. The first Ironman, in February 1978, wasn't a purpose-built course. It was three races that already existed on Oahu, run back to back: the Waikiki Roughwater Swim, a 112-mile lap of the island on the bike, and the Honolulu Marathon. In 2023 we did all three of those as separate races, months apart: the [Dick Evans](/races/dick-evans-112-2023) around the island in August, the [Roughwater](/races/waikiki-2-4-mile-swim-2023) in September, and the [marathon](/races/honolulu-marathon-2023) in December. That's the whole full distance, done in pieces, on the roads and water it was invented on. If you live here, the same three races are on the calendar every year, and doing them one at a time is a pretty honest way to find out whether you want to do them on the same day.
+We only figured this out after the fact. The first Ironman, in February 1978, was three races that already existed on Oahu, run back to back: the Waikiki Roughwater Swim, a 112-mile lap of the island on the bike, and the Honolulu Marathon. In 2023 we did all three of those as separate races, months apart: the [Dick Evans](/races/dick-evans-112-2023) around the island in August, the [Roughwater](/races/waikiki-2-4-mile-swim-2023) in September, and the [marathon](/races/honolulu-marathon-2023) in December. That's the whole full distance, done in pieces, on the roads and water it was invented on. If you live here, the same three races are on the calendar every year, and doing them one at a time is a pretty honest way to find out whether you want to do them on the same day.
 
-## The three things that actually mattered
+## What mattered most
 
-**Getting up early, most days.** Not a heroic block of training. A boring one. In Honolulu the only hour cool enough to get real work done is the one before sunrise, so the alarm's early and the workout is whatever fits before the day starts. Showing up at 5 a.m. beat every ambitious Saturday we ever planned. If you live somewhere cooler, your version might be lunch or after work. Same rule: pick the hour you'll actually keep.
+Getting up early, most days, mattered more than any heroic block of training. In Honolulu the only hour cool enough to get real work done is the one before sunrise, so the alarm was usually set early and the workout was whatever fit before the day started. Showing up at 5 a.m. on ordinary weekdays beat every ambitious Saturday we ever planned. If you live somewhere cooler, your version might be lunch or after work, and the rule is the same either way: pick the hour you'll actually keep.
 
-**The next rung, not the far one.** A 10K person who signs up for an Ironman because a podcast told him midlife is a starting line has skipped five rungs. We always picked the next distance that scared us a little and was still close to what we'd done. A half before the marathon. An Olympic before the 70.3. The 112-mile ride before the 140.6. It took longer. It also worked.
+We always picked the next distance, the one that scared us a little and was still close to what we'd already done: a half before the marathon, an Olympic before the 70.3, the 112-mile ride before the 140.6. A 10K person who signs up for an Ironman because a podcast told him midlife is a starting line has skipped five rungs. Our way took longer, and it worked.
 
-**Whose day is it.** We train as a couple and our engines don't match. Jay's faster. Michelle's PRs are the story. The one couples rule we'd defend in public: say out loud whose day it is, and the other person sits on that pace even when it feels easy, especially when it feels easy. [The whole rule's here.](/lessons/whose-day-is-it) It's saved more weekends than any workout.
+We train as a couple and our engines don't match. Jay's faster, and Michelle's PRs are the story. The one couples rule we'd defend in public is to say out loud whose day it is, and then the other person sits on that pace even when it feels easy, especially when it feels easy. [The whole rule is here.](/lessons/whose-day-is-it) It has saved more weekends than any workout we've done.
 
 ## What we'd tell you over dinner
 
-- Sign up for the race after the long run exists, not before. The internet says commit first so you can't back out. Sometimes that puts somebody who's never run 13 miles into a 26.2 they'll remember as a medical event.
-- Race in the shoe you trained in. Put the race shoe on a long run first. Don't trust a drop your calf hasn't met.
-- Eat what you've already suffered with. Race morning isn't the day for a new bar.
-- Your first triathlon should be a sprint or an Olympic, close to home, where a bad transition ruins an hour and not a trip.
-- The bike can wait. Jay did his first 70.3 on the bike he had. The tri bike showed up a month later, after the race proved he'd keep doing this.
-- Write the plan in pencil. A rib, a work trip, a week with family in the house. All of that happened to us in one year. The plan bent. The season didn't break.
-- Pay for the season in sleep. At this age, recovery isn't a luxury line item. It's the budget.
+- Sign up for the race after the long run exists, not before. The internet says to commit first so you can't back out, and sometimes that puts somebody who's never run 13 miles into a 26.2 they'll remember as a medical event.
+- Race in the shoe you trained in, and put any new race shoe on a long run first, because your calf shouldn't meet a new drop on race day.
+- Eat what you've already suffered with, since race morning isn't the day for a new bar.
+- Your first triathlon should be a sprint or an Olympic, close to home, where a bad transition ruins an hour instead of a trip.
+- The bike can wait. Jay did his first 70.3 on the bike he had, and the tri bike showed up a month later, after the race proved he'd keep doing this.
+- Write the plan in pencil. A rib, a work trip, and a week with family in the house all happened to us in one year, the plan bent, and the season didn't break.
+- Pay for the season in sleep. At our age the recovery is the budget, and everything else gets paid out of it.
 
 ## The body that bills interest
 
-We're not going to tell you what your heart rate should be or how much protein to eat. We don't know your labs.
-
-What we'll say is that things took longer than they did at thirty. A hard week needed an easy week behind it. A rib injury that would've been a nuisance at 25 took a real bite out of a spring. Long runs left us tired for a day, not an hour.
-
-None of that stopped anything. It just set the pace of the year. Plan for a slower climb and you get to keep climbing.
+We're not going to tell you what your heart rate should be or how much protein to eat, because we don't know your labs. What we can say is that things took longer than they did at thirty: a hard week needed an easy week behind it, a rib injury that would've been a nuisance at 25 took a real bite out of a spring, and long runs left us tired for a day instead of an hour. None of that stopped anything, it just set the pace of the year, and once we planned for a slower climb we got to keep climbing.
 
 ## If you live somewhere hot
 
-Then you've got a fourth sport, and it doesn't care about your fitness numbers. Humidity changes how much you drink, when you train, and what your pace even means. Everything we've figured out about that is in [Heat is the fourth sport](/notes/heat-is-the-fourth-sport). If you live somewhere cool and you're flying here for a race, read [Honolulu is not a recovery week](/lessons/honolulu-is-not-a-recovery-week) before you book.
+Then you've got a fourth sport. Humidity changes how much you drink, when you can train, and what your pace even means, and your fitness numbers don't change any of that. Everything we've figured out about it is in [Heat is the fourth sport](/notes/heat-is-the-fourth-sport). If you live somewhere cool and you're flying here for a race, read [Honolulu is not a recovery week](/lessons/honolulu-is-not-a-recovery-week) before you book.
 
 ## Where to go from here
 
-- [The race reports](/races), one page per race, back to 2014. Start with the [first Hibiscus Half](/races/hibiscus-half-2022) and the [marathon for a fiftieth](/races/honolulu-marathon-for-fifty).
-- [The field notes](/notes), the weeks between races, written on Sundays.
-- [The do's and don'ts](/lessons), the short version of everything above.
-- [The Oahu calendar](/calendar), if you're here and want to see how a year is shaped.
-- [The videos](/watch), if you'd rather see the bike rack at 4:45 a.m. than read about it.
+- [The race reports](/races) are one page per race, back to 2014. Start with the [first Hibiscus Half](/races/hibiscus-half-2022) and the [marathon for a fiftieth](/races/honolulu-marathon-for-fifty).
+- [The field notes](/notes) are the weeks between races, written on Sundays.
+- [The do's and don'ts](/lessons) are the short version of everything above.
+- [The Oahu calendar](/calendar) shows how a year is shaped, if you're here.
+- [The videos](/watch) are for you if you'd rather see the bike rack at 4:45 a.m. than read about it.

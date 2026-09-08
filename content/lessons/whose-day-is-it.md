@@ -1,42 +1,34 @@
 ---
 title: "Whose day is it"
-deck: "The one couples-training rule we'd defend in public. One of you is the engine that day. The other one's the governor. Say it out loud before the workout starts."
+deck: "The one couples-training rule we'd defend in public: one of you is the engine that day and the other one is the governor, and you say it out loud before the workout starts."
 date: "2023-05-30"
 tags: ["couples", "pacing", "training"]
 dos:
-  - "Say whose day it is before the first step. Out loud. In the car, at the trailhead, on the pool deck."
-  - "If it's not your day, sit on their pace even when it feels easy. Especially when it feels easy. That's the job."
-  - "Split the weekday sessions and share the weekend long stuff. Two calendars, one kitchen."
-  - "When one of you is tapering and the other's building, say so Sunday night and plan the week around it."
+  - "Say whose day it is before the first step, out loud, in the car or at the trailhead or on the pool deck."
+  - "If it isn't your day, sit on their pace even when it feels easy, and especially when it feels easy, because keeping that pace honest is the only thing you're there to do."
+  - "Split the weekday sessions and share the weekend long stuff, since two calendars still have to come home to one kitchen."
+  - "When one of you is tapering and the other is building, say so on Sunday night and plan the week around it."
 donts:
-  - "Don't compromise on a pace that's too slow for one of you and too fast for the other. That's how nobody gets a workout and everybody gets a fight."
-  - "Don't chase a Strava segment on somebody else's day. Jay's job at Hibiscus wasn't a segment."
-  - "Don't let dinner turn into a second race. If the evening's a negotiation about macros, the week's already gone."
-  - "Don't assume. The unspoken version of this rule fails every time."
+  - "Don't compromise on a pace that's too slow for one of you and too fast for the other, because that usually means nobody gets a workout and everybody gets a fight."
+  - "Don't chase a Strava segment on somebody else's day, since Jay's job at Hibiscus wasn't a segment."
+  - "Don't let dinner turn into a second race, because if the evening is a negotiation about macros the week has already gone sideways."
+  - "Don't assume, because the unspoken version of this rule fails every time."
 ---
 
-Most couples-training advice is a lie told with a smile. You won't hold the same watts. You won't want the same long-run pace. One of you will be ready to chat at mile eight and the other will be having a private argument with a hamstring.
-
-In our house the engines don't match. Jay's faster. That's not a secret and it's not the point. The point is what you do about it.
+Most couples-training advice is a lie told with a smile. You won't hold the same watts, you won't want the same long-run pace, and one of you will be ready to chat at mile eight while the other is having a private argument with a hamstring. In our house the engines don't match, Jay is faster, and that stopped being interesting a long time ago. The useful question is what you do about it on a Saturday morning.
 
 ## The rule
 
-Before every shared session, one person's name goes on the workout. That person's the engine. They set the pace, they pick the effort, they say when it's over. The other person is the governor, and their whole job is to sit on that pace and keep it honest.
-
-That's it. Sounds too simple to matter. It's settled more arguments than anything else we do.
+Before every shared session, one person's name goes on the workout. That person is the engine: they set the pace, they pick the effort, and they say when it's over. The other person is the governor, and their whole job is to sit on that pace and keep it honest. It sounds too simple to matter, and it has settled more arguments than anything else we do.
 
 ## What it looked like at Hibiscus
 
-May 2023 was Michelle's day. She had a PR in her legs and a half marathon in front of her. Jay's job wasn't to run his race. It was to pick a pace that was easy for him, hold it exactly, and keep her on it through Diamond Head and the flat, hot miles after.
-
-She ran 2:12. A PR. Jay felt fine afterward, which was correct, because it wasn't his day. Six days later at Honu it was his day and nobody was pacing him through the lava. Also correct.
+May 2023 was Michelle's day. She had a PR in her legs and a half marathon in front of her, so Jay's job was to pick a pace that was easy for him, hold it exactly, and keep her on it up Diamond Head and through the flat, hot miles after. She ran 2:12, a PR, and Jay felt fine afterward, which was correct because it wasn't his day. Six days later at Honu it was his day, and nobody was pacing him through the lava.
 
 ## Where it goes past the long run
 
-It's also who gets the early ocean swim and who gets the later ride. Which weekend gets the brick and which one gets the recovery. The week when one of us is tapering for a race and the other's mid-build, where the taper wins the calendar because the race is closer.
-
-We don't always get it right. When we get it wrong it's almost always because nobody said whose day it was and both of us assumed.
+The rule also decides who gets the early ocean swim and who gets the later ride, which weekend gets the brick and which one gets the recovery, and what happens in the week when one of us is tapering for a race and the other is mid-build. In that week the taper usually wins the calendar, because the race is closer. We don't always get it right, and when we get it wrong it's almost always because nobody said whose day it was and both of us assumed.
 
 ## The kitchen clause
 
-One more piece that's got nothing to do with pace. Dinner is not a workout. If the evening turns into a negotiation about protein, or who ate what, or whether the recovery shake counts, the week's already gone sideways. Eat, talk about something else, go to bed early. Sunrise comes fast here.
+One more piece that has nothing to do with pace: dinner is not a workout. If the evening turns into a negotiation about protein, or who ate what, or whether the recovery shake counts, the week has already gone sideways. We eat, we talk about something else, and we go to bed early, because sunrise comes fast here and somebody's name is already on the morning session.

@@ -9,28 +9,28 @@ import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Jay and Michelle",
-  description: "Two Army vets in Honolulu who didn't start racing seriously until midlife, at 42 and 49. Who we are, how we got here, and the rules this site keeps.",
+  description: "Two Army vets in Honolulu who didn't start racing seriously until midlife, at 42 and 49: who we are, how we got here, and the rules this site keeps.",
 };
 
 const TIMELINE = [
-  { when: "2005 – 2006", what: "Jay does a few triathlons. Doesn't like them." },
-  { when: "2014", what: "Jay talks Michelle into the Honolulu Triathlon, then the Tin Man two months later. Not really training for either." },
-  { when: "Dec 2021", what: "Michelle watches the Honolulu Marathon and says we should run it for Jay's 50th. Longest run in the house at the time: 8.2 miles." },
-  { when: "May 2022", what: "Hibiscus Half. First half marathon for both." },
-  { when: "Dec 2022", what: "Honolulu Marathon. The 50th birthday race.", href: "/races/honolulu-marathon-for-fifty" },
-  { when: "Jan 2023", what: "The weekly vlog starts. One episode a week, all year." , href: "/watch"},
+  { when: "2005 – 2006", what: "Jay does a few triathlons and doesn't like them." },
+  { when: "2014", what: "Jay talks Michelle into the Honolulu Triathlon, then the Tin Man two months later, without really training for either." },
+  { when: "Dec 2021", what: "Michelle watches the Honolulu Marathon and says we should run it for Jay's 50th. The longest run in the house at the time is 8.2 miles." },
+  { when: "May 2022", what: "Hibiscus Half, the first half marathon for both of us." },
+  { when: "Dec 2022", what: "Honolulu Marathon, the 50th birthday race.", href: "/races/honolulu-marathon-for-fifty" },
+  { when: "Jan 2023", what: "The weekly vlog starts, one episode a week, all year." , href: "/watch"},
   { when: "Mar 2023", what: "Michelle wins her age group at the Ku'ikahi 10K.", href: "/races/kuikahi-10k-2023" },
-  { when: "May 2023", what: "Honolulu Triathlon, raced seriously. Hibiscus Half: Michelle 2:12, a PR, Jay pacing.", href: "/races/hibiscus-half-2023" },
-  { when: "Jun 2023", what: "IRONMAN 70.3 Hawaii. Jay's first 70.3.", href: "/races/honu-70-3-2023" },
+  { when: "May 2023", what: "Honolulu Triathlon, raced seriously this time. Hibiscus Half, where Michelle runs 2:12, a PR, with Jay pacing.", href: "/races/hibiscus-half-2023" },
+  { when: "Jun 2023", what: "IRONMAN 70.3 Hawaii, Jay's first 70.3.", href: "/races/honu-70-3-2023" },
   { when: "Aug 2023", what: "Dick Evans Memorial: 112 miles around Oahu.", href: "/races/dick-evans-112-2023" },
-  { when: "Oct 2023", what: "First ride over the Pali. First ride on Zwift. The room off the bedroom becomes a gym." , href: "/notes/the-trainers-off-the-bedroom"},
-  { when: "Dec 2023", what: "Honolulu Marathon, again. 4:00 and 5:37.", href: "/races/honolulu-marathon-2023" },
-  { when: "Jun 2024", what: "Michelle's first 70.3 at Honu. Jay 81 minutes faster than the year before.", href: "/races/honu-70-3-2024" },
-  { when: "Dec 2024", what: "Honolulu Marathon: Jay 3:41, Michelle 4:39. The PR year.", href: "/races/honolulu-marathon-2024" },
-  { when: "Apr 2025", what: "IRONMAN Texas. Both of us, the full distance.", href: "/races/ironman-texas-2025" },
-  { when: "Oct 2025", what: "IRONMAN California. The second full in one year.", href: "/races/ironman-california-2025" },
+  { when: "Oct 2023", what: "First ride over the Pali and first ride on Zwift, and the room off the bedroom becomes a gym." , href: "/notes/the-trainers-off-the-bedroom"},
+  { when: "Dec 2023", what: "Honolulu Marathon again, 4:00 and 5:37.", href: "/races/honolulu-marathon-2023" },
+  { when: "Jun 2024", what: "Michelle's first 70.3 at Honu, and Jay 81 minutes faster than the year before.", href: "/races/honu-70-3-2024" },
+  { when: "Dec 2024", what: "Honolulu Marathon, the PR year: Jay 3:41, Michelle 4:39.", href: "/races/honolulu-marathon-2024" },
+  { when: "Apr 2025", what: "IRONMAN Texas, the full distance, both of us.", href: "/races/ironman-texas-2025" },
+  { when: "Oct 2025", what: "IRONMAN California, the second full in one year.", href: "/races/ironman-california-2025" },
   { when: "Dec 2025", what: "Honolulu Marathon, run together, 5:25:08 each.", href: "/races/honolulu-marathon-2025" },
-  { when: "2026", what: "Honu for the fourth time. 70.3 Northern California in August.", href: "/races/honu-70-3-2026" },
+  { when: "2026", what: "Honu for the fourth time, then 70.3 Northern California in August.", href: "/races/honu-70-3-2026" },
 ];
 
 export default function About() {
@@ -71,7 +71,7 @@ export default function About() {
                 <br />
                 <a href={SITE.youtube} className="text-brand underline" target="_blank" rel="noopener noreferrer">youtube.com/@racingthroughmidlife</a>
               </p>
-              <p className="mt-3 text-sm text-ink-soft">Race photos, official times, and “we did this too” notes are welcome. Coaching requests and medical questions get a polite no.</p>
+              <p className="mt-3 text-sm text-ink-soft">Race photos, official times, and “we did this too” notes are all welcome. Coaching requests and medical questions get a polite no.</p>
             </section>
           </aside>
         </div>

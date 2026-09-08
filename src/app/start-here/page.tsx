@@ -8,18 +8,18 @@ import { MiniList } from "@/components/Cards";
 
 export const metadata: Metadata = {
   title: "Start here, if you are 40 and up",
-  description: "How a 42-year-old and a 49-year-old went from an 8-mile fun run to a full Ironman without a coach, in order, with dates. Not a plan. A ladder you can look at.",
+  description: "How a 42-year-old and a 49-year-old went from an 8-mile fun run to a full Ironman without a coach, in order, with dates, so you can see the ladder we climbed before you pick your own next rung.",
 };
 
 const RUNGS = [
-  { rung: "8.15 miles", what: "Great Aloha Run", note: "For years this was the longest either of us had run. Nothing wrong with staying here a while.", href: "/races/great-aloha-run-2023" },
-  { rung: "13.1 miles", what: "Hibiscus Half, May 2022", note: "Our first half. The day this happened, the marathon stopped being hypothetical.", href: "/races/hibiscus-half-2022" },
-  { rung: "26.2 miles", what: "Honolulu Marathon, December 2022", note: "For Jay's 50th. He'd never wanted one. Michelle put it on a birthday and that was that.", href: "/races/honolulu-marathon-for-fifty" },
-  { rung: "Olympic tri", what: "Honolulu Triathlon, May 2023", note: "Same race we'd done in 2014, this time with training. Where you find out if you like the sport or just the idea of it.", href: "/races/honolulu-triathlon-2014-and-again" },
-  { rung: "70.3", what: "IRONMAN 70.3 Hawaii, June 2023", note: "A hard course on purpose. If Jay could get through a half in the lava, he could get through one anywhere.", href: "/races/honu-70-3-2023" },
-  { rung: "112 miles", what: "Dick Evans, August 2023", note: "A lap of Oahu, the same ride the first Ironman used in 1978. The bike leg on its own, before a swim and a marathon got attached to it.", href: "/races/dick-evans-112-2023" },
-  { rung: "2.4 miles", what: "Waikiki Roughwater Swim, September 2023", note: "The 1978 Ironman swim, on its own. Jay 1:50:49, Michelle 2:02:27, and no bike waiting.", href: "/races/waikiki-2-4-mile-swim-2023" },
-  { rung: "140.6", what: "IRONMAN Texas, April 2025", note: "Only after every rung above was done. A season you pay for in sleep. Then we did it again in October.", href: "/races/ironman-texas-2025" },
+  { rung: "8.15 miles", what: "Great Aloha Run", note: "For years this was the longest either of us had run, and there's nothing wrong with staying here a while.", href: "/races/great-aloha-run-2023" },
+  { rung: "13.1 miles", what: "Hibiscus Half, May 2022", note: "Our first half, and the day the marathon stopped being hypothetical.", href: "/races/hibiscus-half-2022" },
+  { rung: "26.2 miles", what: "Honolulu Marathon, December 2022", note: "For Jay's 50th. He'd never wanted one, but Michelle put it on a birthday and that was that.", href: "/races/honolulu-marathon-for-fifty" },
+  { rung: "Olympic tri", what: "Honolulu Triathlon, May 2023", note: "The same race we'd done in 2014, this time with training, and where you find out whether you like the sport or just the idea of it.", href: "/races/honolulu-triathlon-2014-and-again" },
+  { rung: "70.3", what: "IRONMAN 70.3 Hawaii, June 2023", note: "A hard course on purpose, on the theory that if Jay could get through a half in the lava he could get through one anywhere.", href: "/races/honu-70-3-2023" },
+  { rung: "112 miles", what: "Dick Evans, August 2023", note: "A lap of Oahu, the same ride the first Ironman used in 1978, which meant doing the bike leg on its own before a swim and a marathon got attached to it.", href: "/races/dick-evans-112-2023" },
+  { rung: "2.4 miles", what: "Waikiki Roughwater Swim, September 2023", note: "The 1978 Ironman swim on its own, with no bike waiting afterward. Jay 1:50:49, Michelle 2:02:27.", href: "/races/waikiki-2-4-mile-swim-2023" },
+  { rung: "140.6", what: "IRONMAN Texas, April 2025", note: "Only after every rung above was done. It was a season we paid for in sleep, and then we did it again in October.", href: "/races/ironman-texas-2025" },
 ];
 
 export default function StartHere() {
@@ -46,7 +46,7 @@ export default function StartHere() {
                 </li>
               ))}
             </ol>
-            <p className="mt-4 mono text-xs text-mute">Nine years from rung one to rung seven, most of them spent on rung one.</p>
+            <p className="mt-4 mono text-xs text-mute">Nine years from rung one to rung seven, and most of them were spent on rung one.</p>
           </section>
           <Prose>{page.body}</Prose>
           <Disclaimer className="mt-12 max-w-[66ch]" />
@@ -57,7 +57,7 @@ export default function StartHere() {
           <div className="bg-swash p-5">
             <p className="eyebrow">What this is not</p>
             <p className="mt-2 text-sm leading-snug">
-              Not a plan, not a clinic, not medical advice. Two people writing down what they did, in a place that&apos;s hotter than wherever you live.
+              This is two people writing down what they did, in a place that&apos;s probably hotter than wherever you live, and none of it is a plan, a clinic, or medical advice.
             </p>
           </div>
         </aside>
