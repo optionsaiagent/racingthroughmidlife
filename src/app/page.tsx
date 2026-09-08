@@ -120,10 +120,11 @@ export default function Home() {
         <div className="lg:border-l lg:border-line lg:pl-10">
           <MiniList items={lessons.slice(0, 5)} base="/lessons" title="Do's and don'ts" cta={{ href: "/lessons", label: "All lessons" }} />
           <div className="mt-10 bg-swash p-6">
-            <p className="eyebrow">In their words</p>
-            <blockquote className="display text-3xl leading-tight mt-3">When the humidity&apos;s up, which is most of the summer here, every session is a heat session whether the plan calls it one or not.</blockquote>
-            <Link href="/notes/heat-is-the-fourth-sport" className="inline-block mt-4 mono text-xs text-brand hover:text-buoy underline underline-offset-4">
-              Heat is the fourth sport →
+            <p className="eyebrow">The best description we&apos;ve heard</p>
+            <blockquote className="display text-3xl leading-tight mt-3">&ldquo;An Ironman is a bike race with a swim warmup and a run cooldown.&rdquo;</blockquote>
+            <p className="mt-3 text-sm text-ink-soft">A friend of ours said that, and after two of them we haven&apos;t found a better way to put it.</p>
+            <Link href="/races/going-the-full-distance" className="inline-block mt-4 mono text-xs text-brand hover:text-buoy underline underline-offset-4">
+              Going the full distance →
             </Link>
           </div>
         </div>
