@@ -121,7 +121,7 @@ export default function Home() {
           <MiniList items={lessons.slice(0, 5)} base="/lessons" title="Do's and don'ts" cta={{ href: "/lessons", label: "All lessons" }} />
           <div className="mt-10 bg-swash p-6">
             <p className="eyebrow">In their words</p>
-            <blockquote className="display text-3xl leading-tight mt-3">Honolulu does not care about your FTP. The dew point does.</blockquote>
+            <blockquote className="display text-3xl leading-tight mt-3">When the dew point&apos;s in the 70s, which is most of the summer here, every session is a heat session whether the plan calls it one or not.</blockquote>
             <Link href="/notes/heat-is-the-fourth-sport" className="inline-block mt-4 mono text-xs text-brand hover:text-buoy underline underline-offset-4">
               Heat is the fourth sport →
             </Link>

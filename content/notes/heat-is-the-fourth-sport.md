@@ -1,6 +1,6 @@
 ---
 title: "Heat is the fourth sport"
-deck: "Honolulu doesn't care about your FTP. The dew point does. Everything we've figured out about training and racing where the sweat won't evaporate."
+deck: "In Honolulu the dew point decides how hard a session is, whatever the plan says. Everything we've figured out about training and racing where the sweat won't evaporate."
 date: "2023-06-10"
 week: "2023 · June, week 1"
 tags: ["heat", "hydration", "dawn", "honu"]
