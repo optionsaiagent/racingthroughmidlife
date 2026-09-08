@@ -1,6 +1,6 @@
 ---
 title: "Heat is the fourth sport"
-deck: "In Honolulu the dew point decides how hard a session is, whatever the plan says. Everything we've figured out about training and racing where the sweat won't evaporate."
+deck: "In Honolulu the humidity decides how hard a session is, whatever the plan says. Everything we've figured out about training and racing where the sweat won't evaporate."
 date: "2023-06-10"
 week: "2023 · June, week 1"
 tags: ["heat", "hydration", "dawn", "honu"]
@@ -14,7 +14,7 @@ We live here, and we still get it wrong, which should tell you something about h
 
 Heat by itself is a number on a forecast, and humidity decides whether your body can do anything about it. Sweat cools you by evaporating, and when the air is already full of water it doesn't evaporate, it just runs down your arms and into your shoes, so you're losing the fluid and getting none of the cooling for it.
 
-What that means in practice is that an effort that felt easy in dry air feels hard here at the same pace, and your heart rate climbs through a long session even when nothing else changes. That drift isn't a fitness problem, it's physics, and pretending otherwise is how people end up in trouble at mile nine of a half that started at 5:30 in the morning. The number we look at is the dew point, not the temperature. When the dew point's in the 70s, which is most of the summer here, every session is a heat session whether the plan calls it one or not.
+What that means in practice is that an effort that felt easy in dry air feels hard here at the same pace, and your heart rate climbs through a long session even when nothing else changes. That drift isn't a fitness problem, it's physics, and pretending otherwise is how people end up in trouble at mile nine of a half that started at 5:30 in the morning. The number we look at is the humidity, not the temperature. When the humidity's up, which is most of the summer here, every session is a heat session whether the plan calls it one or not.
 
 ## Dawn is a temperature, not a mood
 
@@ -30,7 +30,7 @@ On a hot long ride we stop for water more often than the plan says, on a long ru
 
 ## What a mainland plan gets wrong here
 
-Any plan written somewhere cool assumes your body can cool itself. Here it can't, so a few things follow: paces are slower for the same effort, which is correct and not a failure, long sessions have to start earlier and end sooner than the plan thinks, recovery takes longer because the body worked harder than the pace suggests, and every race is a heat race, including the ones in what the calendar calls winter. We don't adjust a plan with a formula, we adjust it with the alarm clock and the dew point.
+Any plan written somewhere cool assumes your body can cool itself. Here it can't, so a few things follow: paces are slower for the same effort, which is correct and not a failure, long sessions have to start earlier and end sooner than the plan thinks, recovery takes longer because the body worked harder than the pace suggests, and every race is a heat race, including the ones in what the calendar calls winter. We don't adjust a plan with a formula, we adjust it with the alarm clock and the humidity.
 
 ## Honu, if you want proof
 

@@ -33,7 +33,7 @@ This site is the written log. It exists because a race shouldn't only live insid
 - No made-up results. If there's a time on a page, it's the official one, and if there's no time we didn't have it in front of us. We won't estimate a gun time to make a page look finished. Send us the official result and it goes up.
 - No coaching, no clinic, no medical advice. We write what we did, and we don't know your labs, so nothing here is a prescription.
 - No funnel, for coaching, for mortgages, or for anything else. We don't sell electrolytes, and if a piece of gear gets named it's because we raced in it.
-- Specifics over inspiration. A note about the dew point at a 5 a.m. start is worth more than a paragraph about believing in yourself, and we'll take the dew point every time.
+- Specifics over inspiration. A note about the humidity at a 5 a.m. start is worth more than a paragraph about believing in yourself, and we'll take the humidity every time.
 
 ## Why bother writing it down
 

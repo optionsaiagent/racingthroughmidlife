@@ -1,6 +1,6 @@
 ---
 title: "Honolulu is not a recovery week"
-deck: "People fly in and treat the island like a taper with a beach attached. The course looks great in photos, and the dew point doesn't show up in any of them."
+deck: "People fly in and treat the island like a taper with a beach attached. The course looks great in photos, and the humidity doesn't show up in any of them."
 date: "2023-06-12"
 tags: ["heat", "race week", "travel"]
 dos:
@@ -11,7 +11,7 @@ dos:
 donts:
   - "Don't try a new gel or drink on race morning because the expo had it, eat what you've already suffered with in training."
   - "Don't do a big final long run in the afternoon sun the day after you land, because that's how a taper turns into a medical event."
-  - "Don't look at the forecast temperature and relax, look at the dew point."
+  - "Don't look at the forecast temperature and relax, look at the humidity."
   - "Don't treat the flat parts of the Honolulu Marathon as the easy parts, because the flat parts are usually the hot parts."
 ---
 
@@ -33,4 +33,4 @@ Drink and salt in the days before, on real food, because the first hour of a hot
 
 Diamond Head is a climb. The Kalanianaole out-and-back to Hawaii Kai is exposed for miles with nothing between you and the sun. The Honu bike goes to Hawi through the lava, into the wind, for most of the way out. All of it is beautiful, and none of it is a recovery week.
 
-Come race here, we'd love to see you. Just bring the respect you'd bring to a hard course anywhere else, and then check the dew point the night before.
+Come race here, we'd love to see you. Just bring the respect you'd bring to a hard course anywhere else, and then check the humidity the night before.

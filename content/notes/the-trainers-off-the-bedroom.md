@@ -20,7 +20,7 @@ The first was the dark. Our riding window is dawn, and dawn is dark. Riding in t
 
 The second was the clock. A weekday ride outside is the ride plus getting to a road worth riding plus getting home, while on the trainer an hour is an hour. Past fifty with a day job, the hour that's actually an hour is the one that happens.
 
-The third was the heat. The trainer's got a fan, and the fan doesn't have a dew point. A hard interval session in that room is a hard interval session and not a hard interval session plus a heat problem, which is most of why the [zone 2 work](/notes/zone-2-in-a-sauna) finally started working.
+The third was the heat. The trainer's got a fan, and the fan isn't fighting the humidity. A hard interval session in that room is a hard interval session and not a hard interval session plus a heat problem, which is most of why the [zone 2 work](/notes/zone-2-in-a-sauna) finally started working.
 
 The last one was honesty. The trainer doesn't have a downhill. Every minute is a minute of pedaling, so it's a harder hour than the same hour outside and a measured one.
 

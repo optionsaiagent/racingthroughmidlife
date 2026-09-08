@@ -37,7 +37,7 @@ This was race two of five. A 20K is about 12.4 miles, which is nearly a half mar
 
 ## September
 
-People who don't live here usually assume the middle of summer is the hot part. It's hot, but the worst of it comes late. September is when the trade winds drop off and the dew point sits in the 70s, so a run that starts at 5:30 in the morning is already sticky before the first mile. Every race in the readiness series is a heat race, this one's the hottest, and it's the one where the distance steps up at the same time.
+People who don't live here usually assume the middle of summer is the hot part. It's hot, but the worst of it comes late. September is when the trade winds drop off and the humidity stays up, so a run that starts at 5:30 in the morning is already sticky before the first mile. Every race in the readiness series is a heat race, this one's the hottest, and it's the one where the distance steps up at the same time.
 
 The 20K opened a September that also had the [Waikiki 2.4-mile swim](/races/waikiki-2-4-mile-swim-2023), the [Honolulu Century Ride](/races/honolulu-century-ride-2023), and the start of [zone 2 training](/notes/zone-2-in-a-sauna) in it, which is a lot of month. It worked because the 20K was a long run with a bib and not a race, and because the long ride and the long swim landed on different weekends. I ran 1:36:52 and Michelle ran 2:10:21, and neither of us was pushing.
 
