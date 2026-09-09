@@ -9,6 +9,8 @@ author: Jay
 
 Every race-nutrition article on the internet seems to end with a link to buy something. This one doesn't, because we don't sell anything and we're not going to recommend a brand we haven't raced on. What we can tell you is how the list gets made, because the list is the only part we're sure about.
 
+What we have raced on, since that's the rule for naming anything here: GU gels, salted caramel, from the end of June 2022 through the 2022 marathon, and Skratch Labs energy chews alongside them from the summer of 2023 through the 2023 marathon. That's the list as it stood, not a recommendation.
+
 ## The rule
 
 Nothing goes in a race pocket that hasn't already been in a training pocket on a hot day for at least three hours. That's the whole method, and it works because race nutrition usually doesn't fail on the ratio of something in a bar, it fails because the bar turned into a brick in the heat and your stomach refused it at mile 70. You find that out on a Saturday, or you find it out in the lava.
