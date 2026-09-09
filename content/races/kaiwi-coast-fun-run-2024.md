@@ -29,6 +29,9 @@ results:
     place: '175'
     pace: '9:07/M'
 resultSource: 'https://timelinehawaii.com/2024/11/24/2024-kaiwi-coast-run-walk/'
+context:
+  - training_day
+  - together_on_purpose
 ---
 Four minutes faster than [the year before](/races/kaiwi-coast-fun-run-2023) and still less than a second apart. That's most of the report.
 

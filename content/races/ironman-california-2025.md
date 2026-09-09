@@ -45,10 +45,13 @@ results:
     run: '6:45:54'
     bib: 755
 resultSource: 'https://labs-v2.competitor.com/results/event/'
+context:
+  - peak_build
+  - travel_race
 ---
 I want to be honest about this one before the numbers: the marathon at the end of it was the hardest thing I've done in a race. 6:45:54 for 26.2 miles. By the card it's the hardest leg I've had in any race on this site, and the card isn't wrong about that.
 
-We'd said the full distance was [a season you pay for in sleep](/lessons/sleep-funds-the-season), and in 2025 we paid for two. [Texas in April](/races/ironman-texas-2025) was the first. This was the second, six months later, in Sacramento, with a river swim, a flat bike through the delta, and a marathon along the American River. My swim was 1:07:36 and my bike was 7:04:51, and then the run happened, and it kept happening for almost seven hours.
+We'd said the full distance is a season with [a bedtime attached](/lessons/sleep-funds-the-season), and in 2025 we did two of them. [Texas in April](/races/ironman-texas-2025) was the first. This was the second, six months later, in Sacramento, with a river swim, a flat bike through the delta, and a marathon along the American River. My swim was 1:07:36 and my bike was 7:04:51, and then the run happened, and it kept happening for almost seven hours.
 
 I finished it. 15:26:59. I'm not going to say much more about the run than that, as I'm still not sure I have the words for it, but I finished and I'm proud of that.
 

@@ -30,6 +30,8 @@ results:
     place: '109'
     pace: '10:29/M'
 resultSource: 'https://timelinehawaii.com/2023/02/26/2023-kailua-ten-miler/'
+context:
+  - training_day
 ---
 
 The windward side is the wet, green side, the one that looks like the postcards. It's also where the trade winds come ashore, so any out-and-back over there has a leg with the wind and a leg into it, and you don't get to pick which one you run for the second half.

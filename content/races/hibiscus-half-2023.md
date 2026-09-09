@@ -1,8 +1,8 @@
 ---
 title: 'Hibiscus Half: my day, and Jay sat on the easy pace'
 deck: >-
-  I ran 2:12. Jay sat on a pace that was easy for him and kept me on it to a
-  PR. A chicken joined us at the top of Diamond Head.
+  I ran 2:12. Jay sat on a pace that was easy for him and kept me on it to a PR.
+  A chicken joined us at the top of Diamond Head.
 date: '2023-05-28'
 event: Hibiscus Half Marathon
 location: 'Kapiolani Park and Diamond Head, Honolulu'
@@ -41,6 +41,8 @@ results:
     splits:
       6.55mi: '1:09:03'
     bib: 729
+context:
+  - together_on_purpose
 ---
 
 This was my day. We'd decided that before the alarm went off, and everything about the race followed from it.

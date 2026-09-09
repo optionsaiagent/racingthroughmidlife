@@ -28,6 +28,9 @@ results:
     place: 81
     bib: 942
 resultSource: 'https://www.webscorer.com/race?raceid=357968'
+context:
+  - together_on_purpose
+  - heat_day
 ---
 
 Kaena Point is the far western tip of Oahu, where the paved road quits and a dirt track keeps going out to a nature reserve at the point. No shade and no pavement, ocean on one side and dry mountainside on the other, and a trail that's mostly rocks with sand in between.

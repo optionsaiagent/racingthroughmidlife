@@ -27,6 +27,8 @@ results:
     agrank: 18
     place: '303'
 resultSource: 'https://timelinehawaii.com/2024/06/22/2024-cholos-waimea-bay/'
+context:
+  - training_day
 ---
 I don't have notes on this one, and the timing page doesn't list a distance, so all I can give you is what's on the sheet: Jay 44:56 and me 45:51, about a minute behind him, in flat summer water at Waimea Bay three weeks after Honu.
 

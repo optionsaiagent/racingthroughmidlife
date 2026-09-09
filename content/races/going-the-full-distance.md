@@ -1,6 +1,6 @@
 ---
 title: "Going the full distance"
-deck: "Olympic, half iron, marathon, full Ironman. The week around 140.6 is the part nobody puts on the highlight reel."
+deck: "Olympic, half iron, marathon, full Ironman. What the decision cost, and what the week around 140.6 is made of."
 date: "2024-10-01"
 event: "The full distance"
 location: "Trained in Honolulu"
@@ -17,7 +17,7 @@ Training for a full Ironman in Honolulu is a heat problem, a marriage problem, a
 
 ## The order we did it in
 
-We didn't start with the full distance, and we'd tell anybody who asked not to. This is the ladder we actually climbed:
+We didn't start with the full distance, and we'd tell anybody who asked not to. This is the order we actually did it in, and the [Start here](/start-here) page walks the same steps:
 
 1. First came an Olympic-distance tri, [raced properly](/races/honolulu-triathlon-2014-and-again) after a 2014 attempt with no training behind it.
 2. Then came a 70.3 on a [hard course](/races/honu-70-3-2023), in the lava, in June, on purpose, because if the half was survivable there we figured it was survivable anywhere.
@@ -29,13 +29,13 @@ Only after every one of those was done, and done for real rather than in theory,
 
 ## What it costs at fifty
 
-The full distance isn't a personality, it's a season you pay for in sleep, and every long-course season since has been paid for the same way: earlier bedtimes, fewer evenings out, and a social calendar that got thin for a few months and stayed that way. The long rides start at 5 a.m. because of the heat and usually eat most of a Saturday. The long runs eat most of a Sunday. The trainers in the room off the bedroom take the weekday hours that used to belong to something else, and we've mostly stopped remembering what that was.
+The full distance is a season with a bedtime attached, and [we wrote that side of it down](/lessons/sleep-funds-the-season). Every long-course season since has cost the same things: earlier bedtimes, fewer evenings out, and a social calendar that got thin for a few months and stayed that way. The long rides start at 5 a.m. because of the heat and usually eat most of a Saturday. The long runs eat most of a Sunday. The trainers in the room off the bedroom take the weekday hours that used to belong to something else, and we've mostly stopped remembering what that was.
 
 It's a heat problem because the training has to happen in Honolulu, where every long session is a heat session and the recovery takes longer than the pace suggests. It's a marriage problem because two people in one house can't both be in a full-distance build unless [whose day is it](/lessons/whose-day-is-it) is doing real work every single weekend. It's a calendar problem because the season is long, the rest of life doesn't slow down for it, and [the plan's in pencil](/lessons/the-plan-is-written-in-pencil) whether we like it or not.
 
 ## The week around it
 
-The highlight reel is the swim start and the finish chute. The week around it is a bike box, a spreadsheet, a grocery list of food that's already been tested in the heat, and a lot of standing in lines. We wrote it all down in [Race week is a logistics problem](/lessons/race-week-is-a-logistics-problem), because nobody had written it down for people our age when we needed it.
+The swim start and the finish chute are what get filmed. The week around them is a bike box, a spreadsheet, a grocery list of food that's already been tested in the heat, and a lot of standing in lines. We wrote it all down in [Race week is a logistics problem](/lessons/race-week-is-a-logistics-problem), because nobody had written it down for people our age when we needed it.
 
 ## If you're thinking about it
 

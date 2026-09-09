@@ -43,6 +43,8 @@ results:
     t2: '2:36'
     run: '1:03:10'
     bib: 131
+context:
+  - first_at_distance
 ---
 
 We did this race in 2014, and then we did it again in 2023. The course didn't change much in nine years, but we did.

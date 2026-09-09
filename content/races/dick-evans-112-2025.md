@@ -1,8 +1,8 @@
 ---
 title: 'Dick Evans 2025: my first lap of the island'
 deck: >-
-  112 miles, both of us. Jay 5:55:53, his fastest. Me, 7:57:33, my first
-  time around Oahu with a number on.
+  112 miles, both of us. Jay 5:55:53, his fastest. Me, 7:57:33, my first time
+  around Oahu with a number on.
 date: '2025-08-24'
 event: Dick Evans Memorial Road Race
 location: Around Oahu
@@ -30,6 +30,9 @@ results:
     place: 90
     bib: 108
 resultSource: 'https://www.webscorer.com/race?raceid=402757'
+context:
+  - peak_build
+  - first_at_distance
 ---
 Two months before [IRONMAN California](/races/ironman-california-2025), and the longest ride of that build for both of us. For me it was more than that, as it was my first time around the island with a number on.
 

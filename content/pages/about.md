@@ -20,7 +20,7 @@ In December 2021 Michelle watched the Honolulu Marathon and said we should run i
 
 Then 2023 happened: the Honolulu Triathlon, raced for real this time, Michelle's half-marathon PR, Jay's first 70.3 in the lava at Honu, 112 miles around Oahu, the whole Marathon Readiness Series, and the Honolulu Marathon again. We filmed every week of it. After that came the decision to go the full distance, and the seasons since.
 
-The order matters more than any one race: Olympic, then a 70.3 on a hard course, then a standalone marathon, then the full. We didn't skip a rung.
+The order matters more than any one race: Olympic, then a 70.3 on a hard course, then a standalone marathon, then the full. We didn't skip a step, and [Start here](/start-here) has the whole order.
 
 ## The camera and the log
 
@@ -31,7 +31,7 @@ This site is the written log. It exists because a race shouldn't only live insid
 ## The rules this site keeps
 
 - No made-up results. If there's a time on a page, it's the official one, and if there's no time we didn't have it in front of us. We won't estimate a gun time to make a page look finished. Send us the official result and it goes up.
-- No coaching, no clinic, no medical advice. We write what we did, and we don't know your labs, so nothing here is a prescription.
+- No coaching and no medical advice. We write what we did, and we don't know your labs, so nothing here is a prescription.
 - No funnel, for coaching, for mortgages, or for anything else. We don't sell electrolytes, and if a piece of gear gets named it's because we raced in it.
 - Specifics over inspiration. A note about the humidity at a 5 a.m. start is worth more than a paragraph about believing in yourself, and we'll take the humidity every time.
 

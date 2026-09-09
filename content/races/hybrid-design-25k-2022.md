@@ -1,8 +1,8 @@
 ---
 title: 'Hybrid Design 25K 2022: past the half for the first time'
 deck: >-
-  Third race in the 2022 readiness series and the first time I ran farther
-  than a half marathon with a bib on. Jay sat this one out.
+  Third race in the 2022 readiness series and the first time I ran farther than
+  a half marathon with a bib on. Jay sat this one out.
 date: '2022-10-02'
 event: Hybrid Design 25K
 location: Honolulu
@@ -24,6 +24,8 @@ results:
     place: '237'
     pace: '12:39/M'
 resultSource: 'https://timelinehawaii.com/2022/10/02/2022-hybrid-design-25k/'
+context:
+  - first_at_distance
 ---
 Fifteen and a half miles, two months before my first marathon. I'd never run past 13.1 with a bib on and I honestly didn't know what would happen to me after it. It turns out I kept going, and 3:09:48 is what's on the card.
 

@@ -28,6 +28,8 @@ results:
     agrank: 11
     place: '155'
 resultSource: 'https://timelinehawaii.com/2024/08/11/2024-boca-norman-tamanaha-15k/'
+context:
+  - training_day
 ---
 Three Augusts in a row on the same course, and the series opener is starting to feel like a checkup we didn't schedule. For me it went [1:22 in 2022](/races/norman-tamanaha-15k-2022), [1:14:16 in 2023](/races/norman-tamanaha-15k-2023), and 1:14:14 this year, which is two seconds in twelve months and a pretty clear message about where my ceiling is for a 15K in that heat. This year that was good for third in the 50-54s.
 

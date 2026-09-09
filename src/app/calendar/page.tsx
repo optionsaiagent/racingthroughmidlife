@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import PageHeader from "@/components/PageHeader";
-import Disclaimer from "@/components/Disclaimer";
 import { CALENDAR } from "@/lib/calendar";
 import { getRaces } from "@/lib/content";
 import { MONTH_NAMES } from "@/lib/videos";
@@ -69,7 +68,6 @@ export default function CalendarPage() {
         <p className="mt-8 mono text-xs text-mute max-w-2xl">
           We haven&apos;t raced everything on this island, and if we didn&apos;t do a race it isn&apos;t here. If your favorite is missing, <Link href="/contact" className="text-brand underline">tell us</Link>, and we&apos;ll think about it, which isn&apos;t the same as promising to show up.
         </p>
-        <Disclaimer className="mt-10" />
       </div>
     </>
   );

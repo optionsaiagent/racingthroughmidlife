@@ -1,8 +1,8 @@
 ---
 title: 'Tantalus 10-Mile Challenge: the one we run for the climb'
 deck: >-
-  Up the mountain road above the city and back down, in the middle of a
-  marathon build. Nobody's chasing a pace on this one.
+  Up the mountain road above the city and back down, in the middle of a marathon
+  build. Nobody's chasing a pace on this one.
 date: '2023-10-08'
 event: Tantalus 10-Mile Challenge
 location: 'Tantalus and Round Top, Honolulu'
@@ -30,6 +30,8 @@ results:
     place: '70'
     pace: '12:19/M'
 resultSource: 'https://timelinehawaii.com/2023/10/08/2023-tantalus-10-mile-challenge/'
+context:
+  - training_day
 ---
 
 Tantalus is the mountain road that switchbacks up behind Honolulu, through the forest, to a lookout where you can see the whole city laid out below you. It's beautiful, and it goes up for a long time. A 10-mile race on it was never going to be about pace, and we knew that going in, which didn't make the first few miles feel any shorter.

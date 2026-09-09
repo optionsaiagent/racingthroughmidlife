@@ -31,6 +31,8 @@ results:
     place: '169'
     pace: '11:35/M'
 resultSource: 'https://timelinehawaii.com/2023/10/01/2023-hybrid-design-25k/'
+context:
+  - training_day
 ---
 
 This was race three of five in the readiness series, and the first time since the marathon the previous December that either of us had run past the half-marathon distance with a bib on. A 25K works out to about 15.5 miles, which doesn't sound like much more than 13.1 until you're out there doing it.

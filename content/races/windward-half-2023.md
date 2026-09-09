@@ -30,6 +30,9 @@ results:
     place: '93'
     pace: '10:40/M'
 resultSource: 'https://timelinehawaii.com/2023/03/26/2023-windward-half-marathon-and-5k/'
+context:
+  - training_day
+  - heat_day
 ---
 
 Third race of March and the longest one, and by then I was tired of alarms. A half marathon on the windward side, which is the side of the island that looks the way people picture Hawaii before they get here.

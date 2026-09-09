@@ -30,6 +30,8 @@ results:
     place: 5813
     bib: 5843
 resultSource: 'https://sportstats.one/results/140524'
+context:
+  - first_at_distance
 ---
 
 I'll be honest about how this started: Jay didn't want a marathon. He didn't like running, he'd never run past eight miles, and he'd built a pretty comfortable identity around not being a marathon guy. (He'd tell you that himself, and he has.)

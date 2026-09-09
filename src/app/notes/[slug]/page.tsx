@@ -3,7 +3,6 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import Prose from "@/components/Prose";
 import YouTube from "@/components/YouTube";
-import Disclaimer from "@/components/Disclaimer";
 import { MiniList } from "@/components/Cards";
 import TrainingCard from "@/components/TrainingCard";
 import { getNote, getNotes, getLessons, getRaces, fmtDate, related, readingTime } from "@/lib/content";
@@ -58,7 +57,6 @@ export default async function NotePage({ params }: { params: Promise<{ slug: str
               </ul>
             </section>
           ) : null}
-          <Disclaimer className="mt-12 max-w-[66ch]" />
         </div>
         <aside className="lg:sticky lg:top-6 self-start space-y-8">
           {note.training ? <TrainingCard training={note.training} /> : null}

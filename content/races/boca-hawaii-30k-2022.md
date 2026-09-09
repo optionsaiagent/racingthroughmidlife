@@ -30,6 +30,8 @@ results:
     place: '307'
     pace: '13:20/M'
 resultSource: 'https://timelinehawaii.com/2022/10/23/2022-boca-30k/'
+context:
+  - first_at_distance
 ---
 The 30K is the longest race in the readiness series, eighteen and a half miles, and in October of 2022 it was the longest either of us had ever run, not by a mile or two but by a lot. The marathon was seven weeks out, and there's a difference between a long run you plan and a distance with a start line and a clock on it, which we found out somewhere in the back half of this one. I came in at 3:01:11 and Michelle came in at 4:08:27. We were both upright at the finish, which was the goal even if neither of us had said so out loud.
 

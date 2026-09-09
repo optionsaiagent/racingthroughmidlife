@@ -1,16 +1,25 @@
 ---
-title: "Honolulu Century Ride: a long, hot, beautiful day up the windward coast"
-deck: "Out and back up the windward side from Kapiolani Park, with turnarounds for wherever you are in a season. We took the 100."
-date: "2023-09-24"
-datePrecision: "month"
-event: "Honolulu Century Ride"
-location: "Kapiolani Park up the windward coast, Oahu"
-distance: "100 mi"
-discipline: "bike"
+title: 'Honolulu Century Ride: a long, hot, beautiful day up the windward coast'
+deck: >-
+  Out and back up the windward side from Kapiolani Park, with turnarounds for
+  wherever you are in a season. We took the 100.
+date: '2023-09-24'
+datePrecision: month
+event: Honolulu Century Ride
+location: 'Kapiolani Park up the windward coast, Oahu'
+distance: 100 mi
+discipline: bike
 author: Jay
 featured: true
-video: "Afy6at4tVl0"
-tags: ["bike", "long ride", "windward", "heat", "full distance"]
+video: Afy6at4tVl0
+tags:
+  - bike
+  - long ride
+  - windward
+  - heat
+  - full distance
+context:
+  - training_day
 ---
 
 The Honolulu Century is the big organized ride on the island. It's late September, out of Kapiolani Park, over the east side and up the windward coast and back, with turnarounds at 25, 50, 75, and 100 miles so you can pick the distance that fits. We took the 100.

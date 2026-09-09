@@ -41,6 +41,10 @@ results:
     run: '2:32:22'
     bib: 611
 resultSource: 'https://labs-v2.competitor.com/results/event/'
+context:
+  - rebuild
+  - travel_race
+contextNote: 'Rebuild year, and the first mainland race after it.'
 ---
 This is the most recent race in the log, three weeks before we rebuilt this site, which is why the official result is on the card and the write-up isn't here yet. It's coming, along with the video, once we've slept.
 

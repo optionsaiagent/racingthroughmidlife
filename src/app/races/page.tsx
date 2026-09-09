@@ -3,6 +3,7 @@ import Link from "next/link";
 import PageHeader from "@/components/PageHeader";
 import Ledger from "@/components/Ledger";
 import { getRaces, racesByYear } from "@/lib/content";
+import { seasonFor } from "@/lib/seasons";
 
 export const metadata: Metadata = {
   title: "Race reports",
@@ -31,6 +32,9 @@ export default function RacesPage() {
           <Link href="/calendar" className="mono text-xs border border-brand text-brand px-3 py-1.5 hover:bg-brand hover:text-foam">
             The Oahu calendar →
           </Link>
+          <Link href="/seasons" className="mono text-xs border border-brand text-brand px-3 py-1.5 hover:bg-brand hover:text-foam">
+            The seasons →
+          </Link>
         </nav>
       </PageHeader>
 
@@ -49,10 +53,19 @@ export default function RacesPage() {
 
         {years.map((y) => (
           <section key={y.year} id={`y${y.year}`} className="mb-14 scroll-mt-8">
-            <div className="flex items-baseline gap-4 mb-4">
+            <div className="flex items-baseline gap-4">
               <h2 className="display text-5xl">{y.year}</h2>
               <span className="mono text-xs text-mute">{y.races.length} {y.races.length === 1 ? "race" : "races"}</span>
             </div>
+            {seasonFor(y.year) ? (
+              <p className="mt-2 mb-5 max-w-2xl text-ink-soft">
+                <span className="display text-xl text-ink mr-2">{seasonFor(y.year)!.title}.</span>
+                {seasonFor(y.year)!.intent}{" "}
+                <Link href={`/seasons#s${y.year}`} className="mono text-xs text-brand underline underline-offset-4 hover:text-buoy">The season →</Link>
+              </p>
+            ) : (
+              <div className="mb-4" />
+            )}
             <Ledger races={y.races} showYear={false} />
           </section>
         ))}

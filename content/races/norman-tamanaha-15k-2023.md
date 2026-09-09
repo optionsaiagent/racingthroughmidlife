@@ -32,6 +32,9 @@ results:
     place: '178'
     pace: '10:01/M'
 resultSource: 'https://timelinehawaii.com/2023/08/13/2023-tamanaha-15k/'
+context:
+  - training_day
+  - heat_day
 ---
 
 This is where the marathon build starts wearing a bib. For me it's also where the year starts feeling like a plan again, and I like a plan.

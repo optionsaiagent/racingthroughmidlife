@@ -1,8 +1,8 @@
 ---
 title: 'Kailua 10-Miler 2026: fourth year in the wind'
 deck: >-
-  Fourth year on the windward side. Jay 1:19:19 and third in the age group.
-  Me, 1:34:34 and sixth in mine.
+  Fourth year on the windward side. Jay 1:19:19 and third in the age group. Me,
+  1:34:34 and sixth in mine.
 date: '2026-02-22'
 event: Kailua 10-Miler
 location: 'Kailua, windward Oahu'
@@ -28,6 +28,9 @@ results:
     place: '106'
     pace: '9:27/M'
 resultSource: 'https://timelinehawaii.com/2026/02/22/2026-kailua-10-miler-and-5k/'
+context:
+  - rebuild
+contextNote: 'Rebuild year. The 1:13 from 2025 was run at the top of a build; this wasn''t.'
 ---
 1:34:34, sixth in the 45-49s. Those weren't last year's legs, and I'm fine with that. Am I? Mostly, and the rest of me will get over it.
 

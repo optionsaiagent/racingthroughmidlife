@@ -30,7 +30,7 @@ export default function Contact() {
             <ul className="mt-2 text-[0.98rem] space-y-1.5">
               <li>Official results for any race on the site, with a link to the timing page.</li>
               <li>Race photos, especially the unflattering ones.</li>
-              <li>“We did this too” notes from other age-groupers, here or anywhere hot.</li>
+              <li>&quot;We did this too&quot; notes from other age-groupers, here or anywhere hot.</li>
               <li>A race we should add to <a href="/calendar" className="text-brand underline">the calendar</a>.</li>
               <li>Corrections, if we got a date or a course wrong.</li>
             </ul>

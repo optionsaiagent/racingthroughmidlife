@@ -29,6 +29,10 @@ results:
     place: '104'
     pace: '9:55/M'
 resultSource: 'https://timelinehawaii.com/2026/01/01/2026-bosetti-1st-sunrise-10k/'
+context:
+  - rebuild
+  - post_ironman
+contextNote: 'Two weeks after the marathon, in a year where the volume came down on purpose.'
 ---
 Four years now, and the routine hasn't changed much: marathon in December, sunrise 10K in Hawaii Kai on the first, and then [January](/notes/january-the-five-pounds-and-the-groove), with everything that month usually brings. Two weeks after the marathon neither of us expected the legs to have much to say, and they didn't.
 

@@ -41,6 +41,8 @@ results:
       5k: '32:25'
       10k: '1:06:03'
       15k: '1:45:51'
+context:
+  - heat_day
 ---
 
 The Hapalua calls itself Hawaii's half marathon, and it earns the name: a big field, a Waikiki start, Diamond Head in the middle, and a start line that's already warm in April, which is what June is going to feel like. By this race the cool part of the year is over.

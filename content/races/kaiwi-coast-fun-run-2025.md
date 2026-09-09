@@ -29,6 +29,10 @@ results:
     place: '151'
     pace: '9:14/M'
 resultSource: 'https://timelinehawaii.com/2025/11/23/2025-kaiwi-coast-run-and-walk/'
+context:
+  - post_ironman
+  - together_on_purpose
+  - training_day
 ---
 Four Novembers on the same road: [2022](/races/kaiwi-coast-fun-run-2022), [2023](/races/kaiwi-coast-fun-run-2023), [2024](/races/kaiwi-coast-fun-run-2024), and this one. This time it came five weeks after IRONMAN California and a few weeks out from a marathon we'd already decided to run together, and neither of those things mattered much on that road, which is most of why we keep coming back to it.
 

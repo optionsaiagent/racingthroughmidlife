@@ -2,8 +2,8 @@
 title: 'Lanikai 8K: short doesn''t mean easy in July'
 deck: >-
   A loop through the most photographed neighborhood on the island, six weeks
-  after Honu, with sprints in the same week. Second in my age group, which I
-  did not see coming.
+  after Honu, with sprints in the same week. Second in my age group, which I did
+  not see coming.
 date: '2023-07-23'
 event: Lanikai 8K
 location: 'Lanikai and Kailua, windward Oahu'
@@ -32,6 +32,8 @@ results:
     place: '61'
     pace: '9:31/M'
 resultSource: 'https://timelinehawaii.com/2023/07/23/2023-lanikai-8k/'
+context:
+  - post_ironman
 ---
 
 After the 70.3, June was family in the house and hikes and a slow drift back to running. Slow drift is the nice way to say it. July was about finding some speed again, and an 8K is exactly the right size for that.

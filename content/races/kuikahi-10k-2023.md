@@ -1,18 +1,25 @@
 ---
-title: "Ku'ikahi 10K: I won my age group"
-deck: "A month after a rib injury. Jay brings this up a lot. I'm going to let him."
-date: "2023-03-18"
-datePrecision: "month"
-event: "Ku'ikahi 10K"
-location: "Oahu"
-distance: "10K"
-discipline: "run"
-athletes: "Michelle"
+title: 'Ku''ikahi 10K: I won my age group'
+deck: A month after a rib injury. Jay brings this up a lot. I'm going to let him.
+date: '2023-03-18'
+datePrecision: month
+event: Ku'ikahi 10K
+location: Oahu
+distance: 10K
+discipline: run
+athletes: Michelle
 author: Michelle
-result: "Michelle: 1st, age group"
-video: "N2-p33YPwPg"
+result: 'Michelle: 1st, age group'
+video: N2-p33YPwPg
 featured: true
-tags: ["10k", "michelle", "milestone", "injury"]
+tags:
+  - 10k
+  - michelle
+  - milestone
+  - injury
+context:
+  - raced_injured
+contextNote: Four weeks after Michelle hurt her ribs in a fall off the bike.
 ---
 
 I want to be upfront: I didn't go into this race thinking about winning anything. I went in thinking about my rib.

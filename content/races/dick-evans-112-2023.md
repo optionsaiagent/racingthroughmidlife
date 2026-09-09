@@ -1,17 +1,28 @@
 ---
-title: "Dick Evans Memorial: 112 miles around Oahu"
-deck: "A full lap of the island in August. Same distance as an Ironman bike leg, on its own, before we stuck a swim and a marathon on either side of it."
-date: "2023-08-27"
-datePrecision: "month"
-event: "Dick Evans Memorial Road Race"
-location: "Around Oahu"
-distance: "112 mi"
-discipline: "bike"
+title: 'Dick Evans Memorial: 112 miles around Oahu'
+deck: >-
+  A full lap of the island in August. Same distance as an Ironman bike leg, on
+  its own, before we stuck a swim and a marathon on either side of it.
+date: '2023-08-27'
+datePrecision: month
+event: Dick Evans Memorial Road Race
+location: Around Oahu
+distance: 112 mi
+discipline: bike
 author: Jay
 featured: true
-video: "zdR-YGiS-Qw"
-tags: ["bike", "long ride", "full distance", "food", "heat", "milestone"]
-image: "/images/bikes-rack.jpg"
+video: zdR-YGiS-Qw
+tags:
+  - bike
+  - long ride
+  - full distance
+  - food
+  - heat
+  - milestone
+image: /images/bikes-rack.jpg
+context:
+  - first_at_distance
+  - heat_day
 ---
 
 The Dick Evans is a bike race that goes all the way around Oahu, 112 miles. If that number sounds familiar, it's because it's the bike leg of a full Ironman, and that wasn't a coincidence in our house.
@@ -36,4 +47,4 @@ The other thing it teaches you is that the last thirty miles of a long ride are 
 
 ## What it changed
 
-After this, the full distance stopped being hypothetical. Every leg had been done on its own, and the rest was putting them in a row on one day and [paying for the season in sleep](/lessons/sleep-funds-the-season). That took another year and a half, and it started with a Sunday in August and a bike that had done one sprint.
+After this, the full distance stopped being hypothetical. Every leg had been done on its own, and the rest was putting them in a row on one day and finding the [sleep](/lessons/sleep-funds-the-season) a season like that takes. That took another year and a half, and it started with a Sunday in August and a bike that had done one sprint.

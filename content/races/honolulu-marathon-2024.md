@@ -30,6 +30,9 @@ results:
     place: 3202
     bib: 7182
 resultSource: 'https://sportstats.one/results/142773'
+context:
+  - peak_build
+contextNote: Top of the 2024 build. Both marathon PRs.
 ---
 We didn't film 2024 a week at a time, so the story of this one is mostly on the card, and the card is loud enough on its own.
 

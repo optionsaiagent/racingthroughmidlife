@@ -50,6 +50,21 @@ Every race report and field note now has an `author:` byline, split roughly in h
 
 13. **Waikiki Roughwater 2026.** Times on the page are from your watches via Strava. PSE hadn't posted the official results as of Sept 6, 2026; the Sunday checker will keep looking.
 
+## The seasons and the context flags (added Sept 8, 2026)
+
+`src/lib/seasons.ts` has one record per year (title, what it was for, what it cost, what we changed). All five are marked `draft: true` and say so on the /seasons page until you correct them. The 2025 and 2026 text is Jay's description from the spec; 2022 to 2024 are my reading of the results. Rewrite them in your own words and flip `draft` off.
+
+Every race now carries `context:` flags (peak build, rebuild, raced injured, together on purpose, weeks after an Ironman, training day, flew for it, heat day, first at distance) and some carry a `contextNote:`. I tagged all 65 from the results and the pages; the ones that matter most are 2025 and 2026. Check them in `content/races/*.md`; the flags show on each race page under "Read the time with this."
+
+The 2025 Honolulu Marathon now says Michelle went in injured, per the spec, with a line pointing readers to their own doctor. It says nothing about what the injury was. Add that only if you want it on the record.
+
+Pieces the spec asks for that only you can write (send the raw version and `/sunday` drafts it):
+- A lesson: what two years at peak volume cost. What you noticed, when, what you changed.
+- A lesson: racing injured, and how you decided to. December 2025 as the case study. Descriptive, not prescriptive.
+- The 2026 Sunday notes as a rebuild series.
+
+Signature phrases now have one home each (`content/phrases.json`) and `scripts/lint-prose.py` warns on every build if one strays or repeats. The per-page disclaimer is gone; the footer carries it once.
+
 ## Coming up
 
 - **IRONMAN 70.3 Washington (Tri-Cities), Sept 20, 2026**, both of you. After the race, `/sunday recap` pulls the result from IRONMAN's results service by name; the event id will be on ironman.com's Washington results page.

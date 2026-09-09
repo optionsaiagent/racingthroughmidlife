@@ -1,0 +1,36 @@
+{
+  "_comment": "Signature phrases. Each may appear once per page, and only its canonical page may use it at all; everywhere else, link to the canonical page. scripts/lint-prose.py enforces this.",
+  "phrases": [
+    {
+      "pattern": "\\b(rung|ladder)\\b",
+      "label": "rung / ladder",
+      "canonical": [
+        "content/pages/start-here.md",
+        "src/app/start-here/page.tsx"
+      ]
+    },
+    {
+      "pattern": "(paid|pay|pays|paying) for (it |twice |the season |a season )?in sleep|fund(ed|s)? (the season|a season|with sleep)|season you pay for in sleep",
+      "label": "paid for in sleep",
+      "canonical": "content/lessons/sleep-funds-the-season.md"
+    },
+    {
+      "pattern": "highlight reel",
+      "label": "the part nobody puts on the highlight reel",
+      "canonical": "content/lessons/race-week-is-a-logistics-problem.md"
+    },
+    {
+      "pattern": "not a coaching business|coaching business|not a clinic|no clinic",
+      "label": "not a coaching business / not a clinic",
+      "canonical": [
+        "src/components/SiteFooter.tsx",
+        "src/lib/site.ts"
+      ]
+    },
+    {
+      "pattern": "tell (you|a friend) (over|at) dinner",
+      "label": "what we'd tell you over dinner",
+      "canonical": "src/app/lessons/page.tsx"
+    }
+  ]
+}

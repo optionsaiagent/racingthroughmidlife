@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "prebuild": "python3 scripts/lint-prose.py || true",
+    "lint:prose": "python3 scripts/lint-prose.py --strict"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

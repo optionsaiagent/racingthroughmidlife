@@ -3,7 +3,6 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import Prose from "@/components/Prose";
 import DoDont from "@/components/DoDont";
-import Disclaimer from "@/components/Disclaimer";
 import { MiniList } from "@/components/Cards";
 import { getLesson, getLessons, getNotes, getRaces, fmtDate, related, readingTime } from "@/lib/content";
 
@@ -41,7 +40,6 @@ export default async function LessonPage({ params }: { params: Promise<{ slug: s
           <div className="max-w-[66ch]">
             <DoDont dos={lesson.dos} donts={lesson.donts} />
           </div>
-          <Disclaimer className="mt-12 max-w-[66ch]" />
         </div>
         <aside className="lg:sticky lg:top-6 self-start space-y-8">
           <MiniList items={races} base="/races" title="Where we learned it" />

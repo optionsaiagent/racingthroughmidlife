@@ -18,7 +18,7 @@ The urge to run a few days after a marathon is real. By Wednesday the legs feel 
 
 ## Why the whole week
 
-A marathon is a big withdrawal. The [season gets paid for in sleep](/lessons/sleep-funds-the-season), and a marathon spends most of the balance in one morning. The week after isn't a reward for finishing, it's the deposit that makes the next season possible, and I'd rather make it on purpose.
+A marathon is a big withdrawal. A season [runs on sleep](/lessons/sleep-funds-the-season), and a marathon spends most of the balance in one morning. The week after isn't a reward for finishing, it's the deposit that makes the next season possible, and I'd rather make it on purpose.
 
 We plan it ahead of time, and this is the routine person in me talking: the week after the marathon goes on the calendar as rest before the marathon goes on the calendar as a race. That way it can't get argued with in the moment by a version of us that feels surprisingly fine on Thursday. I am always that version by Thursday, and Jay knows not to listen to her.
 

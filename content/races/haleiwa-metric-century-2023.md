@@ -1,15 +1,24 @@
 ---
-title: "Haleiwa Metric Century: the first ride that felt long"
-deck: "100 kilometers on the North Shore with a bike club that's been doing this for decades. The first organized ride of the triathlon build."
-date: "2023-04-29"
-datePrecision: "month"
-event: "Haleiwa Metric Century"
-location: "North Shore, Oahu"
-distance: "100 km"
-discipline: "bike"
+title: 'Haleiwa Metric Century: the first ride that felt long'
+deck: >-
+  100 kilometers on the North Shore with a bike club that's been doing this for
+  decades. The first organized ride of the triathlon build.
+date: '2023-04-29'
+datePrecision: month
+event: Haleiwa Metric Century
+location: 'North Shore, Oahu'
+distance: 100 km
+discipline: bike
 author: Jay
-video: "GWUR80mH-CU"
-tags: ["bike", "long ride", "70.3", "north shore"]
+video: GWUR80mH-CU
+tags:
+  - bike
+  - long ride
+  - '70.3'
+  - north shore
+context:
+  - training_day
+  - first_at_distance
 ---
 
 A metric century is 100 kilometers, call it 62 miles. In April of 2023 that was the longest ride either of us had done in an organized event, and it was five weeks before a 70.3 with a 56-mile bike leg, so it wasn't a casual Saturday. It was the ride that was supposed to tell me whether the bike part of Honu was going to be a problem.

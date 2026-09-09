@@ -31,6 +31,8 @@ results:
     place: 5862
     bib: 5262
 resultSource: 'https://sportstats.one/results/130133'
+context:
+  - peak_build
 ---
 
 A year earlier this race was a [birthday](/races/honolulu-marathon-for-fifty). This time it was the end of a season that had been pointed at it since August, one readiness race at a time, and for once we'd done the season in the right order.

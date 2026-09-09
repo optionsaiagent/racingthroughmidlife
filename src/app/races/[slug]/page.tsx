@@ -3,13 +3,13 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import Prose from "@/components/Prose";
 import YouTube from "@/components/YouTube";
-import Disclaimer from "@/components/Disclaimer";
 import { MiniList } from "@/components/Cards";
 import { ResultCell } from "@/components/Ledger";
 import ResultsCard from "@/components/ResultsCard";
 import { getRace, getRaces, getNotes, getLessons, fmtDate, related, readingTime } from "@/lib/content";
 import { CALENDAR } from "@/lib/calendar";
 import { SITE } from "@/lib/site";
+import { seasonFor, CONTEXT_LABEL, type RaceContext } from "@/lib/seasons";
 
 export function generateStaticParams() {
   return getRaces().map((r) => ({ slug: r.slug }));
@@ -100,7 +100,6 @@ export default async function RacePage({ params }: { params: Promise<{ slug: str
               ) : null}
             </div>
           </nav>
-          <Disclaimer className="mt-12 max-w-[66ch]" />
         </div>
 
         <aside className="lg:sticky lg:top-6 self-start space-y-8">
@@ -126,6 +125,30 @@ export default async function RacePage({ params }: { params: Promise<{ slug: str
           </dl>
 
           {race.results ? <ResultsCard results={race.results} source={race.resultSource} /> : null}
+
+          {race.context?.length || race.contextNote ? (
+            <div className="border-l-2 border-buoy pl-4">
+              <p className="eyebrow">Read the time with this</p>
+              {race.context?.length ? (
+                <p className="mt-1 flex flex-wrap gap-x-3 gap-y-1">
+                  {race.context.map((c) => (
+                    <span key={c} className="mono text-[0.68rem] uppercase tracking-wider text-ink">{CONTEXT_LABEL[c as RaceContext] ?? c}</span>
+                  ))}
+                </p>
+              ) : null}
+              {race.contextNote ? <p className="mt-2 text-sm leading-snug text-ink-soft">{race.contextNote}</p> : null}
+            </div>
+          ) : null}
+
+          {seasonFor(race.date.slice(0, 4)) ? (
+            <div>
+              <p className="eyebrow">The season</p>
+              <Link href={`/seasons#s${race.date.slice(0, 4)}`} className="group block mt-2">
+                <span className="display text-xl text-ink group-hover:text-brand">{race.date.slice(0, 4)}: {seasonFor(race.date.slice(0, 4))!.title}</span>
+                <span className="block text-sm text-ink-soft mt-0.5">{seasonFor(race.date.slice(0, 4))!.intent}</span>
+              </Link>
+            </div>
+          ) : null}
 
           <p className="mono text-[0.7rem] text-mute">{readingTime(race.body)} min read</p>
 

@@ -32,6 +32,8 @@ results:
     place: '331'
     pace: '10:27/M'
 resultSource: 'https://timelinehawaii.com/2023/11/12/2023-val-nolasco-half-marathon/'
+context:
+  - training_day
 ---
 
 This was race five of five, a half marathon four weeks before the Honolulu Marathon, which is a distance and a date that practically beg you to make a mistake.

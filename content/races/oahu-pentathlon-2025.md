@@ -1,27 +1,34 @@
 ---
-title: "The Oahu Pentathlon 2025"
-deck: "Five events in one day on Oahu, on camera. One of the most-watched videos on the channel, and the only number on this site that came off our own clock."
-date: "2025-08-09"
-event: "The Oahu Pentathlon"
-location: "Oahu"
-distance: "Five events"
-discipline: "multi"
-athletes: "Both"
+title: The Oahu Pentathlon 2025
+deck: >-
+  Five events in one day on Oahu, on camera. One of the most-watched videos on
+  the channel, and the only number on this site that came off our own clock.
+date: '2025-08-09'
+event: The Oahu Pentathlon
+location: Oahu
+distance: Five events
+discipline: multi
+athletes: Both
 author: Michelle
-result: "15:22 (6:00 a.m. to 9:22 p.m.), both of us"
+result: '15:22 (6:00 a.m. to 9:22 p.m.), both of us'
 results:
   jay:
-    time: "15:22"
+    time: '15:22'
     splits:
-      "Start": "6:00 a.m."
-      "Finish": "9:22 p.m."
+      Start: '6:00 a.m.'
+      Finish: '9:22 p.m.'
   michelle:
-    time: "15:22"
+    time: '15:22'
     splits:
-      "Start": "6:00 a.m."
-      "Finish": "9:22 p.m."
-video: "6WBPUqWlsA0"
-tags: ["multi-sport", "community"]
+      Start: '6:00 a.m.'
+      Finish: '9:22 p.m.'
+video: 6WBPUqWlsA0
+tags:
+  - multi-sport
+  - community
+context:
+  - peak_build
+  - together_on_purpose
 ---
 
 A pentathlon is five events in one day. The Oahu Pentathlon is the local version, and in 2025 it was a day we filmed instead of writing down.

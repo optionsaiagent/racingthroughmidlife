@@ -29,6 +29,8 @@ results:
     place: '118'
     pace: '11:55/M'
 resultSource: 'https://timelinehawaii.com/2023/01/01/2023-bosetti-10k/'
+context:
+  - training_day
 ---
 The [first video of the vlog year](/notes/january-the-five-pounds-and-the-groove) is about losing the holiday weight, which tells you what the second half of December looked like at our house once the marathon was done. This race is what we did on the morning of the first day of the year, before the video and before the diet.
 

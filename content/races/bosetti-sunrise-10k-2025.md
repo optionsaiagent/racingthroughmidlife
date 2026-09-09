@@ -1,8 +1,8 @@
 ---
 title: 'Bosetti Sunrise 10K 2025: Jay wins the age group, and I finally break an hour'
 deck: >-
-  New Year's Day, third year running. Jay 45:48 for first in the 50-54s.
-  Me, 59:37 and third in mine.
+  New Year's Day, third year running. Jay 45:48 for first in the 50-54s. Me,
+  59:37 and third in mine.
 date: '2025-01-01'
 event: Bosetti Sunrise 10K
 location: 'Hawaii Kai, Oahu'
@@ -29,6 +29,8 @@ results:
     place: '73'
     pace: '9:36/M'
 resultSource: 'https://timelinehawaii.com/2025/01/01/2025-bosetti-10k/'
+context:
+  - peak_build
 ---
 New Year's Day, sunrise, Hawaii Kai, third year in a row. I'm a routine person, and this is one of the routines I'd keep even if the race went away.
 

@@ -1,8 +1,8 @@
 ---
 title: 'Val Nolasco Half 2022: a month out from the first marathon'
 deck: >-
-  The last race in the 2022 readiness series. Jay under two hours for the
-  first time in a half. Me, sixteen minutes faster than May.
+  The last race in the 2022 readiness series. Jay under two hours for the first
+  time in a half. Me, sixteen minutes faster than May.
 date: '2022-11-13'
 event: Val Nolasco Half Marathon
 location: Honolulu
@@ -30,6 +30,8 @@ results:
     place: '430'
     pace: '11:21/M'
 resultSource: 'https://timelinehawaii.com/2022/11/13/2022-val-nolasco-half-marathon/'
+context:
+  - training_day
 ---
 Four weeks before the [marathon for a fiftieth](/races/honolulu-marathon-for-fifty), and the last race in the series.
 

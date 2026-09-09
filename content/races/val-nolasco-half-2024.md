@@ -1,8 +1,8 @@
 ---
 title: 'Val Nolasco Half 2024: 2:08 on a check day'
 deck: >-
-  A month out from the 2024 marathon. Jay 1:44:44. Me, 2:08:08, four
-  minutes under my Hibiscus PR, on a day I was supposed to be checking, not racing.
+  A month out from the 2024 marathon. Jay 1:44:44. Me, 2:08:08, four minutes
+  under my Hibiscus PR, on a day I was supposed to be checking, not racing.
 date: '2024-11-10'
 event: Val Nolasco Half Marathon
 location: Honolulu
@@ -29,6 +29,8 @@ results:
     agrank: 9
     place: '215'
 resultSource: 'https://timelinehawaii.com/2024/11/10/2024-val-nolasco-half-marathon/'
+context:
+  - training_day
 ---
 The rule for this race is [run it as a check](/races/val-nolasco-half-2023), and I ran it as a check. I'm fairly sure I did. And then I came through in 2:08:08, which is a half-marathon PR by four minutes over the [Hibiscus 2:12](/races/hibiscus-half-2023) that this whole site keeps bringing up.
 

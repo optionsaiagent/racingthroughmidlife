@@ -18,7 +18,7 @@ The first week of January wasn't a training week. It was a week of getting the r
 
 ## What "back in the groove" actually looked like
 
-Short, easy, early. Nothing that would make anybody's highlight reel. A run that was mostly about being outside before the sun came up. A swim that was mostly about remembering how to swim. The plan for the year had a half marathon in it three weeks out, the [Akahai](/races/akahai-half-2023), and that wasn't a goal race. It was a reason to keep the long run alive through the holiday hangover, and I needed one.
+Short, easy, early. Nothing worth filming. A run that was mostly about being outside before the sun came up. A swim that was mostly about remembering how to swim. The plan for the year had a half marathon in it three weeks out, the [Akahai](/races/akahai-half-2023), and that wasn't a goal race. It was a reason to keep the long run alive through the holiday hangover, and I needed one.
 
 ## Why this note is here
 

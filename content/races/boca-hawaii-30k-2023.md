@@ -32,6 +32,8 @@ results:
     place: '190'
     pace: '11:09/M'
 resultSource: 'https://timelinehawaii.com/2023/10/22/2023-boca-hawaii-30k/'
+context:
+  - training_day
 ---
 
 About 18.6 miles, seven weeks before the marathon. Of the five races in the series, this is the one that matters most and the one that's easiest to get wrong, and I understand exactly why people get it wrong, as I wanted to get it wrong myself.

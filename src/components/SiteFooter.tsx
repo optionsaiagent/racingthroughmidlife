@@ -10,6 +10,7 @@ const COLS = [
       { href: "/notes", label: "Field notes" },
       { href: "/lessons", label: "Do's and don'ts" },
       { href: "/calendar", label: "Oahu race calendar" },
+      { href: "/seasons", label: "The seasons" },
     ],
   },
   {
@@ -37,7 +38,7 @@ export default function SiteFooter() {
           <p className="display text-3xl leading-none text-foam">{SITE.tagline}</p>
           <p className="mt-5 text-sm leading-relaxed text-salt/70">{SITE.disclaimer}</p>
           <p className="mt-4 mono text-xs text-salt/60">
-            Official times only. If a result is missing we didn’t have it, and if you send it we’ll put it up.
+            Official times only. If a result is missing we didn&apos;t have it, and if you send it we&apos;ll put it up.
           </p>
         </div>
         {COLS.map((c) => (

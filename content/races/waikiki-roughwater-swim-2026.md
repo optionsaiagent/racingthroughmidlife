@@ -1,24 +1,38 @@
 ---
-title: "Waikiki Roughwater Swim 2026: two and a half hours into the current"
-deck: "The organizers warned us at the start that just under 4 km was going to feel like 8. They were right. About 80 people got pulled or missed the cutoff. Michelle, our friend Jake, and I swam it at a crawl the whole way and got to the finish on our own."
-date: "2026-08-30"
-event: "Waikiki Roughwater Swim"
-location: "Kaimana Beach to Hilton Hawaiian Village, Waikiki"
-distance: "2.4 mi (just under 4 km)"
-discipline: "swim"
-athletes: "Both"
+title: 'Waikiki Roughwater Swim 2026: two and a half hours into the current'
+deck: >-
+  The organizers warned us at the start that just under 4 km was going to feel
+  like 8. They were right. About 80 people got pulled or missed the cutoff.
+  Michelle, our friend Jake, and I swam it at a crawl the whole way and got to
+  the finish on our own.
+date: '2026-08-30'
+event: Waikiki Roughwater Swim
+location: 'Kaimana Beach to Hilton Hawaiian Village, Waikiki'
+distance: 2.4 mi (just under 4 km)
+discipline: swim
+athletes: Both
 author: Jay
-result: "Jay 2:27 · Michelle 2:27 (our own watches)"
+result: 'Jay 2:27 · Michelle 2:27 (our own watches)'
 results:
   jay:
-    time: "2:27:09"
+    time: '2:27:09'
     splits:
-      "Source": "own watch; official results not posted yet"
+      Source: own watch; official results not posted yet
   michelle:
-    time: "2:27:07"
+    time: '2:27:07'
     splits:
-      "Source": "own watch; official results not posted yet"
-tags: ["swim", "ocean", "roughwater", "couples", "consistency"]
+      Source: own watch; official results not posted yet
+tags:
+  - swim
+  - ocean
+  - roughwater
+  - couples
+  - consistency
+context:
+  - rebuild
+contextNote: >-
+  A current the organizers said would make 4 km feel like 8. About 80 swimmers
+  got pulled or missed the cutoff.
 ---
 
 This year's Roughwater was one of the most difficult swims I have ever done in my life, and I want to get that down while it's still fresh.

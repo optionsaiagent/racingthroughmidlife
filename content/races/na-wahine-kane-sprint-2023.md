@@ -30,6 +30,8 @@ results:
     t2: '1:23'
     run: '23:27'
     bib: 231
+context:
+  - training_day
 ---
 
 Six weeks after a 70.3, a sprint triathlon is a strange thing to sign up for. It was also the smartest race I did that summer, and I say that knowing how it sounds next to Honu.

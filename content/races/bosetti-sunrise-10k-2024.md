@@ -31,6 +31,8 @@ results:
     place: '97'
     pace: '10:13/M'
 resultSource: 'https://timelinehawaii.com/2024/01/01/2024-bosetti-10k/'
+context:
+  - training_day
 ---
 
 There's a 10K in Hawaii Kai on the morning of January 1. It starts at sunrise, which on this island is a civilized hour, and it's full of people who decided the year should start with a run instead of a hangover. I'm one of those people, as a start line is something I understand and a party is something I have to work at.

@@ -1,8 +1,8 @@
 ---
 title: 'Kailua 10-Miler 2025: Jay wins it again, and I take third'
 deck: >-
-  Jay first in the 50-54s again, six and a half minutes faster than 2024.
-  Me, third in mine, at 1:31.
+  Jay first in the 50-54s again, six and a half minutes faster than 2024. Me,
+  third in mine, at 1:31.
 date: '2025-02-23'
 event: Kailua 10-Miler
 location: 'Kailua, windward Oahu'
@@ -29,6 +29,8 @@ results:
     place: '61'
     pace: '9:08/M'
 resultSource: 'https://timelinehawaii.com/2025/02/23/2025-kailua-10-miler-and-5k/'
+context:
+  - peak_build
 ---
 Three Februarys on the windward side for Jay: [1:21](/races/kailua-10-miler-2023), [1:19](/races/kailua-10-miler-2024), 1:13. He was two months out from a full Ironman and running 7:19 miles into that wind, which is a strange thing for the guy who didn't like running to do. I've quit being surprised by him. Mostly.
 

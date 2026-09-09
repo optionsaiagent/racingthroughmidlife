@@ -35,6 +35,8 @@ results:
     run: '58:14'
     bib: 121
 resultSource: 'https://runsignup.com/Race/Results/164857#resultSetId-459040'
+context:
+  - peak_build
 ---
 Same course as [2014 and 2023](/races/honolulu-triathlon-2014-and-again). This was my third time at Ala Moana, and I'll admit it was the first time I came off that course without feeling like I needed to apologize to somebody for something.
 

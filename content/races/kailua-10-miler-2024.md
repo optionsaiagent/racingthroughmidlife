@@ -29,6 +29,8 @@ results:
     place: '88'
     pace: '10:31/M'
 resultSource: 'https://timelinehawaii.com/2024/02/25/2024-kailua-10-miler/'
+context:
+  - peak_build
 ---
 We didn't film 2024 week by week, so this one lives on the timing sheet and in the year-in-review video, and the sheet turns out to be enough.
 

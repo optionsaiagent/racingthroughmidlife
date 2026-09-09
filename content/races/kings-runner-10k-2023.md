@@ -24,6 +24,8 @@ results:
     place: 171
     genderRank: 144/1460
     pace: '7:33'
+context:
+  - training_day
 ---
 
 A 10K is the shortest thing we race and the one that tells the most uncomfortable truth, because there's nowhere to hide in six miles. The pace you can hold is the pace you've got, and a 10K will tell you that number whether you asked for it or not.

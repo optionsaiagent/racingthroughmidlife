@@ -1,8 +1,8 @@
 ---
 title: 'Runner''s HI 20K 2022: twelve miles in September'
 deck: >-
-  Second race of the 2022 readiness series, and the longest either of us had
-  run since the Hibiscus Half in May. No video, no notes. Just the sheet.
+  Second race of the 2022 readiness series, and the longest either of us had run
+  since the Hibiscus Half in May. No video, no notes. Just the sheet.
 date: '2022-09-04'
 event: Runner's HI 20K
 location: Honolulu
@@ -30,6 +30,9 @@ results:
     place: '209'
     pace: '12:02/M'
 resultSource: 'https://timelinehawaii.com/2022/09/04/2022-runners-hi-20k/'
+context:
+  - first_at_distance
+  - training_day
 ---
 No video, no notes, just the sheet. Jay 1:48, me 2:23, in September heat, three months before the [marathon](/races/honolulu-marathon-for-fifty).
 

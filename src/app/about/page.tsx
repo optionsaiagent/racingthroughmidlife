@@ -3,7 +3,6 @@ import Image from "next/image";
 import Link from "next/link";
 import PageHeader from "@/components/PageHeader";
 import Prose from "@/components/Prose";
-import Disclaimer from "@/components/Disclaimer";
 import { getPage } from "@/lib/content";
 import { SITE } from "@/lib/site";
 
@@ -45,11 +44,11 @@ export default function About() {
         <div className="grid gap-12 lg:grid-cols-[1fr_22rem]">
           <div>
             <Prose>{page.body}</Prose>
-            <Disclaimer className="mt-12 max-w-[66ch]" />
           </div>
           <aside className="space-y-10">
             <section>
               <p className="eyebrow">The timeline</p>
+              <p className="mt-1 text-sm text-ink-soft">Year by year, with what each one was for and what it cost, on <Link href="/seasons" className="text-brand underline">the seasons page</Link>.</p>
               <ol className="mt-3 border-l-2 border-line">
                 {TIMELINE.map((t) => (
                   <li key={t.when + t.what} className="relative pl-5 pb-5">
@@ -71,7 +70,7 @@ export default function About() {
                 <br />
                 <a href={SITE.youtube} className="text-brand underline" target="_blank" rel="noopener noreferrer">youtube.com/@racingthroughmidlife</a>
               </p>
-              <p className="mt-3 text-sm text-ink-soft">Race photos, official times, and “we did this too” notes are all welcome. Coaching requests and medical questions get a polite no.</p>
+              <p className="mt-3 text-sm text-ink-soft">Race photos, official times, and &quot;we did this too&quot; notes are all welcome. Coaching requests and medical questions get a polite no.</p>
             </section>
           </aside>
         </div>

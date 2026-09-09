@@ -30,7 +30,7 @@ We always picked the next distance, the one that scared us a little and was stil
 
 We train as a couple and our engines don't match. Jay's faster, and Michelle's PRs are the story. The one couples rule we'd defend in public is to say out loud whose day it is, and then the other person sits on that pace even when it feels easy, especially when it feels easy. [The whole rule is here.](/lessons/whose-day-is-it) It has saved more weekends than any workout we've done.
 
-## What we'd tell you over dinner
+## The short version
 
 - Sign up for the race after the long run exists, not before. The internet says to commit first so you can't back out, and sometimes that puts somebody who's never run 13 miles into a 26.2 they'll remember as a medical event.
 - Race in the shoe you trained in, and put any new race shoe on a long run first, because your calf shouldn't meet a new drop on race day.
@@ -38,7 +38,7 @@ We train as a couple and our engines don't match. Jay's faster, and Michelle's P
 - Your first triathlon should be a sprint or an Olympic, close to home, where a bad transition ruins an hour instead of a trip.
 - The bike can wait. Jay did his first 70.3 on the bike he had, and the tri bike showed up a month later, after the race proved he'd keep doing this.
 - Write the plan in pencil. A rib, a work trip, and a week with family in the house all happened to us in one year, the plan bent, and the season didn't break.
-- Pay for the season in sleep. At our age the recovery is the budget, and everything else gets paid out of it.
+- Get the sleep. At our age the recovery is the budget, and everything else gets paid out of it. [We wrote that one up on its own.](/lessons/sleep-funds-the-season)
 
 ## The body that bills interest
 

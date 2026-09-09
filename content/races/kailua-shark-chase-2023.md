@@ -29,6 +29,9 @@ results:
     place: '55'
     pace: '10:53/M'
 resultSource: 'https://timelinehawaii.com/2023/07/16/2023-kailua-beach-4-4-mile-shark-chase/'
+context:
+  - post_ironman
+  - training_day
 ---
 This was a beach run in the middle of July, six weeks after Honu, in the week we were easing back into anything that looked like training. The July video calls it a fun shark chase at Kailua Beach, and that's about how it felt: 4.4 miles on the sand, no goal, and nobody watching a pace. The timing sheet tells a slightly different story. I was first in my age group and Michelle was fifth in hers, and we crossed the line less than a second apart, Michelle in front, which tells you we finished it together and also tells you who was in charge of the finish.
 

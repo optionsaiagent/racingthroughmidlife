@@ -30,6 +30,9 @@ results:
     place: '237'
     pace: '10:05/M'
 resultSource: 'https://timelinehawaii.com/2023/11/19/2023-kaiwi-coast-run-and-walk/'
+context:
+  - training_day
+  - together_on_purpose
 ---
 
 The Kaiwi coast is the stretch of southeast shore between Sandy Beach and Makapuu, with the ocean on one side and the lava cliffs on the other. It's one of the prettiest pieces of road on the island, and most days you only see it through a windshield because it's full of cars. A fun run on it in November is exactly what it sounds like, and we've never been tempted to call it anything else.

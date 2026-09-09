@@ -2,7 +2,7 @@
 title: 'Ironman Texas 2025: the full distance'
 deck: >-
   2.4 miles of swim, 112 of bike, 26.2 of run, in The Woodlands in April. The
-  race every rung of the ladder was built toward.
+  race every step before it was building toward.
 date: '2025-04-26'
 event: IRONMAN Texas
 location: 'The Woodlands, Texas'
@@ -44,14 +44,19 @@ results:
     t2: '0:11:53'
     run: '6:02:44'
     bib: 746
-resultSource: 'https://labs-v2.competitor.com/results/event/d998aa20-f278-e111-b16a-005056956277'
+resultSource: >-
+  https://labs-v2.competitor.com/results/event/d998aa20-f278-e111-b16a-005056956277
+context:
+  - peak_build
+  - first_at_distance
+  - travel_race
 ---
 
-This is the race the whole site is about, in the sense that every page before it is a rung on a ladder that ends here. We'd been climbing it for two years, and we didn't skip any of the rungs, which is the only training advice on this page.
+This is the race the whole site is about, in the sense that every page before it was building toward this one. We'd been at it for two years and did it [in order](/start-here), which is the only training advice on this page.
 
-## How the ladder got here
+## How we got here
 
-We raced the Honolulu Triathlon [for real](/races/honolulu-triathlon-2014-and-again) in May 2023, then came a 70.3 [in the lava](/races/honu-70-3-2023) that June, [112 miles around Oahu](/races/dick-evans-112-2023) in August, [2.4 miles off Waikiki](/races/waikiki-2-4-mile-swim-2023) in September, and a [marathon](/races/honolulu-marathon-2023) with a whole readiness series behind it in December. After that came a year and change of the kind of training a full distance takes, [paid for in sleep](/lessons/sleep-funds-the-season), most of it starting at 5 a.m. on the trainer or on a road before the sun came up.
+We raced the Honolulu Triathlon [for real](/races/honolulu-triathlon-2014-and-again) in May 2023, then came a 70.3 [in the lava](/races/honu-70-3-2023) that June, [112 miles around Oahu](/races/dick-evans-112-2023) in August, [2.4 miles off Waikiki](/races/waikiki-2-4-mile-swim-2023) in September, and a [marathon](/races/honolulu-marathon-2023) with a whole readiness series behind it in December. After that came a year and change of the kind of training a full distance takes, [with a bedtime attached](/lessons/sleep-funds-the-season), most of it starting at 5 a.m. on the trainer or on a road before the sun came up.
 
 ## The race
 
@@ -63,6 +68,6 @@ The one thing Texas had in common with home was the heat. April in The Woodlands
 
 The video is the account of the day. It's the second most-watched thing the channel's posted, behind only the Honolulu Marathon, and it should be, because it's the day every other video was building toward.
 
-Both of us raced it and both of us finished. For me, it was 11:52:41: a 1:31 swim, 5:50 on the bike, and a 4:07 marathon, with the two transitions adding up to more than twenty minutes I'd like to have back. Michelle finished in 14:37:09: a 1:30 swim, 6:44 on the bike, and a 6:02 run. The swim was an hour and a half for each of us, and hers was a minute faster than mine, which she has brought up more times than the race itself. The bike was most of the afternoon, and then there was a marathon. The week around 140.6 is the part nobody puts on the highlight reel, and it was every bit the heat problem, marriage problem, and calendar problem we'd said it would be in [Going the full distance](/races/going-the-full-distance).
+Both of us raced it and both of us finished. For me, it was 11:52:41: a 1:31 swim, 5:50 on the bike, and a 4:07 marathon, with the two transitions adding up to more than twenty minutes I'd like to have back. Michelle finished in 14:37:09: a 1:30 swim, 6:44 on the bike, and a 6:02 run. The swim was an hour and a half for each of us, and hers was a minute faster than mine, which she has brought up more times than the race itself. The bike was most of the afternoon, and then there was a marathon. The [week around 140.6](/lessons/race-week-is-a-logistics-problem) was every bit the heat problem, marriage problem, and calendar problem we'd said it would be in [Going the full distance](/races/going-the-full-distance).
 
 Six months later we did it again at [IRONMAN California](/races/ironman-california-2025).

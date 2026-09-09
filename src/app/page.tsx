@@ -2,7 +2,6 @@ import Image from "next/image";
 import Link from "next/link";
 import Ledger from "@/components/Ledger";
 import YouTube from "@/components/YouTube";
-import Disclaimer from "@/components/Disclaimer";
 import { MiniList } from "@/components/Cards";
 import { getRaces, getNotes, getLessons, fmtDate, readingTime } from "@/lib/content";
 import { VIDEOS } from "@/lib/videos";
@@ -12,7 +11,7 @@ const LADDER = [
   { year: "2014", what: "Honolulu Triathlon, Tin Man", note: "We weren't really training, and it didn't take." },
   { year: "2022", what: "First half marathon. First marathon, for Jay's 50th", note: "The half came first, so we knew the long day was possible." },
   { year: "2023", what: "Olympic, Honu 70.3, 112 miles around Oahu, Honolulu Marathon", note: "The year we filmed every week." },
-  { year: "2025", what: "Two full Ironmans: Texas and California", note: "A season we paid for in sleep, twice." },
+  { year: "2025", what: "Two full Ironmans: Texas and California", note: "Two long-course seasons in one year, and the bill at the end of it." },
 ];
 
 export default function Home() {
@@ -44,8 +43,7 @@ export default function Home() {
             We didn&apos;t start racing until midlife.
           </h1>
           <p className="mt-7 max-w-xl text-lg sm:text-xl leading-snug text-salt/85">
-            Two Honolulu age-groupers, an 8-mile fun run, and eventually a full Ironman. This is the log we kept along the way
-            &mdash; the training that actually stuck, the mistakes we won&apos;t repeat, and what race week really looks like when
+            Two Honolulu age-groupers, an 8-mile fun run, and eventually a full Ironman. This is the log we kept along the way. The training that actually stuck, the mistakes we won&apos;t repeat, and what race week really looks like when
             you&apos;re doing this with a midlife body.
           </p>
           <div className="mt-9 flex flex-wrap gap-3">
@@ -71,7 +69,7 @@ export default function Home() {
           {[
             { href: "/races", k: "Race reports", v: "One page per race, so the day doesn't only live inside a YouTube thumbnail." },
             { href: "/notes", k: "Field notes", v: "The weeks between races: heat, salt, 4:30 alarms, the trainers, and the all-important nutrition and recovery." },
-            { href: "/lessons", k: "Do's and don'ts", v: "What we'd tell you over dinner." },
+            { href: "/lessons", k: "Do's and don'ts", v: "Every one came out of a specific race or a specific mistake." },
           ].map((c) => (
             <Link key={c.href} href={c.href} className="group py-6 sm:px-6 first:pl-0 last:pr-0">
               <span className="display text-2xl text-ink group-hover:text-brand transition-colors">{c.k} →</span>
@@ -173,7 +171,7 @@ export default function Home() {
       {/* Ladder */}
       <section className="mx-auto max-w-6xl px-5 sm:px-8 pt-20">
         <p className="eyebrow">How we got here</p>
-        <h2 className="display text-4xl sm:text-5xl mt-2 max-w-2xl">We didn&apos;t skip any rungs, and it took a while.</h2>
+        <h2 className="display text-4xl sm:text-5xl mt-2 max-w-2xl">We did it in order, and it took a while.</h2>
         <ol className="mt-10 grid gap-8 md:grid-cols-4">
           {LADDER.map((l) => (
             <li key={l.year} className="border-t-2 border-ink pt-4">
@@ -187,7 +185,6 @@ export default function Home() {
           <Link href="/about" className="mono text-xs text-brand hover:text-buoy underline underline-offset-4">The longer version →</Link>
           <Link href="/calendar" className="mono text-xs text-brand hover:text-buoy underline underline-offset-4">The Oahu race calendar we plan a year around →</Link>
         </div>
-        <Disclaimer className="mt-16" />
       </section>
     </>
   );

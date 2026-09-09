@@ -42,6 +42,8 @@ results:
     run1: '13:29'
     run2: '1:15:03'
     bib: 1082
+context:
+  - training_day
 ---
 
 The last triathlon of 2023, two weeks before the marathon, up at Turtle Bay on the North Shore. By late November the winter swells have started arriving on that side of the island, which is probably why the official results for this one show a run, a bike, and another run, and no swim. Our first duathlon, by accident. I'm a routine person and a swim-bike-run person, so I was confused as that wasn't the race I'd shown up for. Then I was fine with it, as run-bike-run is one less thing to be anxious about.

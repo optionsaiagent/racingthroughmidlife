@@ -29,10 +29,19 @@ results:
     place: 7803
     bib: 9849
 resultSource: 'https://sportstats.one/event/honolulu-marathon/leaderboard/145511'
+context:
+  - raced_injured
+  - together_on_purpose
+  - post_ironman
+contextNote: >-
+  Six weeks after IRONMAN California. Michelle went in injured, and we ran the
+  whole thing together at the pace that allowed, which is what 5:25:08 is.
 ---
 The fourth Honolulu Marathon in a row, and the first one we ran as one race instead of two.
 
 Six weeks after a full Ironman, was there a PR to chase? No, and neither of us pretended there was. The plan was the simplest one we've ever written: start together, finish together, take every aid station, and enjoy the fireworks. [Whose day is it?](/lessons/whose-day-is-it) Both of ours, and the pace was whatever kept it that way.
+
+I went into this one injured, and we decided to run it together at whatever pace the injury allowed. That's a decision, not advice, and if you're weighing the same one, talk to your own doctor before you copy ours.
 
 5:25:08 and 5:25:08. Places 7802 and 7803. He's one place ahead of me on the sheet, and I'm choosing not to have feelings about that. (I have a few, and Jay knows about all of them.)
 

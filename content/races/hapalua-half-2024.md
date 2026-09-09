@@ -36,6 +36,9 @@ results:
       15k: '1:39:53'
     bib: 2766
 resultSource: 'https://my.raceresult.com/285242/results'
+context:
+  - peak_build
+  - heat_day
 ---
 The [2023 Hapalua](/races/hapalua-half-2023) taught us the lesson about going out too fast in Waikiki. I learned it the hard way, which is the only way I seem to learn anything. The 2024 one is what the lesson looks like on a sheet: nine minutes off for Jay and fourteen for me, on the same course with the same Diamond Head in the middle of it.
 

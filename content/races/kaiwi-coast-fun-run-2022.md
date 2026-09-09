@@ -1,8 +1,8 @@
 ---
 title: 'Kaiwi Coast Run 2022: the first one we ran together on purpose'
 deck: >-
-  Three weeks before the first marathon, a fun run on the coast road. Two
-  tenths of a second apart at the finish. I was the one in front.
+  Three weeks before the first marathon, a fun run on the coast road. Two tenths
+  of a second apart at the finish. I was the one in front.
 date: '2022-11-20'
 event: Kaiwi Coast Run and Walk
 location: 'Kaiwi coast, east Oahu'
@@ -29,6 +29,9 @@ results:
     place: '252'
     pace: '10:05/M'
 resultSource: 'https://timelinehawaii.com/2022/11/20/kaiwi-coast-run-and-walk/'
+context:
+  - together_on_purpose
+  - training_day
 ---
 Look at the times. 40:18.2 and 40:18.4, and mine is the first one. I'm going to mention that every November for the rest of my life, and Jay knows it.
 

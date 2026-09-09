@@ -29,6 +29,9 @@ results:
     place: '44'
     pace: '12:39/M'
 resultSource: 'https://timelinehawaii.com/2024/07/14/2024-kailua-beach-4-4-mile-shark-chase/'
+context:
+  - training_day
+  - together_on_purpose
 ---
 55:36 and 55:38. Eight minutes slower than the year before and two seconds apart, and I'm not sorry about either number.
 

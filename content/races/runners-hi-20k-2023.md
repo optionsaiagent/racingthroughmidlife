@@ -31,6 +31,9 @@ results:
     place: '140'
     pace: '11:03/M'
 resultSource: 'https://timelinehawaii.com/2023/09/03/2023-runners-hi-20k/'
+context:
+  - training_day
+  - heat_day
 ---
 
 This was race two of five. A 20K is about 12.4 miles, which is nearly a half marathon, and it comes in the hottest month of the year here.

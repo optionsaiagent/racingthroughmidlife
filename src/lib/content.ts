@@ -52,6 +52,8 @@ export interface Race extends Base {
   calendar?: string; // key into calendar entries
   series?: string;
   essay?: boolean; // not a race day; a piece that lives under /races for URL continuity
+  context?: string[]; // RaceContext flags, see src/lib/seasons.ts
+  contextNote?: string; // one or two sentences of why the time reads the way it does
 }
 
 export interface TrainingTotal { sport: string; count: number; miles?: number; time: string }

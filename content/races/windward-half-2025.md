@@ -32,6 +32,8 @@ results:
     place: '64'
     pace: '9:05/M'
 resultSource: 'https://timelinehawaii.com/2025/03/23/2025-windward-half-marathon-and-5k/'
+context:
+  - peak_build
 ---
 I'll be honest: I didn't think this was the day. It was five weeks before [IRONMAN Texas](/races/ironman-texas-2025), on the humid side of the island, in March, with a full Ironman build sitting in my legs. A half marathon under two hours was not on the plan, as this was the last real running race before Texas and I was treating it like one more long run with a bib on.
 

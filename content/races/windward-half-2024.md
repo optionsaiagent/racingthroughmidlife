@@ -29,6 +29,8 @@ results:
     place: '71'
     pace: '10:17/M'
 resultSource: 'https://timelinehawaii.com/2024/03/24/2024-windward-half-marathon-and-5k/'
+context:
+  - peak_build
 ---
 The second year on the pretty half, and the numbers moved. For me, 1:43:49 at 7:56 a mile, eight and a half minutes faster than [the year before](/races/windward-half-2023). Michelle ran 2:14:46, five minutes faster than hers. The course didn't get any shorter and the humidity on the windward side didn't get any lower, so the only thing that changed was a year of long runs, which usually turns out to be the thing that moves the number.
 
