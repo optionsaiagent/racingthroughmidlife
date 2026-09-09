@@ -36,9 +36,16 @@ export default function SeasonsPage() {
                     <div><dt className="eyebrow">What it cost</dt><dd className="mt-1 text-[1.05rem] leading-snug">{s.whatItCost}</dd></div>
                     <div><dt className="eyebrow">What we changed</dt><dd className="mt-1 text-[1.05rem] leading-snug">{s.whatWeChanged}</dd></div>
                   </dl>
-                  <Link href={`/races#y${s.year}`} className="inline-block mt-4 mono text-xs text-brand hover:text-buoy underline underline-offset-4">
-                    The {s.year} races →
-                  </Link>
+                  <p className="mt-4 flex flex-wrap gap-5">
+                    {s.story ? (
+                      <Link href={`/seasons/${s.year}`} className="mono text-xs text-brand hover:text-buoy underline underline-offset-4">
+                        The full story →
+                      </Link>
+                    ) : null}
+                    <Link href={`/races#y${s.year}`} className="mono text-xs text-brand hover:text-buoy underline underline-offset-4">
+                      The {s.year} races →
+                    </Link>
+                  </p>
                 </div>
               </li>
             );

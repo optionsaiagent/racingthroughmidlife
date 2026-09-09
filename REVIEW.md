@@ -65,6 +65,13 @@ Pieces the spec asks for that only you can write (send the raw version and `/sun
 
 Signature phrases now have one home each (`content/phrases.json`) and `scripts/lint-prose.py` warns on every build if one strays or repeats. The per-page disclaimer is gone; the footer carries it once.
 
+## From Jay's 2022 account (Sept 8, 2026)
+
+- The 2022 season page is written from your account and marked final. Three things I changed or assumed: "Great Oahu Run" became Great Aloha Run; I left the golf-course restroom code out of the story on purpose (the story stays, the digits don't); and the new lesson on keto keeps to what you described with the doctor line beside it.
+- The sign-up story is corrected everywhere it appeared. The old lesson said you paid for the marathon after the half; the truth, per you, is two days after the walk, and the lesson now says so.
+- Na Wahine 2022 has a page with no time. PSE timed it; I'll look for the sheet.
+- The Kastor book is named on the season page because you used it. Say so if you'd rather not name it.
+
 ## Coming up
 
 - **IRONMAN 70.3 Washington (Tri-Cities), Sept 20, 2026**, both of you. After the race, `/sunday recap` pulls the result from IRONMAN's results service by name; the event id will be on ironman.com's Washington results page.

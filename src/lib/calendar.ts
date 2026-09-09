@@ -182,7 +182,7 @@ export const CALENDAR: CalendarEvent[] = [
     distance: "Sprint",
     discipline: "tri",
     take: "A sprint is where you learn transitions without a bad one wrecking your whole day, and we raced this one the summer Jay's new bike showed up.",
-    races: ["na-wahine-kane-sprint-2023"],
+    races: ["na-wahine-kane-sprint-2022", "na-wahine-kane-sprint-2023"],
   },
   {
     name: "Norman Tamanaha 15K",

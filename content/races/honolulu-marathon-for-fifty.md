@@ -42,7 +42,7 @@ Then I stood at the 2021 finish line and said we should do it next year, for his
 
 The training wasn't dramatic. It was consistent, which at this age is the only kind that works, and honestly it's the only kind I'm any good at (routine-based, predictable, that's me). Dawn runs before the day job, and the long run built through the spring until a [half at Hibiscus](/races/hibiscus-half-2022) in May proved 13.1 was possible. Then the long run kept building through a Honolulu summer, and long runs in August here start in the dark and finish in full sun with the humidity already up.
 
-We signed up once the half was done and not before, as the [long run had to exist first](/lessons/dont-sign-up-before-the-long-run). That was the deal I'd made with myself, because I was the one who'd opened my mouth at that finish line.
+We'd signed up two days after I said it out loud, back in December 2021, and then spent the year making the [long run exist](/lessons/dont-sign-up-before-the-long-run) to earn it. That was the deal I'd made with myself, because I was the one who'd opened my mouth at that finish line.
 
 ## The race
 

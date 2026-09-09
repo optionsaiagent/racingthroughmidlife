@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 const TIMELINE = [
   { when: "2005 – 2006", what: "Jay does a few triathlons and doesn't like them." },
   { when: "2014", what: "Jay talks Michelle into the Honolulu Triathlon, then the Tin Man two months later, without really training for either." },
-  { when: "Dec 2021", what: "Michelle watches the Honolulu Marathon and says we should run it for Jay's 50th. The longest run in the house at the time is 8.2 miles." },
+  { when: "Dec 2021", what: "On a Sunday walk, watching the 49th Honolulu Marathon go by, Michelle says we should run it next year for Jay's 50th. We sign up two days later. Longest run in the house at the time: 8.1 miles." },
   { when: "May 2022", what: "Hibiscus Half, the first half marathon for both of us." },
   { when: "Dec 2022", what: "Honolulu Marathon, the 50th birthday race.", href: "/races/honolulu-marathon-for-fifty" },
   { when: "Jan 2023", what: "The weekly vlog starts, one episode a week, all year." , href: "/watch"},

@@ -22,16 +22,17 @@ export interface Season {
   whatItCost: string;
   whatWeChanged: string;
   draft?: boolean;
+  story?: boolean; // a full narrative exists at content/seasons/<year>.md
 }
 
 export const SEASONS: Season[] = [
   {
     year: 2022,
-    title: "The first marathon",
-    intent: "Get from an 8-mile fun run to 26.2 for Jay's fiftieth, one distance at a time.",
-    whatItCost: "A summer of long runs that started in the dark, and the first real idea of what recovery takes past forty.",
-    whatWeChanged: "We stopped treating a race as something you show up to and started treating the long run as the thing you earn it with.",
-    draft: true,
+    title: "The first marathon, for a fiftieth",
+    intent: "One and done. Train enough to actually run the Honolulu Marathon three days after Jay's 50th birthday, enjoy it, and not be wrecked for two weeks afterward like the friends who'd done it before us.",
+    whatItCost: "A whole year of training, starting from a lifetime of hating running and never having gone past 8.1 miles. It also cost us keto, because once the runs went past nine miles we found out you need carbs.",
+    whatWeChanged: "Somewhere in the spring we stopped dreading the run and started dreading missing it. Two weeks after the marathon we put it back on the calendar for 2023, and Jay signed up for the Hawaii 70.3 on his own because Michelle told him he was crazy.",
+    story: true,
   },
   {
     year: 2023,

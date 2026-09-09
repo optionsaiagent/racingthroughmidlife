@@ -16,7 +16,7 @@ Michelle's background is hers to tell, and she'll tell the parts she wants to. O
 
 Jay did a few triathlons in 2005 and 2006 and didn't like them. In 2014 he talked Michelle into the Honolulu Triathlon, then the Tin Man two months later, and we weren't really training for either one. We hadn't decided this was a life, it was a weekend with a timing chip, and it didn't take.
 
-In December 2021 Michelle watched the Honolulu Marathon and said we should run it the next year for Jay's fiftieth. He'd never wanted a marathon, and the longest run in the house at the time was the Great Aloha Run, 8.2 miles. We trained anyway. Hibiscus Half in May 2022 was the first half for both of us, and the marathon that December was the birthday.
+In December 2021 Michelle watched the Honolulu Marathon and said we should run it the next year for Jay's fiftieth. He'd never wanted a marathon, and the longest run in the house at the time was the Great Aloha Run, 8.1 miles. We trained anyway. Hibiscus Half in May 2022 was the first half for both of us, and the marathon that December was the birthday.
 
 Then 2023 happened: the Honolulu Triathlon, raced for real this time, Michelle's half-marathon PR, Jay's first 70.3 in the lava at Honu, 112 miles around Oahu, the whole Marathon Readiness Series, and the Honolulu Marathon again. We filmed every week of it. After that came the decision to go the full distance, and the seasons since.
 

@@ -32,7 +32,7 @@ We train as a couple and our engines don't match. Jay's faster, and Michelle's P
 
 ## The short version
 
-- Sign up for the race after the long run exists, not before. The internet says to commit first so you can't back out, and sometimes that puts somebody who's never run 13 miles into a 26.2 they'll remember as a medical event.
+- A date will get you started, and the long run will get you to the finish. We signed up for the marathon a year out with 8.1 miles as our longest run ever, and then spent five months building the long run before we let ourselves think about race day. [The whole story of how that went is here.](/lessons/dont-sign-up-before-the-long-run) The internet says to commit first so you can't back out, and sometimes that puts somebody who's never run 13 miles into a 26.2 they'll remember as a medical event.
 - Race in the shoe you trained in, and put any new race shoe on a long run first, because your calf shouldn't meet a new drop on race day.
 - Eat what you've already suffered with, since race morning isn't the day for a new bar.
 - Your first triathlon should be a sprint or an Olympic, close to home, where a bad transition ruins an hour instead of a trip.

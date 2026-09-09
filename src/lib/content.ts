@@ -157,3 +157,13 @@ export function getPage(slug: string): Page {
   const { data, content } = matter(raw);
   return { ...(data as Omit<Page, "slug" | "body">), slug, body: content.trim() } as Page;
 }
+
+export interface SeasonStory extends Base {
+  year: number;
+}
+export function getSeasonStories(): SeasonStory[] {
+  return readDir<SeasonStory>("seasons").sort((a, b) => b.year - a.year);
+}
+export function getSeasonStory(year: string | number): SeasonStory | undefined {
+  return getSeasonStories().find((s) => String(s.year) === String(year));
+}

@@ -17,7 +17,7 @@ If you're starting endurance sport after 45 on Oahu, this is the race. It isn't 
 
 The Great Aloha Run is every Presidents' Day. You start downtown at Aloha Tower, go out along Nimitz and Kamehameha Highway, and finish on the field at the stadium: 8.15 miles, thousands of people, music, a countdown, and a real start line. A beginner with a few months of consistent running can finish it upright, and most of them do.
 
-For years it was the longest thing either of us had run and the one morning a year that felt like a race. The rest of the year didn't have much of a plan in it, and then February would show up and we'd go do this. We're not embarrassed about that, it was where we were, and we stayed there a long time.
+For years it was the longest thing either of us had run, and we did it every other year or so, which made it the one morning that felt like a race. The rest of the year didn't have much of a plan in it, and then February would show up and we'd go do this. We're not embarrassed about that, it was where we were, and we stayed there a long time.
 
 ## This year
 
