@@ -1,8 +1,6 @@
 ---
 title: 'Kailua 10-Miler 2026: fourth year in the wind'
-deck: >-
-  Fourth year on the windward side. Jay 1:19:19 and third in the age group. Me,
-  1:34:34 and sixth in mine.
+deck: "1:34:34, sixth in the 45-49s. Not last year's legs. Jay 1:19:19, and four years in a row on the podium here."
 date: '2026-02-22'
 event: Kailua 10-Miler
 location: 'Kailua, windward Oahu'

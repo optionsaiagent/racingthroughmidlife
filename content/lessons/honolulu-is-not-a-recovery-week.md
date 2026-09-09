@@ -1,6 +1,6 @@
 ---
 title: "Honolulu is not a recovery week"
-deck: "People fly in and treat the island like a taper with a beach attached. The course looks great in photos, and the humidity doesn't show up in any of them."
+deck: "The course looks great in photos, and the humidity doesn't show up in any of them."
 date: "2023-06-12"
 tags: ["heat", "race week", "travel"]
 dos:

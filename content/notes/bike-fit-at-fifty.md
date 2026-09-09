@@ -1,6 +1,6 @@
 ---
 title: "Bike fit in your forties"
-deck: "August 2023, I get a proper bike fit. The most useful money we spent that year, and it should've come before the bike."
+deck: "Fit first, then the bike. Mine came a year late, and I say so three times."
 date: "2023-08-20"
 week: "2023 · August, week 3"
 tags: ["gear", "bike", "injury", "couples"]

@@ -1,8 +1,6 @@
 ---
 title: 'BOCA Hawaii 30K 2022: the first dress rehearsal'
-deck: >-
-  Eighteen and a half miles in October, seven weeks before the first marathon.
-  Neither of us had ever run this far.
+deck: "Eighteen and a half miles in October, the longest either of us had ever run, and both of us upright at the finish."
 date: '2022-10-23'
 event: BOCA Hawaii 30K
 location: Honolulu

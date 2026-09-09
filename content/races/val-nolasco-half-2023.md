@@ -1,8 +1,6 @@
 ---
 title: 'Val Nolasco Half: the last check before December'
-deck: >-
-  Fifth of five, a month out from the marathon. If the marathon's the goal, this
-  one's for information, not a time.
+deck: "Four weeks out. 1:45:08 and 2:17:01 at marathon effort, and the taper starts here."
 date: '2023-11-12'
 event: Val Nolasco Half Marathon
 location: Honolulu

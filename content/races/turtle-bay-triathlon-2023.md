@@ -1,9 +1,6 @@
 ---
 title: 'Turtle Bay Triathlon: closing the tri year on the North Shore'
-deck: >-
-  A late-season short-course triathlon at Turtle Bay, with the winter surf
-  already showing up and no swim on the results. Our first duathlon, by
-  accident.
+deck: "Run, bike, run. No swim on the results. Our first duathlon, by accident."
 date: '2023-11-25'
 event: Turtle Bay North Shore Triathlon and Adventure Race
 location: 'Turtle Bay, North Shore, Oahu'

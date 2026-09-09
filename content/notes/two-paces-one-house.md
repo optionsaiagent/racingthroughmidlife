@@ -1,6 +1,6 @@
 ---
 title: "Two paces, one house"
-deck: "How we actually train together when the engines don't match. Separate weekdays, shared weekends, and one rule that settles everything."
+deck: "Hibiscus 2023 was my day, so Jay's job that morning was a 2:12 that belonged to me."
 date: "2023-05-29"
 week: "2023 · May, week 4"
 tags: ["couples", "pacing", "training"]

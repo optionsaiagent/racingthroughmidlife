@@ -1,8 +1,6 @@
 ---
 title: 'Hybrid Design 25K: past the half again'
-deck: >-
-  Third of five in the Marathon Readiness Series. The first time since last
-  December either of us ran farther than a half with a number on.
+deck: "A hundred miles on the bike one weekend, 15.5 on foot the next."
 date: '2023-10-01'
 event: Hybrid Design 25K
 location: Honolulu

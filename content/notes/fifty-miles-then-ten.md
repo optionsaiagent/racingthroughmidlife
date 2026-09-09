@@ -1,6 +1,6 @@
 ---
 title: "Fifty miles, then ten"
-deck: "First week of May 2023: new shoes, a 50-mile ride, and a 10-mile run off the bike. The brick that told us whether Honu was a real idea."
+deck: "First week of May 2023: new shoes, a 50-mile ride, and a 10-mile run off the bike."
 date: "2023-05-07"
 week: "2023 · May, week 1"
 tags: ["brick", "70.3", "honu", "training"]

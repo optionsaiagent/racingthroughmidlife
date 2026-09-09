@@ -1,9 +1,6 @@
 ---
 title: 'IRONMAN California 2025: the second full distance'
-deck: >-
-  Sacramento in October. Both of us finished a second 140.6 in one year. Jay
-  11:16:13, thirty-six minutes faster than Texas. Me, 15:26:59, and the hardest
-  marathon I've run.
+deck: "I want to be honest about this one: the marathon at the end was the hardest thing I've done in a race. 15:26:59. Jay 11:16:13."
 date: '2025-10-19'
 event: IRONMAN California
 location: 'Sacramento, California'

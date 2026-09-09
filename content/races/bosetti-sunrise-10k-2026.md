@@ -1,8 +1,6 @@
 ---
 title: 'Bosetti Sunrise 10K 2026: the fourth New Year''s morning'
-deck: >-
-  Jay 50:06 and third in the age group, two weeks after the marathon. Michelle
-  1:01:32, fifth in the 45-49s.
+deck: "Two weeks after the marathon, a few minutes slower than 2025 for both of us, which is about what two Ironmans and a marathon in one year leaves in the legs."
 date: '2026-01-01'
 event: Bosetti Sunrise 10K
 location: 'Hawaii Kai, Oahu'

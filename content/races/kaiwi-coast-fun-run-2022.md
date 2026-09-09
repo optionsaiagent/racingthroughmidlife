@@ -1,8 +1,6 @@
 ---
 title: 'Kaiwi Coast Run 2022: the first one we ran together on purpose'
-deck: >-
-  Three weeks before the first marathon, a fun run on the coast road. Two tenths
-  of a second apart at the finish. I was the one in front.
+deck: "40:18.2 and 40:18.4. Mine is the first one."
 date: '2022-11-20'
 event: Kaiwi Coast Run and Walk
 location: 'Kaiwi coast, east Oahu'

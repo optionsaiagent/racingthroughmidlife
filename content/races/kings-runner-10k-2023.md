@@ -1,8 +1,6 @@
 ---
 title: 'King''s Runner 10K: a town 10K to find out what the legs are worth'
-deck: >-
-  Flat, early, and honest about what the legs are worth. First race of March in
-  a spring that had two halves and an Olympic triathlon in it.
+deck: "A town 10K, flat and early, over before the day got hot. 46:48 at 7:33 a mile."
 date: '2023-03-05'
 event: King's Runner 10K
 location: Honolulu

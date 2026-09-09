@@ -1,6 +1,6 @@
 ---
 title: "Dawn is a temperature"
-deck: "Why every long session in this house starts in the dark, and what the 4:30 alarm actually requires the night before."
+deck: "Every long session in this house starts in the dark, because dawn is the only hour cool enough to get the work done."
 date: "2023-02-12"
 week: "2023 · February, week 2"
 tags: ["dawn", "heat", "consistency", "logistics"]

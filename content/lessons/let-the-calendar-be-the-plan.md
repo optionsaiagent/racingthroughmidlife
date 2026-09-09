@@ -1,6 +1,6 @@
 ---
 title: "Let the calendar be the plan"
-deck: "Honolulu has a five-race series that walks you from a 15K to a half marathon between August and November, a month out from the marathon, so we quit inventing a build and just ran it."
+deck: "Five races, a month apart, 15K to a half marathon. By December the marathon felt like the sixth."
 date: "2023-11-20"
 tags: ["marathon", "calendar", "progression", "readiness series"]
 dos:

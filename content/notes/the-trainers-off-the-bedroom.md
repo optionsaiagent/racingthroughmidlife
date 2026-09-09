@@ -1,6 +1,6 @@
 ---
 title: "The trainers in the room off the bedroom"
-deck: "October 2023 we tried indoor cycling in a place with perfect weather, and it stuck. Two bikes side by side on Tacx trainers in the room off our bedroom, and they're the same bikes we race."
+deck: "October 2023 we tried indoor cycling in a place with perfect weather, and it became the weekday bike, full stop."
 date: "2023-11-05"
 week: "2023 · November, week 1"
 tags: ["bike", "indoor", "zwift", "consistency", "logistics"]

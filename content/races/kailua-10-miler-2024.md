@@ -1,8 +1,6 @@
 ---
 title: 'Kailua 10-Miler 2024: first in the 50-54s'
-deck: >-
-  February on the windward side. First in the 50-54s at 1:19:47, two minutes
-  faster than the year before, and Michelle fifth in hers.
+deck: "The first age-group win, 1:19:47 at 7:59 a mile, with the wind there in both directions."
 date: '2024-02-25'
 event: Kailua 10-Miler
 location: 'Kailua, windward Oahu'

@@ -1,9 +1,6 @@
 ---
 title: 'Hapalua Half: Hawaii''s half, and what it taught us'
-deck: >-
-  Waikiki to Diamond Head in April, already warm at the start line, the way it's
-  going to be all summer. Mile repeats the week before, a brutal hill brick the
-  week after.
+deck: "Mile repeats the week before, a brutal hill brick the week after, and a Waikiki start line already warm in April."
 date: '2023-04-16'
 event: Hapalua Half Marathon
 location: 'Waikiki and Diamond Head, Honolulu'

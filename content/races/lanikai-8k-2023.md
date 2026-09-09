@@ -1,9 +1,6 @@
 ---
 title: 'Lanikai 8K: short doesn''t mean easy in July'
-deck: >-
-  A loop through the most photographed neighborhood on the island, six weeks
-  after Honu, with sprints in the same week. Second in my age group, which I did
-  not see coming.
+deck: "An 8K through Lanikai, the neighborhood with the beach that ends up on postcards, six weeks after Honu, with sprints in the same week."
 date: '2023-07-23'
 event: Lanikai 8K
 location: 'Lanikai and Kailua, windward Oahu'

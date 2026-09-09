@@ -1,8 +1,6 @@
 ---
 title: 'Honolulu Marathon 2024: 3:41 and 4:39'
-deck: >-
-  The third one. Jay took nineteen minutes off his marathon PR. Michelle took
-  fifty-eight off hers. Same 5 a.m. start, same two Diamond Heads.
+deck: "Nineteen minutes off my marathon PR and fifty-eight off Michelle's, with the same two trips over Diamond Head. Nothing clever happened on race day."
 date: '2024-12-08'
 event: Honolulu Marathon
 location: 'Ala Moana to Kapiolani Park, Honolulu'

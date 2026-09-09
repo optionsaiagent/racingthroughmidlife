@@ -1,6 +1,6 @@
 ---
 title: "Race week is a logistics problem"
-deck: "Flying to a race with a bike is closer to moving house than to training. The week around a long-course race gets spent on bags, bike boxes, and food, and none of it makes the highlight reel."
+deck: "The week around a long-course race is a bike box, a spreadsheet, and a lot of standing in lines."
 date: "2025-05-10"
 tags: ["race week", "travel", "full distance", "70.3"]
 dos:

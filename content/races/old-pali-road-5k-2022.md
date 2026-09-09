@@ -1,8 +1,6 @@
 ---
 title: 'Old Pali Road 5K 2022: on my own'
-deck: >-
-  A 5K on the old Pali road in September 2022. My race. Jay's name isn't on
-  the sheet.
+deck: "A 5K on the closed-off, overgrown stretch of the original highway over the mountains, and it goes up. Jay's name isn't on the sheet."
 date: '2022-09-10'
 event: Old Pali Road 5K
 location: 'Old Pali Road, Nuuanu'

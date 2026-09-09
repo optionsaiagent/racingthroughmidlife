@@ -1,8 +1,6 @@
 ---
 title: 'Dick Evans 2024: around the island, second time'
-deck: >-
-  112 miles in August, again. Jay 6:09:26 in the Golden Masters. Michelle wasn't
-  on the start list this year.
+deck: "Second lap of the island, on my own this time. 6:09:26 in a category called Golden Masters, which I've decided to take as a compliment."
 date: '2024-08-25'
 event: Dick Evans Memorial Road Race
 location: Around Oahu

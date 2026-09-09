@@ -1,8 +1,6 @@
 ---
 title: 'Kaena Point Firecracker: no shade, no pavement'
-deck: >-
-  Out and back on the dirt road to the western tip of Oahu. Exposed the whole
-  way, ocean on one side and not much on the other.
+deck: "Ten miles of rocks with sand in between. No shade, no pavement. One second apart."
 date: '2024-07-06'
 event: HURT Kaena Point Firecracker 10-Mile Trail Run
 location: 'Kaena Point, west Oahu'

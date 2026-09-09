@@ -1,8 +1,6 @@
 ---
 title: 'Kailua 10-Miler 2025: Jay wins it again, and I take third'
-deck: >-
-  Jay first in the 50-54s again, six and a half minutes faster than 2024. Me,
-  third in mine, at 1:31.
+deck: "1:13:11. First in the age group, again. Me, 1:31:23 and third."
 date: '2025-02-23'
 event: Kailua 10-Miler
 location: 'Kailua, windward Oahu'

@@ -1,8 +1,6 @@
 ---
 title: 'Cholo''s Waimea Bay 2024: a North Shore swim in June'
-deck: >-
-  An ocean swim at Waimea Bay three weeks after Honu, timed by Timeline Hawaii.
-  Forty-five minutes each, a minute apart.
+deck: "Flat summer water at Waimea Bay, three weeks after Honu, and no distance listed on the timing page."
 date: '2024-06-22'
 event: Cholo's Waimea Bay Swim
 location: 'Waimea Bay, North Shore'

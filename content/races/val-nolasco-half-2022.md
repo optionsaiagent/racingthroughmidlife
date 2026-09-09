@@ -1,8 +1,6 @@
 ---
 title: 'Val Nolasco Half 2022: a month out from the first marathon'
-deck: >-
-  The last race in the 2022 readiness series. Jay under two hours for the first
-  time in a half. Me, sixteen minutes faster than May.
+deck: "Four weeks before the first marathon. Jay went under two hours in a half for the first time, and I'm letting him have that one."
 date: '2022-11-13'
 event: Val Nolasco Half Marathon
 location: Honolulu

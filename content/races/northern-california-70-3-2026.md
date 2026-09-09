@@ -1,8 +1,6 @@
 ---
 title: 'IRONMAN 70.3 Northern California 2026: ninth and tenth'
-deck: >-
-  August 2026, the newest page on the site. Jay 5:37:38 and ninth in the 50-54s.
-  Michelle 7:03:02 and tenth in the 45-49s.
+deck: "Fifty-minute swims for both of us, so no river current this time, and a 1:46:18 run, my fastest 70.3 run on this site. The write-up comes once we've slept."
 date: '2026-08-16'
 event: IRONMAN 70.3 Northern California
 location: Northern California

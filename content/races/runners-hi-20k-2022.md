@@ -1,8 +1,6 @@
 ---
 title: 'Runner''s HI 20K 2022: twelve miles in September'
-deck: >-
-  Second race of the 2022 readiness series, and the longest either of us had run
-  since the Hibiscus Half in May. No video, no notes. Just the sheet.
+deck: "Twelve miles in September heat, three months before the marathon. The 20K is where the series stops being a fun run, and nobody told us that in 2022."
 date: '2022-09-04'
 event: Runner's HI 20K
 location: Honolulu

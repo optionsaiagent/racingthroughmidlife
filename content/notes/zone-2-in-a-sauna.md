@@ -1,6 +1,6 @@
 ---
 title: "Zone 2 in a sauna"
-deck: "September 2023 we started paying attention to easy heart-rate training. In Honolulu heat that's harder than it sounds, because your heart doesn't know the pace is easy."
+deck: "In humidity my heart rate climbs through a session even when the pace doesn't, from zone 2 at 5:30 a.m. to out of it by 7."
 date: "2023-09-17"
 week: "2023 · September, week 3"
 tags: ["heart rate", "heat", "training", "zone 2"]

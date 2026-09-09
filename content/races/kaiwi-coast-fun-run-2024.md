@@ -1,8 +1,6 @@
 ---
 title: 'Kaiwi Coast Run 2024: the November tradition'
-deck: >-
-  Third year on the coast road, two weeks before the marathon. 36:28 and
-  36:28.9.
+deck: "Two weeks before the marathon, same road, same person next to me. 36:28 and 36:28.9, four minutes faster than the year before."
 date: '2024-11-24'
 event: Kaiwi Coast Run and Walk
 location: 'Kaiwi coast, east Oahu'

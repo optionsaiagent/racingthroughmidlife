@@ -1,8 +1,6 @@
 ---
 title: 'Kailua Beach Shark Chase 2023: 4.4 miles on the sand'
-deck: >-
-  The July video calls it a fun shark chase at Kailua Beach. It was a race, and
-  Jay won his age group in it.
+deck: "The July video calls it a fun shark chase at Kailua Beach. The timing sheet has me first in my age group, less than a second behind Michelle."
 date: '2023-07-16'
 event: Kailua Beach 4.4 Mile Shark Chase
 location: Kailua Beach

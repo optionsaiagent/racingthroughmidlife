@@ -1,8 +1,6 @@
 ---
 title: 'Bosetti Sunrise 10K 2023: three weeks after the first marathon'
-deck: >-
-  New Year's Day 2023, the first bib of the year we filmed. Jay third in his age
-  group, which nobody expected three weeks after 26.2.
+deck: "January 1, sunrise, Hawaii Kai. 47:39 and third in the 50-54s, three weeks after 26.2."
 date: '2023-01-01'
 event: Bosetti Sunrise 10K
 location: 'Hawaii Kai, Oahu'

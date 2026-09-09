@@ -1,8 +1,6 @@
 ---
 title: 'Runner''s HI 20K: the distance steps up, and so does the heat'
-deck: >-
-  Second race in the Marathon Readiness Series, in September, which is the
-  hottest stretch of the year here.
+deck: "Race two of five. 12.4 miles in September, when the trade winds drop off and the humidity stays up."
 date: '2023-09-03'
 event: Runner's HI 20K
 location: Honolulu

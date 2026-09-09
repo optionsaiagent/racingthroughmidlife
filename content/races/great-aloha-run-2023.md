@@ -1,6 +1,6 @@
 ---
 title: "Great Aloha Run: the distance that was our ceiling for years"
-deck: "8.15 miles from Aloha Tower to the stadium on Presidents' Day. For a long time this was the longest thing either of us had run. In 2023 it was a training day."
+deck: "8.15 miles from Aloha Tower to the field at the stadium, every Presidents' Day. For years it was the longest thing either of us had run."
 date: "2023-02-20"
 event: "Great Aloha Run"
 location: "Aloha Tower to Aloha Stadium, Honolulu"

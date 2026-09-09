@@ -1,8 +1,6 @@
 ---
 title: 'Kaiwi Coast Run 2025: fourth year, still together'
-deck: >-
-  Five weeks after IRONMAN California. 36:55 and 36:57. The coast road doesn't
-  care what you did in October.
+deck: "Four Novembers on the same road. 36:55 and 36:57, two seconds and one place apart, five weeks after IRONMAN California."
 date: '2025-11-23'
 event: Kaiwi Coast Run and Walk
 location: 'Kaiwi coast, east Oahu'

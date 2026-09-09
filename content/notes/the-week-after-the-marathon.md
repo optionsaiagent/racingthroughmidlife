@@ -1,6 +1,6 @@
 ---
 title: "The week after the marathon"
-deck: "What the seven days after 26.2 look like in our house. Not a training week. Not a light week. A rest week, on purpose, with the season already planned around it."
+deck: "Seven days after 26.2. We walked, swam easy, slept more than usual, and didn't run."
 date: "2023-12-17"
 week: "2023 · December, week 3"
 tags: ["recovery", "marathon", "sleep", "midlife"]

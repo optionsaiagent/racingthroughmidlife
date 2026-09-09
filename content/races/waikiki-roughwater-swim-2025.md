@@ -1,8 +1,6 @@
 ---
 title: 'Waikiki Roughwater Swim 2025: an hour and a half, together'
-deck: >-
-  Our second Roughwater, swum side by side in about 1:30. Calm water, a small
-  current helping us along, and a pretty enjoyable morning.
+deck: "Calm water from Kaimana Beach to the Hilton, a small current running with us, and about an hour and a half by our watches."
 date: '2025-08-31'
 event: Waikiki Roughwater Swim
 location: 'Kaimana Beach to Hilton Hawaiian Village, Waikiki'

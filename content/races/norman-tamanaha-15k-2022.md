@@ -1,9 +1,6 @@
 ---
 title: 'Norman Tamanaha 15K 2022: the first bib of the marathon build'
-deck: >-
-  August 2022, four months before Jay's 50th-birthday marathon. First race in
-  the readiness series, and the first time either of us had run a 15K with a
-  number on.
+deck: "August 2022. 1:22:33 and 2:16:23. The timing sheet is all that's left of the day."
 date: '2022-08-14'
 event: Norman Tamanaha 15K
 location: Honolulu

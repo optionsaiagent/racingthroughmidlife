@@ -1,8 +1,6 @@
 ---
 title: 'Hapalua 2024: fourteen minutes back, in April heat'
-deck: >-
-  Hawaii's half, second time around. Jay 1:43:11 for ninth in the 50-54s. Me,
-  2:18:53, fourteen minutes faster than 2023 on the same course.
+deck: "32:31 through 5K, 1:39:53 through 15K, 2:18:53 at the finish. Fourteen minutes faster than 2023 on the same course."
 date: '2024-04-14'
 event: Hapalua Half Marathon
 location: 'Waikiki and Diamond Head, Honolulu'

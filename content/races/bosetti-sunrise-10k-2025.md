@@ -1,8 +1,6 @@
 ---
 title: 'Bosetti Sunrise 10K 2025: Jay wins the age group, and I finally break an hour'
-deck: >-
-  New Year's Day, third year running. Jay 45:48 for first in the 50-54s. Me,
-  59:37 and third in mine.
+deck: "Under an hour for a 10K for the first time on this site, on a holiday morning I'd planned not to think about too hard. Jay 45:48, first in the 50-54s."
 date: '2025-01-01'
 event: Bosetti Sunrise 10K
 location: 'Hawaii Kai, Oahu'

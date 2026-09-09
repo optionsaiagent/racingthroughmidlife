@@ -1,8 +1,6 @@
 ---
 title: The Oahu Pentathlon 2025
-deck: >-
-  Five events in one day on Oahu, on camera. One of the most-watched videos on
-  the channel, and the only number on this site that came off our own clock.
+deck: "Five events, from 6 in the morning to 9:22 at night, timed on our own clock because the results live on a map that doesn't publish a finish list."
 date: '2025-08-09'
 event: The Oahu Pentathlon
 location: Oahu

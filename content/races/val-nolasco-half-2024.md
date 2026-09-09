@@ -1,8 +1,6 @@
 ---
 title: 'Val Nolasco Half 2024: 2:08 on a check day'
-deck: >-
-  A month out from the 2024 marathon. Jay 1:44:44. Me, 2:08:08, four minutes
-  under my Hibiscus PR, on a day I was supposed to be checking, not racing.
+deck: "2:08:08, a half PR by four minutes, a month out from the marathon. It was supposed to be a check."
 date: '2024-11-10'
 event: Val Nolasco Half Marathon
 location: Honolulu

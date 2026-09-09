@@ -1,8 +1,6 @@
 ---
 title: 'Na Wahine & Kane Sprint: transitions, on the new bike'
-deck: >-
-  A sprint at the end of July, the first race on Jay's triathlon bike. A sprint
-  is where you learn transitions without them ruining your day.
+deck: "The first race on the new triathlon bike, a couple of weeks after it showed up. A sprint is where you learn transitions without them ruining your day."
 date: '2023-07-30'
 event: Na Wahine & Kane Sprint Triathlon
 location: Oahu

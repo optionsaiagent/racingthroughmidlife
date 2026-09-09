@@ -1,8 +1,6 @@
 ---
 title: 'Honolulu Marathon 2025: together, on purpose'
-deck: >-
-  Six weeks after IRONMAN California. Both of us at 5:25:08, side by side for
-  26.2 miles, one place apart in the results.
+deck: "Start together, finish together, take every aid station, and enjoy the fireworks. 5:25:08 and 5:25:08."
 date: '2025-12-14'
 event: Honolulu Marathon
 location: 'Ala Moana to Kapiolani Park, Honolulu'

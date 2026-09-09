@@ -1,8 +1,6 @@
 ---
 title: 'Honolulu Triathlon 2024: twenty-five minutes, mostly on the bike'
-deck: >-
-  Third time at Ala Moana. Jay 2:20:57, me 2:49:02. A year of triathlon,
-  measured on the same course.
+deck: "A tri bike, a bike fit, and a winter of rides on the trainer, and twenty-five minutes off on the same course."
 date: '2024-05-19'
 event: Honolulu Triathlon (Olympic)
 location: 'Ala Moana Beach Park, Honolulu'

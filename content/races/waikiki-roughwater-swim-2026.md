@@ -1,10 +1,6 @@
 ---
 title: 'Waikiki Roughwater Swim 2026: two and a half hours into the current'
-deck: >-
-  The organizers warned us at the start that just under 4 km was going to feel
-  like 8. They were right. About 80 people got pulled or missed the cutoff.
-  Michelle, our friend Jake, and I swam it at a crawl the whole way and got to
-  the finish on our own.
+deck: "Just under 4 km that felt like 8. About 80 swimmers pulled or past the cutoff. 2:27 by our watches, and we didn't quit."
 date: '2026-08-30'
 event: Waikiki Roughwater Swim
 location: 'Kaimana Beach to Hilton Hawaiian Village, Waikiki'

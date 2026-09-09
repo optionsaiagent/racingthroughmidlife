@@ -1,8 +1,6 @@
 ---
 title: 'Norman Tamanaha 15K 2024: third year, third in the age group'
-deck: >-
-  The readiness series opener, again. Jay 1:14:14, two seconds faster than 2023.
-  Michelle 1:31:33, her fastest 15K.
+deck: "Three Augusts, same course: 1:22, 1:14:16, 1:14:14. Michelle went the other direction, 1:31:33, her fastest 15K."
 date: '2024-08-11'
 event: Norman Tamanaha 15K
 location: Honolulu

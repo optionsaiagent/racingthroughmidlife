@@ -1,6 +1,6 @@
 ---
 title: "Whose day is it"
-deck: "The one couples-training rule we'd defend in public: one of you is the engine that day and the other one is the governor, and you say it out loud before the workout starts."
+deck: "One engine, one governor, said out loud before the first step."
 date: "2023-05-30"
 tags: ["couples", "pacing", "training"]
 dos:

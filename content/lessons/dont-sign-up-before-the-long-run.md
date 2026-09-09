@@ -1,6 +1,6 @@
 ---
 title: "Don't sign up before the long run exists"
-deck: "Jay didn't want a marathon until Michelle put it on a birthday. The date got him to the start line, the long runs got him to the finish, and you need both, in that order."
+deck: "Michelle put the marathon on Jay's fiftieth, and the longest run in the house at that point was 8.2 miles."
 date: "2023-01-15"
 tags: ["progression", "marathon", "beginners"]
 dos:

@@ -1,8 +1,6 @@
 ---
 title: 'Dick Evans 2025: my first lap of the island'
-deck: >-
-  112 miles, both of us. Jay 5:55:53, his fastest. Me, 7:57:33, my first time
-  around Oahu with a number on.
+deck: "My first lap of the island with a number on, in August, in traffic, with eight hours inside my own head. Jay was done a couple of hours before I was."
 date: '2025-08-24'
 event: Dick Evans Memorial Road Race
 location: Around Oahu

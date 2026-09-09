@@ -1,8 +1,6 @@
 ---
 title: 'Windward Half 2024: eight minutes faster on the humid side'
-deck: >-
-  The pretty half, second year running. Jay 1:43:49, Michelle 2:14:46, both
-  fourth in their age groups.
+deck: "Eight and a half minutes faster than 2023 for me, five for Michelle, on a course that didn't get any shorter. Both of us fourth."
 date: '2024-03-24'
 event: Windward Half Marathon
 location: Windward Oahu

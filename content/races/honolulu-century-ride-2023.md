@@ -1,8 +1,6 @@
 ---
 title: 'Honolulu Century Ride: a long, hot, beautiful day up the windward coast'
-deck: >-
-  Out and back up the windward side from Kapiolani Park, with turnarounds for
-  wherever you are in a season. We took the 100.
+deck: "Out of Kapiolani Park and up the windward coast, with turnarounds at 25, 50, 75, and 100 miles. We took the 100."
 date: '2023-09-24'
 datePrecision: month
 event: Honolulu Century Ride

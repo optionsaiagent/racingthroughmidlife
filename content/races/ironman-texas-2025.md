@@ -1,8 +1,6 @@
 ---
 title: 'Ironman Texas 2025: the full distance'
-deck: >-
-  2.4 miles of swim, 112 of bike, 26.2 of run, in The Woodlands in April. The
-  race every step before it was building toward.
+deck: "A lake swim, 112 flat and windy miles on closed roads, and a marathon that loops past the same spectators several times."
 date: '2025-04-26'
 event: IRONMAN Texas
 location: 'The Woodlands, Texas'

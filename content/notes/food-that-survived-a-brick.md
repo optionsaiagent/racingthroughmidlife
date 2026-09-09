@@ -1,6 +1,6 @@
 ---
 title: "Food that survived a brick"
-deck: "We don't sell electrolytes. We eat what's already been through a hot long ride and come out the other side. Here's how the list gets made."
+deck: "Every long ride and every brick is an audition, and the stuff that comes home still in the pocket is off the list."
 date: "2023-09-03"
 week: "2023 · September, week 1"
 tags: ["food", "hydration", "brick", "heat"]

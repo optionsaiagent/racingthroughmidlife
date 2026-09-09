@@ -1,8 +1,6 @@
 ---
 title: 'Honolulu Triathlon, twice: 2014 and the year we meant it'
-deck: >-
-  Same island, same three sports, two completely different athletes. The 2014
-  version of us wasn't training. The 2023 version was.
+deck: "Ala Moana, twice. Zero weeks of training in 2014. Fifty in 2023."
 date: '2023-05-21'
 event: Honolulu Triathlon (Olympic)
 location: 'Ala Moana Beach Park, Honolulu'

@@ -1,8 +1,6 @@
 ---
 title: 'BOCA Hawaii 30K: the marathon dress rehearsal'
-deck: >-
-  Fourth of five and the longest. Thirty kilometers in October is as close to a
-  marathon as you can get with a bib on and still have a marathon left in you.
+deck: "The December breakfast, the marathon shoes, and ten boring miles on purpose, seven weeks out. 3:27:55 on the card."
 date: '2023-10-22'
 event: BOCA Hawaii 30K
 location: Honolulu

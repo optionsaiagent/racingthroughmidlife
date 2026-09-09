@@ -1,6 +1,6 @@
 ---
 title: "Three weekends in a row"
-deck: "Honolulu Triathlon, Hibiscus Half, Honu 70.3. Three race weekends back to back in May and June 2023, and how we tried to get two bodies through it."
+deck: "We didn't plan three race weekends in a row, the calendar did, and only the last one was the goal."
 date: "2023-05-14"
 week: "2023 · May, week 2"
 tags: ["race week", "recovery", "70.3", "couples"]

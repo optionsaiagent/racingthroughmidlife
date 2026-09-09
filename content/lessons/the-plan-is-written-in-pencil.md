@@ -1,6 +1,6 @@
 ---
 title: "The plan is written in pencil"
-deck: "One year brought a rib, three weeks of family in the house, and a work calendar that doesn't care about your taper. The plan bent every time and the season didn't break."
+deck: "2023 had a rib in February, a houseful of family in June, and a work calendar that doesn't know what a taper is."
 date: "2023-07-02"
 tags: ["injury", "family", "training", "consistency"]
 dos:

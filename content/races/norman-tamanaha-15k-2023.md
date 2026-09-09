@@ -1,8 +1,6 @@
 ---
 title: 'Norman Tamanaha 15K: the marathon build gets a bib'
-deck: >-
-  First race of the Honolulu Marathon Readiness Series. From here the calendar
-  walks you to December one race at a time, and we let it.
+deck: "9.3 miles in August, a week after a training week with hill sprints, a ridge ride, and a Koko Head hike in it."
 date: '2023-08-13'
 event: Norman Tamanaha 15K
 location: Honolulu

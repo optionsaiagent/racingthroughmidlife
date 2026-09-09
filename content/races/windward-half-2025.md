@@ -1,8 +1,6 @@
 ---
 title: 'Windward Half 2025: Jay wins it, and mine starts with a one'
-deck: >-
-  The pretty half, third year. Jay 1:41:31 for first in the age group. Me,
-  1:58:53, my first half under two hours.
+deck: "Five weeks before Texas, treating it as one more long run with a bib on, and it came out 1:58:53! Jay won the 50-54s the same morning."
 date: '2025-03-23'
 event: Windward Half Marathon
 location: Windward Oahu

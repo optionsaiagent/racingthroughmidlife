@@ -1,6 +1,6 @@
 ---
 title: "January: the five pounds and the groove"
-deck: "Three weeks after the marathon, the first note of the vlog year. Holiday weight, a lost routine, and the boring way back into it."
+deck: "Five holiday pounds and a lost routine. Week one of fifty-two on camera."
 date: "2023-01-08"
 week: "2023 · January, week 1"
 tags: ["consistency", "recovery", "marathon", "new year"]

@@ -1,8 +1,6 @@
 ---
 title: 'Tinman Triathlon 2014: not nearly enough training'
-deck: >-
-  Two months after the 2014 Honolulu Tri, with no training to speak of. The only
-  2014 result that's still online, and it's on this page because it's ours.
+deck: "July 2014. No training to speak of. 2:40:58 and 3:08:27."
 date: '2014-07-20'
 datePrecision: month
 event: Tinman Triathlon

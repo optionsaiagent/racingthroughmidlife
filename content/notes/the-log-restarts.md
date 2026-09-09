@@ -1,6 +1,6 @@
 ---
 title: "The log restarts"
-deck: "Why the site got rebuilt, what a Sunday note's going to look like from here, and the rules that didn't change."
+deck: "We rebuilt the site at the same address, with the same rules and a lot more of the actual record."
 date: "2026-09-03"
 tags: ["site", "consistency"]
 ---
