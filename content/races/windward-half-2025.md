@@ -38,3 +38,5 @@ I'll be honest: I didn't think this was the day. It was five weeks before [IRONM
 1:58:53! The first time a half marathon on this site starts with a one for me. Two years earlier, on this same course, I ran [2:19](/races/windward-half-2023). Twenty minutes off on the same road in the same weather. What changed? Nothing dramatic, as much as I'd like to say it was. Two years of boring mornings, one at a time, and then one morning where they all showed up together. I was surprised and I did enjoy it.
 
 Jay won the 50-54s at 1:41:31. Whose day was it? Both of ours, for once, which doesn't happen often in this house. Five weeks later, Texas.
+
+Three weeks later at the [Hapalua](/races/hapalua-half-2025) I went 51 seconds faster, so this one is the first sub-two and that one is the PR. I'm fine with both of those being true.

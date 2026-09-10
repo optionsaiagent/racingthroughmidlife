@@ -52,6 +52,34 @@ for u in sorted(event_urls):
                              "already_on_site": d.isoformat() in known_dates})
     time.sleep(0.3)
 
+# ---- 1b. RaceResult: Honolulu events in the window (PSE moved most Oahu races here in 2024)
+print("Checking RaceResult (Honolulu) ...")
+try:
+    evs = json.loads(get("https://my.raceresult.com/RREvents/list?filter=Honolulu&group=0&user=0&userID=0&geoLocation=IP&lang=en&modes=past"))[0]["Events"]
+    for e in evs:
+        d = datetime.date.fromisoformat(e["dateFrom"])
+        if not (since <= d <= today): continue
+        try: cfg = json.loads(get(f"https://my.raceresult.com/{e['id']}/RRPublish/data/config?page=results&noVisitor=1"))
+        except Exception: continue
+        key = cfg.get("key")
+        for l in cfg.get("lists", []):
+            ln = l.get("Name") if isinstance(l, dict) else l
+            try: data = json.loads(get(f"https://my.raceresult.com/{e['id']}/RRPublish/data/list?key={key}&listname={urllib.parse.quote(str(ln))}&page=results&contest=0&r=all&l=0"))
+            except Exception: continue
+            def walk(o):
+                if isinstance(o, dict):
+                    for v in o.values(): walk(v)
+                elif isinstance(o, list):
+                    if o and all(not isinstance(x, (list, dict)) for x in o):
+                        if any(isinstance(x, str) and re.search(r"(jay|michelle)\s*miller|miller,\s*(jay|michelle)", x, re.I) for x in o):
+                            findings.append({"source": "raceresult", "date": e["dateFrom"], "event": e["name"], "url": f"https://my.raceresult.com/{e['id']}/results", "row": o, "already_on_site": e["dateFrom"] in known_dates})
+                    else:
+                        for x in o: walk(x)
+            walk(data.get("data"))
+        time.sleep(0.3)
+except Exception as ex:
+    print("  RaceResult check failed:", ex)
+
 # ---- 2. IRONMAN: any result under either name that the site doesn't have
 print("Checking IRONMAN results by name ...")
 for fn in ("Jay Miller", "Michelle Miller"):
@@ -107,4 +135,4 @@ else:
     for f in findings:
         print(" -", json.dumps(f, ensure_ascii=False))
 print()
-print("Not checked automatically (need the browser): PSE/acho, Sportstats, RunSignup, RaceResult, Webscorer. See .claude/skills/sunday/results-sources.md.")
+print("Not checked automatically (need the browser): PSE/acho, Sportstats, RunSignup, Webscorer. See .claude/skills/sunday/results-sources.md.")

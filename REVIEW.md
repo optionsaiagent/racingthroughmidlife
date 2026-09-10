@@ -79,6 +79,10 @@ Signature phrases now have one home each (`content/phrases.json`) and `scripts/l
 - Na Wahine 2023: Jay did the Kane sprint, Michelle did the standalone 5K. The page says so; her 5K time isn't on the card because I haven't found that sheet.
 - Trainers moved from "late October" to Labor Day weekend per you; the October videos are still the first ones about them.
 
+## From the RaceResult sweep (Sept 9, 2026)
+
+Every past Honolulu event on my.raceresult.com was searched for both names. Six races were missing from the site and now have pages: King's Runner 2025 and 2026, Hapalua 2025 and 2026, Honolulu Triathlon 2025 and 2026. Two of them are news: Michelle's half PR is the 2025 Hapalua (1:58:02, not Windward), and she won the 45-49s at the 2025 Honolulu Triathlon, her second age-group win. Jay's 10K PR is the 2025 King's Runner (42:53) and his half PR the 2025 Hapalua (1:38:34). The bodies of the six new pages are short and say they weren't written up at the time; send a line or two on any of them and they grow. Na Wahine 2024 and 2025 were checked too; neither of you is on those sheets.
+
 ## Coming up
 
 - **IRONMAN 70.3 Washington (Tri-Cities), Sept 20, 2026**, both of you. After the race, `/sunday recap` pulls the result from IRONMAN's results service by name; the event id will be on ironman.com's Washington results page.

@@ -61,7 +61,7 @@ export const CALENDAR: CalendarEvent[] = [
     distance: "10K",
     discipline: "run",
     take: "A fast, flat course in town, which is good for finding out what your legs are actually worth after a winter of slow miles.",
-    races: ["kings-runner-10k-2023"],
+    races: ["kings-runner-10k-2023", "kings-runner-10k-2025", "kings-runner-10k-2026"],
   },
   {
     name: "Ku'ikahi 10K",
@@ -70,7 +70,7 @@ export const CALENDAR: CalendarEvent[] = [
     where: "Oahu",
     distance: "10K",
     discipline: "run",
-    take: "Michelle won her age group here in 2023. We bring this up a lot and we're going to keep doing it.",
+    take: "Michelle\'s first age-group win, in 2023. We bring it up a lot, and now there\'s a second one at the Honolulu Triathlon to bring up alongside it.",
     races: ["kuikahi-10k-2023"],
   },
   {
@@ -91,7 +91,7 @@ export const CALENDAR: CalendarEvent[] = [
     distance: "13.1 mi",
     discipline: "run",
     take: "Hawaii's half is big and well run, and by April the start line is already warm enough to give you a preview of summer.",
-    races: ["hapalua-half-2023", "hapalua-half-2024"],
+    races: ["hapalua-half-2023", "hapalua-half-2024", "hapalua-half-2025", "hapalua-half-2026"],
   },
   {
     name: "Haleiwa Metric Century",
@@ -111,7 +111,7 @@ export const CALENDAR: CalendarEvent[] = [
     distance: "Olympic, plus shorter options",
     discipline: "tri",
     take: "We did this in 2014 without training and again in 2023 with it, on the same course, as different people. It's the only local Olympic-distance tri, so the whole spring points at it.",
-    races: ["honolulu-triathlon-2014-and-again", "honolulu-triathlon-2024"],
+    races: ["honolulu-triathlon-2014-and-again", "honolulu-triathlon-2024", "honolulu-triathlon-2025", "honolulu-triathlon-2026"],
   },
   {
     name: "Hibiscus Half Marathon",
