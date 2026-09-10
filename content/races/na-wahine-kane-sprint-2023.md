@@ -44,6 +44,8 @@ A sprint is also where you actually learn transitions. At a 70.3 a bad transitio
 
 It's a local sprint on Oahu with a swim, a short bike, and a short run. I raced the Kane division and came in third in my age group, 1:16:24 on the clock: 13:35 in the water, 36:29 on the bike, 23:27 for the run, and the two transitions in between. I'm not going to describe the course in detail, because I'd be reconstructing it from the video and the video does that better, so watch it.
 
+Michelle was there too, racing the 5K that the event runs as its own race rather than the sprint triathlon, so we were both at the same start area on the same morning doing different things. The timing sheet for the tri only has me on it, which is why the card reads the way it does.
+
 ## Make the first one a sprint
 
 If you've never done a triathlon, make the first one a sprint, not because you couldn't do an Olympic but because a sprint teaches you everything about the sport that isn't fitness: the swim start, the transition, and the first mile of running off the bike. Learn that stuff where a mistake costs minutes instead of the whole day, and then go longer.
