@@ -28,7 +28,7 @@ export interface Season {
 export const SEASONS: Season[] = [
   {
     year: 2022,
-    title: "The first marathon, for a fiftieth",
+    title: "The year of discovery: the first marathon, for a fiftieth",
     intent: "One and done. Train enough to actually run the Honolulu Marathon three days after Jay's 50th birthday, enjoy it, and not be wrecked for two weeks afterward like the friends who'd done it before us.",
     whatItCost: "A whole year of training, starting from a lifetime of hating running and never having gone past 8.1 miles. It also cost us keto, because once the runs went past nine miles we found out you need carbs.",
     whatWeChanged: "Somewhere in the spring we stopped dreading the run and started dreading missing it. Two weeks after the marathon we put it back on the calendar for 2023, and Jay signed up for the Hawaii 70.3 on his own because Michelle told him he was crazy.",
@@ -36,11 +36,11 @@ export const SEASONS: Season[] = [
   },
   {
     year: 2023,
-    title: "The year we filmed every week",
-    intent: "Volume, and finding out whether the sport would stick. Twenty-seven races, an Olympic tri, a 70.3, a lap of the island, and the whole readiness series.",
-    whatItCost: "Most of a year of 5 a.m. alarms, a rib, and a lot of weekends.",
-    whatWeChanged: "The trainers came into the house in October and the weekday bike started actually happening.",
-    draft: true,
+    title: "The year of expansion",
+    intent: "Race a whole bunch of everything and see if the fitness could go to another level: 10Ks, 10-milers, halves, a metric century, an Olympic tri, and Jay's first 70.3 in the lava with two friends who signed up the minute he told them.",
+    whatItCost: "A year of 5 a.m. alarms, a rib, a marathon that missed four hours by 35 seconds, and a marathon Michelle ran on a twisted ankle. The bike broke Jay at Honu, and fixing that cost two bikes and two trainers.",
+    whatWeChanged: "We started filming every week. Salt tablets went into the pockets. The bikes moved into the room off the bedroom on Labor Day weekend, and around Christmas we bought a training app and let it tell us what to do.",
+    story: true,
   },
   {
     year: 2024,

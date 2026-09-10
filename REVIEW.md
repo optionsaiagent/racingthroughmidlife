@@ -72,6 +72,13 @@ Signature phrases now have one home each (`content/phrases.json`) and `scripts/l
 - Na Wahine 2022 has a page with no time. PSE timed it; I'll look for the sheet.
 - The Kastor book is named on the season page because you used it. Say so if you'd rather not name it.
 
+## From Jay's 2023 account (Sept 9, 2026)
+
+- The 2023 season story is written from your account. Two readings: "4:34" I took as 4:00:34, which matches the official time and your "35 seconds"; and "Boston Marathon readiness series" I took as BioAstin.
+- Michelle's ankle at the 2023 marathon is now on that page and in its context flags. If she'd rather it read differently, it's her page to change.
+- You said you both did the Na Wahine sprint again in July 2023, but PSE's results only show you in the Kane race. The page still says Jay raced. Tell me if Michelle did too.
+- Trainers moved from "late October" to Labor Day weekend per you; the October videos are still the first ones about them.
+
 ## Coming up
 
 - **IRONMAN 70.3 Washington (Tri-Cities), Sept 20, 2026**, both of you. After the race, `/sunday recap` pulls the result from IRONMAN's results service by name; the event id will be on ironman.com's Washington results page.

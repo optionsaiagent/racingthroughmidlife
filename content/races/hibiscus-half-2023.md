@@ -63,6 +63,8 @@ I held the pace through the climb and through the heat after it. Was it comforta
 
 ## The result
 
+The next day, Memorial Day, we did Murph at the gym, a mile run, 100 pull-ups, 200 push-ups, 300 air squats, and another mile, without the weighted vest because Honu was five days out. Jay will tell you that was probably not a good idea five days before a half Ironman, and he's right.
+
 2:12:23. A PR! Jay crossed one second later at 2:12:24, which is what pacing somebody looks like on a timing sheet. It's the one number on this site I'll repeat as often as I feel like, and I feel like it a lot.
 
 ## What it taught us

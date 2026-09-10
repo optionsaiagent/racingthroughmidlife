@@ -24,6 +24,8 @@ Jay's first 70.3 was June 3, 2023, in the lava between Waikoloa and Hawi, and he
 
 In July, a month after Honu, the tri bike showed up. It's in the second-week-of-July video, along with new shoes and a snorkeling trip to Sharks Cove, because that's what a week looks like in a house where the season is long. By then the purchase made sense: there was a sprint tri at the end of July, a 112-mile ride in August, and a full-distance decision on the horizon, so the bike had a job to do. A month after that Michelle had a proper bike fit, which is the [other half of this lesson](/notes/bike-fit-at-fifty), because the fit mattered more than the frame and it should've come first for both of us.
 
+The tri bike was a 2006 Cervelo P3 from a friend, and around the same time Jay picked up a Specialized Tarmac SL6 road bike off Facebook Marketplace. The reason was simple: the bike is a huge portion of a triathlon and the bike is what broke him at Honu, making the run so hard to get into that it took 2:15. If there was going to be another one, he needed to be a lot stronger on the bike.
+
 ## Why the order matters at this age
 
 At this age we usually have the money to buy the thing before we've earned it, and that's the trap. The gear makes the decision feel made, then the first race is hard, the way first races are, and the bike ends up in a corner as a reminder. Race the first one on what you've got and let the race decide whether there's a second one. Then buy the bike and ride it a lot, alone, in the heat, before it ever sees a transition area.

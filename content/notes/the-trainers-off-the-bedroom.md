@@ -16,17 +16,17 @@ We don't have a garage. What we have is a room just off our bedroom with two Tac
 
 ## The problems it solved
 
-The first was the dark. Our riding window is dawn, and dawn is dark. Riding in traffic in the dark on an island where the roads weren't built with a shoulder in mind is a risk we usually take on the weekend, when there's time to pick the route, and not on a Tuesday at 5 a.m.
+The first was the road. There are decent bike lanes in places, but you're still dealing with traffic and lights, and the only way to get a consistent hard workout outside is to ride the ridges and do hill repeats. A lot of drivers here aren't paying attention, and a lot of them are texting. The second was the dark. Our riding window is dawn, and dawn is dark. Riding in traffic in the dark on an island where the roads weren't built with a shoulder in mind is a risk we usually take on the weekend, when there's time to pick the route, and not on a Tuesday at 5 a.m.
 
-The second was the clock. A weekday ride outside is the ride plus getting to a road worth riding plus getting home, while on the trainer an hour is an hour. Past fifty with a day job, the hour that's actually an hour is the one that happens.
+The third was the clock. A weekday ride outside is the ride plus getting to a road worth riding plus getting home, while on the trainer an hour is an hour. Past fifty with a day job, the hour that's actually an hour is the one that happens.
 
-The third was the heat. The trainer's got a fan, and the fan isn't fighting the humidity. A hard interval session in that room is a hard interval session and not a hard interval session plus a heat problem, which is most of why the [zone 2 work](/notes/zone-2-in-a-sauna) finally started working.
+The fourth was the heat. The trainer's got a fan, and the fan isn't fighting the humidity. A hard interval session in that room is a hard interval session and not a hard interval session plus a heat problem, which is most of why the [zone 2 work](/notes/zone-2-in-a-sauna) finally started working.
 
-The last one was honesty. The trainer doesn't have a downhill. Every minute is a minute of pedaling, so it's a harder hour than the same hour outside and a measured one.
+The last one was honesty, and it's the one that keeps us on them. The trainer doesn't have a downhill. Every minute is a minute of pedaling, so it's a harder hour than the same hour outside and a measured one.
 
 ## How it went
 
-Late October 2023 was the first week: a few rides, a race or two on the app, and the surprise that a virtual race hurts exactly as much as a real one. By November we were hooked, Zwift Academy in November and the Fondo series in December, and it became the weekday bike, full stop.
+We bought them on Labor Day weekend 2023, when Garmin had a sale, and signed up for Zwift and Fulgaz the same week. The first videos about it came in late October, when the surprise was that a virtual race hurts exactly as much as a real one. By November we were hooked, Zwift Academy in November and the Fondo series in December, and it became the weekday bike, full stop.
 
 The same week as the first trainer rides, I rode over the Pali Highway for the first time, outside, on a real road with a real climb. That's the balance we've kept since: the trainers for the weekdays and the specific efforts, the island for the weekends and the long ones. The room off the bedroom didn't replace the road. It replaced the weekday rides that weren't happening.
 

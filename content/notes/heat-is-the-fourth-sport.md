@@ -22,9 +22,11 @@ Every long workout we do starts in the dark, and not because we're especially di
 
 The local races know this. The Honolulu Marathon starts at 5 a.m. Hibiscus starts early. Honu in June starts with a swim at first light and then sends you into the lava fields for a bike ride with no trees and no shade. So the alarm's early, and everything else in the week follows from that.
 
-## Water and salt, not a product
+## Water and salt
 
 We don't sell electrolytes and we're not going to recommend a brand. What we can tell you is what we usually do: drink before the session, carry more water than seems reasonable, and put salt on real food in the days around a long effort. In this humidity the sweat rate is high and the sweat is salty, and a long day without replacing both of those ends badly.
+
+What we actually carry, since the salt story is on [the brick note](/notes/fifty-miles-then-ten): salt tablets and a sodium-heavy electrolyte drink, on any session over a couple of hours and on every race. No brand, because we've used several and the point is the sodium, not the label.
 
 On a hot long ride we stop for water more often than the plan says, on a long run we carry it, and on race day we hit every aid station from the first one, whether we feel like it or not, because by the time you feel like you need it you're already behind.
 

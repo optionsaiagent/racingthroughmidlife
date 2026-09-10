@@ -24,7 +24,7 @@ The order matters more than any one race: Olympic, then a 70.3 on a hard course,
 
 ## The camera and the log
 
-The YouTube channel is the camera. It has the bike rack at 4:45 a.m., the finish chutes, the family visits, and the blooper reel, one episode a week through 2023 and then race films and year-in-review cuts after that.
+The YouTube channel was Jay's idea, and so was the name. Michelle edits the videos and gets them ready to publish; Jay does most of the filming and most of the talking, because she's shy on camera. The channel is the camera. It has the bike rack at 4:45 a.m., the finish chutes, the family visits, and the blooper reel, one episode a week through 2023 and then race films and year-in-review cuts after that.
 
 This site is the written log. It exists because a race shouldn't only live inside a thumbnail, and three years from now the sentence about what actually happened at mile 20 should still be findable, in words, with a date on it. The two link to each other, and neither one replaces the other.
 

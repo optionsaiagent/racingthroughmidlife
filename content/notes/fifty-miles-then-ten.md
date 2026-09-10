@@ -18,6 +18,8 @@ The first mile of the run is a lie, it always feels wrong. Legs that have been p
 
 The other thing it taught us was eating. Fifty miles is long enough to run out of whatever you had for breakfast, and if you don't eat on the bike the run pays for it. Everything that came off that ride still in the pockets was food that hadn't worked, and the food that was gone was the food that went to the race.
 
+It was on one of these 50-and-10 days that my friend Michael and I learned about salt. We were running down Kalanianaole Highway and both of us hit the wall at about eight miles, two miles from his house, when we came across a public park with a restroom and a woman sitting there who looked like she'd been out running. She said, "You guys look like you could use some salt," and broke out salt tablets, and within five minutes of taking one all the energy came back and I felt like Superman. We ran the last two miles feeling great. Salt tablets and sodium-heavy electrolyte drinks have been in the pockets ever since, because what you lose sweating for two hours out here is immense and you have to put it back.
+
 ## New shoes, not race shoes
 
 The same week had new shoes in it. They didn't get to race, they got to train, because the [shoe that gets the bib](/notes/the-shoe-you-trained-in) is the one that's already done a long run, and these hadn't done anything yet but sit in the box.
