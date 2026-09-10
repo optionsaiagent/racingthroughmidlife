@@ -1,14 +1,30 @@
 ---
-title: "Great Aloha Run: the distance that was our ceiling for years"
-deck: "8.15 miles from Aloha Tower to the field at the stadium, every Presidents' Day. For years it was the longest thing either of us had run."
-date: "2023-02-20"
-event: "Great Aloha Run"
-location: "Aloha Tower to Aloha Stadium, Honolulu"
-distance: "8.15 mi"
-discipline: "run"
+title: 'Great Aloha Run: the distance that was our ceiling for years'
+deck: >-
+  8.15 miles from Aloha Tower to the field at the stadium, every Presidents'
+  Day. For years it was the longest thing either of us had run.
+date: '2023-02-20'
+event: Great Aloha Run
+location: 'Aloha Tower to Aloha Stadium, Honolulu'
+distance: 8.15 mi
+discipline: run
 author: Jay
-video: "nT2z9MOYQ5c"
-tags: ["beginners", "progression", "consistency"]
+video: nT2z9MOYQ5c
+tags:
+  - beginners
+  - progression
+  - consistency
+athletes: Both
+result: 'Jay 1:25:56 · Michelle 1:25:07 (our own watches)'
+results:
+  jay:
+    time: '1:25:56'
+    splits:
+      Source: own watch (Strava); no timing sheet found
+  michelle:
+    time: '1:25:07'
+    splits:
+      Source: own watch (Strava); no timing sheet found
 ---
 
 If you're starting endurance sport after 45 on Oahu, this is the race. It isn't easy, but it's the right size, and we say that as two people who used it as the whole calendar for a long time.
@@ -26,3 +42,6 @@ By February 2023 a marathon had happened, so the Great Aloha Run turned into a t
 It was still a good morning, it always is. The stadium finish is the closest thing Oahu has to a big-city race, and being in the middle of a few thousand people is a decent reminder that this sport isn't only something you do alone at 5 a.m., which for us is what it is most of the year.
 
 If you've never run a race, run this one. If you've run one race a year for a decade and it's this one, that's a fine life, and for a lot of years it was ours. When you want the next distance up, the [Hibiscus Half](/races/hibiscus-half-2022) in May is the right size for that too.
+
+Michelle ran it faster than Jay that year, by 49 seconds on the watches. The official results are on Athlinks, which we can't read by machine, so these are ours.
+

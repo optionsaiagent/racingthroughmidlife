@@ -1,11 +1,13 @@
 ---
-title: 'Honolulu Century Ride: a long, hot, beautiful day up the windward coast'
-deck: "Out of Kapiolani Park and up the windward coast, with turnarounds at 25, 50, 75, and 100 miles. We took the 100."
+title: 'Honolulu Century Ride 2023: 79 miles of it'
+deck: >-
+  Out of Kapiolani Park and up the windward coast, with turnarounds at 25, 50,
+  75, and 100 miles. We took the 100.
 date: '2023-09-24'
 datePrecision: month
 event: Honolulu Century Ride
 location: 'Kapiolani Park up the windward coast, Oahu'
-distance: 100 mi
+distance: '79 mi (the 75-mile option, by the watch)'
 discipline: bike
 author: Jay
 featured: true
@@ -18,6 +20,21 @@ tags:
   - full distance
 context:
   - training_day
+result: 'Jay 5:36 moving · Michelle 5:45 moving (79 mi, own watches)'
+results:
+  jay:
+    time: '5:36:10'
+    splits:
+      Elapsed with stops: '7:04:57'
+      Source: own watch (Strava); no timing sheet found
+    miles: 79.3
+  michelle:
+    time: '5:45:55'
+    splits:
+      Elapsed with stops: '7:05:10'
+      Source: own watch (Strava); no timing sheet found
+    miles: 79.4
+athletes: Both
 ---
 
 The Honolulu Century is the big organized ride on the island. It's late September, out of Kapiolani Park, over the east side and up the windward coast and back, with turnarounds at 25, 50, 75, and 100 miles so you can pick the distance that fits. We took the 100.
@@ -35,3 +52,6 @@ If you ride on Oahu and haven't done this one, do it, and pick the distance that
 ## Where it sat
 
 September 2023 had the [Runner's HI 20K](/races/runners-hi-20k-2023) and the [Waikiki swim](/races/waikiki-2-4-mile-swim-2023) earlier in the month. The running series was carrying the marathon and the long rides were carrying the full-distance question, and September was the month both of those were loudest. The following weekend was the [Hybrid Design 25K](/races/hybrid-design-25k-2023), which we ran easy, because we'd just ridden a hundred miles.
+
+Our watches say 79 miles, so this was the 75-mile turnaround and not the full hundred, seven hours door to door with the rest stops. Jay's Strava title for the day is "Century'ish Ride," which is honest.
+

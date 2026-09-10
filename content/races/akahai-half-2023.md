@@ -1,15 +1,27 @@
 ---
-title: "Akahai Half: a January half, three weeks after a marathon"
-deck: "We didn't race it. It was on the calendar so the long run would survive the holidays, and the same week had a Kuliouou hike in it."
-date: "2023-01-21"
-datePrecision: "month"
-event: "Akahai Half Marathon"
-location: "Oahu"
-distance: "13.1 mi"
-discipline: "run"
+title: 'Akahai Half: a January half, three weeks after a marathon'
+deck: >-
+  We didn't race it. It was on the calendar so the long run would survive the
+  holidays, and the same week had a Kuliouou hike in it.
+date: '2023-01-21'
+datePrecision: month
+event: Akahai Half Marathon
+location: Oahu
+distance: 13.1 mi
+discipline: run
 author: Michelle
-video: "bqkC-5CtZrE"
-tags: ["half marathon", "consistency", "recovery"]
+video: bqkC-5CtZrE
+tags:
+  - half marathon
+  - consistency
+  - recovery
+athletes: Jay
+result: 'Jay 1:53:55 (own watch)'
+results:
+  jay:
+    time: '1:53:55'
+    splits:
+      Source: own watch (Strava); no timing sheet found
 ---
 
 Three weeks after a marathon, a half marathon is either a dumb idea or a very specific good one. I'm going to say ours was the second, and I'm mostly sure of that.
@@ -21,3 +33,6 @@ So we didn't race it, we ran it. No time goal, every aid station, and the whole 
 The same week had a Kuliouou hike in it. That's a ridge trail on the east side that goes up and then keeps going up, and the way down is a leg workout I underestimate every single time. Hikes count as training here in a way they don't on the mainland, as the climbs are real and so is the heat.
 
 Both are in the video. Week three of the vlog year, routine back, no hole in the calendar.
+
+Jay's watch says 1:53:55. Michelle wasn't on Strava yet that January, and the race's results aren't posted anywhere we can read, so hers isn't on the card.
+

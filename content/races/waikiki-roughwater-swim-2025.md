@@ -1,6 +1,8 @@
 ---
 title: 'Waikiki Roughwater Swim 2025: an hour and a half, together'
-deck: "Calm water from Kaimana Beach to the Hilton, a small current running with us, and about an hour and a half by our watches."
+deck: >-
+  Calm water from Kaimana Beach to the Hilton, a small current running with us,
+  and about an hour and a half by our watches.
 date: '2025-08-31'
 event: Waikiki Roughwater Swim
 location: 'Kaimana Beach to Hilton Hawaiian Village, Waikiki'
@@ -8,16 +10,16 @@ distance: 2.4 mi (just under 4 km)
 discipline: swim
 athletes: Both
 author: Jay
-result: 'Jay 1:30 · Michelle 1:30 (our own watches)'
+result: 'Jay 1:30:01 · Michelle about 1:30 (own watches)'
 results:
   jay:
-    time: '1:30'
+    time: '1:30:01'
     splits:
-      Source: own watch
+      Source: own watch (Strava); no timing sheet found
   michelle:
     time: '1:30'
     splits:
-      Source: own watch
+      Source: own watch (Strava); no timing sheet found
 tags:
   - swim
   - ocean

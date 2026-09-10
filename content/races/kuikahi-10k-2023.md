@@ -7,9 +7,9 @@ event: Ku'ikahi 10K
 location: Oahu
 distance: 10K
 discipline: run
-athletes: Michelle
+athletes: Both
 author: Michelle
-result: 'Michelle: 1st, age group'
+result: 'Michelle 1:01:56, 1st in age group · Jay 50:49 (our own watches)'
 video: N2-p33YPwPg
 featured: true
 tags:
@@ -20,6 +20,17 @@ tags:
 context:
   - raced_injured
 contextNote: Four weeks after Michelle hurt her ribs in a fall off the bike.
+results:
+  michelle:
+    time: '1:01:56'
+    splits:
+      Source: own watch (Strava); no timing sheet found
+    agegroup: F40-44
+    agrank: 1
+  jay:
+    time: '50:49'
+    splits:
+      Source: own watch (Strava); no timing sheet found
 ---
 
 I want to be upfront: I didn't go into this race thinking about winning anything. I went in thinking about my rib.
@@ -41,3 +52,6 @@ A race isn't the last three weeks leading up to the event, it's the two years be
 ## Also that week
 
 Jay was cycling THE Hill, a climb on the island that earned a definite article on the channel and kept it. It's in this video along with my podium.
+
+The age-group win is from the video and the podium. The times are from our watches, since Aloha Racing's results aren't posted anywhere we can read.
+

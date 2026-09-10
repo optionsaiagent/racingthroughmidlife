@@ -1,9 +1,12 @@
 ---
 title: 'IRONMAN 70.3 Northern California 2026: ninth and tenth'
-deck: "Fifty-minute swims for both of us, so no river current this time, and a 1:46:18 run, my fastest 70.3 run on this site. The write-up comes once we've slept."
+deck: >-
+  Fifty-minute swims for both of us, so no river current this time, and a
+  1:46:18 run, my fastest 70.3 run on this site. The write-up comes once we've
+  slept.
 date: '2026-08-16'
 event: IRONMAN 70.3 Northern California
-location: Northern California
+location: 'Redding, California'
 distance: 1.2 mi swim / 56 mi bike / 13.1 mi run
 discipline: tri
 athletes: Both

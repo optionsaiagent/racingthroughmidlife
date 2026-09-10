@@ -214,6 +214,31 @@
   }
  },
  {
+  "event": "Akahai Half Marathon 2023",
+  "date": "2023-01-21",
+  "source": "self-reported via Strava (own watches)",
+  "url": null,
+  "athletes": {
+   "jay": {
+    "time": "1:53:55"
+   }
+  }
+ },
+ {
+  "event": "Great Aloha Run 2023",
+  "date": "2023-02-20",
+  "source": "self-reported via Strava (own watches)",
+  "url": null,
+  "athletes": {
+   "jay": {
+    "time": "1:25:56"
+   },
+   "michelle": {
+    "time": "1:25:07"
+   }
+  }
+ },
+ {
   "event": "2023 Kailua Ten-Miler and 5K",
   "date": "2023-02-26",
   "source": "timelinehawaii",
@@ -248,6 +273,20 @@
     "agrank": "11/111",
     "gender_rank": "144/1460",
     "pace": "7:33"
+   }
+  }
+ },
+ {
+  "event": "Ku'ikahi 10K 2023",
+  "date": "2023-03-18",
+  "source": "self-reported via Strava (own watches)",
+  "url": null,
+  "athletes": {
+   "michelle": {
+    "time": "1:01:56"
+   },
+   "jay": {
+    "time": "50:49"
    }
   }
  },
@@ -395,6 +434,20 @@
   }
  },
  {
+  "event": "Ho'omau 10K 2023",
+  "date": "2023-06-10",
+  "source": "self-reported via Strava (own watches)",
+  "url": null,
+  "athletes": {
+   "jay": {
+    "time": "1:02:24"
+   },
+   "michelle": {
+    "time": "1:02:20"
+   }
+  }
+ },
+ {
   "event": "2023 Kailua Beach 4.4 Mile Shark Chase",
   "date": "2023-07-16",
   "source": "timelinehawaii",
@@ -481,6 +534,17 @@
   }
  },
  {
+  "event": "Dick Evans Memorial Road Race 2023",
+  "date": "2023-08-27",
+  "source": "self-reported via Strava (own watches)",
+  "url": null,
+  "athletes": {
+   "jay": {
+    "time": "6:24:36"
+   }
+  }
+ },
+ {
   "event": "2023 Runner’s HI 20K",
   "date": "2023-09-03",
   "source": "timelinehawaii",
@@ -523,6 +587,20 @@
     "gender_rank": "237/247",
     "place": 680,
     "bib": 469
+   }
+  }
+ },
+ {
+  "event": "Honolulu Century Ride 2023",
+  "date": "2023-09-24",
+  "source": "self-reported via Strava (own watches)",
+  "url": null,
+  "athletes": {
+   "jay": {
+    "time": "5:36:10"
+   },
+   "michelle": {
+    "time": "5:45:55"
    }
   }
  },
@@ -713,6 +791,20 @@
   }
  },
  {
+  "event": "Great Aloha Run 2024",
+  "date": "2024-02-19",
+  "source": "self-reported via Strava (own watches)",
+  "url": null,
+  "athletes": {
+   "jay": {
+    "time": "1:19:24"
+   },
+   "michelle": {
+    "time": "1:19:22"
+   }
+  }
+ },
+ {
   "event": "2024 Kailua 10-Miler",
   "date": "2024-02-25",
   "source": "timelinehawaii",
@@ -731,6 +823,20 @@
     "agegroup": "F40-44",
     "agrank": 5,
     "pace": "10:31/M"
+   }
+  }
+ },
+ {
+  "event": "King's Runner 10K 2024",
+  "date": "2024-03-03",
+  "source": "self-reported via Strava (own watches)",
+  "url": null,
+  "athletes": {
+   "jay": {
+    "time": "44:36"
+   },
+   "michelle": {
+    "time": "57:18"
    }
   }
  },
@@ -785,6 +891,20 @@
      "15k": "1:39:53"
     },
     "bib": 2766
+   }
+  }
+ },
+ {
+  "event": "Haleiwa Metric Century 2024",
+  "date": "2024-04-28",
+  "source": "self-reported via Strava (own watches)",
+  "url": null,
+  "athletes": {
+   "jay": {
+    "time": "3:07:06"
+   },
+   "michelle": {
+    "time": "3:54:38"
    }
   }
  },
@@ -956,6 +1076,31 @@
   }
  },
  {
+  "event": "Spartan Super (10K, obstacles) 2024",
+  "date": "2024-10-05",
+  "source": "self-reported via Strava (own watches)",
+  "url": null,
+  "athletes": {
+   "jay": {
+    "time": "2:24:33"
+   },
+   "michelle": {
+    "time": "2:24:34"
+   }
+  }
+ },
+ {
+  "event": "Spartan Sprint (5K, obstacles) 2024",
+  "date": "2024-10-06",
+  "source": "self-reported via Strava (own watches)",
+  "url": null,
+  "athletes": {
+   "michelle": {
+    "time": "1:25:55"
+   }
+  }
+ },
+ {
   "event": "2024 Val Nolasco Half Marathon",
   "date": "2024-11-10",
   "source": "timelinehawaii",
@@ -1038,6 +1183,20 @@
     "agegroup": "F40-44",
     "agrank": 3,
     "pace": "9:36/M"
+   }
+  }
+ },
+ {
+  "event": "Great Aloha Run 2025",
+  "date": "2025-02-17",
+  "source": "self-reported via Strava (own watches)",
+  "url": null,
+  "athletes": {
+   "jay": {
+    "time": "1:18:03"
+   },
+   "michelle": {
+    "time": "1:18:09"
    }
   }
  },
@@ -1282,6 +1441,20 @@
   }
  },
  {
+  "event": "Waikiki Roughwater Swim 2025",
+  "date": "2025-08-31",
+  "source": "self-reported via Strava (own watches)",
+  "url": null,
+  "athletes": {
+   "jay": {
+    "time": "1:30:01"
+   },
+   "michelle": {
+    "time": "1:30"
+   }
+  }
+ },
+ {
   "event": "2025 IRONMAN 70.3 Augusta",
   "date": "2025-09-28",
   "source": "ironman",
@@ -1410,6 +1583,17 @@
     "agegroup": "F45-49",
     "agrank": 5,
     "pace": "9:55/M"
+   }
+  }
+ },
+ {
+  "event": "The Tour of Hawaii Kai Half-Marathon 2026",
+  "date": "2026-01-11",
+  "source": "self-reported via Strava (own watches)",
+  "url": null,
+  "athletes": {
+   "jay": {
+    "time": "2:08:14"
    }
   }
  },

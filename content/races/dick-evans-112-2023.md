@@ -23,6 +23,15 @@ image: /images/bikes-rack.jpg
 context:
   - first_at_distance
   - heat_day
+result: 'Jay 6:19:54 moving, 6:24:36 elapsed (own watch)'
+results:
+  jay:
+    time: '6:24:36'
+    splits:
+      Moving time: '6:19:54'
+      Source: own watch (Strava); no timing sheet found
+    miles: 112
+athletes: Jay
 ---
 
 The Dick Evans is a bike race that goes all the way around Oahu, 112 miles. If that number sounds familiar, it's because it's the bike leg of a full Ironman, and that wasn't a coincidence in our house.
@@ -48,3 +57,6 @@ The other thing it teaches you is that the last thirty miles of a long ride are 
 ## What it changed
 
 After this, the full distance stopped being hypothetical. Every leg had been done on its own, and the rest was putting them in a row on one day and finding the [sleep](/lessons/sleep-funds-the-season) a season like that takes. That took another year and a half, and it started with a Sunday in August and a bike that had done one sprint.
+
+The 2023 edition never made it onto Webscorer, where 2022, 2024, and 2025 are, so the time here is from Jay's watch: 6:24:36 elapsed, 6:19:54 of it moving.
+

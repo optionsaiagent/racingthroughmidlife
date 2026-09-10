@@ -24,6 +24,16 @@ export const CALENDAR: CalendarEvent[] = [
     races: ["bosetti-sunrise-10k-2023", "bosetti-sunrise-10k-2024", "bosetti-sunrise-10k-2025", "bosetti-sunrise-10k-2026"],
   },
   {
+    name: "Tour of Hawaii Kai Half Marathon",
+    month: 1,
+    when: "January",
+    where: "Hawaii Kai, Oahu",
+    distance: "13.1 mi",
+    discipline: "run",
+    take: "A January half on the east end of the marathon course. We ran it once, easy, a month after a marathon, and it's a fine way to keep a long run alive after December.",
+    races: ["tour-of-hawaii-kai-half-2026"],
+  },
+  {
     name: "Akahai Half Marathon",
     month: 1,
     when: "January",
@@ -41,7 +51,7 @@ export const CALENDAR: CalendarEvent[] = [
     distance: "8.15 mi",
     discipline: "run",
     take: "For years this was the longest either of us had ever run. It has a huge crowd, a real start-line atmosphere, and a distance a beginner can usually finish without walking, which is why it's where we'd tell anybody to start.",
-    races: ["great-aloha-run-2023"],
+    races: ["great-aloha-run-2023", "great-aloha-run-2024", "great-aloha-run-2025"],
   },
   {
     name: "Kailua 10-Miler",
@@ -61,7 +71,7 @@ export const CALENDAR: CalendarEvent[] = [
     distance: "10K",
     discipline: "run",
     take: "A fast, flat course in town, which is good for finding out what your legs are actually worth after a winter of slow miles.",
-    races: ["kings-runner-10k-2023", "kings-runner-10k-2025", "kings-runner-10k-2026"],
+    races: ["kings-runner-10k-2023", "kings-runner-10k-2024", "kings-runner-10k-2025", "kings-runner-10k-2026"],
   },
   {
     name: "Ku'ikahi 10K",
@@ -101,7 +111,7 @@ export const CALENDAR: CalendarEvent[] = [
     distance: "100 km",
     discipline: "bike",
     take: "A long day on the North Shore with a bike club that's been at this for decades, and the first organized ride we did that felt long.",
-    races: ["haleiwa-metric-century-2023"],
+    races: ["haleiwa-metric-century-2023", "haleiwa-metric-century-2024"],
   },
   {
     name: "Honolulu Triathlon",
@@ -133,6 +143,16 @@ export const CALENDAR: CalendarEvent[] = [
     take: "It isn't on Oahu, but it's the one we fly for: lava fields, wind off the water on the road to Hawi, and a half marathon with no shade. It was Jay's first 70.3 and the race where the distance itself became the point.",
     races: ["honu-70-3-2023", "honu-70-3-2024", "honu-70-3-2025", "honu-70-3-2026"],
     offIsland: true,
+  },
+  {
+    name: "Ho'omau 10K",
+    month: 6,
+    when: "Early June",
+    where: "Oahu",
+    distance: "10K, with a 5K and a half",
+    discipline: "run",
+    take: "We ran the 10K together the Saturday after Jay's first Honu, at conversation pace. Good for exactly that.",
+    races: ["hoomau-10k-2023"],
   },
   {
     name: "Cholo's Waimea Bay Swim",

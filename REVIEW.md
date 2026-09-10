@@ -83,6 +83,17 @@ Signature phrases now have one home each (`content/phrases.json`) and `scripts/l
 
 Every past Honolulu event on my.raceresult.com was searched for both names. Six races were missing from the site and now have pages: King's Runner 2025 and 2026, Hapalua 2025 and 2026, Honolulu Triathlon 2025 and 2026. Two of them are news: Michelle's half PR is the 2025 Hapalua (1:58:02, not Windward), and she won the 45-49s at the 2025 Honolulu Triathlon, her second age-group win. Jay's 10K PR is the 2025 King's Runner (42:53) and his half PR the 2025 Hapalua (1:38:34). The bodies of the six new pages are short and say they weren't written up at the time; send a line or two on any of them and they grow. Na Wahine 2024 and 2025 were checked too; neither of you is on those sheets.
 
+## From the Strava race sweep (Sept 9, 2026)
+
+Every race-flagged or race-named activity on both Strava accounts since 2022 was compared against the site. Athlinks blocks machine reading, so the Great Aloha Run times for 2023, 2024, and 2025 are from your watches, labeled that way on the cards. Also from watches: Akahai 2023 (Jay), Ku'ikahi 2023, Dick Evans 2023, King's Runner 2024, Haleiwa 2024, Ho'omau 10K 2023, Spartan Super and Sprint in Nashville 2024, Tour of Hawaii Kai Half 2026, Roughwater 2025. The 2023 Honolulu Century page now says 79 miles, since both watches did.
+
+Questions this raised:
+- Michelle's Nashville Sprint says it was for a Trifecta, which needs a Beast (21K) in the same year. Where was the Beast? It isn't on Strava under any race-like name.
+- "Versailles 70.3 IM Route," July 12, 2026, 56 miles, both of you. A ride of the IRONMAN 70.3 Versailles course on a trip? It isn't on the site as anything.
+- Akahai 2023: Michelle's time, if she ran it (she wasn't on Strava yet).
+- Great Aloha Run 2026 (Feb 16): not on either Strava, so I've said you didn't run it and the race said goodbye after that edition.
+- IRONMAN 70.3 Northern California is in Redding; the page now says so.
+
 ## Coming up
 
 - **IRONMAN 70.3 Washington (Tri-Cities), Sept 20, 2026**, both of you. After the race, `/sunday recap` pulls the result from IRONMAN's results service by name; the event id will be on ironman.com's Washington results page.
