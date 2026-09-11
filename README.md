@@ -28,7 +28,7 @@ The filename is the URL. `content/races/honu-70-3-2023.md` is `/races/honu-70-3-
 
 ## The weekly loop: `/sunday`
 
-Open Claude Code in this folder and type `/sunday`. It runs `scripts/check-week.py` to see whether a new race result or video showed up this week, pulls the week's workouts from Strava if that's set up (see below), asks for the week in your words, drafts the note in the house voice (`VOICE.md`), shows it to you, and pushes only when you say go. `/sunday recap <race>` does the same for a race report and pulls the official result from the timing site itself. A scheduled task in the desktop app kicks this off every Sunday at 4 p.m. Whoever's writing that week gets their own voice: the `jay-voice` and `michelle-voice` skills in `~/.claude/skills/` hold each person's sample sentences, and `/sunday` loads the right one.
+Open Claude Code in this folder and type `/sunday`. It runs `scripts/check-week.py` to see whether a new race result, a race-looking activity on either Strava account, or a video showed up this week, pulls the week's workouts from Strava if that's set up (see below), asks for the week in your words, drafts the note in the house voice (`VOICE.md`), shows it to you, and pushes only when you say go. `/sunday recap <race>` does the same for a race report and pulls the official result from the timing site itself. A scheduled task in the desktop app kicks this off every Sunday at 4 p.m. Whoever's writing that week gets their own voice: the `jay-voice` and `michelle-voice` skills in `~/.claude/skills/` hold each person's sample sentences, and `/sunday` loads the right one.
 
 You can also do it by hand:
 

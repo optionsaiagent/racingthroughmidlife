@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""What happened this week? Checks the timing sites and the YouTube channel for anything new
-involving Jay Miller or Michelle Miller, and compares against what the site already has.
+"""What happened this week? Checks the timing sites, both Strava accounts, and the YouTube channel
+for anything new involving Jay Miller or Michelle Miller, and compares against what the site already has.
 
 Usage: python3 scripts/check-week.py [--days 9]
 Prints a plain summary. Never writes to the site.
@@ -100,6 +100,55 @@ for fn in ("Jay Miller", "Michelle Miller"):
                              "swim": v.get("wtc_swimtimeformatted"), "bike": v.get("wtc_biketimeformatted"), "run": v.get("wtc_runtimeformatted"),
                              "already_on_site": False})
 
+# ---- 2b. Strava: anything either athlete recorded that looks like a race and the site has no result for.
+# Strava's own race toggle (workout_type 1 run race, 11 ride race) counts, but neither of them uses it and
+# swims can't carry it, so activity titles do most of the work. Zwift/ROUVY and gym sessions are ignored.
+RACE_WORDS = r"\b(race|ironman|70\.3|marathon|half|5k|10k|15k|30k|triathlon|tri|rough ?water|roughwater|century|metric|spartan|relay|pentathlon|aloha run|kings? runner|hapalua|honu|dick evans|tinman|hibiscus|na wahine|ku'?ikahi|akahai|ho'?omau|kaena|tantalus|turkey trot|jingle)\b"
+NOT_RACE = r"shake ?out|prep|recon|route|preview|course|pace|sim\b|warm|workout|intervals|threshold|tempo|humango|zwift|rouvy"
+SKIP_SPORTS = {"VirtualRide", "VirtualRun", "Yoga", "WeightTraining", "Workout", "HighIntensityIntervalTraining", "Crossfit", "Elliptical"}
+print("Checking Strava for activities that look like races ...")
+sys.path.insert(0, str(ROOT / "scripts"))
+try:
+    import strava_common as sc
+    env = sc.load_env()
+    after = int(datetime.datetime.combine(since, datetime.time()).timestamp())
+    for who in sc.ATHLETES:
+        if not env.get(f"STRAVA_REFRESH_TOKEN_{who}"):
+            print(f"  {who.title()}: no Strava token in .env.local, skipped (README, 'Strava setup').")
+            continue
+        try:
+            token = sc.access_token_for(env, who)
+            acts, page = [], 1
+            while True:
+                batch = sc.get("https://www.strava.com/api/v3/athlete/activities", token, {"after": after, "per_page": 100, "page": page})
+                acts += batch
+                if len(batch) < 100: break
+                page += 1
+        except Exception as ex:
+            print(f"  {who.title()}: Strava lookup failed:", ex)
+            continue
+        for a in acts:
+            sport = a.get("sport_type") or a.get("type")
+            name = a.get("name") or ""
+            if sport in SKIP_SPORTS:
+                continue
+            toggled = a.get("workout_type") in (1, 11)
+            named = bool(re.search(RACE_WORDS, name, re.I)) and not re.search(NOT_RACE, name, re.I)
+            if not (toggled or named):
+                continue
+            d = datetime.date.fromisoformat(a["start_date_local"][:10])
+            near = {(d + datetime.timedelta(days=k)).isoformat() for k in (-1, 0, 1)}
+            secs = int(a.get("elapsed_time") or 0)
+            findings.append({"source": "strava", "athlete": who.title(), "date": d.isoformat(), "name": name, "sport": sport,
+                             "miles": round((a.get("distance") or 0) / 1609.344, 1),
+                             "elapsed": f"{secs // 3600}:{secs % 3600 // 60:02d}:{secs % 60:02d}",
+                             "why": "race toggle" if toggled else "title looks like a race",
+                             "url": f"https://www.strava.com/activities/{a['id']}",
+                             "already_on_site": bool(near & known_dates),
+                             "note": "own-watch time; label it as such, official only from the timing site"})
+except Exception as ex:
+    print("  Strava check failed:", ex)
+
 # ---- 3. YouTube: videos not yet in content/videos.json
 print("Checking the YouTube channel ...")
 try:
@@ -129,7 +178,7 @@ except Exception as e:
 # ---- report
 print()
 if not findings:
-    print(f"Nothing new in the last {DAYS} days on Timeline Hawaii, IRONMAN, or YouTube.")
+    print(f"Nothing new in the last {DAYS} days on Timeline Hawaii, RaceResult, IRONMAN, Strava, or YouTube.")
 else:
     print(f"Found {len(findings)} item(s):")
     for f in findings:

@@ -10,3 +10,7 @@ Verified 2026-09-04. Everything found so far is in `content/results.json` with a
 - **Sportstats** (Honolulu Marathon): browser only; reject cookie banner, open Filter, type in "Search name or bib". IDs: 2022=140524, 2023=130133, 2024=142773, 2025 leaderboard 145511.
 - **IRONMAN**: `https://labs-v2.competitor.com/api/results-proxy?url=<encoded OData>&pageSize=2000` where OData = `https://api.competitor.com/web/results?$filter=_wtc_eventid_value eq <subevent-guid> and wtc_AgeGroupId/wtc_agegroupname ne 'ODIV'&$orderby=wtc_finishrankoverall`. Name filter also works: `$filter=wtc_ContactId/fullname eq 'Jay Miller'` (filter city == Honolulu; many other Millers).
 - Dead ends: Athlinks (Great Aloha Run) blocks both curl and the browser pane; Race Roster (Akahai, Ku'ikahi 2023) has no public results page; YouTube descriptions rate-limit after a few requests.
+
+## Strava (own watches, never official)
+
+`check-week.py` reads both accounts and flags any outdoor swim, ride, or run whose title carries a race word (70.3, marathon, 10K, Rough Water, Honu, and so on) or Strava's race toggle. Neither of them uses the toggle, so the titles do the work. A hit that isn't on the site is a prompt to go find the timing sheet, not a result. If no sheet exists, the elapsed time goes on the page labeled "own watch (Strava)".

@@ -14,7 +14,7 @@ Read `VOICE.md` before writing a word. Then find out who's writing this one, Jay
 
 ## Step 1: find out what happened
 
-Run the checker first. It sweeps Timeline Hawaii for the past nine days, asks IRONMAN's results service for anything new under either name, and lists YouTube videos not yet in `content/videos.json`:
+Run the checker first. It sweeps Timeline Hawaii and RaceResult for the past nine days, asks IRONMAN's results service for anything new under either name, looks at both Strava accounts for any outdoor swim, ride, or run whose title reads like a race (Zwift and ROUVY are ignored), and lists YouTube videos not yet in `content/videos.json`. A Strava hit with `already_on_site: false` means a race the site doesn't know about yet: go find the official result on the timing site before writing anything, and if there isn't one, the Strava time goes on the page only as an own-watch time, labeled that way:
 
 ```bash
 python3 scripts/check-week.py
