@@ -49,4 +49,4 @@ Here's one the site had wrong until we went looking. My first age-group win was 
 
 Was I racing it? Honestly, no. Three weeks after a full you don't race an Olympic, you go and see what's there. What was there was a 54-minute run off the bike, my best on that course, and a swim and a bike a minute or two off the year before. The full had cost something. It hadn't cost as much as I'd assumed.
 
-Two weeks later was [Honu](/races/honu-70-3-2025), which is the race that actually told us what April had cost.
+Why were we even there? We'd come home from Texas with nothing on the calendar and the same now-what feeling we'd had after the first marathon, so we signed up for this and for Honu the same week. Two weeks later was [Honu](/races/honu-70-3-2025), which told us April hadn't cost what we'd feared.

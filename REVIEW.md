@@ -84,14 +84,26 @@ Signature phrases now have one home each (`content/phrases.json`) and `scripts/l
 `content/seasons/2024.md` is the narrative, lightly edited. Facts from it went onto the Honolulu Triathlon, Honu, Dick Evans, and marathon pages for 2024, the Augusta and Texas 2025 pages, and the About timeline. Strava confirms the bike volume exactly: Jay 1,712 miles in 2023 and 4,938 in 2024 (Michelle 1,104 and 4,635).
 
 - ~~Augusta 2024 date~~ **Confirmed by Jay: Sunday, September 29, 2024, Helene on Friday the 27th.** Augusta 2025 was Sunday, September 28, which matches the sheet.
-- **Running volume.** Jay remembered over 1,200 miles of running in 2024 against about 760 in 2023. Strava has 719 and 1,067 (Michelle 536 and 783). The season page uses Strava's numbers, rounded, and says so. If Garmin has a different total, say which one to trust.
+- **Running volume.** Jay remembered over 1,200 miles of running in 2024 against about 760 in 2023. Strava has 719 and 1,067 (Michelle 536 and 783). The 1,200 is 2025: Strava has Jay at 1,208 miles of running that year. The 2024 page uses Strava's numbers, rounded, and says so.
 - **Spartan Beast, Mokuleia, Aug 17, 2024.** New page from Strava; both watches say about 4:43, Jay remembered about five hours, and the page says both. Jay's Sprint in Nashville the next morning (1:24:27) was on his Strava too, so he's on that page and the Trifecta is both of theirs. Jay's left shoulder, hurt on an eight-foot wall at the Beast and still not healed, is flagged for a future page.
 - **Honolulu Triathlon 2024 improvements.** Jay remembered "more than 20 minutes" and "about 15" for Michelle. The sheets say 26:01 and 25:49, so the site uses those.
 - ~~Michelle's road bike~~ **Answered.** Road bike through Honu 2024; the tri bike came that summer and was packed for Augusta. The Honolulu Triathlon 2024 page no longer credits her a tri bike.
 - **Jay's estimate of a full-swim Honu time** (about 5:56) is on the season page as his guess and nowhere on a card.
 - **Michelle at Augusta 2024.** Anything from her side of the cancellation would give the Augusta 2025 page a better opening.
 
-## From the RaceResult sweep (Sept 9, 2026)
+## From Jay's 2025 account (Sept 10, 2026)
+
+`content/seasons/2025.md` is the narrative. Facts went onto the Texas, California, Honolulu Triathlon, Honu, Dick Evans, Augusta, Pentathlon, and marathon pages for 2025, and the Hawaii Kai Ultra has a new page. The 2025 season record is no longer a draft; 2026 still is.
+
+- **Checked against the sheets and Strava, all good:** Texas splits (Michelle out of the water a minute ahead, 1:30:13 to 1:31:16; bike 5:50 and 6:44; Jay's run 4:07), California (Jay's run 3:59:24, not :25), Dick Evans (5:55:53, first under six hours), the 15-week pre-Texas averages (Jay: 110 bike miles, 25 run miles, 2,800 m swim per week), the longest training day (April 6, 2025, an 85-mile ROUVY ride and a 9-mile brick, about 5.5 hours; the Lagoon Drive day was Feb 15, a 62-mile ride and a 10K brick), and the 2025 totals (Jay 4,710 bike, 1,208 run).
+- **California finish.** Jay remembered 7:30 and 6:45 for the last two miles. Strava's mile splits say 8:35 and 7:53, then 7:28 for the last third of a mile. The site uses Strava's.
+- **Hawaii Kai Ultra 50K, Dec 20, 2025.** 4:54:00 by Jay's watch, 31.4 miles. The race posts finisher sheets to a Dropbox folder linked from hawaiirunningproject.wordpress.com; the folder holds only the 2024 sheets. Worth a re-check, or ask the race director (Seth August) for the 2025 50K sheet.
+- **Honu 2025 was wrong on the site.** The page said the run was "where April came to collect." Both runs were faster than 2024 (Michelle 2:25:06 vs 2:26:45, Jay 1:55:00 vs 1:57:05). Fixed.
+- **Ed at Augusta.** "Michelle beat him by about ten minutes" is Jay's account. With Ed's last name the IRONMAN sheet would confirm it.
+- **Pentathlon legs** are on the page as Jay's count, not a course sheet.
+- **Michelle's hip and back**, from the California run onward, is now on the California and marathon pages. This is the raw material for the "racing injured" lesson in the open items, if she wants to write it.
+
+
 
 Every past Honolulu event on my.raceresult.com was searched for both names. Six races were missing from the site and now have pages: King's Runner 2025 and 2026, Hapalua 2025 and 2026, Honolulu Triathlon 2025 and 2026. Two of them are news: Michelle's half PR is the 2025 Hapalua (1:58:02, not Windward), and she won the 45-49s at the 2025 Honolulu Triathlon, her second age-group win. Jay's 10K PR is the 2025 King's Runner (42:53) and his half PR the 2025 Hapalua (1:38:34). The bodies of the six new pages are short and say they weren't written up at the time; send a line or two on any of them and they grow. Na Wahine 2024 and 2025 were checked too; neither of you is on those sheets.
 

@@ -44,3 +44,5 @@ I went into this one injured, and we decided to run it together at whatever pace
 5:25:08 and 5:25:08. Places 7802 and 7803. He's one place ahead of me on the sheet, and I'm choosing not to have feelings about that. (I have a few, and Jay knows about all of them.)
 
 If you only look at the times on this site you'll see this as the slow one. It was the best one! Twenty-six miles next to Jay, every aid station, and the fireworks.
+
+Jay ran a [50K](/races/hawaii-kai-ultra-50k-2025) six days later. That's his to explain.

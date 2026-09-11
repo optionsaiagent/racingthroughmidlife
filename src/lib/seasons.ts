@@ -52,11 +52,11 @@ export const SEASONS: Season[] = [
   },
   {
     year: 2025,
-    title: "Peak",
-    intent: "Two full Ironmans, a 112-mile lap of the island, a pentathlon, and two 70.3s, on bodies that went in healthy.",
-    whatItCost: "The bill arrived at the end of it. Michelle ran the December marathon injured, and 5:25:08 together is what that looked like.",
-    whatWeChanged: "We stopped adding races and started asking what the next year was for.",
-    draft: true,
+    title: "The peak",
+    intent: "IRONMAN Texas in April, and then whatever we felt like: an Olympic three weeks later, Honu five weeks later, the Pentathlon, a lap of the island, Augusta a year late, and a second full Ironman in California on three weeks' notice, because at that point we thought we were invincible.",
+    whatItCost: "About a full Ironman a week in training, 4,700 miles on the bike and 1,200 of running for Jay. The bill arrived on the run at California: Michelle's hip, which she's still working through, and a December marathon walked together in 5:25:08.",
+    whatWeChanged: "We found out what the top looks like and that we probably can't hold it. The year ended with eggnog and a decision that 2026 would be calmer.",
+    story: true,
   },
   {
     year: 2026,

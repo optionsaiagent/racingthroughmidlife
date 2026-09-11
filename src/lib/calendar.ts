@@ -339,4 +339,14 @@ export const CALENDAR: CalendarEvent[] = [
     take: "A 5 a.m. start, fireworks, Diamond Head twice, and no cutoff. It was the run leg of the first Ironman in 1978, it's the reason the whole Oahu running calendar is shaped the way it is, and it was Jay's 50th birthday race.",
     races: ["honolulu-marathon-for-fifty", "honolulu-marathon-2023", "honolulu-marathon-2024", "honolulu-marathon-2025"],
   },
+  {
+    name: "Hawaii Kai Ultra Run",
+    month: 12,
+    when: "The weekend after the marathon",
+    where: "Kalama Valley Park, Hawaii Kai",
+    distance: "Half marathon to 100 miles, on a 3-mile loop",
+    discipline: "run",
+    take: "Pick a distance, then run the same three-mile loop up and down Kalama Valley until you've covered it. Jay did the 50K six days after the 2025 marathon, which is the kind of decision this calendar exists to document.",
+    races: ["hawaii-kai-ultra-50k-2025"],
+  },
 ];
