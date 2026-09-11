@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import Ledger from "@/components/Ledger";
+import { seasonFor } from "@/lib/seasons";
 import YouTube from "@/components/YouTube";
 import { MiniList } from "@/components/Cards";
 import { getRaces, getNotes, getLessons, fmtDate, readingTime } from "@/lib/content";
@@ -8,10 +9,11 @@ import { VIDEOS } from "@/lib/videos";
 import { SITE } from "@/lib/site";
 
 const LADDER = [
-  { year: "2014", what: "Honolulu Triathlon, Tin Man", note: "We weren't really training, and it didn't take." },
   { year: "2022", what: "First half marathon. First marathon, for Jay's 50th", note: "The half came first, so we knew the long day was possible." },
   { year: "2023", what: "Olympic, Honu 70.3, 112 miles around Oahu, Honolulu Marathon", note: "The year we filmed every week." },
-  { year: "2025", what: "Two full Ironmans: Texas and California", note: "Two long-course seasons in one year, and the bill at the end of it." },
+  { year: "2024", what: "Michelle's first 70.3, a hurricane, a Trifecta, and the PR marathon", note: "Fewer races, a lot more bike, and a full Ironman put on the calendar." },
+  { year: "2025", what: "Two full Ironmans, two 70.3s, the Pentathlon, a 50K", note: "The best shape of our lives, and the bill at the end of it." },
+  { year: "2026", what: "Recovery and rebuild", note: "Slower on purpose. Written at the end of the year." },
 ];
 
 export default function Home() {
@@ -168,20 +170,29 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Ladder */}
+      {/* Seasons */}
       <section className="mx-auto max-w-6xl px-5 sm:px-8 pt-20">
-        <p className="eyebrow">How we got here</p>
+        <p className="eyebrow">The seasons</p>
         <h2 className="display text-4xl sm:text-5xl mt-2 max-w-2xl">We did it in order, and it took a while.</h2>
-        <ol className="mt-10 grid gap-8 md:grid-cols-4">
-          {LADDER.map((l) => (
-            <li key={l.year} className="border-t-2 border-ink pt-4">
-              <span className="mono text-sm text-brand">{l.year}</span>
-              <span className="display text-2xl block mt-2 leading-tight">{l.what}</span>
-              <span className="block mt-2 text-sm text-ink-soft">{l.note}</span>
-            </li>
-          ))}
+        <p className="mt-4 max-w-2xl text-ink-soft">A time only means something next to the year it came from. Each season is one page, in our words: what it was for, what it cost, and what we changed.</p>
+        <ol className="mt-10 grid gap-8 sm:grid-cols-2 md:grid-cols-5">
+          {LADDER.map((l) => {
+            const season = seasonFor(l.year);
+            const href = season?.story ? `/seasons/${l.year}` : `/seasons#s${l.year}`;
+            return (
+              <li key={l.year} className="border-t-2 border-ink pt-4">
+                <Link href={href} className="group block">
+                  <span className="mono text-sm text-brand">{l.year}</span>
+                  <span className="display text-2xl block mt-2 leading-tight group-hover:text-brand transition-colors">{season?.title ?? l.what}</span>
+                  <span className="block mt-2 text-sm text-ink-soft">{l.what}. {l.note}</span>
+                  <span className="mono text-xs text-brand underline underline-offset-4 block mt-3">{season?.story ? "Read the season →" : "The outline →"}</span>
+                </Link>
+              </li>
+            );
+          })}
         </ol>
         <div className="mt-8 flex flex-wrap gap-6">
+          <Link href="/seasons" className="mono text-xs text-brand hover:text-buoy underline underline-offset-4">All the seasons on one page →</Link>
           <Link href="/about" className="mono text-xs text-brand hover:text-buoy underline underline-offset-4">The longer version →</Link>
           <Link href="/calendar" className="mono text-xs text-brand hover:text-buoy underline underline-offset-4">The Oahu race calendar we plan a year around →</Link>
         </div>
