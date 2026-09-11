@@ -1,6 +1,6 @@
 ---
 title: 'Honolulu Triathlon 2024: twenty-five minutes, mostly on the bike'
-deck: "A tri bike, a bike fit, and a winter of rides on the trainer, and twenty-five minutes off on the same course."
+deck: "A bike fit, a winter of rides on the trainer, and twenty-five minutes off on the same course, still on my road bike."
 date: '2024-05-19'
 event: Honolulu Triathlon (Olympic)
 location: 'Ala Moana Beach Park, Honolulu'
@@ -38,7 +38,7 @@ context:
 ---
 Same course as [2014 and 2023](/races/honolulu-triathlon-2014-and-again). This was my third time at Ala Moana, and I'll admit it was the first time I came off that course without feeling like I needed to apologize to somebody for something.
 
-I took 25 minutes off my 2023 time and Jay took 26 off his. Was it the swim? A little. The run? Some. Mostly it was the bike. 1:15:48 for me on the 40K and 1:05:31 for Jay, and the difference between this year and last year was a tri bike, a bike fit, and a winter of rides on the trainer. Put the same two people on the same course twelve months later with those three things behind them and this is what you get. It wasn't magic, it was homework, and homework is the part I'm actually good at.
+I took 25 minutes off my 2023 time and Jay took 26 off his. Was it the swim? A little. The run? Some. Mostly it was the bike. 1:15:48 for me on the 40K and 1:05:31 for Jay, and the difference between this year and last year was Jay's tri bike, [my bike fit](/notes/bike-fit-at-fifty), and a winter of rides on the trainers. I was still on my road bike, and I'd stay on it through Honu. Put the same two people on the same course twelve months later with a winter like that behind them and this is what you get. It wasn't magic, it was homework, and homework is the part I'm actually good at.
 
 The swims were 26 minutes for me and 23 for Jay, both quicker than the year before. Why? I honestly don't know. I'd like to have a reason for it but I don't, so I'll leave it at quicker.
 

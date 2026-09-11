@@ -1,6 +1,6 @@
 ---
 title: 'Honolulu Marathon 2024: 3:41 and 4:39'
-deck: "Nineteen minutes off my marathon PR and fifty-eight off Michelle's, with the same two trips over Diamond Head. Nothing clever happened on race day."
+deck: "Nineteen minutes off my marathon PR and fifty-eight off Michelle's, on my birthday, with the same two trips over Diamond Head. Nothing clever happened on race day."
 date: '2024-12-08'
 event: Honolulu Marathon
 location: 'Ala Moana to Kapiolani Park, Honolulu'
@@ -34,8 +34,8 @@ contextNote: Top of the 2024 build. Both marathon PRs.
 ---
 We didn't film 2024 a week at a time, so the story of this one is mostly on the card, and the card is loud enough on its own.
 
-For me it was 3:41:11, nineteen minutes under the year before and forty-one under the [birthday marathon](/races/honolulu-marathon-for-fifty) two years earlier, on the same course, with the same two trips over Diamond Head. Michelle ran 4:39:06, fifty-eight minutes under her 2023 time and over an hour under 2022. She'd gone under 2:10 for a half a month earlier, and we'd both wondered a little whether that was a good day or the new normal, and it turned out to be the honest number.
+The race fell on my birthday this year, and it was a good present. For me it was 3:41:11, nineteen minutes under the year before and forty-one under the [birthday marathon](/races/honolulu-marathon-for-fifty) two years earlier, on the same course, with the same two trips over Diamond Head. Michelle ran 4:39:06, fifty-eight minutes under her 2023 time and over an hour under 2022. She'd gone under 2:10 for a half a month earlier, and we'd both wondered a little whether that was a good day or the new normal, and it turned out to be the honest number.
 
-What was different was the year: a full 70.3 season with Honu in June, the readiness series run the way it's supposed to be run, and, for Michelle, a bike fit and a trainer that had turned a lot of dawn hours into real bike fitness. Nothing clever happened on race day, and we've mostly stopped expecting it to, because the marathon only shows you what the year before it already decided.
+I went out at a solid pace from the start and felt good the whole way. No cramps this time, through the Kahala Death March and over Diamond Head, and I crossed the line hurting the normal amount for someone who'd just run a marathon. What was different was the year: a full 70.3 season with Honu in June, the readiness series run the way it's supposed to be run, and, for both of us, a winter and a fall on the trainers that had turned a lot of dawn hours into real bike fitness. By December we'd also been training for a [full Ironman](/races/ironman-texas-2025) for two months, and we were probably in the best shape of our lives. Nothing clever happened on race day, and we've mostly stopped expecting it to, because the marathon only shows you what the year before it already decided.
 
 The next December, at the [2025 marathon](/races/honolulu-marathon-2025), we ran it together, slow, on purpose, six weeks after a full Ironman, because that year the marathon had a different job.

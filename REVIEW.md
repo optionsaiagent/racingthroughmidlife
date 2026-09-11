@@ -52,7 +52,7 @@ Every race report and field note now has an `author:` byline, split roughly in h
 
 ## The seasons and the context flags (added Sept 8, 2026)
 
-`src/lib/seasons.ts` has one record per year (title, what it was for, what it cost, what we changed). All five are marked `draft: true` and say so on the /seasons page until you correct them. The 2025 and 2026 text is Jay's description from the spec; 2022 to 2024 are my reading of the results. Rewrite them in your own words and flip `draft` off.
+`src/lib/seasons.ts` has one record per year (title, what it was for, what it cost, what we changed). 2022, 2023, and 2024 are written from Jay's accounts and have full narratives. 2025 and 2026 are still marked `draft: true` and say so on the /seasons page; the text is Jay's description from the spec. Rewrite them in your own words and flip `draft` off.
 
 Every race now carries `context:` flags (peak build, rebuild, raced injured, together on purpose, weeks after an Ironman, training day, flew for it, heat day, first at distance) and some carry a `contextNote:`. I tagged all 65 from the results and the pages; the ones that matter most are 2025 and 2026. Check them in `content/races/*.md`; the flags show on each race page under "Read the time with this."
 
@@ -78,6 +78,16 @@ Signature phrases now have one home each (`content/phrases.json`) and `scripts/l
 - Michelle's ankle at the 2023 marathon is now on that page and in its context flags. If she'd rather it read differently, it's her page to change.
 - Na Wahine 2023: Jay did the Kane sprint, Michelle did the standalone 5K. The page says so; her 5K time isn't on the card because I haven't found that sheet.
 - Trainers moved from "late October" to Labor Day weekend per you; the October videos are still the first ones about them.
+
+## From Jay's 2024 account (Sept 10, 2026)
+
+`content/seasons/2024.md` is the narrative, lightly edited. Facts from it went onto the Honolulu Triathlon, Honu, Dick Evans, and marathon pages for 2024, the Augusta and Texas 2025 pages, and the About timeline. Strava confirms the bike volume exactly: Jay 1,712 miles in 2023 and 4,938 in 2024 (Michelle 1,104 and 4,635).
+
+- **Augusta 2024 date.** Jay's account says Sunday, September 28. In 2024 the Sunday was September 29, and Helene hit Georgia on Friday the 27th. The site says "the last Sunday of September" and "the Friday before the race" and avoids the number. Confirm the 29th and it can be specific.
+- **Honolulu Triathlon 2024 improvements.** Jay remembered "more than 20 minutes" and "about 15" for Michelle. The sheets say 26:01 and 25:49, so the site uses those.
+- **Michelle's road bike.** Jay says she was still on her road bike at Honu 2024. The Honolulu Triathlon 2024 page used to credit "a tri bike" for her improvement; it now credits her bike fit, the trainers, and Jay's tri bike. When did her tri bike arrive? That belongs in the 2025 account.
+- **Jay's estimate of a full-swim Honu time** (about 5:56) is on the season page as his guess and nowhere on a card.
+- **Michelle at Augusta 2024.** Anything from her side of the cancellation would give the Augusta 2025 page a better opening.
 
 ## From the RaceResult sweep (Sept 9, 2026)
 

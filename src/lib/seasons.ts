@@ -44,11 +44,11 @@ export const SEASONS: Season[] = [
   },
   {
     year: 2024,
-    title: "The build",
-    intent: "Fourteen races on healthy bodies, and Michelle's first 70.3.",
-    whatItCost: "Less than it should have. This was the year the work paid out: the marathon came down to 3:41 and 4:39.",
-    whatWeChanged: "We decided on the full distance, and the training got pointed at one thing.",
-    draft: true,
+    title: "The transition year",
+    intent: "Keep the running races on a lighter schedule and put the effort into triathlon: Michelle's first 70.3 at Honu in June, and a first race off the island at Augusta in September.",
+    whatItCost: "Just under 5,000 miles on the bike, up from 1,700, most of it on the trainers in the room off the bedroom. Honu came with a 30-mile-an-hour wind and a 750-meter swim, and Augusta never happened, because Hurricane Helene tore through Georgia two days before it.",
+    whatWeChanged: "The cancellation put a full Ironman in our heads for the first time. In October we signed up for IRONMAN Texas, six months out, and pointed the training at one thing. The marathon in December, on Jay's birthday, came down to 3:41 and 4:39.",
+    story: true,
   },
   {
     year: 2025,
