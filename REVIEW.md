@@ -83,9 +83,11 @@ Signature phrases now have one home each (`content/phrases.json`) and `scripts/l
 
 `content/seasons/2024.md` is the narrative, lightly edited. Facts from it went onto the Honolulu Triathlon, Honu, Dick Evans, and marathon pages for 2024, the Augusta and Texas 2025 pages, and the About timeline. Strava confirms the bike volume exactly: Jay 1,712 miles in 2023 and 4,938 in 2024 (Michelle 1,104 and 4,635).
 
-- **Augusta 2024 date.** Jay's account says Sunday, September 28. In 2024 the Sunday was September 29, and Helene hit Georgia on Friday the 27th. The site says "the last Sunday of September" and "the Friday before the race" and avoids the number. Confirm the 29th and it can be specific.
+- ~~Augusta 2024 date~~ **Confirmed by Jay: Sunday, September 29, 2024, Helene on Friday the 27th.** Augusta 2025 was Sunday, September 28, which matches the sheet.
+- **Running volume.** Jay remembered over 1,200 miles of running in 2024 against about 760 in 2023. Strava has 719 and 1,067 (Michelle 536 and 783). The season page uses Strava's numbers, rounded, and says so. If Garmin has a different total, say which one to trust.
+- **Spartan Beast, Mokuleia, Aug 17, 2024.** New page from Strava; both watches say about 4:43, Jay remembered about five hours, and the page says both. Jay's Sprint in Nashville the next morning (1:24:27) was on his Strava too, so he's on that page and the Trifecta is both of theirs. Jay's left shoulder, hurt on an eight-foot wall at the Beast and still not healed, is flagged for a future page.
 - **Honolulu Triathlon 2024 improvements.** Jay remembered "more than 20 minutes" and "about 15" for Michelle. The sheets say 26:01 and 25:49, so the site uses those.
-- **Michelle's road bike.** Jay says she was still on her road bike at Honu 2024. The Honolulu Triathlon 2024 page used to credit "a tri bike" for her improvement; it now credits her bike fit, the trainers, and Jay's tri bike. When did her tri bike arrive? That belongs in the 2025 account.
+- ~~Michelle's road bike~~ **Answered.** Road bike through Honu 2024; the tri bike came that summer and was packed for Augusta. The Honolulu Triathlon 2024 page no longer credits her a tri bike.
 - **Jay's estimate of a full-swim Honu time** (about 5:56) is on the season page as his guess and nowhere on a card.
 - **Michelle at Augusta 2024.** Anything from her side of the cancellation would give the Augusta 2025 page a better opening.
 

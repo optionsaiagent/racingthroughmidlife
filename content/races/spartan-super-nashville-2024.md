@@ -1,8 +1,8 @@
 ---
 title: 'Spartan Super, Nashville 2024: mud, walls, and a 10K'
 deck: >-
-  The one race on this site with obstacles. Two hours and twenty-four minutes on
-  the clock for both of us, on a Tennessee hillside in October.
+  Two hours and twenty-four minutes on the clock for both of us, on a Tennessee
+  hillside in October, in the week we'd flown out for a 70.3 that never happened.
 date: '2024-10-05'
 event: 'Spartan Super (10K, obstacles)'
 location: 'Nashville, Tennessee'
@@ -30,8 +30,8 @@ results:
       Source: own watch (Strava); no timing sheet found
     miles: 6.7
 ---
-This is the one race on the site that isn't a swim, a bike, or a run, and it's the only one where "finish time" includes climbing over things. A Spartan Super is a 10K, more or less, with obstacles: walls, ropes, carries, mud, and the kind of hills a Honolulu runner doesn't have at home. We did it together in Nashville in October 2024, two months before the [marathon](/races/honolulu-marathon-2024), and the elapsed time on both our watches says 2:24, a second apart, which tells you we stayed together the whole way.
+A Spartan Super is a 10K, more or less, with obstacles: walls, ropes, carries, mud, and the kind of hills a Honolulu runner doesn't have at home. We were on the East Coast for [Augusta](/races/augusta-70-3-2025), and when Hurricane Helene canceled it we signed up for this instead and spent a few days in Tennessee. We did it together in Nashville the first weekend of October 2024, two months before the [marathon](/races/honolulu-marathon-2024), and the elapsed time on both our watches says 2:24, a second apart, which tells you we stayed together the whole way.
 
-Michelle went back the next morning and did the Sprint, the 5K version, in 1:25 by her watch, because she was working on a Trifecta. That's hers to explain.
+We went back the next morning and did the [Sprint](/races/spartan-sprint-nashville-2024), the 5K version, because with the [Beast at Mokuleia](/races/spartan-beast-mokuleia-2024) in August that made a Trifecta for both of us.
 
 No timing sheet on this one, so the times are from our watches, and the only useful training note is that a full Ironman build handles a Spartan fine and a Spartan handles your forearms in a way a full Ironman build does not.

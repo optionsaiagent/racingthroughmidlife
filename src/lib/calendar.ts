@@ -185,6 +185,16 @@ export const CALENDAR: CalendarEvent[] = [
     races: ["kailua-shark-chase-2023", "kailua-shark-chase-2024"],
   },
   {
+    name: "Spartan Beast, Oahu",
+    month: 8,
+    when: "Mid-August",
+    where: "Mokuleia, North Shore",
+    distance: "20K with obstacles",
+    discipline: "trail",
+    take: "The long Spartan, about 12 miles of North Shore hills with walls, ropes, and carries between them. Ours took most of a morning and cost Jay a shoulder.",
+    races: ["spartan-beast-mokuleia-2024"],
+  },
+  {
     name: "Lanikai 8K",
     month: 7,
     when: "July",
