@@ -30,7 +30,7 @@ export default function SiteHeader() {
               className="h-[4.5rem] sm:h-[5.5rem] w-auto max-w-[min(520px,66vw)] object-contain object-left"
             />
           </Link>
-          <nav aria-label="Primary" className="hidden md:flex items-center gap-7">
+          <nav aria-label="Primary" className="hidden lg:flex items-center gap-5 xl:gap-7">
             {NAV.map((n) => {
               const active = pathname === n.href || (n.href !== "/" && pathname.startsWith(n.href));
               return (
@@ -38,7 +38,7 @@ export default function SiteHeader() {
                   key={n.href}
                   href={n.href}
                   aria-current={active ? "page" : undefined}
-                  className={`eyebrow !text-[0.74rem] pb-1 border-b-2 transition-colors ${
+                  className={`eyebrow !text-[0.74rem] whitespace-nowrap pb-1 border-b-2 transition-colors ${
                     active ? "border-buoy !text-ink" : "border-transparent hover:!text-brand"
                   }`}
                 >
@@ -49,7 +49,7 @@ export default function SiteHeader() {
           </nav>
           <button
             type="button"
-            className="md:hidden eyebrow !text-ink border border-line px-3 py-2 rounded-sm"
+            className="lg:hidden eyebrow !text-ink border border-line px-3 py-2 rounded-sm"
             aria-expanded={open}
             aria-controls="mobile-nav"
             onClick={() => setOpen((o) => !o)}
@@ -58,7 +58,7 @@ export default function SiteHeader() {
           </button>
         </div>
         {open && (
-          <nav id="mobile-nav" aria-label="Primary mobile" className="md:hidden pb-4 grid gap-1">
+          <nav id="mobile-nav" aria-label="Primary mobile" className="lg:hidden pb-4 grid gap-1">
             {NAV.map((n) => (
               <Link
                 key={n.href}
