@@ -1,6 +1,6 @@
 ---
 title: "Whose day is it"
-deck: "One engine, one governor, said out loud before the first step."
+deck: "Before every shared workout one of us is the engine and the other is the governor, and we say which out loud before the first step."
 date: "2023-05-30"
 tags: ["couples", "pacing", "training"]
 dos:
@@ -15,15 +15,15 @@ donts:
   - "Don't assume, because the unspoken version of this rule fails every time."
 ---
 
-Most couples-training advice is a lie told with a smile. You won't hold the same watts, you won't want the same long-run pace, and one of you will be ready to chat at mile eight while the other is having a private argument with a hamstring. In our house the engines don't match, Jay is faster, and that stopped being interesting a long time ago. The useful question is what you do about it on a Saturday morning.
+Most couples-training advice is a lie told with a smile, because you won't hold the same watts, you won't want the same long-run pace, and one of you will be ready to chat at mile eight while the other is having a private argument with a hamstring. In our house the engines don't match, Jay is faster, and that stopped being interesting a long time ago, so the useful question is what you do about it on a Saturday morning.
 
 ## The rule
 
-Before every shared session, one person's name goes on the workout. That person is the engine: they set the pace, they pick the effort, and they say when it's over. The other person is the governor, and their whole job is to sit on that pace and keep it honest. It sounds too simple to matter, and it has settled more arguments than anything else we do.
+Before every shared session, one person's name goes on the workout. That person is the engine, so they set the pace, they pick the effort, and they say when it's over, and the other person is the governor, whose whole job is to sit on that pace and keep it honest. It sounds too simple to matter, and it has settled more arguments than anything else we do.
 
 ## What it looked like at Hibiscus
 
-May 2023 was Michelle's day. She had a PR in her legs and a half marathon in front of her, so Jay's job was to pick a pace that was easy for him, hold it exactly, and keep her on it up Diamond Head and through the flat, hot miles after. She ran 2:12, a PR, and Jay felt fine afterward, which was correct because it wasn't his day. Six days later at Honu it was his day, and nobody was pacing him through the lava.
+May 2023 was Michelle's day. She had a PR in her legs and a half marathon in front of her, so Jay's job was to pick a pace that was easy for him, hold it exactly, and keep her on it up Diamond Head and through the flat, hot miles after. She ran 2:12, a PR, and Jay felt fine afterward, which was how it was supposed to go because it wasn't his day. Six days later at Honu it was his day, and nobody was pacing him through the lava.
 
 ## Where it goes past the long run
 
@@ -31,4 +31,4 @@ The rule also decides who gets the early ocean swim and who gets the later ride,
 
 ## The kitchen clause
 
-One more piece that has nothing to do with pace: dinner is not a workout. If the evening turns into a negotiation about protein, or who ate what, or whether the recovery shake counts, the week has already gone sideways. We eat, we talk about something else, and we go to bed early, because sunrise comes fast here and somebody's name is already on the morning session.
+One more piece of this has nothing to do with pace, and it's that dinner is not a workout. If the evening turns into a negotiation about protein, or who ate what, or whether the recovery shake counts, the week has already gone sideways. So we eat, we talk about something else, and we go to bed early, because sunrise comes fast here and somebody's name is already on the morning session.

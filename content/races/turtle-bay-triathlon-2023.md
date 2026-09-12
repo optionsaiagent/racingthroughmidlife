@@ -1,6 +1,6 @@
 ---
 title: 'Turtle Bay Triathlon: closing the tri year on the North Shore'
-deck: "Run, bike, run. No swim on the results. Our first duathlon, by accident."
+deck: "The results show a run, a bike, and another run with no swim, so it turned out to be our first duathlon, by accident."
 date: '2023-11-25'
 event: Turtle Bay North Shore Triathlon and Adventure Race
 location: 'Turtle Bay, North Shore, Oahu'
@@ -42,17 +42,10 @@ results:
 context:
   - training_day
 ---
+The last triathlon of 2023 was up at Turtle Bay on the North Shore, two weeks before the marathon. By late November the winter swells have started arriving on that side of the island, which is probably why the official results for this one show a run, a bike, and another run, and no swim, so it turned out to be our first duathlon, by accident. I'm a routine person and a swim-bike-run person, so I was confused when the race I'd shown up for wasn't the race we were going to do. Once I thought about it I was fine with it, because run-bike-run is one less thing to be anxious about.
 
-The last triathlon of 2023, two weeks before the marathon, up at Turtle Bay on the North Shore. By late November the winter swells have started arriving on that side of the island, which is probably why the official results for this one show a run, a bike, and another run, and no swim. Our first duathlon, by accident. I'm a routine person and a swim-bike-run person, so I was confused as that wasn't the race I'd shown up for. Then I was fine with it, as run-bike-run is one less thing to be anxious about.
+Two weeks before a marathon isn't where most plans put a triathlon, but the swim and the bike aren't the marathon's legs, a short course is a short course, and after a year that started with the [Honolulu Tri](/races/honolulu-triathlon-2014-and-again), went through the lava at [Honu](/races/honu-70-3-2023) and a [sprint](/races/na-wahine-kane-sprint-2023) in July, it felt right to close the triathlon year with a bib on before the running year closed with its own. We did it easy, and taper rules applied. The [Val Nolasco half](/races/val-nolasco-half-2023) two weeks earlier was the last hard effort of the year, and nothing at Turtle Bay was allowed to change that. Did I want to chase somebody on the bike? Maybe a little, okay, more than a little, but I didn't, and the taper rules held.
 
-## Two weeks out
+The race was run, bike, run, on the resort grounds and the North Shore roads around them. My card says 13:29 for the first run, 1:33:17 on the bike, and 1:15:03 for the second run, which came to 3:05:35 total. Jay was second in his age group and I was fourth in mine. The video shows the day better than a paragraph would, so I'll let it do that part.
 
-Two weeks before a marathon isn't where most plans put a triathlon. But the swim and the bike aren't the marathon's legs, a short course is a short course, and after a year that started with the [Honolulu Tri](/races/honolulu-triathlon-2014-and-again), went through the lava at [Honu](/races/honu-70-3-2023) and a [sprint](/races/na-wahine-kane-sprint-2023) in July, it felt right to close the triathlon year with a bib on before the running year closed with its own.
-
-We did it easy, and taper rules applied. The [Val Nolasco half](/races/val-nolasco-half-2023) two weeks earlier was the last hard effort of the year, and nothing at Turtle Bay was allowed to change that. Did I want to chase somebody on the bike? Maybe a little, okay, more than a little, but I didn't.
-
-## The race itself
-
-Run, bike, run, on the resort grounds and the North Shore roads around them. My card says 13:29 for the first run, 1:33:17 on the bike, 1:15:03 for the second run, 3:05:35 total. Jay was second in his age group and I was fourth in mine. The video shows the day better than a paragraph would, so I'll let it.
-
-Our triathlon year on Oahu has a shape to it: Honolulu Tri in May, sprints through the summer, and something on the North Shore late in the year once the water's changed. Turtle Bay is a nice way to remember the sport's supposed to be fun, right before a marathon reminds you it's also supposed to hurt. Two weeks later was the marathon.
+Our triathlon year on Oahu has a shape to it, with the Honolulu Tri in May, sprints through the summer, and something on the North Shore late in the year once the water's changed. Turtle Bay is a nice way to remember the sport's supposed to be fun, right before a marathon reminds you it's also supposed to hurt, and two weeks later it was the marathon's turn.

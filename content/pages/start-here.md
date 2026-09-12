@@ -16,7 +16,7 @@ We didn't start with a triathlon, we started with a run we could already finish.
 
 The thing that finally changed was a date. In December 2021 Michelle watched the Honolulu Marathon and said we should run it the next year for Jay's fiftieth. Jay had never wanted a marathon and didn't like running, but now there was a date, a person he didn't want to let down, and twelve months to get ready.
 
-So we built the next rung: a half marathon, Hibiscus, in May 2022, and then the marathon that December. After that, because the marathon made a long day feel survivable, we went back to an Olympic-distance tri we'd done badly in 2014, then a 70.3 on a hard course, then a 112-mile ride around the island, and then the full distance. We didn't skip a rung, and every one of them was within shouting distance of something we'd already suffered through.
+So we built the next rung: a half marathon, Hibiscus, in May 2022, and then the marathon that December. After that, because the marathon made a long day feel survivable, we went back to an Olympic-distance tri we'd done badly in 2014, then a 70.3 on a hard course, then a 112-mile ride around the island and a 2.4-mile ocean swim on their own. The full distance came last, and it was never the plan. For three years we were intimidated by the thought of one, and it took a canceled race in 2024 to make us consider it. We didn't skip a rung, and every one of them was within shouting distance of something we'd already suffered through.
 
 ## The original Ironman, one leg at a time
 

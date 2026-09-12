@@ -39,7 +39,7 @@ The Kaiwi coast is the stretch of southeast shore between Sandy Beach and Makapu
 
 Three weeks before the marathon the job is staying sharp and staying rested, and a short run with a bib and a view usually does both. There was no time goal and nothing on the line. It was a morning out with other people who run, on a road we'd normally be driving, and then breakfast. The timing sheet has us six tenths of a second apart, 40:20 for both of us at 10:05 a mile, which is about as together as two people can cross a line.
 
-We're not going to pretend it was a race. It was a reason to get up and run somewhere nice, and a season needs a couple of those, especially in the weeks when the training's winding down and the temptation is either to do nothing at all or to do way too much. We usually lean toward too much, so a fun run with a hard stop and breakfast after it is a useful thing to have on the calendar.
+We're not going to pretend it was a race, because it was a reason to get up and run somewhere nice, and a season needs a couple of those, especially in the weeks when the training's winding down and the temptation is either to do nothing at all or to do way too much. We usually lean toward too much, so a fun run with a hard stop and breakfast after it is a useful thing to have on the calendar.
 
 The same week was week two of Zwift Academy on the trainers, which by then had taken over the whole weekday bike, and that's the [indoor cycling](/notes/the-trainers-off-the-bedroom) story. So November looked like this: a fun run on the weekend, structured trainer sessions during the week, and a marathon three weeks out.
 

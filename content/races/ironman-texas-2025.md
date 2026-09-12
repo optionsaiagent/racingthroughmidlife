@@ -50,11 +50,11 @@ context:
   - travel_race
 ---
 
-This is the race the whole site is about, in the sense that every page before it was building toward this one. We'd been at it for two years and did it [in order](/start-here), which is the only training advice on this page.
+This is the race we never planned on. For three years a full Ironman was the thing we were most intimidated by, and every race before it was its own next step rather than a step toward this one. We did them [in order](/start-here) anyway, and that turned out to matter more than anything we did on purpose.
 
 ## How we got here
 
-We raced the Honolulu Triathlon [for real](/races/honolulu-triathlon-2014-and-again) in May 2023, then came a 70.3 [in the lava](/races/honu-70-3-2023) that June, [112 miles around Oahu](/races/dick-evans-112-2023) in August, [2.4 miles off Waikiki](/races/waikiki-2-4-mile-swim-2023) in September, and a [marathon](/races/honolulu-marathon-2023) with a whole readiness series behind it in December. Neither of us ever intended to do a full. The decision came out of a canceled race: when Hurricane Helene took out [Augusta](/races/augusta-70-3-2025) in September 2024, IRONMAN offered us California or Arizona instead, and the thought stuck. In October 2024 we found Texas, six months out, and signed up while we were in the best shape we'd ever been in. After that came six months of the kind of training a full distance takes, [with a bedtime attached](/lessons/sleep-funds-the-season), most of it starting at 5 a.m. on the trainer or on a road before the sun came up.
+We raced the Honolulu Triathlon [for real](/races/honolulu-triathlon-2014-and-again) in May 2023, then came a 70.3 [in the lava](/races/honu-70-3-2023) that June, [112 miles around Oahu](/races/dick-evans-112-2023) in August, [2.4 miles off Waikiki](/races/waikiki-2-4-mile-swim-2023) in September, and a [marathon](/races/honolulu-marathon-2023) with a whole readiness series behind it in December. Neither of us ever intended to do a full. The decision came out of a canceled race: when Hurricane Helene took out [Augusta](/races/augusta-70-3-2025) in September 2024, IRONMAN offered us California or Arizona instead, and the thought stuck. We agonized over it for several weeks. In October 2024 we finally signed up for Texas, six months out, while we were in the best shape we'd ever been in. After that came six months of the kind of training a full distance takes, [with a bedtime attached](/lessons/sleep-funds-the-season), most of it starting at 5 a.m. on the trainer or on a road before the sun came up.
 
 ## The race
 

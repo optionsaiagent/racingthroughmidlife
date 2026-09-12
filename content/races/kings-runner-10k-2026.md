@@ -31,8 +31,6 @@ results:
     bib: 1089
 resultSource: 'https://my.raceresult.com/382075/results'
 ---
-A year earlier on this course Jay ran [42:53](/races/kings-runner-10k-2025) and I ran 53:52, at the top of a build that ended with two full Ironmans. This year it was 48:03 and 57:47, and I'm putting both years on the same page on purpose, because the number by itself reads like something went wrong.
+A year earlier on this course Jay ran [42:53](/races/kings-runner-10k-2025) and I ran 53:52, at the top of a build that ended with two full Ironmans. This year it was 48:03 and 57:47, and I'm putting both years on the same page on purpose, because the number by itself reads like something went wrong, and nothing did. 2026 is the year we brought the volume down before our bodies did it for us, and a 10K in March is where that shows first. Was it fun to see 57 on the clock? Not especially, but I ran the whole thing and my hip didn't have anything to say, and that was the job that morning.
 
-Nothing went wrong. 2026 is the year we brought the volume down before our bodies did it for us, and a 10K in March is where that shows first. Was it fun to see 57 on the clock? Not especially. But I ran the whole thing, my hip didn't have anything to say, and that was the job that morning.
-
-We didn't write this one up or film it. The card is the report, and the [Hapalua](/races/hapalua-half-2026) six weeks later is the next data point in the same story.
+We didn't write this one up or film it, so the card is the report, and the [Hapalua](/races/hapalua-half-2026) six weeks later is the next data point in the same story.

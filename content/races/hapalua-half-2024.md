@@ -38,10 +38,10 @@ context:
   - peak_build
   - heat_day
 ---
-The [2023 Hapalua](/races/hapalua-half-2023) taught us the lesson about going out too fast in Waikiki. I learned it the hard way, which is the only way I seem to learn anything. The 2024 one is what the lesson looks like on a sheet: nine minutes off for Jay and fourteen for me, on the same course with the same Diamond Head in the middle of it.
+The [2023 Hapalua](/races/hapalua-half-2023) is where we learned the lesson about going out too fast in Waikiki, and I learned it the hard way, which is the only way I seem to learn anything. The 2024 race is what that lesson looks like on a sheet, because Jay came in nine minutes faster and I came in fourteen minutes faster, on the same course with the same Diamond Head in the middle of it.
 
-Fourteen minutes! Same distance, same heat, same hill. So what changed? I didn't run the first 5K like it was the whole race, and that's about as far as the strategy went. 32:31 through 5K, 1:39:53 through 15K, 2:18:53 at the finish. That's the whole story, and it took me a year to be able to write it.
+Fourteen minutes is a lot on the same distance, the same heat, and the same hill, so what changed? Mostly I didn't run the first 5K like it was the whole race, and that's about as far as the strategy went. I went through 5K in 32:31 and 15K in 1:39:53 and finished in 2:18:53, and there isn't much more to the race than that, though it took me a year to be able to say so.
 
-Jay went 1:43:11 for ninth in the 50-54s, 7:52 a mile in April heat, and I'm proud of him and a little annoyed, which is the normal ratio in our house.
+Jay ran 1:43:11 for ninth in the 50-54s, which is 7:52 a mile in April heat, and I'm proud of him and a little annoyed about it, which is the normal ratio in our house.
 
 Five weeks later was the [Honolulu Triathlon](/races/honolulu-triathlon-2024), and seven weeks later, [Honu](/races/honu-70-3-2024).

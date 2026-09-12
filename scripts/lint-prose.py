@@ -6,6 +6,7 @@ and quoted activity names) and over string literals / JSX text in src/**/*.tsx a
   1. em dashes, en dashes, and spaced hyphens used as punctuation
   2. curly apostrophes and quotes (the site uses straight ones in source; JSX entities are fine)
   3. signature phrases (content/phrases.json): more than once on a page, or on a page that isn't the phrase's canonical home
+  4. punch-style tells in content: a question answered in one word, "Not X. Not Y.", "It's not X. It's Y."
 """
 import re, sys, json, pathlib, glob
 
@@ -46,6 +47,12 @@ def check(path, prose):
             problems.append((rel, f"spaced hyphen: {line.strip()[:90]}"))
         if re.search(r"[’‘“”]", line):
             problems.append((rel, f"curly quote: {line.strip()[:90]}"))
+        if rel.startswith("content/") and re.search(r"\?\s+(No|Yes|Nope|Not really|Honestly, no)[.,]", line):
+            problems.append((rel, f"punch (question, one-word answer): {line.strip()[:90]}"))
+        if rel.startswith("content/") and re.search(r"\bNot (a|an|the|my|our) [^.]{1,30}\. Not (a|an|the|my|our) ", line):
+            problems.append((rel, f"punch (Not X. Not Y.): {line.strip()[:90]}"))
+        if rel.startswith("content/") and re.search(r"\b(It|That|This)'s not [^.]{1,40}\. (It|That|This)'s ", line):
+            problems.append((rel, f"punch (It's not X. It's Y.): {line.strip()[:90]}"))
     for ph in cfg["phrases"]:
         hits = re.findall(ph["pattern"], prose, re.I)
         if not hits: continue

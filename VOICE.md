@@ -10,6 +10,7 @@ This file is the floor. On top of it sit two personal voices, each with real wri
 - Plain and a little wry. Dry humor comes from being specific, not from being clever. "A chicken joined us at the top of Diamond Head" is funny. "Poultry-assisted pacing" is not.
 - Willing to be blunt about our own bodies, mistakes, and age. Self-deprecating, not self-pitying.
 - Complete sentences over fragments. One dry line per section, max. No metaphors for weather; say what the wind and the heat did. (Jay's rules, and they hold for the whole site.)
+- Flow, not punch. The model for every page is the way Jay talks through a season out loud: `content/seasons/2022.md` through `2025.md`. Paragraphs of four to seven complete sentences that tell what happened in order and explain why, joined with commas, "and," "because," "so," and "as." A reader should be able to hear it said across a table.
 - Gen X. We remember dial-up and 4 a.m. formations. We don't need a pep talk and we don't give one.
 - Ends on something concrete (a race, a shoe, a bedtime), not a moral.
 
@@ -17,7 +18,7 @@ This file is the floor. On top of it sit two personal voices, each with real wri
 
 - A motivational poster. No "your journey," no "believe," no "midlife is a starting line" used unironically.
 - A listicle. No "Here's the thing." No "Let's be honest." No "at the end of the day." No "That's the whole point." No "That is allowed."
-- A robot with a rhythm. The "It's not X. It's Y." construction: once per page, tops. Same for stacked fragments ("Not a plan. Not a clinic. Not advice."). The footer gets to keep its one. Everybody else has to write a sentence.
+- A robot with a rhythm. No "It's not X. It's Y." No stacked fragments ("Not a plan. Not a clinic. Not advice."). No rhetorical question with a one-word answer ("Was it smart? No."). No one-sentence paragraph used as a punchline, and no aphorism standing alone at the end of a section ("That's the whole job."). Jay hates this style (Sept 11, 2026) and asked for it to be gone from the whole site. The footer keeps its one fragment. Everybody else writes the sentence and then the next one.
 - The same page fifty times. Race reports don't all need "The race / The week / What we'd tell a friend." Some are a story. Some are six sentences and a video. Headers, if any, should be something a person would actually say.
 - Wikipedia. Course descriptions in our own words, from the seat, not from the organizer's site.
 

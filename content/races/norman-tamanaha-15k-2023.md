@@ -35,14 +35,8 @@ context:
   - heat_day
 ---
 
-This is where the marathon build starts wearing a bib. For me it's also where the year starts feeling like a plan again, and I like a plan.
+This is where the marathon build starts wearing a bib, and it's also where the year starts feeling like a plan again, which suits me, because I like a plan. The Marathon Readiness Series is five races between August and November, each one longer than the last: 15K, 20K, 25K, 30K, and then a half marathon a month out from the marathon. That's the long-run progression from every marathon plan on the internet, except with aid stations and other people. In 2023 we [let the calendar be the plan](/lessons/let-the-calendar-be-the-plan) and it held up, and for a routine person that's the dream, as somebody else wrote the schedule and all I had to do was show up to it.
 
-## How the series works
+The 15K is race one, about 9.3 miles in August, so it's hot from the first mile and stays that way. We ran it as a long run with a bib, because the marathon was four months away and the series had four more races in it, and what was there to win in August? Nothing, really, though I'll admit I still looked at the card afterward. The information I actually wanted was simple, how do nine miles feel in the heat with a number on and what did I eat that worked, and the racing gets saved for December. The card said 1:33:19, 10:01 a mile, seventh in my age group, and Jay was seventh in his too, at 1:14:16.
 
-The Marathon Readiness Series is five races between August and November, each one longer than the last: 15K, 20K, 25K, 30K, then a half marathon a month out from the marathon. That's the long-run progression from every marathon plan on the internet, except with aid stations and other people. In 2023 we [let the calendar be the plan](/lessons/let-the-calendar-be-the-plan) and it held up. For a routine person that's the dream, as somebody else wrote the schedule and all I had to do was show up to it.
-
-The 15K is race one. About 9.3 miles, in August, so it's hot from the first mile and stays that way.
-
-We ran it as a long run with a bib. The marathon was four months away and the series had four more races in it, so what was there to win in August? Nothing, though I still looked at the card afterward. The information I wanted was simple: how do nine miles feel in the heat with a number on, and what did I eat that worked. The racing gets saved for December. 1:33:19, 10:01 a mile, seventh in my age group, and Jay was seventh in his too, at 1:14:16.
-
-It sat in the middle of August, a week after a training week with hill sprints, a ridge ride, and a Koko Head hike in it. That's what a fall looks like here. The running series carries the marathon build, and the long rides carry a full-distance question that was starting to get asked out loud in our house. (I heard it. I wasn't ready to answer it yet.) Two weeks after this one, that meant [112 miles around the island](/races/dick-evans-112-2023).
+It sat in the middle of August, a week after a training week with hill sprints, a ridge ride, and a Koko Head hike in it, and that's what a fall looks like here. The running series carries the marathon build, and the long rides carry a full-distance question that was starting to get asked out loud in our house (I heard it, and I wasn't ready to answer it yet). Two weeks after this one, that meant [112 miles around the island](/races/dick-evans-112-2023).

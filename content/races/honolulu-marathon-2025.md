@@ -35,14 +35,10 @@ contextNote: >-
   Six weeks after IRONMAN California. Michelle went in injured, and we ran the
   whole thing together at the pace that allowed, which is what 5:25:08 is.
 ---
-The fourth Honolulu Marathon in a row, and the first one we ran as one race instead of two.
+This was our fourth Honolulu Marathon in a row, and it was the first one we ran as one race instead of two. It came six weeks after a full Ironman, so there was no PR to chase and neither of us pretended there was. I went into it injured, and we decided to run the whole thing together at whatever pace the injury allowed, which made the plan the simplest one we've ever written: start together, finish together, take every aid station, and enjoy the fireworks. [Whose day was it?](/lessons/whose-day-is-it) It was both of ours for once, and the pace was whatever kept it that way. That was a decision we made for my body on that day, and if anybody is weighing the same one, that's a conversation for their own doctor and not for this page.
 
-Six weeks after a full Ironman, was there a PR to chase? No, and neither of us pretended there was. The plan was the simplest one we've ever written: start together, finish together, take every aid station, and enjoy the fireworks. [Whose day is it?](/lessons/whose-day-is-it) Both of ours, and the pace was whatever kept it that way.
+We finished in 5:25:08 and 5:25:08, places 7802 and 7803. He's one place ahead of me on the sheet, and I'm choosing not to have feelings about that. (I have a few, and Jay knows about all of them.)
 
-I went into this one injured, and we decided to run it together at whatever pace the injury allowed. That's a decision, not advice, and if you're weighing the same one, talk to your own doctor before you copy ours.
+If you only look at the times on this site you'll see this as the slow one, and it was the best one! I got twenty-six miles next to Jay, every aid station, and the fireworks, which is exactly what the plan said.
 
-5:25:08 and 5:25:08. Places 7802 and 7803. He's one place ahead of me on the sheet, and I'm choosing not to have feelings about that. (I have a few, and Jay knows about all of them.)
-
-If you only look at the times on this site you'll see this as the slow one. It was the best one! Twenty-six miles next to Jay, every aid station, and the fireworks.
-
-Jay ran a [50K](/races/hawaii-kai-ultra-50k-2025) six days later. That's his to explain.
+Jay ran a [50K](/races/hawaii-kai-ultra-50k-2025) six days later, and that one is his to explain.

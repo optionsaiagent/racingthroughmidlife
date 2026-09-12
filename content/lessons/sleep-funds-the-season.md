@@ -14,24 +14,20 @@ donts:
   - "Don't confuse tired with lazy, because at this age the difference between those two is the whole ballgame."
 ---
 
-We aren't going to tell you how many hours to sleep, because we don't know your life. We'll tell you what the full-distance decision did to ours.
+We aren't going to tell you how many hours to sleep, because we don't know your life, but we can tell you what the full-distance decision did to ours.
 
 ## The line we keep coming back to
 
-"The full distance isn't a personality, it's a season you pay for in sleep." We said that when we were deciding whether to go 140.6 and we haven't found a better way to put it. Every long-course season since has been paid for the same way: earlier bedtimes, dropped evenings, and a social calendar that got thin for a while. The calendar comes back when the season ends.
+When we were deciding whether to go 140.6, the way we put it to each other was that the full distance is a season you pay for in sleep, and we haven't found a better way to say it since. Every long-course season since has been paid for the same way, with earlier bedtimes, dropped evenings, and a social calendar that got thin for a while, and the calendar comes back when the season ends.
 
 ## What changed after forty
 
-At thirty a hard week and a bad night could coexist, and now they can't. A long ride on five hours of sleep turns into a long ride plus two days of feeling wrong, and those two days are where the next workout was supposed to go. We noticed it most in the mornings. The 5 a.m. alarm is the honest measurement: when it goes off and the body says yes, the week is funded, and when it goes off and the body says something else, the smart move is usually to take the easy day and keep the season.
+At thirty a hard week and a bad night could coexist, and now they can't, because a long ride on five hours of sleep turns into a long ride plus two days of feeling wrong, and those two days are where the next workout was supposed to go. We noticed it most in the mornings. The 5 a.m. alarm is the honest measurement, because when it goes off and the body says yes, the week is funded, and when it goes off and the body says something else, the smart move is usually to take the easy day and keep the season.
 
 ## What we actually did
 
-The bedtime comes first. The workout is at dawn because of the heat, so the bedtime is early because of the workout, and we quit negotiating it, since it's the one line item that pays for everything else.
-
-The easy weeks go on the calendar in ink, when the block gets planned and not when we feel like we need one, because by the time we feel like we need it we've usually needed it for a week.
-
-The week after a marathon or a long-course race is a rest week, and we mean rest: walk, swim easy, sleep. The [week after the marathon](/notes/the-week-after-the-marathon) note has the details.
+The bedtime comes first. The workout is at dawn because of the heat, so the bedtime is early because of the workout, and we quit negotiating it, since it's the one line item that pays for everything else. The easy weeks go on the calendar in ink when the block gets planned, and not when we feel like we need one, because by the time we feel like we need it we've usually needed it for a week. The week after a marathon or a long-course race is a rest week, and we mean rest, as in walking, swimming easy, and sleeping, and the [week after the marathon](/notes/the-week-after-the-marathon) note has the details.
 
 ## Seasons end
 
-One more thing about paying for a season in sleep: seasons end. The full distance is a thing we do for a few months, and then we go back to being two people who race the local calendar and sleep like normal humans. Knowing there's an end makes the middle survivable, and so does the 8:30 bedtime.
+The other thing about paying for a season in sleep is that seasons end. The full distance is a thing we do for a few months, and then we go back to being two people who race the local calendar and sleep like normal humans. Knowing there's an end makes the middle survivable, and so does the 8:30 bedtime.

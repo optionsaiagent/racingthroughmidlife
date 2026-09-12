@@ -32,8 +32,5 @@ context:
   - first_at_distance
   - training_day
 ---
-No video, no notes, just the sheet. Jay 1:48, me 2:23, in September heat, three months before the [marathon](/races/honolulu-marathon-for-fifty).
 
-The 20K is where the readiness series stops being a fun run and starts being the long run, and nobody told us that in 2022. We found out at mile ten.
-
-I'd like to say more about the day, but I can't remember it well enough to trust myself, and I'd rather leave a short page than a made-up one. Twelve miles at 12:02 a mile, fifteenth in my age group, and Jay fourth in his. That's what's on the card, and that's what I've got.
+There's no video and there are no notes from this one, just the timing sheet, which has Jay at 1:48 and me at 2:23, in September heat, three months before the [marathon](/races/honolulu-marathon-for-fifty). The 20K is where the readiness series stops being a fun run and starts being the long run, and nobody told us that in 2022, so we found out for ourselves somewhere around mile ten. I'd like to say more about the day, but I can't remember it well enough to trust myself, and I'd rather leave a short page than a made-up one. What I can tell you is what's on the card: twelve miles at 12:02 a mile, fifteenth in my age group, and Jay fourth in his.

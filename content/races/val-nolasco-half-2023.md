@@ -34,9 +34,7 @@ context:
   - training_day
 ---
 
-This was race five of five, a half marathon four weeks before the Honolulu Marathon, which is a distance and a date that practically beg you to make a mistake.
-
-The mistake is racing it. By November the legs are about as fit as they're going to be all year, the half is a distance where a PR is genuinely on the table, and the urge to find out what's there is enormous, and we felt it. But a raced half a month before a marathon is a withdrawal from an account that needs to be full in December, and we'd spent the whole fall making deposits.
+This was race five of five, a half marathon four weeks before the Honolulu Marathon, which is a distance and a date that practically beg you to make a mistake, and the mistake is racing it. By November the legs are about as fit as they're going to be all year, the half is a distance where a PR is genuinely on the table, and the urge to find out what's there is enormous, and we felt it. But a raced half a month before a marathon is a withdrawal from an account that needs to be full in December, and we'd spent the whole fall making deposits.
 
 So we treated it as a check, and we were mostly disciplined about it. It was the last long run with a bib, at marathon effort, with the marathon breakfast and the marathon shoes, everything the [30K](/races/boca-hawaii-30k-2023) had checked, checked once more, closer to the day. For me, that came out to 1:45:08, fifth in the 50-54s at 8:01 a mile. Michelle ran 2:17:01, eighteenth in hers, and kept her effort where it belonged.
 

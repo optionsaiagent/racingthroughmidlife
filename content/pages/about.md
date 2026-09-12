@@ -18,9 +18,9 @@ Jay did a few triathlons in 2005 and 2006 and didn't like them. In 2014 he talke
 
 In December 2021 Michelle watched the Honolulu Marathon and said we should run it the next year for Jay's fiftieth. He'd never wanted a marathon, and the longest run in the house at the time was the Great Aloha Run, 8.1 miles. We trained anyway. Hibiscus Half in May 2022 was the first half for both of us, and the marathon that December was the birthday.
 
-Then 2023 happened: the Honolulu Triathlon, raced for real this time, Michelle's half-marathon PR, Jay's first 70.3 in the lava at Honu, 112 miles around Oahu, the whole Marathon Readiness Series, and the Honolulu Marathon again. We filmed every week of it. After that came the decision to go the full distance, and the seasons since.
+Then 2023 happened: the Honolulu Triathlon, raced for real this time, Michelle's half-marathon PR, Jay's first 70.3 in the lava at Honu, 112 miles around Oahu, the whole Marathon Readiness Series, and the Honolulu Marathon again. We filmed every week of it. A full Ironman was never part of the plan through any of that, and for those first years we were intimidated by the thought of one. It took a hurricane canceling our Augusta 70.3 in 2024, and several weeks of agonizing over the options IRONMAN offered us instead, before we signed up for Texas. [Going the full distance](/races/going-the-full-distance) tells that story, and the years since are on the [seasons](/seasons) pages.
 
-The order matters more than any one race: Olympic, then a 70.3 on a hard course, then a standalone marathon, then the full. We didn't skip a step, and [Start here](/start-here) has the whole order.
+The order matters more than any one race: a marathon first, then an Olympic, then a 70.3 on a hard course, then the bike distance and the swim distance on their own, and only after all of that the full. We didn't skip a step, and [Start here](/start-here) has the whole order.
 
 ## The camera and the log
 

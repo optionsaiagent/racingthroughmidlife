@@ -1,6 +1,6 @@
 ---
 title: 'Tinman Triathlon 2014: not nearly enough training'
-deck: "July 2014. No training to speak of. 2:40:58 and 3:08:27."
+deck: "July 2014, with no training to speak of, and 2:40:58 and 3:08:27 to show for it."
 date: '2014-07-20'
 datePrecision: month
 event: Tinman Triathlon

@@ -19,13 +19,13 @@ For about three and a half years before the marathon we ate keto, and it worked 
 
 ## What it looked like
 
-It wasn't dramatic. The legs were fine and the lungs were fine, and then somewhere past nine miles there was just nothing left, the kind of empty where the pace goes away and doesn't come back. The first time we figured it was the heat. The second and third times we figured it was us. By the fourth we noticed it was always the same mile.
+It wasn't dramatic, because the legs were fine and the lungs were fine, and then somewhere past nine miles there was just nothing left, the kind of empty where the pace goes away and doesn't come back. The first time we figured it was the heat, and the second and third times we figured it was us. By the fourth we noticed it was always the same mile.
 
 ## What we changed
 
-We put carbs back in. Nothing crazy: more fruit, potatoes more often, rice occasionally. Enough that the long runs had something to run on. The runs stopped coming apart and the mileage kept going up through the readiness series, and by October we ran a 30K on a plan that would have been impossible for us in June.
+We put carbs back in, nothing crazy: more fruit, potatoes more often, rice occasionally, enough that the long runs had something to run on. The runs stopped coming apart and the mileage kept going up through the readiness series, and by October we ran a 30K on a plan that would have been impossible for us in June.
 
-The other half of it was learning that once the runs get long you have to eat while you run. Nothing you eat before a two-hour run lasts the whole way. That sent us down the nutrition rabbit hole we're still in, testing what works in a pocket in Honolulu heat, and [that's its own note](/notes/food-that-survived-a-brick).
+The other half of it was learning that once the runs get long you have to eat while you run, because nothing you eat before a two-hour run lasts the whole way. That sent us down the nutrition rabbit hole we're still in, testing what works in a pocket in Honolulu heat, and [that's its own note](/notes/food-that-survived-a-brick).
 
 ## What we'd say about it
 

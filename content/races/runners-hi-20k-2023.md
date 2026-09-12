@@ -44,4 +44,4 @@ The 20K opened a September that also had the [Waikiki 2.4-mile swim](/races/waik
 
 ## Eating on the run
 
-Fueling matters here in a way it didn't at 15K. This is the race where you should be eating while you run, trying out whatever's going to be in your pockets in December, and drinking at every station whether you feel like it or not. Twelve miles in September is a rehearsal for the marathon's exposed stretch out toward Hawaii Kai, which is also flat, also hot, and also where a lot of people's days fall apart, so it's better to find out here what your stomach thinks of what's in your pockets than out there.
+Fueling mattered here in a way it hadn't at the 15K. This was the race where we ate while we ran, trying out whatever was going to be in our pockets in December, and drank at every station whether we felt like it or not. Twelve miles in September is a rehearsal for the marathon's exposed stretch out toward Hawaii Kai, which is also flat, also hot, and also where a lot of people's days fall apart, so we wanted to find out here what our stomachs thought of what was in our pockets rather than out there.

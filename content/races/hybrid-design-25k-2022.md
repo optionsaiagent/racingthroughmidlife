@@ -27,8 +27,8 @@ resultSource: 'https://timelinehawaii.com/2022/10/02/2022-hybrid-design-25k/'
 context:
   - first_at_distance
 ---
-Fifteen and a half miles, two months before my first marathon. I'd never run past 13.1 with a bib on and I honestly didn't know what would happen to me after it. It turns out I kept going, and 3:09:48 is what's on the card.
+This was fifteen and a half miles, two months before my first marathon, and I'd never run past 13.1 with a bib on before it. I honestly didn't know what would happen to me on the far side of a half, and it turns out I kept going, and 3:09:48 is what's on the card.
 
-This is the run that made December believable. Not the plan or the training log, but this one. A half marathon tells you that you can do a half. Fifteen and a half tells you the number on the far side of a half is just a number, and you can keep adding to it, slowly, okay, very slowly, at 12:39 a mile.
+This is the run that made December believable for me, more than the plan or the training log did. A half marathon tells you that you can do a half, but fifteen and a half tells you that the number on the far side of a half is just a number, and that you can keep adding to it, slowly, okay, very slowly, at 12:39 a mile.
 
-Jay's not on the sheet for this one, and neither of us can remember why. Twenty-first in my age group, 237th overall, and the first long one with only me in it. I was fine with that, mostly.
+Jay's not on the sheet for this one, and neither of us can remember why, so this was the first long one with only me in it. I finished twenty-first in my age group and 237th overall, and I was fine with running it alone, mostly.

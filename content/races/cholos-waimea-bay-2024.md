@@ -30,6 +30,4 @@ context:
 ---
 I don't have notes on this one, and the timing page doesn't list a distance, so all I can give you is what's on the sheet: Jay 44:56 and me 45:51, about a minute behind him, in flat summer water at Waimea Bay three weeks after Honu.
 
-Forty-five minutes is a long time to be alone with your own head in the ocean. For me that's the good part, as nobody talks to you out there and nobody expects you to talk back. I'd take that over a crowded start line most days.
-
-Waimea in June is a lake. Waimea in December is the reason surfers exist. We picked June, and I'd pick it again.
+Forty-five minutes is a long time to be alone with your own head in the ocean, and for me that's the good part, as nobody talks to you out there and nobody expects you to talk back, so I'd take that over a crowded start line most days. Waimea in June is flat and calm, and Waimea in December is the reason surfers exist, so we picked June, and I'd pick it again.

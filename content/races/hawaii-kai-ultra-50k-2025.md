@@ -23,6 +23,6 @@ results:
 ---
 The [marathon](/races/honolulu-marathon-2025) was on the Sunday, and this was the Saturday after it. The Hawaii Kai Ultra Run is a three-mile loop out of Kalama Valley Park near Sandy Beach, up Kealahou Street to the back of the valley and down again, with an aid station about halfway around, and you run it as many times as your distance says. For a 50K that's ten and a bit. It's the closest an ultra gets to our house, and I'd never done one.
 
-It was a brutal run. Up and down the same valley for a little under five hours, a week after a marathon, at the end of a year with two full Ironmans in it. My watch says 4:54:00 for 31.4 miles. The race posts finisher sheets to a shared folder, and the 2025 sheets weren't in it when I looked, so that's the number until they are.
+It was a brutal run, up and down the same valley for a little under five hours, a week after a marathon, at the end of a year with two full Ironmans in it. My watch says 4:54:00 for 31.4 miles. The race posts finisher sheets to a shared folder, and the 2025 sheets weren't in it when I looked, so that's the number until they are.
 
 Right after it I got sick, felt like crap, and it took everything out of me. That was the last race of [2025](/seasons/2025), and it might have been the year telling me it was over.

@@ -18,7 +18,7 @@ const RUNGS = [
   { rung: "70.3", what: "IRONMAN 70.3 Hawaii, June 2023", note: "A hard course on purpose, on the theory that if Jay could get through a half in the lava he could get through one anywhere.", href: "/races/honu-70-3-2023" },
   { rung: "112 miles", what: "Dick Evans, August 2023", note: "A lap of Oahu, the same ride the first Ironman used in 1978, which meant doing the bike leg on its own before a swim and a marathon got attached to it.", href: "/races/dick-evans-112-2023" },
   { rung: "2.4 miles", what: "Waikiki Roughwater Swim, September 2023", note: "The 1978 Ironman swim on its own, with no bike waiting afterward. Jay 1:50:49, Michelle 2:02:27.", href: "/races/waikiki-2-4-mile-swim-2023" },
-  { rung: "140.6", what: "IRONMAN Texas, April 2025", note: "Only after every rung above was done. It took a season with a bedtime attached, and then we did it again in October.", href: "/races/ironman-texas-2025" },
+  { rung: "140.6", what: "IRONMAN Texas, April 2025", note: "Only after every rung above was done, and never part of the plan until a hurricane canceled a 70.3 and IRONMAN offered a full instead. It took a season with a bedtime attached, and then we did it again in October.", href: "/races/ironman-texas-2025" },
 ];
 
 export default function StartHere() {

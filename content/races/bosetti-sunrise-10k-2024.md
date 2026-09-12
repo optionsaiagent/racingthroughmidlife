@@ -34,15 +34,6 @@ resultSource: 'https://timelinehawaii.com/2024/01/01/2024-bosetti-10k/'
 context:
   - training_day
 ---
+There's a 10K in Hawaii Kai on the morning of January 1 that starts at sunrise, which on this island is a civilized hour, and it's full of people who decided the year should start with a run instead of a hangover. I'm one of those people, as a start line is something I understand and a party is something I have to work at. Three weeks after the [Honolulu Marathon](/races/honolulu-marathon-2023) my legs were recovered and my routine wasn't, and [January](/notes/january-the-five-pounds-and-the-groove) always needs a reason to get the alarm back, so a bib on the first morning of the year is a pretty good reason. We didn't go there to race it so much as to attend it, and I ran 1:03:26 and Jay ran 50:36, eighth in my age group and fourth in his, which on January 1 was plenty.
 
-There's a 10K in Hawaii Kai on the morning of January 1. It starts at sunrise, which on this island is a civilized hour, and it's full of people who decided the year should start with a run instead of a hangover. I'm one of those people, as a start line is something I understand and a party is something I have to work at.
-
-## A race to attend
-
-Three weeks after the [Honolulu Marathon](/races/honolulu-marathon-2023), my legs were recovered and my routine wasn't. [January](/notes/january-the-five-pounds-and-the-groove) always needs a reason to get the alarm back, and a bib on the first morning of the year is a pretty good reason. It's not a race to race, it's a race to attend. 1:03:26 for me and 50:36 for Jay. Eighth in my age group, fourth in his, and on January 1 that was plenty.
-
-Hawaii Kai is the east end of the marathon course, the flat, exposed stretch that hurt three weeks earlier. On New Year's morning it was a different place: cool, quiet, and over quickly. It's strange to run a road that hurt you and have it be easy this time, and I didn't quite trust it.
-
-The people at that start line aren't the fittest people on the island. They're the ones who'll still be running in March, because they never stopped. I wanted to be counted with them, so I set the alarm. (Setting an alarm is the part I'm good at.)
-
-Next on the calendar was the [Kailua 10-Miler](/races/kailua-10-miler-2024), where Jay won his age group for the first time.
+Hawaii Kai is the east end of the marathon course, the flat, exposed stretch that had hurt three weeks earlier, and on New Year's morning it was a different place, cool and quiet and over quickly. It's strange to run a road that hurt you and have it be easy this time, and I didn't quite trust it. The people who show up at that start line are the ones who'll still be running in March, because they never stopped, whether or not they're the fittest people on the island, and I wanted to be counted with them, so I set the alarm (setting an alarm is the part I'm good at). Next on the calendar was the [Kailua 10-Miler](/races/kailua-10-miler-2024), where Jay won his age group for the first time.

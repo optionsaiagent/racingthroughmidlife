@@ -34,11 +34,6 @@ context:
   - training_day
   - heat_day
 ---
-
-Third race of March and the longest one, and by then I was tired of alarms. A half marathon on the windward side, which is the side of the island that looks the way people picture Hawaii before they get here.
-
-Green mountains, wet air, and a course pretty enough to distract you from the fact that the humidity over there is higher than in town. By mile nine every half marathon on this island is a heat race, and this one is a heat race with a view. Does the view help? For eight miles, yes. After that I stopped looking up and started looking at the road in front of me.
-
-The mountains looked the same at any pace, so I picked the one I could hold and stayed on it. 2:19:46 for me, fifth in my age group. 1:52:17 for Jay, second in his.
+This was the third race of March and the longest one, and by then I was tired of alarms. It's a half marathon on the windward side, which is the side of the island that looks the way people picture Hawaii before they get here, with green mountains, wet air, and a course pretty enough to distract you from the fact that the humidity over there is higher than in town. By mile nine every half marathon on this island is a heat race, and this one is a heat race with a view. Does the view help? For eight miles it did, and after that I stopped looking up and started looking at the road in front of me. The mountains looked the same at any pace, so I picked the one I could hold and stayed on it, and that came out to 2:19:46 for me and fifth in my age group. Jay ran 1:52:17 and was second in his.
 
 March 2023 went 10K, 10K, half, in consecutive weeks. Three races in a month is a lot for anybody, and for a person who needs her routine it was three weekend mornings in a row that didn't look like the other weekend mornings (I noticed, and I didn't love it). It only worked because the half was the one we ran at anything like real effort, and even that was a long run with a bib rather than a goal. All of it was the spring build toward the [Hapalua](/races/hapalua-half-2023) in April and the [Honolulu Triathlon](/races/honolulu-triathlon-2014-and-again) in May.

@@ -33,30 +33,22 @@ results:
     miles: 112
 athletes: Jay
 ---
-
-The Dick Evans is a bike race that goes all the way around Oahu, 112 miles. If that number sounds familiar, it's because it's the bike leg of a full Ironman, and that wasn't a coincidence in our house.
+The Dick Evans is a bike race that goes all the way around Oahu, 112 miles, and if that number sounds familiar it's because it's the bike leg of a full Ironman, which wasn't a coincidence in our house.
 
 ## Why 112
 
-By August of 2023 the full distance had gone from something we didn't talk about to something we talked about in the car. I had a 70.3 done, the marathon was on the calendar for December, and the one leg of a 140.6 neither of us had done on its own was the bike, and here was the island offering exactly that distance, with a start line, on a Sunday. It would've been strange not to.
+By August of 2023 the full distance had gone from something we didn't talk about to something we talked about in the car. I had a 70.3 done, the marathon was on the calendar for December, and the one leg of a 140.6 neither of us had done on its own was the bike, so when the island offered exactly that distance, with a start line, on a Sunday, it would've been strange not to sign up. It was a race, and it was also the longest [bridge](/lessons/dont-sign-up-before-the-long-run) we'd built, because if 112 miles was survivable alone in August, it was at least imaginable with a swim in front of it and a marathon after, or that was the theory anyway, and we've been wrong about theories before.
 
-So it was a race, and it was also the longest [bridge](/lessons/dont-sign-up-before-the-long-run) we'd built. If 112 miles was survivable alone, in August, it was at least imaginable with a swim in front of it and a marathon after. That's the theory anyway, and we've been wrong about theories before. There was one more reason we found out about later: this lap of the island is the same ride the very first Ironman used in February 1978, before the race moved to the Big Island, which means that between this, the [Roughwater swim](/races/waikiki-2-4-mile-swim-2023) in September, and the [marathon](/races/honolulu-marathon-2023) in December, we'd covered the original Ironman course that year without ever doing it in one day.
+There was one more reason, which we found out about later. This lap of the island is the same ride the very first Ironman used in February 1978, before the race moved to the Big Island, which means that between this ride, the [Roughwater swim](/races/waikiki-2-4-mile-swim-2023) in September, and the [marathon](/races/honolulu-marathon-2023) in December, we covered the original Ironman course that year without ever doing it in one day.
 
 ## The ride
 
-Around the island means around the island: town, the east side, the windward coast, the North Shore, and back down the west and through the middle. It's a long day with real traffic, real wind on the windward and north sides, and real August heat by the time you're anywhere close to done. The Hawaii Bicycling League runs it in memory of Dick Evans, and it feels like an event that's been happening for a very long time, which usually means the people running it have seen everything you're about to do wrong.
+Around the island means around the island: town, the east side, the windward coast, the North Shore, and back down the west side and through the middle. It's a long day with real traffic, real wind on the windward and north sides, and real August heat by the time you're anywhere close to done. The Hawaii Bicycling League runs it in memory of Dick Evans, and it feels like an event that's been happening for a very long time, which usually means the people running it have seen everything you're about to do wrong. For me, that included riding it on the tri bike that had shown up six weeks earlier and had done exactly one sprint, which is a shorter runway than I'd recommend for a new bike before a 112-mile day.
 
-I rode it on the tri bike that had shown up six weeks earlier and had done exactly one sprint. That's a shorter runway than I'd recommend for a new bike before a 112-mile day.
-
-## What 112 miles teaches you
-
-Mostly it teaches you about eating. A 56-mile ride can be done on a good breakfast and a couple of bottles, and a 112-mile ride can't, and it lets you know somewhere past the halfway point. Everything that was going to be on the list for the full distance had to survive this day first, and some of it didn't. The [food that survived a brick](/notes/food-that-survived-a-brick) note is about how that list gets made, and this ride was the biggest audition on it.
-
-The other thing it teaches you is that the last thirty miles of a long ride are a different ride. The legs are usually fine, and the neck, the hands, the feet, and the will are the problem. A [bike fit](/notes/bike-fit-at-fifty), which Michelle had the week before this, turns out to be what decides whether mile 90 is uncomfortable or impossible.
+Mostly what 112 miles taught me was about eating. A 56-mile ride can be done on a good breakfast and a couple of bottles, and a 112-mile ride can't, and it lets you know somewhere past the halfway point. Everything that was going to be on the list for the full distance had to survive this day first, and some of it didn't, and the [food that survived a brick](/notes/food-that-survived-a-brick) note is about how that list gets made, with this ride as the biggest audition on it. The other thing it taught me is that the last thirty miles of a long ride are a different ride, because the legs are usually fine and it's the neck, the hands, the feet, and the will that become the problem. A [bike fit](/notes/bike-fit-at-fifty), which Michelle had the week before this, turns out to be what decides whether mile 90 is uncomfortable or impossible.
 
 ## What it changed
 
-After this, the full distance stopped being hypothetical. Every leg had been done on its own, and the rest was putting them in a row on one day and finding the [sleep](/lessons/sleep-funds-the-season) a season like that takes. That took another year and a half, and it started with a Sunday in August and a bike that had done one sprint.
+After this the full distance stopped being hypothetical, because every leg had been done on its own and the rest was putting them in a row on one day and finding the [sleep](/lessons/sleep-funds-the-season) a season like that takes. That took another year and a half, and it started with a Sunday in August on a bike that had done one sprint.
 
-The 2023 edition never made it onto Webscorer, where 2022, 2024, and 2025 are, so the time here is from Jay's watch: 6:24:36 elapsed, 6:19:54 of it moving.
-
+The 2023 edition never made it onto Webscorer, where 2022, 2024, and 2025 are, so the time here is from my watch: 6:24:36 elapsed, 6:19:54 of it moving.

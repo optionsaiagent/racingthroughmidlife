@@ -27,8 +27,6 @@ results:
     splits:
       Source: own watch (Strava); no timing sheet found
 ---
-We ran this one together, and by our watches I crossed two seconds ahead of Jay, which I'm mentioning because it's on the record and he can't argue with a watch. Six minutes faster than the year before for both of us, in the winter that ended with our first Honu together.
+We ran this one together, and by our watches I crossed two seconds ahead of Jay, which I'm mentioning because it's on the record and he can't argue with a watch. Both of us were six minutes faster than the year before, in the winter that ended with our first Honu together. Then I ran back, because we'd taken the shuttle out to the start and I wanted the miles, so there's a second activity on my Strava that morning called the Reverse Great Aloha Run, 8.7 miles from the stadium back toward town. Was that smart in February with a 70.3 in June? It was a long-run day and I wanted the miles, and honestly that was about all the thought I gave it.
 
-Then I ran back. There's a second activity on my Strava that morning called the Reverse Great Aloha Run, 8.7 miles from the stadium back toward town, because we'd taken the shuttle out and I wanted the miles. Was that smart in February with a 70.3 in June? It was a long-run day, and a long run is a long run.
-
-The times are from our watches. The official results live on Athlinks, which we can't read by machine, so if either of us finds the finisher email these get replaced.
+The times are from our watches, since the official results live on Athlinks, which we can't read by machine, and if either of us finds the finisher email these get replaced.

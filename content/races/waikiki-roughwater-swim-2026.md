@@ -1,6 +1,6 @@
 ---
 title: 'Waikiki Roughwater Swim 2026: two and a half hours into the current'
-deck: "Just under 4 km that felt like 8. About 80 swimmers pulled or past the cutoff. 2:27 by our watches, and we didn't quit."
+deck: "Just under 4 km that felt like 8, about 80 swimmers pulled or past the cutoff, and the two of us still swimming at 2:27 by our watches because we didn't quit."
 date: '2026-08-30'
 event: Waikiki Roughwater Swim
 location: 'Kaimana Beach to Hilton Hawaiian Village, Waikiki'
@@ -47,6 +47,4 @@ For me it was 2:27:09. Michelle came in at 2:27:07, a couple of seconds ahead, w
 
 ## What I took from it
 
-The thing I keep coming back to isn't the time. Faced with that current and those odds, Michelle and I did not quit. We didn't give up on it partway through, and we pushed all the way to the finish on our own, with thirteen minutes to spare on the cutoff and a friend alongside. That's the whole lesson, and it comes with a useful fact attached: we now know we can swim for two and a half hours straight without stopping. That is a number I didn't have before this weekend, and it's a number that matters for the kind of racing we do.
-
-Last year's swim was the fast one. This one's the one I'll remember.
+What I keep coming back to is that, faced with that current and those odds, Michelle and I did not quit. We didn't give up on it partway through, and we pushed all the way to the finish on our own, with thirteen minutes to spare on the cutoff and a friend alongside. It also came with a useful fact attached, which is that we now know we can swim for two and a half hours straight without stopping, a number I didn't have before this weekend and one that matters for the kind of racing we do. Last year's swim was the fast one, and this one's the one I'll remember.
