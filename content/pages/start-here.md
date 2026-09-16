@@ -27,7 +27,7 @@ I think this rung was the most important step along the way. We developed a race
 
 Showing up is the obvious answer, but not for us. Getting into a routine mattered more. We went from couch potatoes to CrossFit twice a week. We thought we were doing exactly what we should. But our waistlines told us the truth. After an honest conversation with ourselves and each other, we knew we needed to do more. That is one of the biggest reasons Michelle suggested doing the marathon.
 
-We also had help at this moment in our lives. Our CrossFit coach threw out a challenge: Whole 31. Eat whole foods for 31 days, be held accountable and support each other during these hard times... 31 days, how hard can it be? It. Was. Hard! I think giving up sugar cold turkey is what made it hard, but that's exactly what we needed. The weight melted off and we learned the fundamentals of nutrition.
+We also had help at this moment in our lives. Our CrossFit coach threw out a challenge: Whole30. Eat whole foods for 30 days, be held accountable and support each other during these hard times... 30 days, how hard can it be? It. Was. Hard! I think giving up sugar cold turkey is what made it hard, but that's exactly what we needed. The weight melted off and we learned the fundamentals of nutrition.
 
 We got into the routine of getting up at 4:30 every morning, CrossFit three times a week and running on the days we weren't working out. This was the biggest change we made to our lives thus far. Definitely wasn't perfect but this set us on the right path. Something as simple as setting an alarm was exactly what we needed!
 
