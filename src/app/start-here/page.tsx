@@ -6,8 +6,8 @@ import { getPage, getRaces, getLessons } from "@/lib/content";
 import { MiniList } from "@/components/Cards";
 
 export const metadata: Metadata = {
-  title: "Start here, if you are 40 and up",
-  description: "How a 42-year-old and a 49-year-old went from an 8-mile fun run to a full Ironman without a coach, in order, with dates, so you can see the ladder we climbed before you pick your own next rung.",
+  title: "Start here",
+  description: "How Michelle, 42, and Jay, 49, stepped outside their comfort zones: a lighthearted suggestion to run the Honolulu Marathon for Jay's 50th birthday, the ladder of races that followed, and what we learned along the way.",
 };
 
 const RUNGS = [
@@ -28,7 +28,7 @@ export default function StartHere() {
 
   return (
     <>
-      <PageHeader eyebrow="Start here" title={page.title} deck={page.deck} />
+      <PageHeader eyebrow="Start here · by Michelle" title={page.title} deck={page.deck} />
       <div className="mx-auto max-w-6xl px-5 sm:px-8 grid gap-12 lg:grid-cols-[1fr_20rem]">
         <div>
           <section className="mb-14">
@@ -45,7 +45,7 @@ export default function StartHere() {
                 </li>
               ))}
             </ol>
-            <p className="mt-4 mono text-xs text-mute">Nine years from rung one to rung seven, and most of them were spent on rung one.</p>
+            <p className="mt-4 mono text-xs text-mute">Earliest to most recent. Nine years from rung one to rung seven, and most of them were spent on rung one.</p>
           </section>
           <Prose>{page.body}</Prose>
         </div>
