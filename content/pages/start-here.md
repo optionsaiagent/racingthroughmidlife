@@ -11,7 +11,7 @@ This is our story: how Michelle, 42, and Jay, 49, decided to step outside their 
 
 Honestly, we're just telling our story, but we hope to inspire others along the way. Racing Through Midlife isn't only for those 40 years old and up, but for anyone wanting to try something new, doesn't know where to start or needs just a little direction and motivation.
 
-We've never used a physical coach and have learned everything the hard way... still learning through trial and error. We're definitely not experts, not doctors, not trainers, just two friends finding our own path and having fun together.
+We've never used a physical coach and have learned everything the hard way... still learning through trial and error. We're definitely not experts, not doctors, not trainers, just a married couple, and best friends, finding our own path and having fun together.
 
 ## What we did
 
