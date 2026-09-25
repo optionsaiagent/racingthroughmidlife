@@ -1,26 +1,35 @@
 import type { Metadata } from "next";
-import { Barlow_Condensed, Newsreader, IBM_Plex_Mono } from "next/font/google";
+import localFont from "next/font/local";
 import "./globals.css";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import { SITE } from "@/lib/site";
 
-const display = Barlow_Condensed({
-  subsets: ["latin"],
-  weight: ["500", "600", "700"],
+// Self-hosted so a production build never depends on fetching Google Fonts.
+// Files are the latin woff2 subsets Google was serving; see src/fonts/README.md.
+const display = localFont({
+  src: [
+    { path: "../fonts/barlow-condensed-500.woff2", weight: "500", style: "normal" },
+    { path: "../fonts/barlow-condensed-600.woff2", weight: "600", style: "normal" },
+    { path: "../fonts/barlow-condensed-700.woff2", weight: "700", style: "normal" },
+  ],
   variable: "--font-display",
   display: "swap",
 });
-const body = Newsreader({
-  subsets: ["latin"],
-  weight: ["400", "500", "600"],
-  style: ["normal", "italic"],
+const body = localFont({
+  src: [
+    { path: "../fonts/newsreader-variable.woff2", weight: "400 600", style: "normal" },
+    { path: "../fonts/newsreader-variable-italic.woff2", weight: "400 600", style: "italic" },
+  ],
   variable: "--font-body",
   display: "swap",
 });
-const mono = IBM_Plex_Mono({
-  subsets: ["latin"],
-  weight: ["400", "500", "600"],
+const mono = localFont({
+  src: [
+    { path: "../fonts/ibm-plex-mono-400.woff2", weight: "400", style: "normal" },
+    { path: "../fonts/ibm-plex-mono-500.woff2", weight: "500", style: "normal" },
+    { path: "../fonts/ibm-plex-mono-600.woff2", weight: "600", style: "normal" },
+  ],
   variable: "--font-mono",
   display: "swap",
 });
