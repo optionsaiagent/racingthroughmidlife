@@ -1,16 +1,16 @@
 ---
-title: 'IRONMAN 70.3 Northern California 2026: ninth and tenth'
+title: 'IRONMAN 70.3 Northern California 2026: the inaugural race on the surface of the sun'
 deck: >-
-  Fifty-minute swims for both of us, so no river current this time, and a
-  1:46:18 run, my fastest 70.3 run on this site. The write-up comes once we've
-  slept.
+  Versailles fell through, the listing for Redding read a high of 115, and I
+  signed us up anyway. It turned out to be one of our favorites, mostly because
+  of the town.
 date: '2026-08-16'
 event: IRONMAN 70.3 Northern California
 location: 'Redding, California'
 distance: 1.2 mi swim / 56 mi bike / 13.1 mi run
 discipline: tri
 athletes: Both
-author: Jay
+author: Michelle
 result: 'Jay 5:37:38 · Michelle 7:03:02'
 tags:
   - '70.3'
@@ -47,6 +47,8 @@ context:
   - travel_race
 contextNote: 'Rebuild year, and the first mainland race after it.'
 ---
-This is the most recent race in the log, three weeks before we rebuilt this site, which is why the official result is on the card and the write-up isn't here yet. It's coming, along with the video, once we've slept.
+Our goal this year was to complete three 70.3s, and by the spring we had them lined up: [Honu](/races/honu-70-3-2026) at the end of May, Versailles in July, and a third one in August. That third one was an open question for a while, and then it caught my eye: Redding. I picked it in March or April, the original description read a high of 115 degrees, and who wouldn't want to race in those conditions, besides Jay? It was the inaugural running, the first year the town had the race at all.
 
-What the card says in the meantime: fifty-minute swims for both of us, which means no river current this time, and a run where I went 1:46:18, my fastest 70.3 run anywhere on this site. Michelle went 2:32 on the run after 3:28 on the bike and finished in 7:03:02. We were ninth and tenth in the age groups, in a mainland August that was, for once, cooler than home, and the video will fill in the rest.
+This race was one of our favorites. The lake was beautiful, the scenic ride was a net negative in elevation, and the run was shaded and very much supported. What made it stand out, though, was that the town showed up. The cheering, the volunteers, the energy, I can't even describe what it felt like except to say that I was a rock star!
+
+The card has the rest of it. We both swam about fifty minutes, so there was no river current doing the work for us the way it did at [Augusta](/races/augusta-70-3-2025), Jay finished in 5:37:38 and I finished in 7:03:02, and we were ninth and tenth in our age groups. Versailles had been cancelled in July by then, so this ended up being our second 70.3 of the year instead of our third, and the one we found to replace it was [Tri-Cities](/races/tri-cities-70-3-2026) in September. Jay's 1:46:18 here was the fastest 70.3 run on this site when he ran it, and it stood for five weeks.

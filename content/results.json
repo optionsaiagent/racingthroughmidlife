@@ -1816,5 +1816,39 @@
         "time": "2:27:07"
       }
     }
+  },
+  {
+    "event": "2026 IRONMAN 70.3 Washington Tri-Cities",
+    "date": "2026-09-20",
+    "source": "ironman",
+    "url": "https://labs-v2.competitor.com/results/event/",
+    "athletes": {
+      "jay": {
+        "time": "5:11:41",
+        "place": 250,
+        "agegroup": "M50-54",
+        "agrank": 17,
+        "gender_rank": 219,
+        "swim": "0:27:15",
+        "t1": "0:06:18",
+        "bike": "2:52:27",
+        "t2": "0:04:02",
+        "run": "1:41:39",
+        "bib": 91
+      },
+      "michelle": {
+        "time": "6:47:51",
+        "place": 1408,
+        "agegroup": "F45-49",
+        "agrank": 43,
+        "gender_rank": 389,
+        "swim": "0:28:33",
+        "t1": "0:06:30",
+        "bike": "3:47:29",
+        "t2": "0:05:12",
+        "run": "2:20:07",
+        "bib": 499
+      }
+    }
   }
 ]
