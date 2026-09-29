@@ -3,12 +3,12 @@
 import { useState } from "react";
 
 /** Lite embed: a thumbnail until clicked, then the real player. No third-party script until the reader asks for it. */
-export default function YouTube({ id, title, className = "" }: { id: string; title: string; className?: string }) {
+export default function YouTube({ id, title, className = "", vertical = false }: { id: string; title: string; className?: string; vertical?: boolean }) {
   const [play, setPlay] = useState(false);
   const thumb = `https://i.ytimg.com/vi/${id}/hqdefault.jpg`;
 
   return (
-    <div className={`relative aspect-video w-full overflow-hidden rounded-sm bg-ink ${className}`}>
+    <div className={`relative ${vertical ? "aspect-[9/16] w-full max-w-xs mx-auto" : "aspect-video w-full"} overflow-hidden rounded-sm bg-ink ${className}`}>
       {play ? (
         <iframe
           className="absolute inset-0 h-full w-full"
@@ -35,7 +35,7 @@ export default function YouTube({ id, title, className = "" }: { id: string; tit
           <span className="absolute left-4 bottom-4 right-4 flex items-end justify-between gap-4">
             <span className="text-foam">
               <span className="eyebrow !text-dawn block">Watch</span>
-              <span className="display text-xl sm:text-2xl block text-foam">{title}</span>
+              <span className={`display block text-foam ${vertical ? "text-lg" : "text-xl sm:text-2xl"}`}>{title}</span>
             </span>
             <span className="shrink-0 grid place-items-center h-12 w-12 rounded-full bg-buoy text-foam transition group-hover:scale-105">
               <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">

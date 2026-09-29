@@ -137,7 +137,7 @@ export default function Home() {
             <p className="eyebrow">The camera</p>
             <h2 className="display text-4xl sm:text-5xl mt-2">Latest video</h2>
             <div className="mt-6">
-              <YouTube id={latestVideo.id} title={latestVideo.title} />
+              <YouTube id={latestVideo.id} title={latestVideo.title} vertical={latestVideo.vertical} />
             </div>
             <p className="mt-4 text-sm text-ink-soft max-w-xl">
               The channel is the camera and the site is the log. The weekly videos, the race recaps, and the occasional blooper reel are all at{" "}

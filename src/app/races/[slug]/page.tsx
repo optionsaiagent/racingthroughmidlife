@@ -70,7 +70,7 @@ export default async function RacePage({ params }: { params: Promise<{ slug: str
 
       <div className="mx-auto max-w-6xl px-5 sm:px-8 mt-10 grid gap-10 lg:grid-cols-[1fr_20rem]">
         <div>
-          {race.video ? <YouTube id={race.video} title={race.title} /> : null}
+          {race.video ? <YouTube id={race.video} title={race.title} vertical={race.videoVertical} /> : null}
           <div className="mt-10">
             <Prose>{race.body}</Prose>
           </div>

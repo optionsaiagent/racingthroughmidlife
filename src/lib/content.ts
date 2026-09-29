@@ -33,6 +33,7 @@ export interface Base {
   datePrecision?: "day" | "month" | "year";
   tags?: string[];
   video?: string; // YouTube ID
+  videoVertical?: boolean; // a YouTube Short, 9:16
   image?: string;
   imageAlt?: string;
   author?: "Jay" | "Michelle" | "Both";

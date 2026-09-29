@@ -1,9 +1,9 @@
 ---
 title: 'IRONMAN 70.3 Northern California 2026: the inaugural race on the surface of the sun'
 deck: >-
-  Versailles fell through, the listing for Redding read a high of 115, and I
-  signed us up anyway. It turned out to be one of our favorites, mostly because
-  of the town.
+  I picked this one back in the spring, when the listing read a high of 115
+  degrees and it was the third race of the summer. It turned out to be one of
+  our favorites, mostly because of the town.
 date: '2026-08-16'
 event: IRONMAN 70.3 Northern California
 location: 'Redding, California'
@@ -11,6 +11,8 @@ distance: 1.2 mi swim / 56 mi bike / 13.1 mi run
 discipline: tri
 athletes: Both
 author: Michelle
+video: byDgNpPXQHc
+videoVertical: true
 result: 'Jay 5:37:38 · Michelle 7:03:02'
 tags:
   - '70.3'

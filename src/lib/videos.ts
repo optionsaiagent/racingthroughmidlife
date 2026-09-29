@@ -10,6 +10,7 @@ export interface Video {
   race?: string; // slug of the race report, if one exists
   note?: string; // slug of a field note, if one exists
   views?: number;
+  vertical?: boolean; // a YouTube Short, 9:16
 }
 
 export const VIDEOS: Video[] = raw as Video[];

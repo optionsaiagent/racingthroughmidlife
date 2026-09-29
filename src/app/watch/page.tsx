@@ -57,7 +57,7 @@ export default function WatchPage() {
         <section className="mb-16">
           <p className="eyebrow buoy">Latest</p>
           <div className="mt-3 max-w-3xl">
-            <YouTube id={latest.id} title={latest.title} />
+            <YouTube id={latest.id} title={latest.title} vertical={latest.vertical} />
           </div>
         </section>
 
