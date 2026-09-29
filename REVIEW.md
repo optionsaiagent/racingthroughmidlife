@@ -113,7 +113,7 @@ Every race-flagged or race-named activity on both Strava accounts since 2022 was
 
 Questions this raised:
 - Michelle's Nashville Sprint says it was for a Trifecta, which needs a Beast (21K) in the same year. Where was the Beast? It isn't on Strava under any race-like name.
-- "Versailles 70.3 IM Route," July 12, 2026, 56 miles, both of you. A ride of the IRONMAN 70.3 Versailles course on a trip? It isn't on the site as anything.
+- ~~"Versailles 70.3 IM Route," July 12, 2026~~ **Answered (Sept 28, 2026).** IRONMAN 70.3 Versailles was canceled over the heat; you rode the bike course on race morning and filmed it. It is a field note with the Short, not a ledger entry.
 - Akahai 2023: Michelle's time, if she ran it (she wasn't on Strava yet).
 - Great Aloha Run 2026 (Feb 16): not on either Strava, so I've said you didn't run it and the race said goodbye after that edition.
 - IRONMAN 70.3 Northern California is in Redding; the page now says so.

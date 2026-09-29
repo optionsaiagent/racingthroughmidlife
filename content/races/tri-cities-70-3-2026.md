@@ -47,7 +47,7 @@ context:
   - travel_race
 contextNote: 'The race we signed up for after Versailles was cancelled.'
 ---
-Versailles was supposed to be our July race, and when the French authorities cancelled it over the heat, to say that was heart-breaking is an understatement. We came home and went looking for something to put in its place, which turned out to be Tri-Cities in September, and signing up for it almost made the cancellation acceptable. Then the race itself was fun, which isn't a word I use about every 70.3. The swim went down river and it was chilly, the bike course was a challenging one, and the run was an out and back that I enjoyed the whole way.
+Versailles was supposed to be our July race, and when the French authorities cancelled it over the heat, to say that was heart-breaking is an understatement. We [rode the bike course anyway](/notes/the-versailles-bike-course) on the morning we would have raced. We came home and went looking for something to put in its place, which turned out to be Tri-Cities in September, and signing up for it almost made the cancellation acceptable. Then the race itself was fun, which isn't a word I use about every 70.3. The swim went down river and it was chilly, the bike course was a challenging one, and the run was an out and back that I enjoyed the whole way.
 
 Jay had the good day of the two of us. He finished in 5:11:41, which is his fastest 70.3 anywhere and about four and a half minutes quicker than the 5:16:17 he did at [Augusta](/races/augusta-70-3-2025) last September, and he ran 1:41:39 off the bike, the fastest 70.3 run he has on this site.
 

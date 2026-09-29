@@ -49,7 +49,7 @@ context:
   - travel_race
 contextNote: 'Rebuild year, and the first mainland race after it.'
 ---
-Our goal this year was to complete three 70.3s, and by the spring we had them lined up: [Honu](/races/honu-70-3-2026) at the end of May, Versailles in July, and a third one in August. That third one was an open question for a while, and then it caught my eye: Redding. I picked it in March or April, the original description read a high of 115 degrees, and who wouldn't want to race in those conditions, besides Jay? It was the inaugural running, the first year the town had the race at all.
+Our goal this year was to complete three 70.3s, and by the spring we had them lined up: [Honu](/races/honu-70-3-2026) at the end of May, Versailles in July (which was [canceled over the heat](/notes/the-versailles-bike-course)), and a third one in August. That third one was an open question for a while, and then it caught my eye: Redding. I picked it in March or April, the original description read a high of 115 degrees, and who wouldn't want to race in those conditions, besides Jay? It was the inaugural running, the first year the town had the race at all.
 
 This race was one of our favorites. The lake was beautiful, the scenic ride was a net negative in elevation, and the run was shaded and very much supported. What made it stand out, though, was that the town showed up. The cheering, the volunteers, the energy, I can't even describe what it felt like except to say that I was a rock star!
 

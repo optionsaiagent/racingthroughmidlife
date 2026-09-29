@@ -41,7 +41,7 @@ export default async function NotePage({ params }: { params: Promise<{ slug: str
       </header>
       <div className="mt-10 grid gap-10 lg:grid-cols-[1fr_20rem]">
         <div>
-          {note.video ? <YouTube id={note.video} title={note.title} className="mb-10" /> : null}
+          {note.video ? <YouTube id={note.video} title={note.title} className="mb-10" vertical={note.videoVertical} /> : null}
           <Prose>{note.body}</Prose>
           {videos.length ? (
             <section className="mt-12 max-w-[66ch]">
