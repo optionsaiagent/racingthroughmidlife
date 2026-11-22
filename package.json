@@ -6,26 +6,25 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
+    "lint": "eslint .",
     "prebuild": "python3 scripts/lint-prose.py || true",
     "lint:prose": "python3 scripts/lint-prose.py --strict"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
-    "next": "^15.5.28",
+    "next": "16.4.6",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
     "react-markdown": "^10.1.0",
     "remark-gfm": "^4.0.1"
   },
   "devDependencies": {
-    "@eslint/eslintrc": "^3.3.7",
     "@tailwindcss/postcss": "^4.1.12",
     "@types/node": "^22",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "^15.5.28",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.4.6",
     "tailwindcss": "^4.1.12",
     "typescript": "^5"
   }
